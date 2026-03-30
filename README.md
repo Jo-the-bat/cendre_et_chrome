@@ -29,7 +29,7 @@ C'est dans ce chaos que le **Consortium d'Edna** opère — une guilde de chasse
 
 Les joueurs commencent comme de simples chasseurs de primes au service du Consortium. Mais la cible qu'on va leur confier va les entraîner au cœur d'un conflit qui dépasse largement une simple prime.
 
-**Prémisse :** Un ancien administrateur séparatiste Muun prépare un coup d'état sur un monde minier pour le rallier à la New Separatist Union. Un seigneur de guerre impérial veut l'en empêcher et engage — via des intermédiaires — les chasseurs de primes du Consortium d'Edna pour le retrouver. Les joueurs découvriront progressivement que rien n'est noir ou blanc, et devront choisir leur camp.
+**Prémisse :** Un ancien administrateur séparatiste Muun prépare un coup d'état sur un monde minier pour le rallier à la Nouvelle Union Séparatiste. Un seigneur de guerre impérial veut l'en empêcher et engage — via des intermédiaires — les chasseurs de primes du Consortium d'Edna pour le retrouver. Les joueurs découvriront progressivement que rien n'est noir ou blanc, et devront choisir leur camp.
 
 ---
 
@@ -149,11 +149,11 @@ La civilisation se concentre dans les villes minières construites au fond des c
 
 Pendant vingt ans sous l'Empire, il a observé, accumulé des contacts, et discrètement racheté des dettes et des faveurs. Après Endor, quand le chaos s'est installé, il a émergé comme le seul homme sur Murkhana qui savait où était l'argent, qui devait quoi à qui, et comment faire fonctionner les réseaux commerciaux que l'Empire avait laissés en ruine.
 
-**Plan :** Un soulèvement coordonné sur Kothara pour renverser le gouverneur fantoche du seigneur de guerre et rattacher le système à la New Separatist Union. Il a engagé des mercenaires, réactivé d'anciens droïdes de combat, et rallié les mineurs mécontents.
+**Plan :** Un soulèvement coordonné sur Kothara pour renverser le gouverneur fantoche du seigneur de guerre et rattacher le système à la Nouvelle Union Séparatiste. Il a engagé des mercenaires, réactivé d'anciens droïdes de combat, et rallié les mineurs mécontents.
 
 **Personnalité :** Grand, mince, calme. Il parle doucement, avec une précision mathématique. Il ne menace jamais — il explique calmement pourquoi vous avez déjà perdu. Il a un vrai charisme intellectuel, et il croit sincèrement en sa cause. Ce n'est pas un méchant caricatural : c'est un idéaliste pragmatique.
 
-**L'ambiguïté morale :** Son coup d'état pourrait sincèrement libérer Kothara de l'oppression du seigneur de guerre. Mais les moyens sont discutables — mercenaires, droïdes de combat, pertes civiles "acceptables". Et la NSU elle-même est-elle vraiment démocratique, ou juste un autre pouvoir lointain ?
+**L'ambiguïté morale :** Son coup d'état pourrait sincèrement libérer Kothara de l'oppression du seigneur de guerre. Mais les moyens sont discutables — mercenaires, droïdes de combat, pertes civiles "acceptables". Et la NUS elle-même est-elle vraiment démocratique, ou juste un autre pouvoir lointain ?
 
 ---
 
@@ -222,7 +222,7 @@ Les joueurs pourront, au fil de la campagne, choisir de s'allier à l'un de ces 
 | Camp | Leader | Philosophie | Avantage | Prix |
 |---|---|---|---|---|
 | **Seigneur de guerre** | Amiral Rynn | L'ordre par la force | Ressources militaires, protection | Oppression, compromission morale |
-| **Séparatiste / NSU** | Sorin Maldrek | Indépendance par la sécession | Cause juste, soutien populaire | Moyens discutables, incertitude |
+| **Séparatiste / NUS** | Sorin Maldrek | Indépendance par la sécession | Cause juste, soutien populaire | Moyens discutables, incertitude |
 | **Nouvelle République** | Sénateur Torvin | Légitimité démocratique | Légalité, diplomatie | Lenteur, promesses creuses |
 | **Les Hutts** | Gorba Jahibba Tiure | Le profit avant tout | Argent, réseau, pragmatisme | Corruption, servitude déguisée |
 | **Autodétermination** | Le peuple de Kothara | Liberté totale | Vraie liberté, fierté | Aucun allié puissant, tout à construire |
@@ -261,7 +261,7 @@ Les joueurs localisent Sorin Maldrek sur Kothara, mais découvrent qu'il est au 
 
 #### Révélations clés
 - Le commanditaire de la prime est l'Amiral Rynn, un seigneur de guerre impérial
-- Sorin prépare un coup d'état pour rallier Kothara à la New Separatist Union
+- Sorin prépare un coup d'état pour rallier Kothara à la Nouvelle Union Séparatiste
 - Gorba le Hutt vend des armes aux deux camps et a un espion dans le Consortium
 - Un émissaire de la Nouvelle République (Torvin) prend contact avec les joueurs
 
@@ -287,7 +287,7 @@ Le coup d'état de Sorin est lancé en avance — soit parce que les joueurs l'o
 
 **Camp Rynn :** Les joueurs aident à écraser la rébellion, mais découvrent que Rynn prévoit de faire un exemple en bombardant les quartiers civils. Peuvent-ils la modérer de l'intérieur ?
 
-**Camp Sorin :** Le coup d'état réussit, mais la NSU envoie ses propres "conseillers" qui ressemblent beaucoup à des occupants. Sorin perd-il le contrôle de son propre mouvement ?
+**Camp Sorin :** Le coup d'état réussit, mais la NUS envoie ses propres "conseillers" qui ressemblent beaucoup à des occupants. Sorin perd-il le contrôle de son propre mouvement ?
 
 **Camp République :** Torvin obtient un mandat diplomatique, mais les négociations sont lentes et fragiles. Quelqu'un sabote le processus — qui ?
 
@@ -339,7 +339,7 @@ Des PNJ locaux récurrents pour que les joueurs s'attachent au monde et que leur
 - Un marchand qui les arnaque
 - Un médecin de camp qui soigne tout le monde sans distinction de camp
 
-### La New Separatist Union
+### La Nouvelle Union Séparatiste
 Gouvernement galactique ambitieux formé vers 5 ABY dans les territoires où le contrôle de la Nouvelle République est purement théorique. Basée sur les idéaux de la Confédération des Systèmes Indépendants — égale représentation, liberté, gouvernement décentralisé — mais sans la domination corporatiste. Principalement dans la Bordure Extérieure. En 9 ABY, c'est un acteur politique légitime qui inquiétait la chancelière Mon Mothma elle-même.
 
 ---
