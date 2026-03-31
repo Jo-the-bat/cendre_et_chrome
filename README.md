@@ -45,7 +45,7 @@ Ces systèmes existent dans le secteur et peuvent être utilisés si la campagne
 
 | Système | Grille | Notes |
 |---|---|---|
-| **Adega** | R-6 | Contient Ossus (temple Jedi de Luke Skywalker). Cristaux kyber Adegan. Lieu sacré Jedi — les factions n'osent pas trop s'en approcher. |
+| **Adega** | R-6 | Contient Ossus (temple Jedi de Luke Skywalker). Cristaux kyber Adegan. Protégé par l'Accord d'Ossus — la raison pour laquelle Hopner est tolérée par la République. Lieu sacré, zone neutre de facto. |
 | **Kronk** | R-6 | Planète terrestre liée à l'histoire Jedi (sabbatique de Maître Yaddle). Peu documenté, utilisable librement. |
 | **Repea** | R-7 | Nom uniquement. Potentiel : monde agricole, relais commercial. |
 | **Teedio** | R-7 | Nom uniquement. Potentiel : station de ravitaillement, monde mineur. |
@@ -55,6 +55,25 @@ Ces systèmes existent dans le secteur et peuvent être utilisés si la campagne
 ### Phénomènes notables
 
 **Le Cron Drift** — Un immense champ d'astéroïdes dense qui occupe une grande partie du secteur, résidu d'une supernova antique. Proche de la Route Commerciale Perlemienne et du Tion Cluster. Rempli d'anomalies gravitationnelles, d'astéroïdes et de trous noirs. Parfait pour : caches de pirates, embuscades, navigation dangereuse, ou planque secrète accessible uniquement par un pilote expérimenté.
+
+### L'Accord d'Ossus — Le pacte silencieux
+
+C'est le secret le mieux gardé du secteur Auril, et la clé pour comprendre pourquoi l'Amiral Hopner est toujours en place malgré ses forces modestes.
+
+**Les faits :** Le système Adega abrite Ossus, où Luke Skywalker a établi son temple Jedi — l'un des lieux les plus importants de la galaxie pour la Nouvelle République et l'Ordre Jedi renaissant. Luke a besoin de paix et de stabilité dans le secteur pour former ses apprentis. L'Amiral Hopner le sait.
+
+**Le deal :** Un accord tacite, jamais mis par écrit, négocié via des intermédiaires diplomatiques et militaires. En substance :
+- **Hopner s'engage** à ne jamais menacer le système Adega, à ne pas interférer avec les opérations Jedi, et à maintenir les routes hyperspatiales vers Ossus ouvertes et sûres.
+- **La Nouvelle République s'engage** à ne pas envoyer de forces militaires contre Hopner dans le secteur Auril, à ne pas soutenir activement les mouvements de résistance sur ses mondes, et à la laisser gouverner "son" territoire en paix.
+
+**Les conséquences :**
+- Hopner gagne une **légitimité de facto**. Elle n'est pas juste un seigneur de guerre — elle est un seigneur de guerre que la République tolère. Ça la rend bien plus dangereuse et bien plus stable qu'un simple remnant impérial.
+- La Nouvelle République **sacrifie la liberté des peuples d'Arrakha, de Forscan Prime et des autres mondes du secteur** pour protéger Ossus. C'est de la realpolitik cynique — exactement le genre de compromis qui a miné l'ancienne République.
+- Le sénateur **Linus Torv** connaît l'existence de cet accord, et c'est ce qui le ronge. Il ne peut pas envoyer de troupes, non pas parce que le Sénat est trop lent, mais parce que le Sénat a *choisi* de ne pas intervenir. Son idéalisme se heurte au pragmatisme de sa propre institution.
+- **Hashk Ellor** utilise cet accord comme argument de recrutement : *"La République vous a vendus. Elle a échangé votre liberté contre la tranquillité d'un temple Jedi. Vous n'existez pas à leurs yeux."* Et il a raison.
+- **Gekko le Hutt** connaît l'accord et s'en sert comme monnaie d'échange — il menace de le rendre public si l'une des parties lui déplaît.
+
+**Pour les joueurs :** La révélation de cet accord est un moment clé de la campagne (Acte 2 ou 3). Quand les joueurs découvrent que la République les a abandonnés non par incompétence mais par *choix*, ça change tout. Le camp "Nouvelle République" devient soudain beaucoup moins séduisant — à moins que les joueurs ne décident de forcer la République à rompre l'accord et à intervenir, ce qui mettrait le temple de Luke en danger.
 
 ---
 
@@ -258,6 +277,8 @@ Pendant vingt ans sous l'Empire, il a observé, accumulé des contacts, et discr
 
 Elle se considère non pas comme une tyran, mais comme la seule adulte responsable dans la pièce. Sans elle, le secteur sombrerait dans le chaos et la piraterie. Elle a raison, en partie — sa flotte maintient les routes commerciales ouvertes et protège les convois. Mais son "ordre" repose sur des taxes écrasantes, la conscription forcée, et l'élimination silencieuse de toute opposition politique.
 
+Son coup de maître stratégique : l'**Accord d'Ossus**. Hopner a compris que la proximité du temple Jedi de Luke Skywalker sur Ossus était sa meilleure assurance-vie. En garantissant la sécurité du système Adega, elle a obtenu un pacte tacite de non-agression avec la Nouvelle République. C'est ce qui la rend si difficile à déloger — attaquer Hopner, c'est risquer de briser l'accord et de mettre le temple de Luke en danger.
+
 **Forces :**
 - 1 Destroyer Stellaire de classe Impérial — le *Verdict Gris* (vaisseau amiral)
 - 3 frégates
@@ -301,9 +322,11 @@ La Nouvelle République n'a pas de présence militaire dans le secteur Auril. El
 - **Rôle :** Sénateur de la commission des Territoires Extérieurs
 - **Référence :** *Linus Torvalds* — créateur de Linux, idéaliste qui croit en un système ouvert et libre, mais qui se heurte à la réalité des compromis. Un champion de la liberté dont les méthodes peuvent frustrer.
 
-**Personnalité :** Un idéaliste fatigué. Il croit en la Nouvelle République, mais il sait que le Sénat ne votera jamais l'envoi de troupes dans un secteur aussi lointain. Il cherche désespérément des agents locaux — des gens sur le terrain qui pourraient stabiliser la situation sans intervention militaire officielle.
+**Personnalité :** Un idéaliste brisé par le pragmatisme de sa propre institution. Linus Torv croit sincèrement en la Nouvelle République — mais il connaît l'existence de l'Accord d'Ossus, et c'est ce qui le détruit de l'intérieur. Il sait que le Sénat n'enverra pas de troupes dans le secteur Auril, non pas par lenteur ou indifférence, mais parce qu'il a *choisi* de ne pas intervenir pour protéger le temple Jedi de Luke sur Ossus. La liberté des peuples d'Arrakha et de Forscan Prime a été sacrifiée sur l'autel de la realpolitik.
 
-**Rôle dans la campagne :** Apparaît dans l'Acte 2 ou 3, offrant aux joueurs une alternative légitime mais frustrante — la voie diplomatique, lente et incertaine.
+Torv cherche désespérément des agents locaux — des gens sur le terrain qui pourraient changer la donne sans intervention militaire officielle, et ainsi forcer la République à reconsidérer sa position. Les joueurs pourraient devenir exactement ça.
+
+**Rôle dans la campagne :** Apparaît dans l'Acte 2 ou 3, offrant aux joueurs une alternative légitime mais frustrante. Il est honnête sur les limites de ce qu'il peut offrir — et si les joueurs le poussent, il finira par leur révéler l'existence de l'Accord d'Ossus. C'est un moment de bascule potentiel pour la campagne.
 
 ---
 
@@ -315,7 +338,7 @@ Les joueurs pourront, au fil de la campagne, choisir de s'allier à l'un de ces 
 |---|---|---|---|---|
 | **Seigneur de guerre** | Amiral Hopner | L'ordre par la force | Ressources militaires, protection | Oppression, compromission morale |
 | **Séparatiste / NUS** | Hashk Ellor | Indépendance par la sécession | Cause juste, soutien populaire | Moyens discutables, incertitude |
-| **Nouvelle République** | Sénateur Linus Torv | Légitimité démocratique | Légalité, diplomatie | Lenteur, promesses creuses |
+| **Nouvelle République** | Sénateur Linus Torv | Légitimité démocratique | Légalité, diplomatie | L'Accord d'Ossus — la République a choisi de ne pas intervenir |
 | **Les Hutts** | Gekko Grancha Tiure | Le profit avant tout | Argent, réseau, pragmatisme | Corruption, servitude déguisée |
 | **Autodétermination** | Le peuple d'Arrakha | Liberté totale | Vraie liberté, fierté | Aucun allié puissant, tout à construire |
 
@@ -356,6 +379,7 @@ Les joueurs localisent Hashk Ellor sur Arrakha, mais découvrent qu'il est au c�
 - Hashk prépare un coup d'état pour rallier Arrakha à la Nouvelle Union Séparatiste
 - Gekko le Hutt vend des armes aux deux camps et a un espion dans le Consortium
 - Un émissaire de la Nouvelle République (Linus Torv) prend contact avec les joueurs
+- **L'Accord d'Ossus** — La Nouvelle République tolère Hopner en échange de la protection du temple Jedi de Luke. Les peuples du secteur ont été sacrifiés par la realpolitik. Cette révélation peut venir de Linus Torv (s'il fait confiance aux joueurs), de Hashk (comme argument de recrutement), ou de Gekko (qui la vend comme information).
 
 #### Éléments clés
 - **Infiltration** dans les cercles de Hashk (déguisements, fausses identités)
@@ -499,7 +523,20 @@ C'est le thème le plus ambitieux de la campagne. Il émerge dans l'Acte 4, quan
 
 Le fil rouge : **Il n'y a pas de bonne réponse.** Les joueurs doivent naviguer ces tensions sans solution parfaite. C'est ce qui rend l'épilogue de la campagne mémorable — pas la bataille finale, mais les choix impossibles qui suivent.
 
-### 5. Tableau des thèmes par acte
+### 5. Le prix de la paix — L'Accord d'Ossus
+
+*Inspiration : Les accords de paix cyniques de DS9, la politique de non-intervention dans The Expanse*
+
+L'Accord d'Ossus est le socle géopolitique du statu quo — et sa révélation est un moment de bascule pour la campagne. La Nouvelle République, censée être le "bon" camp, a sciemment sacrifié la liberté de millions de personnes pour protéger un temple Jedi.
+
+- **Acte 1 :** Les joueurs ne savent rien. La République est un idéal lointain.
+- **Acte 2 :** L'Accord est révélé — par Linus Torv (confession), par Hashk (propagande), ou par Gekko (monnayage). L'idéalisme des joueurs en prend un coup.
+- **Acte 3 :** L'Accord devient un outil. Hopner le brandit pour se justifier ("Même la République reconnaît mon autorité"). Hashk l'utilise pour recruter ("Ils vous ont vendus"). Gekko menace de le rendre public.
+- **Acte 4 :** La question ultime — les joueurs peuvent-ils forcer la République à rompre l'accord ? Et si oui, à quel prix ? Menacer le temple de Luke pour libérer un secteur, c'est un choix que personne ne veut faire.
+
+Le fil rouge : **Il n'y a pas de camp innocent.** Même la République a du sang sur les mains — pas par malveillance, mais par calcul. C'est le genre de vérité qui transforme des chasseurs de primes en acteurs politiques.
+
+### 6. Tableau des thèmes par acte
 
 | Thème | Acte 1 | Acte 2 | Acte 3 | Acte 4 |
 |---|---|---|---|---|
@@ -507,6 +544,7 @@ Le fil rouge : **Il n'y a pas de bonne réponse.** Les joueurs doivent naviguer 
 | **L'ombre de la NUS** | Invisible | Premiers "conseillers" | Infiltration des institutions | Révélation de l'agenda caché |
 | **Le maître du chaos** | Gekko semble inoffensif | Gekko est partout | Gekko révèle ses cartes | Gekko tente de survivre |
 | **L'après-libération** | Invisible | Graines plantées | Les fractures apparaissent | Explosion — les joueurs arbitrent |
+| **L'Accord d'Ossus** | Invisible | Révélation — choc moral | Arme politique pour tous les camps | Rompre l'accord ? À quel prix ? |
 
 ---
 
