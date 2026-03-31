@@ -12,12 +12,49 @@
 
 ## TABLE DES MATIÈRES
 
-1. [Le Contexte](#le-contexte)
-2. [Les Lieux](#les-lieux)
-3. [Les Factions & PNJ Principaux](#les-factions--pnj-principaux)
-4. [Les Cinq Camps](#les-cinq-camps)
-5. [Structure en Actes](#structure-en-actes)
-6. [Éléments Récurrents](#éléments-récurrents)
+1. [Géographie du Secteur Auril](#géographie-du-secteur-auril)
+2. [Le Contexte](#le-contexte)
+3. [Les Lieux](#les-lieux)
+4. [Les Factions & PNJ Principaux](#les-factions--pnj-principaux)
+5. [Les Cinq Camps](#les-cinq-camps)
+6. [Structure en Actes](#structure-en-actes)
+7. [Éléments Récurrents](#éléments-récurrents)
+8. [Thèmes & Fils Rouges](#thèmes--fils-rouges)
+
+---
+
+## GÉOGRAPHIE DU SECTEUR AURIL
+
+Le secteur Auril est situé dans la Bordure Extérieure, aux portes du Tion Cluster et de la Route Commerciale Perlemienne. C'est un secteur marqué par l'héritage séparatiste de la Guerre des Clones, les cicatrices d'une supernova antique, et l'absence quasi totale d'autorité centrale en 9 ABY.
+
+### Systèmes actifs dans la campagne
+
+**Système Murkhana** — Le cœur de la campagne. Situé près du Tion Cluster. Contient :
+- **Murkhana** (1ère planète) — Ancien bastion séparatiste dévasté, repaire criminel. Siège du Consortium d'Edna et base arrière de Hashk Ellor.
+- **Arrakha** (2ème planète) — Monde minier désertique riche en doonium. Occupé par les forces de l'Amiral Hopner. Théâtre du coup d'état. Trajet court entre les deux planètes (quelques heures en sous-lumière, ou un micro-saut en hyperespace).
+
+**Système Fial** — En amont du système Murkhana, loin des grandes routes hyperspatiales. Aucune présence militaire impériale. Contient :
+- **Le Moria** — Station spatiale de Gekko le Hutt, en orbite dans ce système. L'absence d'autorité en fait un havre pour le commerce illégal et les négociations entre factions.
+
+**Système Forscan** (Grille R-7) — Capitale sectorielle de l'Amiral Hopner. Contient :
+- **Forscan Prime** — Monde tempéré avec une population civile modeste (~5 millions), écrasé par une base militaire impériale disproportionnée. Siège du pouvoir de l'Amiral Hopner. Le *Verdict Gris* y est basé mais se déploie dans le secteur selon les besoins.
+
+### Systèmes en fond de carte (canon, non développés)
+
+Ces systèmes existent dans le secteur et peuvent être utilisés si la campagne le nécessite. Ils sont tous canon (recanonisés via "Star Systems of the Galaxy", StarWars.com, juin 2025) mais quasiment vierges de contenu officiel — liberté totale.
+
+| Système | Grille | Notes |
+|---|---|---|
+| **Adega** | R-6 | Contient Ossus (temple Jedi de Luke Skywalker). Cristaux kyber Adegan. Lieu sacré Jedi — les factions n'osent pas trop s'en approcher. |
+| **Kronk** | R-6 | Planète terrestre liée à l'histoire Jedi (sabbatique de Maître Yaddle). Peu documenté, utilisable librement. |
+| **Repea** | R-7 | Nom uniquement. Potentiel : monde agricole, relais commercial. |
+| **Teedio** | R-7 | Nom uniquement. Potentiel : station de ravitaillement, monde mineur. |
+| **Phinel's Folly** | R-7 | Nom uniquement. Le nom suggère un échec colonial ou une entreprise ratée — bon potentiel narratif. |
+| **Bal'demnic** | R-7 | Nom uniquement en canon. En Legends : monde tropical avec du cortosis (métal anti-sabre laser) et des reptiliens Kon'me. Utilisable si on veut ajouter du contenu exotique. |
+
+### Phénomènes notables
+
+**Le Cron Drift** — Un immense champ d'astéroïdes dense qui occupe une grande partie du secteur, résidu d'une supernova antique. Proche de la Route Commerciale Perlemienne et du Tion Cluster. Rempli d'anomalies gravitationnelles, d'astéroïdes et de trous noirs. Parfait pour : caches de pirates, embuscades, navigation dangereuse, ou planque secrète accessible uniquement par un pilote expérimenté.
 
 ---
 
@@ -40,7 +77,7 @@ Les joueurs commencent comme de simples chasseurs de primes au service du Consor
 > *"C'était beau, autrefois. De vraies attractions touristiques — plages noires, immenses océans, récifs coralliens extraordinaires. J'ai vu des holos de ce à quoi ça ressemblait avant que la République ne bombarde tout depuis l'orbite pendant la Guerre des Clones."*
 
 **Type :** Monde urbain industriel dévasté, Bordure Extérieure  
-**Système :** Système Murkhana, Secteur Auril  
+**Système :** Système Murkhana (1ère planète), Secteur Auril, près du Tion Cluster  
 **Population :** Mélange cosmopolite — Koorivar, Aqualish, Gossams, Sugis, Gran, Chagrians, humains  
 **Gouvernement :** Aucun de facto — anarchie contrôlée par les guildes criminelles
 
@@ -69,9 +106,9 @@ Sous l'Empire, des sanctions brutales ont empêché toute reconstruction. La pop
 ### Arrakha — "Le Monde de Poussière" *(monde original)*
 
 **Type :** Planète minière désertique, Bordure Extérieure  
-**Système :** Système Arrakha, Secteur Auril (voisin de Murkhana)  
+**Système :** Système Murkhana (2ème planète), Secteur Auril  
 **Population :** ~2 millions — Mineurs, colons, anciens réfugiés de guerre (humains, Nikto, Weequay, Ugnaughts)  
-**Gouvernement :** Gouverneur fantoche nommé par l'Amiral Rynn  
+**Gouvernement :** Gouverneur fantoche nommé par l'Amiral Hopner  
 **Ressources :** Doonium (métal pour coques de vaisseaux), dolovite — stratégiquement vital  
 **Référence :** *Arrakis* (Dune, Frank Herbert) — planète désertique dont la ressource vitale (l'épice/le doonium) est convoitée par toutes les factions de la galaxie.
 
@@ -83,7 +120,7 @@ La civilisation se concentre dans les villes minières construites au fond des c
 
 **Rôle dans la campagne :**
 - Théâtre du coup d'état de Hashk Ellor
-- Monde occupé par les forces de l'Amiral Rynn
+- Monde occupé par les forces de l'Amiral Hopner
 - Enjeu central du conflit — qui contrôle Arrakha contrôle le doonium
 
 **Lieux notables sur Arrakha :**
@@ -98,7 +135,7 @@ La civilisation se concentre dans les villes minières construites au fond des c
 ### Le Moria — Station de Gekko le Hutt
 
 **Type :** Station spatiale reconvertie en repaire criminel  
-**Localisation :** En orbite d'un monde mineur du secteur Auril  
+**Localisation :** En orbite dans le système Fial, Secteur Auril — un système sans présence militaire impériale, en amont du système Murkhana, loin des grandes routes. L'endroit idéal pour opérer sans être dérangé.  
 **Population :** ~5 000 — Courtisans, esclaves, mercenaires, marchands, joueurs  
 **Référence :** *Gecko Moria* (One Piece) — seigneur de l'ombre, opportuniste, qui règne depuis son repaire flottant (Thriller Bark). Lien direct avec le nom de son propriétaire, Gekko.
 
@@ -107,6 +144,53 @@ La civilisation se concentre dans les villes minières construites au fond des c
 **Ambiance :** Le palais de Jabba rencontre un casino de Las Vegas dans l'espace. Excès, danger, et décadence.
 
 **Rôle dans la campagne :** Lieu social et de négociation. Les joueurs y viennent pour acheter du matériel, obtenir des informations, ou répondre à une invitation de Gekko. C'est aussi un terrain neutre où toutes les factions ont des représentants.
+
+---
+
+### Forscan Prime — "Le Poing de Velours"
+
+**Type :** Monde tempéré, capitale sectorielle du seigneur de guerre  
+**Système :** Système Forscan (Grille R-7), Secteur Auril  
+**Population :** ~5 millions — Colons, agriculteurs, commerçants, personnel militaire impérial  
+**Gouvernement :** Gouvernement civil local fantoche, sous autorité directe de l'Amiral Gracia Hopner  
+**Présence militaire :** Base impériale Forge-7 (au sol) + le *Verdict Gris* (Destroyer Stellaire, basé en orbite — se déploie dans le secteur selon les besoins)
+
+**Description :** Forscan Prime est un monde tempéré aux paysages de plaines vallonnées, de forêts denses et de rivières larges. Avant l'Empire, c'était un monde colonial modeste — quelques millions de colons vivant d'agriculture, d'élevage et de commerce régional. Un monde sans histoire.
+
+Quand l'Empire a cherché une capitale sectorielle pour le secteur Auril, Forscan Prime a été choisie pour sa position centrale, son climat agréable et sa population docile. Une base militaire massive — Forge-7 — a été construite à 40 kilomètres de la capitale civile, Kelden. Hangars, casernes, centre de commandement enterré, chantiers de maintenance navale, et défenses orbitales. Deux mondes ont commencé à coexister : la vie civile ordinaire de Kelden, et la machine militaire de Forge-7.
+
+Après la chute de l'Empire, l'Amiral Hopner a hérité de la base et de la planète. Elle a fait de Kelden une **vitrine impériale** : la ville est propre, ordonnée, prospère. Les rues sont pavées, les commerces approvisionnés, les écoles fonctionnent (avec un programme réécrit par le Bureau de Sécurité), et les HoloNews locales diffusent en boucle les succès de l'Amiral. Des affiches de propagande couvrent les murs : *"L'Amiral Protège"*, *"L'Ordre pour la Prospérité"*, *"Un Secteur Uni sous un même Drapeau"*. Pour un visiteur, Kelden semble être la preuve vivante que Hopner a raison — que l'ordre impérial fonctionne.
+
+Mais cette vitrine s'arrête aux portes de la ville. **Dans les campagnes**, la réalité est tout autre. Les villages agricoles et les communautés forestières vivent sous le poids des taxes et des réquisitions. Des patrouilles impériales ratissent régulièrement la campagne pour la conscription, la collecte de "contributions volontaires", et la recherche de dissidents. Et c'est dans ces campagnes que la résistance vit — pas par les armes, mais par le silence.
+
+#### Deux mondes sur une même planète
+
+**Kelden (la ville) — La vitrine**
+
+La capitale est un modèle de propagande vivante. Les habitants de Kelden ont un niveau de vie correct — pas luxueux, mais stable. En échange, ils ferment les yeux. Certains sont de vrais partisans de Hopner (elle a ramené l'ordre après le chaos post-Endor). D'autres sont des **collaborateurs ambigus** — des gens qui travaillent avec le régime non par conviction, mais pour protéger les leurs. Le médecin qui soigne les stormtroopers pour qu'on laisse son hôpital tranquille. Le commerçant qui fournit la garnison pour éviter que son quartier soit "inspecté". Le professeur qui enseigne le programme impérial tout en glissant des leçons d'esprit critique entre les lignes.
+
+Ces collaborateurs ne sont pas des méchants. Ils posent une question centrale pour la campagne : **quand le régime tombe, que fait-on d'eux ?** (Ce thème prendra toute son ampleur si les joueurs libèrent Forscan Prime dans l'Acte 4.)
+
+**La campagne — Le silence**
+
+Au-delà de Kelden, les communautés rurales pratiquent une **résistance culturelle** passive. Personne ne parle aux soldats. Les directions données sont fausses. Les récoltes déclarées sont toujours "en dessous des attentes". Les véhicules impériaux tombent en panne sur des routes mystérieusement dégradées. Les communications sont brouillées par des "interférences naturelles" que personne ne parvient à expliquer.
+
+Ce n'est pas une rébellion armée — c'est un mur de silence, de désobéissance passive, et de solidarité communautaire. Les fermiers de Forscan Prime ne tireront jamais sur un stormtrooper. Mais ils ne diront jamais où se cache quelqu'un non plus.
+
+**Ambiance :** Un mélange de Lothal (Rebels) pour la ville et de Ferrix (Andor) pour les campagnes. En ville, tout semble normal mais l'oppression est juste sous la surface. Dans les campagnes, la résistance est silencieuse, obstinée, et profondément enracinée.
+
+**Rôle dans la campagne :**
+- Siège du pouvoir de l'Amiral Hopner — c'est ici qu'elle gouverne le secteur
+- Destination potentielle pour les joueurs dans l'Acte 2-3 (négociation, infiltration, ou confrontation directe)
+- Contraste moral puissant : Kelden montre que Hopner sait gouverner et que ses sujets vivent décemment. Les campagnes montrent le prix réel de cet "ordre". Les joueurs doivent se demander : est-ce que la stabilité vaut le silence ?
+- **Thème de fin de campagne :** Si Forscan Prime est libérée, la question des collaborateurs se pose. Les gens de Kelden qui ont travaillé avec Hopner — les juger, les pardonner, les ignorer ? C'est le genre de dilemme qui n'a pas de bonne réponse.
+
+**Lieux notables sur Forscan Prime :**
+- **Kelden** — La capitale civile. Propre, fonctionnelle, avec un spatioport commercial, un marché couvert, une école impériale (le "Lycée du Progrès"), et des HoloNews qui diffusent la propagande de Hopner. Architecture coloniale simple mais bien entretenue. Les stormtroopers patrouillent avec courtoisie — "Bonjour, citoyen. Bonne journée." C'est plus inquiétant que de la brutalité.
+- **Forge-7** — La base militaire impériale, à 40 km de Kelden. Un complexe fortifié enterré partiellement dans une colline, avec des hangars pour des escadrons de TIE, des casernes pour plusieurs bataillons de stormtroopers, un centre de commandement souterrain, et des chantiers de maintenance navale capables d'entretenir le *Verdict Gris*. Entourée d'un périmètre de sécurité de 5 km avec tourelles, scanners et patrouilles de droïdes sondes.
+- **Le Verdict Gris** *(en orbite)* — Le Destroyer Stellaire de classe Impérial de l'Amiral Hopner. Quand il est en orbite de Forscan Prime, il est visible depuis la surface comme une étoile menaçante. C'est autant un vaisseau de guerre qu'un symbole — mais il se déploie régulièrement dans le secteur pour projeter la puissance de Hopner (notamment vers Arrakha).
+- **Les Fermes Grises** — Le surnom donné aux communautés rurales autour de Kelden. Des villages agricoles dispersés dans les vallées et les collines, reliés par des routes de terre. C'est ici que vit la résistance passive. Les PJ qui cherchent des alliés sur Forscan Prime devront gagner la confiance de ces communautés — ce qui n'est pas facile. Elles ont appris à ne faire confiance à personne.
+- **Le Réseau Racine** — Le nom que se donne le réseau informel de résistance passive dans les campagnes. Pas de structure, pas de leader, pas d'armes — juste des gens qui se transmettent des informations, cachent des voyageurs, et ralentissent la machine impériale par mille petits actes de désobéissance quotidienne. Potentiel allié pour les joueurs, mais il faudra prouver qu'on n'est pas un espion de Hopner.
 
 ---
 
@@ -170,7 +254,7 @@ Pendant vingt ans sous l'Empire, il a observé, accumulé des contacts, et discr
 - **Rôle :** Ancienne officier de la Marine Impériale, seigneur de guerre du secteur Auril
 - **Référence :** *Grace Hopper* — pionnière de l'informatique ET contre-amirale de l'US Navy. Double parallèle parfait : une femme amirale brillante et méthodique.
 
-**Historique :** Gracia Hopner commandait un groupe de bataille impérial dans le secteur Auril quand l'Empire s'est effondré. Plutôt que de rallier les Vestiges Impériaux ou de se rendre à la Nouvelle République, elle a choisi une troisième voie : garder le contrôle de son secteur et gouverner de manière autonome.
+**Historique :** Gracia Hopner commandait un groupe de bataille impérial dans le secteur Auril quand l'Empire s'est effondré. Plutôt que de rallier les Vestiges Impériaux ou de se rendre à la Nouvelle République, elle a choisi une troisième voie : garder le contrôle de son secteur et gouverner de manière autonome. Elle a établi son siège de pouvoir sur Forscan Prime, héritant de la base impériale Forge-7 et de son infrastructure.
 
 Elle se considère non pas comme une tyran, mais comme la seule adulte responsable dans la pièce. Sans elle, le secteur sombrerait dans le chaos et la piraterie. Elle a raison, en partie — sa flotte maintient les routes commerciales ouvertes et protège les convois. Mais son "ordre" repose sur des taxes écrasantes, la conscription forcée, et l'élimination silencieuse de toute opposition politique.
 
@@ -197,7 +281,7 @@ Elle se considère non pas comme une tyran, mais comme la seule adulte responsab
 
 **Historique :** Gekko n'a jamais été qu'un Hutt de seconde zone — un petit trafiquant dans l'ombre de Jabba, gérant quelques routes de contrebande mineures dans le Tion Cluster. La mort de Jabba a créé un vide de pouvoir colossal dans le monde criminel, et Gekko y voit sa chance.
 
-Il s'est installé sur une station spatiale reconvertie en orbite d'un monde du secteur Auril — le "Moria" — et vend des armes aux deux camps tout en récoltant des informations sur tout le monde.
+Il s'est installé sur une station spatiale reconvertie dans le système Fial — le "Moria" — et vend des armes aux deux camps tout en récoltant des informations sur tout le monde.
 
 **Personnalité :** Jovial, rieur, d'une vulgarité assumée. Il adore les jeux de hasard, les combats de gladiateurs, et les banquets obscènes. Mais derrière cette façade grotesque, c'est un calculateur redoutable. Il parle en riant, mais chaque mot est pesé.
 
@@ -229,9 +313,9 @@ Les joueurs pourront, au fil de la campagne, choisir de s'allier à l'un de ces 
 
 | Camp | Leader | Philosophie | Avantage | Prix |
 |---|---|---|---|---|
-| **Seigneur de guerre** | Amiral Rynn | L'ordre par la force | Ressources militaires, protection | Oppression, compromission morale |
+| **Seigneur de guerre** | Amiral Hopner | L'ordre par la force | Ressources militaires, protection | Oppression, compromission morale |
 | **Séparatiste / NUS** | Hashk Ellor | Indépendance par la sécession | Cause juste, soutien populaire | Moyens discutables, incertitude |
-| **Nouvelle République** | Sénateur Torvin | Légitimité démocratique | Légalité, diplomatie | Lenteur, promesses creuses |
+| **Nouvelle République** | Sénateur Linus Torv | Légitimité démocratique | Légalité, diplomatie | Lenteur, promesses creuses |
 | **Les Hutts** | Gekko Grancha Tiure | Le profit avant tout | Argent, réseau, pragmatisme | Corruption, servitude déguisée |
 | **Autodétermination** | Le peuple d'Arrakha | Liberté totale | Vraie liberté, fierté | Aucun allié puissant, tout à construire |
 
@@ -240,7 +324,7 @@ Les joueurs pourront, au fil de la campagne, choisir de s'allier à l'un de ces 
 ## STRUCTURE EN ACTES
 
 ### ACTE 1 — "LA PRIME"
-**Sessions :** 1 à 6  
+**Sessions :** 0 à 6  
 **Ton :** Aventure, découverte, humour  
 **Objectif narratif :** Les joueurs apprennent leur métier, s'attachent au Consortium, et découvrent que leur cible est plus complexe qu'une simple prime.
 
@@ -251,7 +335,7 @@ Les joueurs pourront, au fil de la campagne, choisir de s'allier à l'un de ces 
 **Arc principal :** Edna et Basch confient aux joueurs leur première vraie mission en équipe : retrouver Hashk Ellor, un Muun recherché par un client anonyme (ils ne savent pas encore que c'est le seigneur de guerre). La prime est généreuse — trop généreuse. Edna le remarque et met en garde les joueurs.
 
 #### Éléments clés
-- 1-2 missions d'introduction plus simples pour apprendre les règles (escorte de convoi, capture d'un petit criminel)
+- 1 mission d'introduction pour apprendre les règles : capture du chef de gang Vekk Draal (enquête sociale, combat au blaster, combat spatial)
 - Enquête dans les bas-fonds de Murkhana City pour retrouver la trace du Muun
 - Rencontre avec le milieu criminel local, premiers contacts avec les agents de Gekko le Hutt
 - Premier voyage vers Arrakha en suivant une piste
@@ -268,18 +352,18 @@ Les joueurs localisent Hashk Ellor sur Arrakha, mais découvrent qu'il est au c�
 **Objectif narratif :** Les joueurs découvrent les vraies motivations de chaque faction et commencent à choisir un camp — ou à jouer double jeu.
 
 #### Révélations clés
-- Le commanditaire de la prime est l'Amiral Rynn, un seigneur de guerre impérial
+- Le commanditaire de la prime est l'Amiral Hopner, un seigneur de guerre impérial
 - Hashk prépare un coup d'état pour rallier Arrakha à la Nouvelle Union Séparatiste
 - Gekko le Hutt vend des armes aux deux camps et a un espion dans le Consortium
-- Un émissaire de la Nouvelle République (Torvin) prend contact avec les joueurs
+- Un émissaire de la Nouvelle République (Linus Torv) prend contact avec les joueurs
 
 #### Éléments clés
 - **Infiltration** dans les cercles de Hashk (déguisements, fausses identités)
-- **Négociations tendues** avec l'Amiral Rynn à bord du *Verdict Gris*
+- **Négociations tendues** avec l'Amiral Hopner à bord du *Verdict Gris*
 - **Bataille terrestre** quand une garnison impériale attaque un camp de mineurs rebelles
 - **Exploration** des canyons d'Arrakha — créatures prédatrices dans les mines abandonnées
 - **Scène sociale** au Moria de Gekko — combat de gladiateurs, sabacc à enjeux élevés, proposition tentante
-- **Contact diplomatique** avec la Nouvelle République via le sénateur Torvin
+- **Contact diplomatique** avec la Nouvelle République via le sénateur Linus Torv
 
 #### Climax de l'Acte 2
 Le coup d'état de Hashk est lancé en avance — soit parce que les joueurs l'ont aidé, soit parce qu'il a été forcé d'agir. Arrakha plonge dans le chaos. Les joueurs doivent choisir leur camp.
@@ -293,18 +377,18 @@ Le coup d'état de Hashk est lancé en avance — soit parce que les joueurs l'o
 
 #### Variations selon le camp choisi
 
-**Camp Rynn :** Les joueurs aident à écraser la rébellion, mais découvrent que Rynn prévoit de faire un exemple en bombardant les quartiers civils. Peuvent-ils la modérer de l'intérieur ?
+**Camp Hopner :** Les joueurs aident à écraser la rébellion, mais découvrent que Hopner prévoit de faire un exemple en bombardant les quartiers civils. Peuvent-ils la modérer de l'intérieur ?
 
 **Camp Hashk :** Le coup d'état réussit, mais la NUS envoie ses propres "conseillers" qui ressemblent beaucoup à des occupants. Hashk perd-il le contrôle de son propre mouvement ?
 
-**Camp République :** Torvin obtient un mandat diplomatique, mais les négociations sont lentes et fragiles. Quelqu'un sabote le processus — qui ?
+**Camp République :** Linus Torv obtient un mandat diplomatique, mais les négociations sont lentes et fragiles. Quelqu'un sabote le processus — qui ?
 
 **Camp Hutt :** Gekko propose une alliance pragmatique. Arrakha devient une zone franche sous protection Hutt. C'est stable, mais à quel prix moral ?
 
 **Camp Peuple :** La voie la plus dure. Les joueurs doivent unifier les factions locales, repousser tous les envahisseurs, et construire quelque chose de nouveau sans alliés puissants.
 
 #### Éléments clés (communs à toutes les routes)
-- Grande **bataille spatiale** — la flotte de Rynn contre les forces combinées du Muun et de ses alliés
+- Grande **bataille spatiale** — la flotte de Hopner contre les forces combinées du Muun et de ses alliés
 - **Batailles terrestres** dans les canyons et les mines d'Arrakha
 - **Trahison** au sein du Consortium — l'espion de Gekko est révélé
 - **Créatures** des profondeurs des mines réveillées par les combats
@@ -322,7 +406,7 @@ Le coup d'état de Hashk est lancé en avance — soit parce que les joueurs l'o
 #### Éléments finaux possibles
 - Confrontation finale avec la faction principale opposée aux joueurs
 - Le sort de **Hashk Ellor** — mort, capturé, libéré, ou au pouvoir ?
-- Le sort de l'**Amiral Rynn** — vaincue, alliée, ou toujours en embuscade ?
+- Le sort de l'**Amiral Hopner** — vaincue, alliée, ou toujours en embuscade ?
 - **Gekko** tente un dernier coup — il a toujours un plan de secours
 - Le **Consortium d'Edna** survit-il ? Edna doit peut-être faire un sacrifice
 - Possibilité d'une intervention de la **Nouvelle République** en force (ou pas)
@@ -349,6 +433,80 @@ Des PNJ locaux récurrents pour que les joueurs s'attachent au monde et que leur
 
 ### La Nouvelle Union Séparatiste
 Gouvernement galactique ambitieux formé vers 5 ABY dans les territoires où le contrôle de la Nouvelle République est purement théorique. Basée sur les idéaux de la Confédération des Systèmes Indépendants — égale représentation, liberté, gouvernement décentralisé — mais sans la domination corporatiste. Principalement dans la Bordure Extérieure. En 9 ABY, c'est un acteur politique légitime qui inquiétait la chancelière Mon Mothma elle-même.
+
+---
+
+## THÈMES & FILS ROUGES
+
+Ces thèmes sont les moteurs narratifs profonds de la campagne. Ils ne sont pas tous visibles dès l'Acte 1 — certains émergent progressivement et prennent toute leur ampleur dans les Actes 3 et 4.
+
+### 1. Le libérateur qui dérape
+
+*Inspiration : Marco Inaros (The Expanse), Cham Syndulla poussé à l'extrême*
+
+Hashk Ellor commence comme un idéaliste sincère — un comptable devenu leader, qui se bat pour la liberté d'Arrakha. Mais le pouvoir, la guerre et la pression le changent. Au fil de la campagne, les joueurs assistent (ou contribuent) à sa transformation :
+
+- **Acte 1-2 :** Hashk est calme, raisonnable, et prêt au dialogue. Il parle de pertes civiles "minimales".
+- **Acte 3 :** La guerre l'endurcit. Il commence à prendre des décisions discutables — exécuter un traître sans procès, accepter des mercenaires brutaux, sacrifier un village pour gagner du temps.
+- **Acte 4 :** Si les joueurs ne le tempèrent pas, Hashk peut devenir ce qu'il combattait — un autocrate qui écrase la dissidence "pour le bien du peuple".
+
+Le fil rouge pour les joueurs : **peuvent-ils sauver Hashk de lui-même, ou doivent-ils l'arrêter ?**
+
+### 2. L'ombre derrière la NUS
+
+*Inspiration : Section 31 (Star Trek DS9), Cerberus (Mass Effect)*
+
+La Nouvelle Union Séparatiste n'est pas le paradis démocratique qu'elle prétend être. Derrière la façade de représentation égalitaire, la NUS a ses propres agents — des opérateurs froids qui veulent s'assurer que les nouveaux systèmes membres restent alignés avec les intérêts de l'Union.
+
+Quand Hashk rallie Arrakha à la NUS, ces agents arrivent sous couvert de "conseillers diplomatiques". En réalité :
+- Ils surveillent Hashk et s'assurent qu'il reste utile
+- Ils infiltrent les institutions locales pour les orienter
+- Ils éliminent discrètement les voix qui appellent à l'indépendance totale (pas la NUS, juste l'indépendance)
+- Ils considèrent les joueurs comme des variables incontrôlables à surveiller — ou à recruter
+
+Le fil rouge : **La NUS est-elle une libération ou juste une nouvelle chaîne ?** Les joueurs qui choisissent le camp séparatiste découvriront que leur allié a ses propres dents.
+
+### 3. Le maître du chaos
+
+*Inspiration : Littlefinger (Game of Thrones), Hondo Ohnaka (Clone Wars)*
+
+Gekko le Hutt ne veut pas gagner la guerre — il veut qu'elle dure. Chaque conflit est une opportunité de vendre, d'acheter, de corrompre et de consolider son réseau. Sa stratégie :
+
+- **Phase 1 (Acte 1-2) :** Se rendre indispensable à tous les camps. Vendre des armes à Hashk, des informations à Hopner, des fournitures au Consortium. Paraître inoffensif et jovial.
+- **Phase 2 (Acte 3) :** Révéler ses cartes. Il a un espion dans le Consortium. Il a des dettes sur chaque faction. Il propose aux joueurs un "partenariat" — en réalité, il veut les utiliser comme pions.
+- **Phase 3 (Acte 4) :** Quel que soit le vainqueur, Gekko essaie de se positionner comme "l'homme d'affaires neutre et indispensable" du nouveau régime. Si les joueurs ne s'occupent pas de lui, il finira par contrôler l'économie du secteur depuis le Moria.
+
+Le fil rouge : **Gekko n'est jamais l'ennemi principal, mais il est toujours un problème.** Les joueurs qui l'ignorent le regretteront. Ceux qui s'allient à lui découvriront que c'est un allié qui coûte plus cher que n'importe quel ennemi.
+
+### 4. L'après-libération : et maintenant ?
+
+*Inspiration : Post-Occupation de Bajor (Star Trek DS9), New Caprica (Battlestar Galactica)*
+
+C'est le thème le plus ambitieux de la campagne. Il émerge dans l'Acte 4, quand le conflit principal se résout (quelle que soit l'issue). La guerre est facile — c'est la paix qui est dure.
+
+**Sur Arrakha :** Si le coup d'état réussit, le peuple d'Arrakha est fracturé :
+- Les **mineurs radicaux** veulent une justice immédiate — expulser tout ce qui est impérial, punir les collaborateurs, nationaliser les mines.
+- Les **modérés** veulent la stabilité — garder les structures existantes, intégrer les anciens soldats impériaux, éviter un bain de sang.
+- Les **opportunistes** voient une chance de s'enrichir dans le chaos — contrebandiers, anciens criminels, et profiteurs.
+- Les **fidèles de Hashk** suivent leur leader aveuglément — pour le meilleur ou pour le pire.
+- Et les **gens ordinaires** veulent juste que les mines rouvrent et que leurs enfants aillent à l'école.
+
+**Sur Forscan Prime :** Si Hopner est vaincue, la question des collaborateurs explose :
+- Le professeur de Kelden qui enseignait la propagande — coupable ou victime ?
+- Le médecin qui soignait les stormtroopers — traître ou humaniste ?
+- Le commerçant qui fournissait la garnison — collaborateur ou survivant ?
+- Les fermiers du Réseau Racine veulent que justice soit faite, mais les citadins de Kelden rappellent que tout le monde a fait des compromis.
+
+Le fil rouge : **Il n'y a pas de bonne réponse.** Les joueurs doivent naviguer ces tensions sans solution parfaite. C'est ce qui rend l'épilogue de la campagne mémorable — pas la bataille finale, mais les choix impossibles qui suivent.
+
+### 5. Tableau des thèmes par acte
+
+| Thème | Acte 1 | Acte 2 | Acte 3 | Acte 4 |
+|---|---|---|---|---|
+| **Le libérateur qui dérape** | Hashk est idéaliste | Premiers signes de dureté | Décisions moralement grises | Autocrate ou héros ? |
+| **L'ombre de la NUS** | Invisible | Premiers "conseillers" | Infiltration des institutions | Révélation de l'agenda caché |
+| **Le maître du chaos** | Gekko semble inoffensif | Gekko est partout | Gekko révèle ses cartes | Gekko tente de survivre |
+| **L'après-libération** | Invisible | Graines plantées | Les fractures apparaissent | Explosion — les joueurs arbitrent |
 
 ---
 
