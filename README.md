@@ -21,7 +21,6 @@
 7. [Éléments Récurrents](#éléments-récurrents)
 8. [Thèmes & Fils Rouges](#thèmes--fils-rouges)
 9. [Révélations Majeures](#révélations-majeures)
-9. [Révélations Majeures](#révélations-majeures)
 
 ---
 
@@ -33,7 +32,7 @@ Le secteur Auril est situé dans la Bordure Extérieure, aux portes du Tion Clus
 
 **Système Murkhana** — Le cœur de la campagne. Situé près du Tion Cluster. Contient :
 - **Murkhana** (1ère planète) — Ancien bastion séparatiste dévasté, repaire criminel. Siège du Consortium d'Edna et base arrière de Hashk Ellor.
-- **Arrakha** (2ème planète) — Monde minier désertique riche en doonium. Occupé par les forces de l'Amiral Hopner. Théâtre du coup d'état. Trajet court entre les deux planètes (quelques heures en sous-lumière, ou un micro-saut en hyperespace).
+- **Arrakha** (2ème planète) — Colonie minière désertique riche en doonium, peuplée de Murkhanais envoyés par conscription déguisée. Occupée par les forces de l'Amiral Hopner. Théâtre du second soulèvement. Trajet court entre les deux planètes (quelques heures en sous-lumière, ou un micro-saut en hyperespace).
 
 **Système Fial** — En amont du système Murkhana, loin des grandes routes hyperspatiales. Aucune présence militaire impériale. Contient :
 - **Le Moria** — Station spatiale de Gekko le Hutt, en orbite dans ce système. L'absence d'autorité en fait un havre pour le commerce illégal et les négociations entre factions.
@@ -87,7 +86,7 @@ C'est dans ce chaos que le **Consortium d'Edna** opère — une guilde de chasse
 
 Les joueurs commencent comme de simples chasseurs de primes au service du Consortium. Mais la cible qu'on va leur confier va les entraîner au cœur d'un conflit qui dépasse largement une simple prime.
 
-**Prémisse :** Un ancien administrateur séparatiste Muun prépare un coup d'état sur un monde minier pour le rallier à la Nouvelle Union Séparatiste. Un seigneur de guerre impérial veut l'en empêcher et engage — via des intermédiaires — les chasseurs de primes du Consortium d'Edna pour le retrouver. Les joueurs découvriront progressivement que rien n'est noir ou blanc, et devront choisir leur camp.
+**Prémisse :** Un ancien administrateur séparatiste Muun prépare des soulèvements parallèles — libérer sa planète natale Murkhana de l'emprise des syndicats criminels, et libérer la colonie minière d'Arrakha de l'occupation impériale — pour rallier le système à la Nouvelle Union Séparatiste. Un seigneur de guerre impérial veut l'en empêcher et engage — via des intermédiaires — les chasseurs de primes du Consortium d'Edna pour le retrouver. Les joueurs découvriront progressivement que rien n'est noir ou blanc, et devront choisir leur camp.
 
 ---
 
@@ -108,7 +107,15 @@ Sous l'Empire, des sanctions brutales ont empêché toute reconstruction. La pop
 
 **Murkhana City :** Une mégalopole côtière décrépite. Les tours en spirale de l'ancienne Alliance Corporative — dont la fameuse Tour Argente — se dressent comme des squelettes dans la brume permanente. Les rues basses sont un labyrinthe de marchés noirs installés dans des carcasses de droïdes de combat et de walkers abandonnés. Les niveaux supérieurs, autrefois luxueux, sont le domaine des seigneurs du crime.
 
-**Ambiance :** Blade Runner rencontre Nar Shaddaa. Brume permanente, néons dans les ruines, marchés noirs dans les carcasses de droïdes de combat. Atmosphère brumeuse et corrosive par endroits — les transpirators sont recommandés.
+**Ambiance :** Blade Runner rencontre Nar Shaddaa, avec le cœur de Ferrix (Andor). Brume permanente, néons dans les ruines, marchés noirs dans les carcasses de droïdes de combat. Atmosphère brumeuse et corrosive par endroits — les transpirators sont recommandés. Mais sous la crasse et le crime, une communauté soudée survit — et se souvient.
+
+**La culture murkhanaise — Ce que la guerre n'a pas détruit :**
+
+Avant les bombardements, Murkhana était un monde de beauté — océans noirs, récifs coralliens, plages de sable volcanique. La population a perdu tout ça, mais elle a gardé deux choses que ni la République, ni l'Empire, ni les syndicats n'ont pu lui prendre :
+
+- **Le Chant des Marées** — Un hymne ancien, transmis oralement depuis des générations, qui honorait autrefois les cycles des océans de Murkhana. Depuis que les océans sont morts, le Chant est devenu un hommage aux morts et un acte de mémoire collective. L'Empire l'a interdit — chanter le Chant en public était passible d'arrestation. Sous les syndicats, c'est toléré mais mal vu. Quand un Murkhanais chante le Chant des Marées, les gens s'arrêtent. Tout le monde écoute. Personne n'ose interrompre. **Pour la campagne :** Le Chant sera le signal du soulèvement. Quand les rues de Murkhana City résonneront du Chant des Marées, la révolution aura commencé.
+
+- **Les Pierres Noires** — Des fragments polis de l'ancien récif corallien de Murkhana, noircis par les pluies acides et le temps. Les Murkhanais les portent en bijou, en pendentif, ou les gardent simplement en poche. C'est un signe de reconnaissance silencieux — montrer sa Pierre Noire à un étranger, c'est dire "je suis des vôtres, je me souviens de ce qu'on a perdu". Les mineurs d'Arrakha emportent leurs Pierres Noires avec eux. C'est souvent la seule chose qu'ils possèdent encore de Murkhana. **Pour la campagne :** Les joueurs verront les Pierres Noires partout — au cou des habitants, sur les comptoirs des cantinas, dans les mains des mourants. C'est un détail visuel récurrent qui ancre l'identité murkhanaise.
 
 **Rôle dans la campagne :**
 - Base arrière du séparatiste Muun Hashk Ellor
@@ -126,27 +133,40 @@ Sous l'Empire, des sanctions brutales ont empêché toute reconstruction. La pop
 
 ### Arrakha — "Le Monde de Poussière" *(monde original)*
 
-**Type :** Planète minière désertique, Bordure Extérieure  
+**Type :** Colonie minière désertique de Murkhana, Bordure Extérieure  
 **Système :** Système Murkhana (2ème planète), Secteur Auril  
-**Population :** ~2 millions — Mineurs, colons, anciens réfugiés de guerre (humains, Nikto, Weequay, Ugnaughts)  
+**Population :** ~2 millions — Principalement des Murkhanais (Koorivar, Aqualish, Gossams, humains) envoyés depuis Murkhana, ainsi que des Nikto, Weequay et Ugnaughts recrutés localement  
 **Gouvernement :** Gouverneur fantoche nommé par l'Amiral Hopner  
 **Ressources :** Doonium (métal pour coques de vaisseaux), dolovite — stratégiquement vital  
 **Référence :** *Arrakis* (Dune, Frank Herbert) — planète désertique dont la ressource vitale (l'épice/le doonium) est convoitée par toutes les factions de la galaxie.
+
+**Le lien avec Murkhana :** Arrakha n'est pas un monde indépendant — c'est une **colonie minière peuplée de Murkhanais**. Sous l'Empire, puis sous Hopner, un système de conscription déguisée envoie les habitants les plus pauvres de Murkhana travailler dans les mines de doonium. Des "programmes d'emploi" ciblent les endettés, les sans-abri, les familles qui ne peuvent pas payer les taxes des syndicats. On leur promet un salaire, un logement, un avenir meilleur. En réalité, les conditions de travail sont brutales, les salaires dérisoires, et le retour vers Murkhana est "administrativement compliqué" — c'est-à-dire impossible sans pot-de-vin. Arrakha est une prison à ciel ouvert pour les Murkhanais les plus vulnérables.
 
 **Description :** Un monde de canyons profonds, de plateaux balayés par des tempêtes de sable rouge, et de vastes complexes d'extraction à ciel ouvert. La surface est hostile — chaleur écrasante le jour, froid mordant la nuit, et des tempêtes de sable qui peuvent durer des jours.
 
 La civilisation se concentre dans les villes minières construites au fond des canyons ou à flanc de falaise, reliées par des routes de convoi qui serpentent entre les complexes d'extraction. Les mines les plus profondes s'enfoncent sur des kilomètres dans la croûte planétaire.
 
-**Ambiance :** Tatooine rencontre une ville minière du Far West. Des cantinas enfumées dans des avant-postes creusés dans la roche, des convois de minerai qui traversent le désert sous escorte armée, et des créatures prédatrices qui rôdent dans les canyons la nuit.
+**Le système d'exploitation — Narkina 5 à ciel ouvert :**
+
+Arrakha fonctionne comme une prison dont les murs sont le désert. Le système est conçu pour extraire un maximum de travail tout en maintenant l'illusion d'un emploi volontaire :
+
+- **Quotas individuels :** Chaque mineur a un quota journalier de minerai. S'il ne le remplit pas, sa ration alimentaire est réduite. Si une équipe ne remplit pas son quota collectif, toute l'équipe est punie — ce qui crée de la pression entre les mineurs eux-mêmes et empêche la solidarité.
+- **Endettement systémique :** Le logement, la nourriture, les outils et les transpirators (indispensables dans certaines galeries) sont fournis par la compagnie minière — à crédit. Les mineurs arrivent endettés et s'endettent davantage chaque jour. Le retour vers Murkhana est conditionné au remboursement total de la dette — autrement dit, impossible.
+- **Les Gorges de Lucas comme punition :** Les mines les plus profondes, dans les Gorges de Lucas, sont les pires. Les mineurs qui y sont envoyés ne remontent parfois pas pendant des semaines. Les conditions sont si dures que l'affectation aux Gorges est utilisée comme menace disciplinaire. Certains n'en reviennent pas.
+- **L'ignorance comme contrôle :** Les mineurs ne savent pas à quoi sert le doonium qu'ils extraient. Ils savent juste qu'il est "important". Quand les joueurs ou Hashk leur révèlent que le minerai sert à entretenir la flotte de la femme qui les exploite, c'est un moment de prise de conscience collective — et de rage.
+- **Le Chant des Marées dans les galeries :** Les mineurs murkhanais chantent le Chant des Marées en travaillant. C'est la seule chose que la direction n'a jamais réussi à interdire — les mineurs travaillent mieux quand ils chantent, alors on les laisse faire. Mais le Chant, dans les profondeurs d'Arrakha, est devenu autre chose qu'un hommage — c'est une promesse. "On se souvient. On rentre chez nous."
+
+**Ambiance :** Tatooine rencontre une ville minière du Far West, avec le cœur de Narkina 5 (Andor). Des cantinas enfumées dans des avant-postes creusés dans la roche, des convois de minerai qui traversent le désert sous escorte armée, et des créatures prédatrices qui rôdent dans les canyons la nuit. Et sous tout ça, le murmure du Chant des Marées qui remonte des galeries.
 
 **Rôle dans la campagne :**
-- Théâtre du coup d'état de Hashk Ellor
-- Monde occupé par les forces de l'Amiral Hopner
-- Enjeu central du conflit — qui contrôle Arrakha contrôle le doonium
+- Colonie minière de Murkhanais — le lien humain avec Murkhana rend les deux soulèvements indissociables
+- Théâtre du second soulèvement de Hashk (Phase 2 de son plan, en parallèle avec Murkhana)
+- Monde occupé directement par les forces de l'Amiral Hopner (garnison, gouverneur fantoche)
+- Enjeu stratégique central — qui contrôle Arrakha contrôle le doonium qui finance la flotte de Hopner
 
 **Lieux notables sur Arrakha :**
 - **Torren** — La plus grande ville minière, nichée au fond du Grand Canyon d'Arrakha. Centre administratif et résidence du gouverneur fantoche. Garnison impériale. *(Réf : Torrent — protocole BitTorrent, un flux de ressources qui transite sans cesse.)*
-- **Les Puits Rouges** — Complexe minier principal, à ciel ouvert. Des centaines d'Ugnaughts et de mineurs y travaillent dans des conditions brutales. Foyer de mécontentement populaire.
+- **Les Puits Rouges** — Le plus grand complexe minier d'Arrakha, à ciel ouvert, creusé dans un plateau à une heure de speeder de Torren. C'est une cicatrice béante dans le paysage — un cratère de plusieurs kilomètres de diamètre, rouge de la poussière de doonium, avec des rampes en spirale qui descendent sur des dizaines de niveaux. Des centaines de mineurs y travaillent en permanence, dans la chaleur, la poussière et le bruit des foreuses. Les niveaux supérieurs sont relativement supportables ; les niveaux inférieurs sont étouffants et dangereux (effondrements, poches de gaz, créatures souterraines). Un camp de baraquements entoure le bord du cratère — dortoirs, cantina de fortune, infirmerie de trois lits. C'est ici que le système de quotas est le plus brutal et que le mécontentement est le plus vif. C'est aussi ici que Hashk a placé les charges explosives de son Plan B. *(Réf : "Puits" pour les mines à ciel ouvert, "Rouges" pour la couleur du doonium brut et le sang versé.)*
 - **Chez Ping** — Une cantina/auberge isolée à mi-chemin entre Torren et les mines extérieures. Point de rencontre neutre pour toutes les factions. Tenu par un vieux Bith taiseux. *(Réf : ping — commande réseau. On y va pour "tester la connexion" avec les autres factions.)*
 - **Les Gorges de Lucas** — Un réseau de canyons profonds où la lumière ne pénètre jamais. Anciennes mines abandonnées. Créatures prédatrices. Rumeurs de caches d'armes séparatistes. *(Réf : George Lucas, créateur de Star Wars — méta-référence au créateur de l'univers.)*
 - **Le Terrier** — Base secrète de la résistance pro-Hashk, cachée dans un canyon secondaire. Mineurs armés, anciens droïdes de combat réactivés, et idéalistes. *(Réf : The Burrow — Harry Potter, le refuge chaleureux et humble des Weasley, foyer de la résistance.)*
@@ -248,6 +268,15 @@ Ce n'est pas une rébellion armée — c'est un mur de silence, de désobéissan
 
 **Rôle en jeu :** Point de contact principal des PJ avec la guilde. Il donne les missions, les briefings, et les rappelle à l'ordre si besoin.
 
+#### L'arc du Consortium — De la guilde à la guerre
+
+Le Consortium n'est pas un simple décor de l'Acte 1 — il a son propre arc narratif qui évolue avec la campagne :
+
+- **Acte 1 — La famille :** Le Consortium est le foyer des joueurs. Ils mangent au Nid, ils bossent avec Basch, ils connaissent les autres chasseurs par leur prénom. C'est la normalité avant la tempête.
+- **Acte 2 — La pression :** Le soulèvement de Hashk bouleverse l'équilibre de Murkhana. Les contrats se tarissent (les syndicats ont d'autres problèmes). Des chasseurs quittent la guilde ou sont recrutés par les factions. Edna doit choisir : rester neutre (et regarder sa guilde mourir de faim) ou prendre un camp (et mettre ses "enfants" en danger). Les joueurs peuvent l'influencer.
+- **Acte 3 — L'espion :** L'espion de Gekko dans le Consortium est démasqué. C'est **Jyn Tracert** — l'informatrice d'Arrakha que les joueurs connaissent depuis l'Acte 1. Elle n'est pas malveillante : Gekko la tient par une dette (il a payé pour faire sortir sa sœur d'Arrakha). Elle vend des informations à Gekko par nécessité, pas par choix. La révélation fracture le Consortium et force les joueurs à décider de son sort.
+- **Acte 4 — Le sacrifice :** Edna doit décider si le Consortium survit au conflit. Si la guerre dégénère, elle pourrait sacrifier la guilde pour protéger ses "enfants" — les disperser, les cacher, brûler le Nid. Ou elle pourrait transformer le Consortium en milice au service d'un camp. C'est un moment déchirant pour les joueurs qui s'y étaient attachés.
+
 ---
 
 ### 2. LE SÉPARATISTE — La Cible
@@ -262,11 +291,93 @@ Ce n'est pas une rébellion armée — c'est un mur de silence, de désobéissan
 
 Pendant vingt ans sous l'Empire, il a observé, accumulé des contacts, et discrètement racheté des dettes et des faveurs. Après Endor, quand le chaos s'est installé, il a émergé comme le seul homme sur Murkhana qui savait où était l'argent, qui devait quoi à qui, et comment faire fonctionner les réseaux commerciaux que l'Empire avait laissés en ruine.
 
-**Plan :** Un soulèvement coordonné sur Arrakha pour renverser le gouverneur fantoche du seigneur de guerre et rattacher le système à la Nouvelle Union Séparatiste. Il a engagé des mercenaires, réactivé d'anciens droïdes de combat, et rallié les mineurs mécontents.
+**Plan :** Hashk pense en comptable — chaque étape finance ou rend possible la suivante. Son objectif final est de libérer le système Murkhana de l'emprise de Hopner et de le rattacher à la Nouvelle Union Séparatiste. C'est un plan en trois phases qui se déroulent partiellement en parallèle. Les joueurs verront les grandes lignes dès l'Acte 1, mais les détails et les phases cachées se révèleront progressivement.
+
+**Le lien entre les deux mondes :** Arrakha n'est pas un monde étranger — c'est une **colonie minière de Murkhanais**. Les travailleurs d'Arrakha sont des Murkhanais, envoyés là-bas par un système de conscription déguisée : les plus pauvres, les plus endettés, ceux qui n'ont pas les moyens de refuser, sont "recrutés" pour les mines de doonium sous couvert de "programmes d'emploi". En réalité, ils n'ont pas le choix. C'est l'outil de Hopner : elle exploite Murkhana pour la main-d'œuvre et Arrakha pour le minerai. Pour Hashk, libérer l'un sans l'autre n'a aucun sens — c'est le même peuple, la même oppression, à deux endroits.
+
+#### Ce que les joueurs peuvent apprendre (grandes lignes)
+
+Hashk ne cache pas ses intentions générales. Si les joueurs l'interrogent ou gagnent sa confiance :
+
+> *"Murkhana est notre foyer. C'est là que tout commence — reprendre notre monde aux syndicats qui nous parasitent et à l'Amiral qui les paie. Mais Murkhana ne sera jamais libre tant que nos frères et sœurs crèvent dans les mines d'Arrakha. C'est le même combat, le même peuple. On libère les deux, ou on ne libère rien."*
+
+#### Ce que les joueurs ne savent pas (les détails cachés)
+
+**PHASE 1 — "MURKHANA" (visible, en préparation au début de la campagne)**
+*Objectif : Briser le pacte des ombres entre Hopner et les syndicats, libérer Murkhana par un soulèvement populaire.*
+
+Hashk a passé vingt ans à préparer ce moment. Il connaît Murkhana City mieux que personne — chaque réseau, chaque dette, chaque flux d'argent. Son plan :
+
+- **Travail de sape (en cours au début de la campagne) :**
+  - Racheter les dettes des familles murkhanaies pour se constituer un réseau de loyautés. Financer des soupes populaires, des cliniques, des écoles clandestines dans les Fosses et les niveaux bas. Devenir l'homme qui aide quand personne d'autre ne le fait.
+  - Identifier les syndicats "récupérables" (petits gangs qui exploitent leur quartier mais pourraient être retournés) et les syndicats "irrécupérables" (les gros trafiquants qui sont les interlocuteurs directs de Hopner).
+  - Constituer un réseau de cellules populaires dans chaque quartier de Murkhana City — pas encore une milice, mais des gens prêts à agir quand le signal sera donné.
+  - Obtenir des armes via le marché noir et des contacts NUS (et à son insu, via l'agent républicain — voir Révélation 5).
+
+- **Le soulèvement :**
+  - **Étape 1 — Couper les communications de Hopner :** Neutraliser les relais que les syndicats utilisent pour contacter la flotte de Hopner. Sans communication, les syndicats perdent leur "assurance-vie" impériale.
+  - **Étape 2 — Le Chant des Marées :** Le signal. Quand le premier Murkhanais commence à chanter le Chant des Marées dans les Fosses, les autres suivent. De quartier en quartier, le Chant se propage à travers Murkhana City. Les cellules de quartier se soulèvent simultanément. Les habitants ferment les accès, bloquent les routes, encerclent les QG des syndicats. Ce n'est pas un assaut militaire — c'est une ville entière qui chante, qui marche, et qui dit "c'est fini". *(Style funérailles de Maarva / soulèvement de Ferrix dans Andor.)*
+  - **Étape 3 — Neutraliser les syndicats :** Les cellules les mieux armées (avec les droïdes B1 réactivés et les mercenaires) attaquent les positions des grands syndicats pendant que la population les isole. Hashk veut les chasser, pas les massacrer — mais il est prêt à accepter de la violence si nécessaire.
+  - **Étape 4 — Gouvernement provisoire :** Hashk installe un conseil populaire avec des représentants de chaque quartier. Il se positionne comme "coordinateur", pas comme dictateur — du moins au début.
+
+- **La division de la population (le vrai défi) :** Murkhana n'est pas unanime. La population est divisée :
+  - **Les opprimés** (majorité) : Les habitants des niveaux bas, des Fosses, les travailleurs. Ils subissent les syndicats et soutiennent Hashk.
+  - **Les profiteurs** : Ceux qui vivent du crime — receleurs, passeurs, petits dealers, tenanciers de cantinas louches. Le système actuel leur profite. Un "nettoyage" les ruinerait.
+  - **Les prudents** : Ceux qui ont survécu en ne prenant jamais parti. Ils ont vu des "libérateurs" aller et venir. Ils ne croiront Hashk que quand ils verront des résultats concrets.
+  - Cette division est ce qui rend le soulèvement de Murkhana fragile et nuancé — ce n'est pas une révolution unanime.
+
+- **Le problème économique (la faille que Hashk refuse de voir) :** Les syndicats SONT l'économie de Murkhana. La contrebande, le marché noir, le narcotrafic, les services illégaux — c'est ce qui fait manger la planète depuis des décennies. L'économie légale a été détruite par les bombardements de la Guerre des Clones et les sanctions impériales. Si Hashk chasse les syndicats, des milliers de receleurs, passeurs, dockers et intermédiaires perdent leur gagne-pain du jour au lendemain. Hashk le comptable a un plan théorique : reconvertir l'économie vers l'industrie de recyclage (les épaves de vaisseaux et de droïdes de guerre qui jonchent la planète), le commerce légal avec la NUS, et l'exploitation de ce qui reste des récifs coralliens pour des matériaux de construction. Sur le papier, c'est viable. En pratique, la transition prendra des mois voire des années — et entre-temps, les gens ont faim. C'est une source majeure de tension dans l'Acte 3-4 : même si le soulèvement réussit, l'économie de Murkhana peut s'effondrer, créant un vide que Gekko ou d'autres rempliront avec joie.
+
+- **Le point faible :** Si Hopner réagit vite en envoyant des forces depuis Forscan, les syndicats peuvent appeler à l'aide et le soulèvement est écrasé. Hashk doit frapper vite et déclencher la Phase 2 (Arrakha) dans la foulée — le chaos de Murkhana empêche Hopner de se concentrer sur un seul front. Si les deux soulèvements se renforcent mutuellement, Hopner est débordée. Si le timing est raté, elle les écrase l'un après l'autre.
+
+**PHASE 2 — "ARRAKHA" (partiellement caché, en parallèle)**
+*Objectif : Libérer la colonie minière et couper l'approvisionnement en doonium de Hopner.*
+
+La Phase 2 se prépare en même temps que la Phase 1, mais l'exécution est décalée de peu. Le soulèvement de Murkhana frappe en premier et crée le chaos ; le coup sur Arrakha est lancé immédiatement après, pendant que Hopner est distraite. Les deux fronts se renforcent mutuellement — Hopner doit choisir où concentrer ses forces, et elle ne peut pas être partout.
+
+- **Préparation (en parallèle avec la Phase 1) :**
+  - Envoyer des agents sur Arrakha pour rallier les mineurs murkhanais. Beaucoup sont déjà en colère — ils ont été arrachés à Murkhana, forcés de travailler dans des conditions brutales. Il suffit de leur donner de l'espoir et une organisation.
+  - Créer le Terrier — un camp secret dans les canyons d'Arrakha, base de la résistance locale.
+  - Financer des cliniques et des écoles pour gagner la confiance des mineurs (même méthode que sur Murkhana).
+  - Réactiver d'anciens droïdes de combat B1 acheminés depuis Murkhana via des cargos de contrebande.
+  - Obtenir des renseignements sur la garnison impériale et les patrouilles du Verdict Gris.
+
+- **Le coup d'état sur Arrakha :**
+  - **Étape 1 — Neutraliser les communications :** Détruire le relais impérial à Torren pour isoler la garnison.
+  - **Étape 2 — Le Chant remonte des galeries :** Le même signal qu'à Murkhana. Le Chant des Marées résonne dans les mines, puis dans les canyons, puis dans Torren. Grève générale — des milliers de Murkhanais qui refusent de descendre dans les mines et marchent sur la ville en chantant. Le même hymne, à des millions de kilomètres de chez eux.
+  - **Étape 3 — Assaut sur la garnison :** La milice du Terrier et les droïdes B1 attaquent la caserne pendant que les mineurs submergent les défenses par le nombre. Capturer le Préfet Daran Null.
+  - **Étape 4 — Déclaration d'indépendance :** Arrakha se déclare libre et demande la protection de la NUS.
+
+- **Le timing crucial :** Idéalement, le soulèvement d'Arrakha est lancé **pendant que Hopner est occupée par la crise sur Murkhana**, ou quand le Verdict Gris est en patrouille loin du système. Si les deux soulèvements sont simultanés, Hopner doit choisir où envoyer ses forces — et elle ne peut pas être partout.
+
+- **Le point faible :** Les mineurs d'Arrakha sont courageux mais pas des soldats. Si la garnison tient assez longtemps pour que des renforts arrivent, le soulèvement sera noyé dans le sang. Et le Plan B de Hashk (les charges explosives dans les mines) est sa police d'assurance terrifiante — voir Révélation 4.
+
+**PHASE 3 — "LE SECTEUR" (secret total)**
+*Objectif : Étendre l'influence de la NUS à tout le secteur Auril.*
+
+Hashk n'en parle jamais. C'est son rêve à long terme — pas un plan concret, mais une vision. Si Murkhana et Arrakha tombent, d'autres systèmes du secteur Auril pourraient suivre : Forscan Prime (si Hopner est affaiblie), les systèmes mineurs comme Repea ou Teedio (qui n'ont aucune allégeance forte). L'objectif ultime est que le secteur Auril tout entier rejoigne la NUS, devenant un bloc indépendant ni impérial, ni républicain.
+
+C'est cette ambition démesurée qui effraie la NUS elle-même — ils veulent le doonium d'Arrakha et une base sur Murkhana, pas un secteur entier ingérable. C'est aussi ce qui pourrait pousser Hashk vers la dérive autoritaire (voir Thème 1 : Le libérateur qui dérape).
+
+#### Failles du plan de Hashk
+
+Le plan est intelligent mais fragile. Voici les points de rupture que les joueurs peuvent exploiter, saboter, ou tenter de corriger :
+
+| Faille | Conséquence si exploitée |
+|---|---|
+| **Deux fronts simultanés** | Hashk n'a pas assez de forces pour mener les deux soulèvements à pleine puissance en même temps — si l'un échoue, l'autre est fragilisé |
+| **Division de Murkhana** | Les profiteurs du système criminel peuvent saboter le soulèvement de l'intérieur ou vendre des informations à Hopner |
+| **Dépendance à la vitesse** | Si Hopner est prévenue trop tôt, elle peut concentrer ses forces sur un front et écraser l'autre |
+| **Droïdes B1 peu fiables** | Les droïdes sont vieux et mal programmés — un bon mécanicien/pirate pourrait les retourner ou les désactiver |
+| **Mercenaires sans loyauté** | Les mercenaires se battent pour l'argent, pas pour la cause. Si Gekko ou Hopner offre plus, ils changent de camp |
+| **La NUS a son propre agenda** | Les "conseillers" de la NUS ne sont pas là pour aider — ils sont là pour contrôler (voir Thème 2) |
+| **Les armes viennent de la République** | Si les joueurs révèlent cette information, la légitimité des soulèvements est entamée (voir Révélation 5) |
+| **Le Plan B** | Si Hashk panique, il peut faire sauter les mines d'Arrakha plutôt que de perdre (voir Révélation 4) |
+| **Gekko riposte** | Le soulèvement de Murkhana menace directement les intérêts de Gekko — il ne restera pas les bras croisés |
 
 **Personnalité :** Grand, mince, calme. Il parle doucement, avec une précision mathématique. Il ne menace jamais — il explique calmement pourquoi vous avez déjà perdu. Il a un vrai charisme intellectuel, et il croit sincèrement en sa cause. Ce n'est pas un méchant caricatural : c'est un idéaliste pragmatique.
 
-**L'ambiguïté morale :** Son coup d'état pourrait sincèrement libérer Arrakha de l'oppression du seigneur de guerre. Mais les moyens sont discutables — mercenaires, droïdes de combat, pertes civiles "acceptables". Et la NUS elle-même est-elle vraiment démocratique, ou juste un autre pouvoir lointain ?
+**L'ambiguïté morale :** Le combat de Hashk est sincère — libérer son peuple de l'exploitation criminelle sur Murkhana et de la conscription minière sur Arrakha. Mais les moyens sont discutables : mercenaires, droïdes de combat, alliance avec une NUS dont les motivations ne sont pas pures. Et la division de Murkhana entre ceux qui subissent le crime et ceux qui en profitent rend le soulèvement moralement complexe — chasser les syndicats, c'est aussi détruire l'économie de survie de milliers de gens.
 
 ---
 
@@ -314,10 +425,34 @@ Sur Forscan Prime, Hopner ne fait pas régner l'ordre uniquement par les stormtr
 - Pilotes TIE vétérans et stormtroopers disciplinés
 - Réseau criminel sur Murkhana (renseignement, tribut)
 - Force de Sécurité de Kelden (FSK) — milice d'élite sur Forscan Prime
+- Bureau de Sécurité Sectoriel (BSS) — renseignement et contre-insurrection
+
+**Le Bureau de Sécurité Sectoriel (BSS) — L'œil de Hopner :**
+
+Le BSS est le service de renseignement personnel de l'Amiral Hopner, calqué sur l'ancien Bureau de la Sécurité Impériale (ISB). Petit mais redoutablement efficace, il est dirigé par un analyste obsessionnel que les joueurs apprendront à craindre :
+
+#### Superviseur Cael Vektor
+- **Espèce :** Humain
+- **Âge :** ~35 ans
+- **Rôle :** Directeur du Bureau de Sécurité Sectoriel, bras droit analytique de Hopner
+- **Référence :** *Vecteur* — terme mathématique (direction + magnitude), et allusion à un vecteur d'attaque en cybersécurité. Il est la direction que prend la menace.
+
+**Description :** Vektor n'est pas un soldat. Il ne porte pas d'armure, ne tire jamais un blaster, et parle d'une voix douce. C'est un **analyste**, un bureaucrate du renseignement — et c'est ce qui le rend terrifiant. Il recoupe les données, suit les patterns, et connecte les points que personne d'autre ne voit. Quand un contrebandier est arrêté à Torren, Vektor ne s'intéresse pas au contrebandier — il s'intéresse à qui l'a envoyé, qui l'a payé, et ce que ça révèle sur le réseau derrière lui.
+
+**Personnalité :** Patient, méthodique, presque aimable dans ses interrogatoires. Il pose des questions anodines pendant des heures, puis lâche une information que vous pensiez secrète — juste pour voir votre réaction. Il ne torture pas (il trouve ça inefficace). Il préfère que ses sujets ne réalisent même pas qu'ils sont interrogés.
+
+**Rôle dans la campagne :** Vektor est l'**antagoniste récurrent** dont la présence se fait sentir dès le début — mais différemment de Nox Erso. Là où Nox est **connue mais secrète** (les joueurs l'apprécient mais ignorent sa vraie nature), Vektor est **visible mais insaisissable** (les joueurs sentent sa menace mais ne le voient jamais) :
+- **Acte 1 :** Les joueurs le croisent peut-être sans le savoir — un homme discret dans une cantina, un passant qui les observe au Port Gris. Ou ils trouvent son nom dans un rapport intercepté. L'essentiel est qu'il soit présent physiquement mais non identifié. Les joueurs sentent qu'on les surveille sans comprendre d'où ça vient.
+- **Acte 2 :** Vektor frappe indirectement — un contact des joueurs est arrêté, un informateur refuse de parler, un piège se referme sur une opération qui semblait secrète. Les joueurs commencent à comprendre qu'il y a un analyste redoutable en face. Ils entendent son titre : "Le Superviseur".
+- **Acte 3 :** Confrontation directe. Vektor se révèle — avec un sourire poli, un dossier épais, et une connaissance terrifiante de tout ce que les joueurs ont fait depuis la Session 1. C'est le moment où les joueurs réalisent qu'ils ont été cartographiés depuis le début.
+- **Arc miroir avec Nox :** Vektor et Nox se traquent mutuellement sans que les joueurs le sachent. Vektor sait qu'il y a une taupe républicaine dans le secteur. Nox sait que le BSS est sur ses traces. Les joueurs sont pris entre deux espions qui les utilisent comme source d'information — sans qu'aucun des deux ne le leur dise.
+- Il est plus dangereux qu'un escadron de stormtroopers parce qu'il ne se bat pas — il sait.
+
+#### Hopner — Personnalité & Motivation
 
 **Personnalité :** Impeccable, posée, analytique. Elle ne hausse jamais la voix. Elle traite ses subordonnés avec un respect glacial. Elle joue aux échecs holographiques seule dans ses quartiers et planifie trois coups à l'avance. Elle ne veut pas tuer le Muun — elle veut le capturer pour l'interroger et démanteler tout son réseau.
 
-**Motivation :** Écraser la rébellion séparatiste avant qu'elle ne s'étende à d'autres mondes de son secteur. Si Arrakha tombe, d'autres systèmes pourraient suivre. Le doonium d'Arrakha est aussi vital pour entretenir sa flotte.
+**Motivation :** Hopner voit Hashk comme une menace existentielle sur deux fronts. Sur Murkhana, il sape le pacte des ombres avec les syndicats — si le peuple se soulève, Hopner perd son réseau de renseignement et de contrôle indirect. Sur Arrakha, il menace le doonium qui entretient sa flotte et finance son pouvoir. C'est pour ça qu'elle veut Hashk capturé vivant — pas pour le punir, mais pour l'interroger et démanteler l'intégralité de son réseau sur les deux mondes avant qu'il ne soit trop tard.
 
 ---
 
@@ -369,7 +504,7 @@ Les joueurs pourront, au fil de la campagne, choisir de s'allier à l'un de ces 
 | **Séparatiste / NUS** | Hashk Ellor | Indépendance par la sécession | Cause juste, soutien populaire | Moyens discutables, incertitude |
 | **Nouvelle République** | Sénateur Linus Torv | Légitimité démocratique | Légalité, diplomatie | L'Accord d'Ossus — la République a choisi de ne pas intervenir |
 | **Les Hutts** | Gekko Grancha Tiure | Le profit avant tout | Argent, réseau, pragmatisme | Corruption, servitude déguisée |
-| **Autodétermination** | Le peuple d'Arrakha | Liberté totale | Vraie liberté, fierté | Aucun allié puissant, tout à construire |
+| **Autodétermination** | Le peuple murkhanais | Liberté totale | Vraie liberté, fierté | Aucun allié puissant, tout à construire |
 
 ---
 
@@ -388,13 +523,21 @@ Les joueurs pourront, au fil de la campagne, choisir de s'allier à l'un de ces 
 
 #### Éléments clés
 - 1 mission d'introduction pour apprendre les règles : capture du chef de gang Vekk Draal (enquête sociale, combat au blaster, combat spatial)
-- Enquête dans les bas-fonds de Murkhana City pour retrouver la trace du Muun
-- Rencontre avec le milieu criminel local, premiers contacts avec les agents de Gekko le Hutt
-- Premier voyage vers Arrakha en suivant une piste
-- Découverte progressive : le Muun n'est pas un criminel en fuite, c'est un leader politique qui prépare quelque chose
+- Enquête dans les bas-fonds de Murkhana City pour retrouver la trace du Muun — les joueurs découvrent la culture murkhanaise (Pierres Noires au cou des habitants, le Chant des Marées la nuit dans les Fosses), le poids des syndicats, et les premiers signes que quelqu'un organise la population
+- Rencontre avec le milieu criminel local, premiers contacts avec les agents de Gekko le Hutt (Fenn Sudo)
+- Rencontre avec **Nox Erso** sous couverture — une informatrice utile et sympathique qui aide les joueurs sans rien demander
+- Les joueurs croisent des signes de la conscription : un convoi de Murkhanais embarquant au Port Gris pour Arrakha, des familles séparées. Premier lien avec la colonie minière.
+- Premier voyage vers Arrakha en suivant une piste — découverte du système d'exploitation (quotas, endettement, Gorges de Lucas)
+- Découverte progressive : le Muun n'est pas un criminel en fuite, c'est un leader politique qui prépare un soulèvement — et les gens de Murkhana le protègent
+- **Indices à semer :** Le nom du "Superviseur Vektor" apparaît dans un rapport intercepté ou un message des syndicats. Un chasseur de primes rival est aussi sur la piste de Hashk — la pression monte.
+
+#### L'horloge de l'Acte 1 — Ce qui presse les joueurs
+- **Les Serres (chasseurs rivaux) :** Une équipe de chasseurs de primes concurrents — menée par Kreel Voss — est aussi sur le contrat. Si les joueurs traînent, les Serres trouvent Hashk en premier, et les joueurs perdent la prime (et potentiellement un allié). Les Serres sont moins scrupuleux — ils livreront Hashk mort si c'est plus simple.
+- **Le prochain convoi :** Un nouveau convoi de conscrits part du Port Gris pour Arrakha dans [X] semaines. Hashk veut agir avant ce départ. Si les joueurs sont proches de lui, ils sentent l'urgence. Si les joueurs sont du côté de Hopner, le convoi est une opportunité pour un piège.
+- **Vektor qui se resserre :** Session après session, les joueurs remarquent des signes que quelqu'un suit leurs traces — un informateur qui disparaît après les avoir aidés, une transaction surveillée, un contact qui refuse soudain de parler. Vektor ne les poursuit pas directement — il cartographie leur réseau.
 
 #### Climax de l'Acte 1
-Les joueurs localisent Hashk Ellor sur Arrakha, mais découvrent qu'il est au cœur d'un mouvement populaire. Les gens l'adorent. L'attraper signifie potentiellement écraser l'espoir de tout un monde.
+Les joueurs retrouvent la trace de Hashk Ellor sur Murkhana — pas dans un repaire de criminel, mais au cœur d'un mouvement populaire naissant. Les gens le protègent, le respectent, le suivent. Parallèlement, ils découvrent le lien avec Arrakha : les mineurs là-bas sont des Murkhanais conscripts, et Hashk prépare quelque chose sur les deux fronts. Livrer Hashk signifie potentiellement écraser l'espoir de tout un peuple — sur deux mondes.
 
 ---
 
@@ -405,7 +548,7 @@ Les joueurs localisent Hashk Ellor sur Arrakha, mais découvrent qu'il est au c�
 
 #### Révélations clés
 - Le commanditaire de la prime est l'Amiral Hopner, un seigneur de guerre impérial
-- Hashk prépare un coup d'état pour rallier Arrakha à la Nouvelle Union Séparatiste
+- Hashk prépare des soulèvements parallèles — libérer Murkhana des syndicats ET Arrakha de la garnison impériale — pour rallier le système à la Nouvelle Union Séparatiste
 - Gekko le Hutt vend des armes aux deux camps et a un espion dans le Consortium
 - Un émissaire de la Nouvelle République (Linus Torv) prend contact avec les joueurs
 - **L'Accord d'Ossus** — La Nouvelle République tolère Hopner en échange de la protection du temple Jedi de Luke. Les peuples du secteur ont été sacrifiés par la realpolitik. Cette révélation peut venir de Linus Torv (s'il fait confiance aux joueurs), de Hashk (comme argument de recrutement), ou de Gekko (qui la vend comme information).
@@ -418,8 +561,14 @@ Les joueurs localisent Hashk Ellor sur Arrakha, mais découvrent qu'il est au c�
 - **Scène sociale** au Moria de Gekko — combat de gladiateurs, sabacc à enjeux élevés, proposition tentante
 - **Contact diplomatique** avec la Nouvelle République via le sénateur Linus Torv
 
+#### L'horloge de l'Acte 2 — L'escalade
+- **Vektor en personne :** Le Superviseur commence à agir directement — il interroge des contacts des joueurs, se présente au Nid d'Edna avec des questions polies, ou fait arrêter un allié. Il se rapproche de Hashk et des joueurs simultanément.
+- **Le soulèvement est imminent :** Hashk fixe une date. Les cellules se préparent. Les joueurs sentent la tension monter dans les rues de Murkhana — des armes circulent, des gens murmurent, le Chant des Marées est chanté de plus en plus ouvertement. Impossible de l'ignorer.
+- **Hopner déploie le Verdict Gris :** Le Destroyer quitte Forscan Prime et se positionne dans le système Murkhana. La fenêtre d'action se réduit — si Hashk ne frappe pas avant que Hopner ne comprenne l'ampleur de la menace, c'est fini.
+- **Gekko force la main :** Il révèle aux joueurs qu'il sait tout sur tout (ou presque) et propose un deal. Si les joueurs refusent, il menace de vendre leurs informations à Hopner. Le temps joue contre eux.
+
 #### Climax de l'Acte 2
-Le coup d'état de Hashk est lancé en avance — soit parce que les joueurs l'ont aidé, soit parce qu'il a été forcé d'agir. Arrakha plonge dans le chaos. Les joueurs doivent choisir leur camp.
+Les soulèvements de Hashk sont lancés — sur Murkhana et/ou Arrakha, soit parce que les joueurs l'ont aidé, soit parce qu'il a été forcé d'agir en avance. Le système Murkhana plonge dans le chaos sur deux fronts simultanés. Les joueurs doivent choisir leur camp.
 
 ---
 
@@ -474,6 +623,31 @@ Le coup d'état de Hashk est lancé en avance — soit parce que les joueurs l'o
 #### Épilogue
 Qu'est devenu Arrakha ? Murkhana ? Le Consortium ? Chaque joueur décrit ce que fait son personnage après la fin.
 
+### Moments de bascule — Les scènes que les joueurs n'oublieront jamais
+
+Chaque acte doit avoir au moins un moment émotionnel fort — pas une mécanique de jeu, mais une scène narrative qui frappe. Voici les moments recommandés :
+
+**Acte 1 — Le Convoi**
+Les joueurs assistent au départ d'un convoi de conscrits au Port Gris. Des familles murkhanaises séparées — des enfants qui pleurent, un père qui serre sa Pierre Noire dans son poing, une femme qui chante le Chant des Marées d'une voix brisée pendant que le cargo décolle. Les stormtroopers supervisent avec indifférence. C'est le moment où les joueurs comprennent ce que Hopner fait vraiment — pas une bataille, pas un discours, juste la cruauté banale d'un système qui broie les gens. Personne ne leur demande de réagir. Mais ils n'oublieront pas.
+
+**Acte 2 — Le Chant commence**
+Le soulèvement est lancé. Dans les rues de Murkhana City, un vieux Murkhanais commence à chanter le Chant des Marées. Un autre le rejoint. Puis dix, puis cent, puis la rue entière. Le son se propage de quartier en quartier comme une vague. Les joueurs sont dans la foule — ils doivent choisir : se joindre au Chant et marcher avec le peuple, ou rester en retrait et observer. Il n'y a pas de bonne réponse mécanique — c'est un moment de pure émotion et de choix identitaire pour les personnages.
+
+**Acte 3 — La mort inutile**
+Un PNJ que les joueurs aiment meurt. Pas dans une bataille héroïque — dans une bavure, un accident, un dommage collatéral. L'enfant qui les admirait est tué par un tir perdu. Le vieux mineur qui les aidait s'effondre dans une galerie après un bombardement. Le tenancier Ping, qui n'a jamais pris parti, est exécuté par un syndicat en représailles. Le MJ choisit le PNJ qui aura le plus d'impact sur ses joueurs spécifiques. C'est la scène qui rend la guerre réelle — et qui rappelle que les joueurs ne sont pas des héros invincibles, juste des gens dans un conflit qui les dépasse.
+
+**Acte 4 — Le Chant sur deux mondes**
+Si les joueurs ont réussi à maintenir la rébellion sur les deux fronts, le climax de la campagne est un moment de symétrie : le Chant des Marées résonne simultanément dans les rues de Murkhana City et dans les galeries des mines d'Arrakha. Deux planètes, un seul peuple, un seul hymne. Les joueurs entendent le même Chant qu'ils ont entendu au Port Gris dans l'Acte 1 — mais cette fois, ce n'est plus un adieu. C'est un cri de victoire (ou de défi, selon l'issue).
+
+### Humaniser Hopner avant la révélation — Indices à semer
+
+La révélation de l'enfant de Hopner (Acte 2-3) sera d'autant plus puissante si les joueurs ont entrevu son humanité avant. Indices subtils à distiller :
+
+- **Acte 1 :** Un officier impérial capturé ou interrogé mentionne que l'Amiral "n'est pas comme les autres" — elle refuse les bombardements de civils, elle visite les casernes, elle connaît les noms de ses soldats. "C'est pour ça qu'on la suit."
+- **Acte 1-2 :** Les joueurs interceptent un ordre de Hopner à la garnison d'Arrakha : "Pas de tirs sur les manifestants non armés. Si la situation dégénère, utilisez des grenades incapacitantes. Je veux zéro mort civile." Ça ne colle pas avec l'image d'un tyran.
+- **Acte 2 :** Lors de la rencontre avec Hopner (à bord du Verdict Gris ou via holo), elle mentionne Arrakha d'une manière étrangement personnelle : "Je connais les canyons d'Arrakha. J'y ai... des intérêts." Un joueur attentif notera l'hésitation.
+- **Acte 2 :** Hopner refuse explicitement une proposition de bombardement orbital d'un officier zélé. "L'Opération Cendre a prouvé que la destruction gratuite ne résout rien. Je ne suis pas Palpatine." Les joueurs la voient agir avec retenue — ce qui rend ses décisions plus dures d'autant plus choquantes.
+
 ---
 
 ## ÉLÉMENTS RÉCURRENTS
@@ -486,10 +660,36 @@ Le Consortium a un tableau de primes secondaires que les joueurs peuvent accompl
 
 ### Arrakha Vivante
 Des PNJ locaux récurrents pour que les joueurs s'attachent au monde et que leurs choix aient du poids émotionnel :
-- Un mineur qui aide les joueurs
-- Un enfant qui les admire
-- Un marchand qui les arnaque
+- Un mineur qui aide les joueurs — il porte sa Pierre Noire autour du cou et chante le Chant des Marées en travaillant
+- Un enfant qui les admire — né sur Arrakha, il n'a jamais vu Murkhana mais connaît le Chant par cœur
+- Un marchand qui les arnaque — un des "profiteurs" qui vit bien du système actuel et ne veut pas que ça change
 - Un médecin de camp qui soigne tout le monde sans distinction de camp
+- (Potentiellement) L'enfant de Hopner — voir Révélation 2
+
+### Répertoire des PNJ
+
+**PNJ principaux (fiches complètes dans la section Factions) :**
+
+| PNJ | Faction | Rôle |
+|---|---|---|
+| **Edna Style** | Consortium | Matriarche de la guilde — Actes 1-4 |
+| **Basch Kull** | Consortium | Lieutenant, contact des PJ — Actes 1-4 |
+| **Hashk Ellor** | Séparatiste / NUS | Leader des soulèvements — Actes 1-4 |
+| **Amiral Gracia Hopner** | Impérial | Seigneur de guerre du secteur — Actes 2-4 |
+| **Gekko Grancha Tiure** | Hutts | Maître du chaos, opportuniste — Actes 1-4 |
+| **Sénateur Linus Torv** | Nouvelle République | Idéaliste brisé, contact diplomatique — Actes 2-4 |
+
+**PNJ secondaires récurrents :**
+
+| PNJ | Faction | Lieu | Rôle | Apparition | Référence |
+|---|---|---|---|---|---|
+| **Superviseur Cael Vektor** | Impérial (BSS) | Forscan / Mobile | Antagoniste récurrent, analyste du renseignement — style Dedra Meero | Acte 1 (nom) → Acte 3 (en personne) | *Vecteur* (math/cybersécurité) |
+| **Nox Erso** | Rép. (couverture) | Murkhana / Mobile | Agent républicain sous couverture — style Luthen Rael | Acte 1-2 (couverture) → Acte 3-4 (révélée) | *Erso* (Rogue One) |
+| **Fenn Sudo** | Gekko | Murkhana | Agent de Gekko, informateur trop serviable | Acte 1-2 | *sudo* (commande Unix) |
+| **Jyn Tracert** | Consortium / Gekko | Arrakha | Informatrice locale — en réalité l'espion de Gekko (dette personnelle) | Acte 1-3 | *tracert* (commande réseau) |
+| **Préfet Daran Null** | Impérial | Arrakha | Gouverneur fantoche d'Arrakha | Acte 1-3 | */dev/null* (Unix) |
+| **Ping** | Neutre | Arrakha | Tenancier de Chez Ping, silencieux | Acte 1-4 | *ping* (commande réseau) |
+| **Enfant de Hopner** | ??? | Arrakha | Révélation 2 — identité secrète | Acte 2-4 | À nommer |
 
 ### La Nouvelle Union Séparatiste
 Gouvernement galactique ambitieux formé vers 5 ABY dans les territoires où le contrôle de la Nouvelle République est purement théorique. Basée sur les idéaux de la Confédération des Systèmes Indépendants — égale représentation, liberté, gouvernement décentralisé — mais sans la domination corporatiste. Principalement dans la Bordure Extérieure. En 9 ABY, c'est un acteur politique légitime qui inquiétait la chancelière Mon Mothma elle-même.
@@ -504,7 +704,7 @@ Ces thèmes sont les moteurs narratifs profonds de la campagne. Ils ne sont pas 
 
 *Inspiration : Marco Inaros (The Expanse), Cham Syndulla poussé à l'extrême*
 
-Hashk Ellor commence comme un idéaliste sincère — un comptable devenu leader, qui se bat pour la liberté d'Arrakha. Mais le pouvoir, la guerre et la pression le changent. Au fil de la campagne, les joueurs assistent (ou contribuent) à sa transformation :
+Hashk Ellor commence comme un idéaliste sincère — un comptable devenu leader, qui se bat pour la liberté de son peuple sur Murkhana et Arrakha. Mais le pouvoir, la guerre et la pression le changent. Au fil de la campagne, les joueurs assistent (ou contribuent) à sa transformation :
 
 - **Acte 1-2 :** Hashk est calme, raisonnable, et prêt au dialogue. Il parle de pertes civiles "minimales".
 - **Acte 3 :** La guerre l'endurcit. Il commence à prendre des décisions discutables — exécuter un traître sans procès, accepter des mercenaires brutaux, sacrifier un village pour gagner du temps.
@@ -526,7 +726,23 @@ Quand Hashk rallie Arrakha à la NUS, ces agents arrivent sous couvert de "conse
 
 Le fil rouge : **La NUS est-elle une libération ou juste une nouvelle chaîne ?** Les joueurs qui choisissent le camp séparatiste découvriront que leur allié a ses propres dents.
 
-### 3. Le maître du chaos
+### 3. Le prix du sang — Le coût personnel de la résistance
+
+*Inspiration : Bix, Maarva, Luthen (Andor)*
+
+Dans Andor, chaque personnage paie un prix concret pour son engagement. La résistance n'est pas glamour — elle broie les gens. Ce thème traverse toute la campagne : les choix des joueurs ont des conséquences sur les PNJ qu'ils aiment.
+
+**Exemples concrets à distiller au fil des sessions :**
+- Si les joueurs enquêtent trop ouvertement dans l'Acte 1, **Rezz le barman** (leur premier contact) est retrouvé mort ou disparaît — les syndicats envoient un message.
+- **Jyn Tracert** (l'informatrice d'Arrakha) est capturée et interrogée par la garnison si les joueurs ne sont pas assez discrets. Ils la retrouvent brisée — et elle leur en veut.
+- Un PNJ mineur que les joueurs aiment — un enfant d'Arrakha, un vieux mineur, le tenancier Ping — meurt pendant le soulèvement. Pas dans un moment héroïque. Juste une victime collatérale. Un corps dans la poussière rouge.
+- **Edna** doit peut-être sacrifier un membre du Consortium pour protéger les autres. Les joueurs la voient faire un choix monstrueux par amour maternel.
+- **Nox Erso** (l'agent républicain) souffre en silence de ce qu'elle fait — elle utilise des gens qu'elle respecte comme pions dans un jeu politique.
+- Les mineurs qui chantent le Chant des Marées pendant le soulèvement — certains ne finiront jamais l'hymne.
+
+Le fil rouge : **La liberté a un prix, et ce sont rarement ceux qui la décident qui le paient.** Les joueurs doivent vivre avec les conséquences de leurs choix sur les gens qui les entourent.
+
+### 4. Le maître du chaos
 
 *Inspiration : Littlefinger (Game of Thrones), Hondo Ohnaka (Clone Wars)*
 
@@ -538,13 +754,13 @@ Gekko le Hutt ne veut pas gagner la guerre — il veut qu'elle dure. Chaque conf
 
 Le fil rouge : **Gekko n'est jamais l'ennemi principal, mais il est toujours un problème.** Les joueurs qui l'ignorent le regretteront. Ceux qui s'allient à lui découvriront que c'est un allié qui coûte plus cher que n'importe quel ennemi.
 
-### 4. L'après-libération : et maintenant ?
+### 5. L'après-libération : et maintenant ?
 
 *Inspiration : Post-Occupation de Bajor (Star Trek DS9), New Caprica (Battlestar Galactica)*
 
 C'est le thème le plus ambitieux de la campagne. Il émerge dans l'Acte 4, quand le conflit principal se résout (quelle que soit l'issue). La guerre est facile — c'est la paix qui est dure.
 
-**Sur Arrakha :** Si le coup d'état réussit, le peuple d'Arrakha est fracturé :
+**Sur Arrakha :** Si le coup d'état réussit, les Murkhanais d'Arrakha sont fracturés :
 - Les **mineurs radicaux** veulent une justice immédiate — expulser tout ce qui est impérial, punir les collaborateurs, nationaliser les mines.
 - Les **modérés** veulent la stabilité — garder les structures existantes, intégrer les anciens soldats impériaux, éviter un bain de sang.
 - Les **opportunistes** voient une chance de s'enrichir dans le chaos — contrebandiers, anciens criminels, et profiteurs.
@@ -559,7 +775,7 @@ C'est le thème le plus ambitieux de la campagne. Il émerge dans l'Acte 4, quan
 
 Le fil rouge : **Il n'y a pas de bonne réponse.** Les joueurs doivent naviguer ces tensions sans solution parfaite. C'est ce qui rend l'épilogue de la campagne mémorable — pas la bataille finale, mais les choix impossibles qui suivent.
 
-### 5. Le prix de la paix — L'Accord d'Ossus
+### 6. Le prix de la paix — L'Accord d'Ossus
 
 *Inspiration : Les accords de paix cyniques de DS9, la politique de non-intervention dans The Expanse*
 
@@ -572,12 +788,13 @@ L'Accord d'Ossus est le socle géopolitique du statu quo — et sa révélation 
 
 Le fil rouge : **Il n'y a pas de camp innocent.** Même la République a du sang sur les mains — pas par malveillance, mais par calcul. C'est le genre de vérité qui transforme des chasseurs de primes en acteurs politiques.
 
-### 6. Tableau des thèmes par acte
+### 7. Tableau des thèmes par acte
 
 | Thème | Acte 1 | Acte 2 | Acte 3 | Acte 4 |
 |---|---|---|---|---|
 | **Le libérateur qui dérape** | Hashk est idéaliste | Premiers signes de dureté | Décisions moralement grises | Autocrate ou héros ? |
 | **L'ombre de la NUS** | Invisible | Premiers "conseillers" | Infiltration des institutions | Révélation de l'agenda caché |
+| **Le prix du sang** | Premiers sacrifices (PNJ blessés/tués) | Les conséquences s'alourdissent | Les PNJ aimés souffrent | Le bilan — qui a survécu ? |
 | **Le maître du chaos** | Gekko semble inoffensif | Gekko est partout | Gekko révèle ses cartes | Gekko tente de survivre |
 | **L'après-libération** | Invisible | Graines plantées | Les fractures apparaissent | Explosion — les joueurs arbitrent |
 | **L'Accord d'Ossus** | Invisible | Révélation — choc moral | Arme politique pour tous les camps | Rompre l'accord ? À quel prix ? |
@@ -676,27 +893,45 @@ Sa logique : *"Si Arrakha ne peut pas être libre, alors Arrakha ne sera utile �
 
 ---
 
-### Révélation 4 : L'agent républicain fantôme
+### Révélation 4 : L'agent républicain fantôme — "Le Luthen du secteur Auril"
 
 **Le secret :** Quelqu'un au sein de la Nouvelle République — au-dessus du sénateur Linus Torv, dans les sphères du Renseignement Militaire de la République — fournit secrètement des armes, du financement et des renseignements à la rébellion de Hashk Ellor. Non pas pour aider Arrakha, mais pour **déstabiliser Hopner**.
 
 **La stratégie :** L'Accord d'Ossus empêche la République d'attaquer Hopner directement. Mais si Hopner est affaiblie par une rébellion interne — si le secteur devient instable par des causes "locales" — alors la République peut intervenir en tant que "force de stabilisation" sans avoir techniquement rompu l'accord. C'est une opération de changement de régime déguisée en soulèvement populaire.
 
-**L'agent :** Un personnage que les joueurs n'ont peut-être jamais vu directement. Il/elle opère via des intermédiaires, des caches d'armes "anonymes" qui apparaissent au bon moment, et des fuites d'informations militaires impériales étrangement précises. Les joueurs remarquent que Hashk reçoit parfois du matériel bien trop sophistiqué pour un mouvement de mineurs — des brouilleurs de communication de grade militaire, des codes de fréquence impériaux actualisés, des cartes précises des patrouilles de Hopner.
+#### L'agent : Nox Erso
+- **Espèce :** Humaine
+- **Âge :** ~40 ans
+- **Rôle :** Officier du Renseignement Militaire de la Nouvelle République, en mission clandestine dans le secteur Auril
+- **Référence :** *Erso* — clin d'œil au nom de famille de Jyn Erso (Rogue One), mais aucun lien de parenté. Un rappel que la rébellion a toujours exigé des sacrifices de gens ordinaires.
+
+**Couverture :** Les joueurs rencontrent Nox sous une fausse identité — peut-être une marchande de matériel, une mécanicienne itinérante, ou une informatrice indépendante qui traîne dans les mêmes cercles qu'eux sur Murkhana. Elle est **utile, compétente, et sympathique**. Elle rend des services, donne des informations justes, et ne demande jamais rien en retour — ce qui, rétrospectivement, est le plus gros red flag.
+
+**La vraie Nox :** Sous sa couverture, Nox est une opératrice de terrain chevronnée qui a servi dans les services de renseignement rebelles avant la chute de l'Empire. Elle croit sincèrement que l'Empire doit être éradiqué — chaque vestige, chaque seigneur de guerre, chaque compromis. L'Accord d'Ossus la dégoûte. Mais elle obéit à sa hiérarchie... tout en la subvertissant.
+
+Elle alimente le conflit pour une raison : forcer la main de la République. Si elle peut provoquer une crise suffisamment grave — un massacre de civils par Hopner, par exemple — le Sénat sera obligé d'intervenir, Accord ou pas. Les Murkhanais sont ses **pions involontaires**. Et elle le sait.
+
+**Le dilemme de Nox (style Luthen) :** Nox n'est pas un monstre. Elle souffre de ce qu'elle fait. Elle voit les mineurs d'Arrakha, les familles de Murkhana, et elle sait que certains d'entre eux mourront à cause des armes qu'elle a fournies — pour servir un objectif politique qu'ils ne comprendront jamais. Mais elle est convaincue que le résultat final — la chute de Hopner, la libération du secteur — justifie le coût.
+
+> *"Qu'est-ce que je sacrifie ? Le sommeil. La conscience. Les gens que j'utilise en leur faisant croire que je les aide. Je suis la pire alliée qu'ils aient jamais eue — et la seule dont ils ne savent pas qu'elle existe."*
+
+**Sa relation avec les joueurs :** Les joueurs l'apprécient d'abord comme contact fiable. Puis des incohérences s'accumulent — elle en sait trop, elle a des ressources inexplicables, elle apparaît toujours au bon moment. La révélation de sa vraie nature est un moment de trahison émotionnelle — d'autant plus douloureux qu'elle est sincèrement attachée aux joueurs.
 
 **Comment les joueurs découvrent la vérité :**
-- En enquêtant sur la source du matériel de Hashk — la piste remonte à des intermédiaires liés à la République.
+- En enquêtant sur la source du matériel de Hashk — la piste remonte à des intermédiaires liés à la République, puis à Nox.
 - Linus Torv, s'il fait suffisamment confiance aux joueurs, finit par leur avouer qu'il soupçonne l'opération mais ne peut pas la prouver — et que ses supérieurs lui disent de ne pas chercher.
 - Gekko le sait (évidemment) et peut vendre l'information — ou la garder comme assurance.
-- Un des intermédiaires est capturé ou tué, et les joueurs trouvent des preuves sur son corps/dans ses données.
+- Les joueurs surprennent Nox en communication chiffrée avec Coruscant.
+- Le Superviseur Vektor la traque aussi — il sait qu'il y a une taupe républicaine dans le secteur.
 
 **Impact sur la campagne :**
 - Ça **détruit l'innocence du camp République**. Non seulement ils ont passé l'Accord d'Ossus, mais en plus ils jouent un double jeu — ils prétendent ne pas pouvoir intervenir tout en alimentant un conflit qui tue des civils.
-- Ça **complique la relation avec Linus Torv**. Il est sincèrement du côté des joueurs, mais son institution le trahit. Est-ce qu'il couvre l'opération ? Est-ce qu'il la dénonce ? Les joueurs peuvent l'y pousser.
-- Ça **change la signification du coup d'état**. Si le soulèvement de Hashk n'est pas purement populaire mais partiellement orchestré par une puissance étrangère, est-il encore légitime ? Les mineurs qui se battent ne le savent pas — pour eux, c'est authentique. Mais la main invisible de la République en fait un outil géopolitique.
-- Ça crée un **danger d'escalade**. Si Hopner découvre que la République viole l'accord par procuration, elle pourrait rompre l'accord elle-même et menacer Ossus. Soudain, le temple de Luke est en danger — et c'est peut-être exactement ce que l'agent voulait provoquer.
+- Ça **personnalise la trahison**. Ce n'est pas une institution abstraite qui trahit — c'est Nox, quelqu'un que les joueurs connaissent et apprécient.
+- Ça **complique la relation avec Linus Torv**. Il est sincèrement du côté des joueurs, mais son institution le trahit. Quand il apprend pour Nox, il doit choisir : dénoncer sa propre institution ou fermer les yeux.
+- Ça crée un **danger d'escalade**. Si Hopner (via Vektor) découvre que la République viole l'accord par procuration, elle pourrait rompre l'accord elle-même et menacer Ossus.
+- Les joueurs doivent décider quoi faire de Nox : l'arrêter, la dénoncer, la couvrir, la confronter, ou l'utiliser à leur tour.
 
-**Timing idéal :** Acte 3 ou 4. Les joueurs pensent avoir compris tous les angles — et soudain, une couche supplémentaire de manipulation apparaît. Personne n'est ce qu'il semble.
+**Timing idéal :** Nox apparaît dès l'Acte 1-2 sous couverture. Sa vraie nature est révélée en Acte 3 ou 4.
 
 ---
 
@@ -706,9 +941,9 @@ Sa logique : *"Si Arrakha ne peut pas être libre, alors Arrakha ne sera utile �
 |---|---|---|---|---|
 | 1 | **L'Accord d'Ossus** | 2 | Linus Torv, Hashk, Gekko | La République n'est pas innocente |
 | 2 | **L'enfant de Hopner** | 2-3 | Rencontre naturelle, Gekko | Hopner devient humaine |
-| 3 | **Le projet de Forge-7** | 3 | Déserteur, infiltration | Hopner est plus dangereuse que prévu |
+| 3 | **Le projet de Forge-7** | 3 | Déserteur, infiltration, Réseau Racine | Hopner est plus dangereuse que prévu |
 | 4 | **Le Plan B de Hashk** | 3-4 | Lieutenant dissident, fouille | Hashk est prêt à tout sacrifier |
-| 5 | **L'agent républicain** | 3-4 | Enquête, Torv, Gekko | Personne ne joue franc jeu |
+| 5 | **L'agent républicain (Nox Erso)** | 3-4 | Enquête, Linus Torv, Gekko, Vektor | Personne ne joue franc jeu — trahison personnelle |
 
 ---
 
