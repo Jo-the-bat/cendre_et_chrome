@@ -20,6 +20,8 @@
 6. [Structure en Actes](#structure-en-actes)
 7. [Éléments Récurrents](#éléments-récurrents)
 8. [Thèmes & Fils Rouges](#thèmes--fils-rouges)
+9. [Révélations Majeures](#révélations-majeures)
+9. [Révélations Majeures](#révélations-majeures)
 
 ---
 
@@ -98,7 +100,7 @@ Les joueurs commencent comme de simples chasseurs de primes au service du Consor
 **Type :** Monde urbain industriel dévasté, Bordure Extérieure  
 **Système :** Système Murkhana (1ère planète), Secteur Auril, près du Tion Cluster  
 **Population :** Mélange cosmopolite — Koorivar, Aqualish, Gossams, Sugis, Gran, Chagrians, humains  
-**Gouvernement :** Aucun de facto — anarchie contrôlée par les guildes criminelles
+**Gouvernement :** Aucun de facto — anarchie apparente contrôlée en sous-main par l'Amiral Hopner via les syndicats criminels. La planète fonctionne comme une **plaque tournante du narcotrafic et de la contrebande** pour tout le secteur Auril. Les grands syndicats paient un tribut à Hopner en échange de sa non-intervention ; en retour, ils lui fournissent du renseignement et maintiennent un "ordre" criminel. Ceux qui sortent du rang sont éliminés par des mercenaires — souvent le Consortium d'Edna, sans qu'Edna sache toujours qui est le vrai commanditaire.
 
 **Description :** Autrefois une destination touristique célèbre pour ses plages noires et ses récifs coralliens, Murkhana était le quartier général de l'Alliance Corporative pendant la Guerre des Clones, et un bastion séparatiste majeur. Les bombardements orbitaux de la République ont détruit son environnement : effondrement écologique total, pluies acides, sables mouvants, et marécages toxiques.
 
@@ -210,6 +212,7 @@ Ce n'est pas une rébellion armée — c'est un mur de silence, de désobéissan
 - **Le Verdict Gris** *(en orbite)* — Le Destroyer Stellaire de classe Impérial de l'Amiral Hopner. Quand il est en orbite de Forscan Prime, il est visible depuis la surface comme une étoile menaçante. C'est autant un vaisseau de guerre qu'un symbole — mais il se déploie régulièrement dans le secteur pour projeter la puissance de Hopner (notamment vers Arrakha).
 - **Les Fermes Grises** — Le surnom donné aux communautés rurales autour de Kelden. Des villages agricoles dispersés dans les vallées et les collines, reliés par des routes de terre. C'est ici que vit la résistance passive. Les PJ qui cherchent des alliés sur Forscan Prime devront gagner la confiance de ces communautés — ce qui n'est pas facile. Elles ont appris à ne faire confiance à personne.
 - **Le Réseau Racine** — Le nom que se donne le réseau informel de résistance passive dans les campagnes. Pas de structure, pas de leader, pas d'armes — juste des gens qui se transmettent des informations, cachent des voyageurs, et ralentissent la machine impériale par mille petits actes de désobéissance quotidienne. Potentiel allié pour les joueurs, mais il faudra prouver qu'on n'est pas un espion de Hopner.
+- **La FSK (Force de Sécurité de Kelden)** — Police locale d'élite qui fonctionne en réalité comme une milice privée pour les élites de la ville. Bien équipés, bien payés, arrogants. Ils protègent les riches et répriment les pauvres sous un vernis de professionnalisme. Absents des campagnes sauf pour collecter des "contributions" ou arrêter des dissidents. Source de ressentiment profond chez les fermiers. Ambiance Cyberpunk 2077 / NCPD.
 
 ---
 
@@ -230,6 +233,8 @@ Ce n'est pas une rébellion armée — c'est un mur de silence, de désobéissan
 **Tic :** Elle caresse une vieille cicatrice sur son poignet quand elle réfléchit — la marque de son ancien maître Hutt.
 
 **Motivation :** La survie et la prospérité du Consortium. Aucune loyauté idéologique. Elle prend les contrats qui paient, mais refuse ceux qui mettraient ses gens en danger inutile. Le contrat sur le Muun la rend nerveuse — trop de factions impliquées.
+
+**Ce qu'Edna ne sait pas (ou fait semblant de ne pas savoir) :** Une part significative des contrats "d'élimination de criminels" que le Consortium exécute sur Murkhana remonte indirectement à l'Amiral Hopner. Le Consortium sert d'outil de régulation criminelle — il élimine les éléments perturbateurs pour maintenir l'équilibre que Hopner a négocié avec les syndicats. Edna soupçonne que certains contrats ont des origines impériales, mais elle ne creuse pas — tant que l'argent est bon et que ses gens ne sont pas en danger. Cette relation implicite explique pourquoi Hopner connaît le Consortium et passe par eux pour le contrat sur Hashk.
 
 ---
 
@@ -273,11 +278,33 @@ Pendant vingt ans sous l'Empire, il a observé, accumulé des contacts, et discr
 - **Rôle :** Ancienne officier de la Marine Impériale, seigneur de guerre du secteur Auril
 - **Référence :** *Grace Hopper* — pionnière de l'informatique ET contre-amirale de l'US Navy. Double parallèle parfait : une femme amirale brillante et méthodique.
 
-**Historique :** Gracia Hopner commandait un groupe de bataille impérial dans le secteur Auril quand l'Empire s'est effondré. Plutôt que de rallier les Vestiges Impériaux ou de se rendre à la Nouvelle République, elle a choisi une troisième voie : garder le contrôle de son secteur et gouverner de manière autonome. Elle a établi son siège de pouvoir sur Forscan Prime, héritant de la base impériale Forge-7 et de son infrastructure.
+**Historique :** Gracia Hopner commandait un groupe de bataille impérial dans le secteur Auril quand l'Empire s'est effondré. Après la Bataille d'Endor, quand les droïdes messagers de Palpatine ont transmis les ordres de l'**Opération Cendre** — le bombardement de planètes entières, y compris des mondes loyaux, pour punir la galaxie de la mort de l'Empereur — Hopner a **refusé**. Elle a considéré ces ordres comme de la folie destructrice, indigne d'un officier. Elle a retenu sa flotte et protégé son secteur pendant que d'autres amiraux brûlaient leurs propres mondes.
+
+Ce refus la distingue radicalement des autres seigneurs de guerre impériaux. Elle ne s'est pas non plus rendue à la Nouvelle République ni n'a rallié les Vestiges. Elle a choisi une troisième voie : garder le contrôle de son secteur et gouverner de manière autonome. Elle a établi son siège de pouvoir sur Forscan Prime, héritant de la base impériale Forge-7 et de son infrastructure.
+
+Ce refus de l'Opération Cendre est son argument moral le plus puissant : *"Quand l'Empire a voulu brûler ses propres citoyens, c'est moi qui les ai protégés. Où était la République à ce moment-là ?"* Et elle a raison — c'est ce qui rend les gens de Forscan Prime prêts à la tolérer, et c'est ce qui complique la position des joueurs.
 
 Elle se considère non pas comme une tyran, mais comme la seule adulte responsable dans la pièce. Sans elle, le secteur sombrerait dans le chaos et la piraterie. Elle a raison, en partie — sa flotte maintient les routes commerciales ouvertes et protège les convois. Mais son "ordre" repose sur des taxes écrasantes, la conscription forcée, et l'élimination silencieuse de toute opposition politique.
 
 Son coup de maître stratégique : l'**Accord d'Ossus**. Hopner a compris que la proximité du temple Jedi de Luke Skywalker sur Ossus était sa meilleure assurance-vie. En garantissant la sécurité du système Adega, elle a obtenu un pacte tacite de non-agression avec la Nouvelle République. C'est ce qui la rend si difficile à déloger — attaquer Hopner, c'est risquer de briser l'accord et de mettre le temple de Luke en danger.
+
+**Le contrôle de Murkhana — Le pacte des ombres :**
+
+Murkhana est officiellement un monde "anarchique" hors du contrôle de Hopner. En réalité, c'est l'inverse : Hopner **maîtrise Murkhana par le crime**. Son système est simple et cynique :
+
+- Les **grands syndicats criminels** de Murkhana (contrebandiers, trafiquants d'épice, réseaux de marché noir) lui versent un tribut régulier en échange de sa "non-intervention". Tant qu'ils paient, la flotte de Hopner ne s'approche pas de Murkhana et les laisse opérer librement. La planète fonctionne comme une **plaque tournante du narcotrafic et de la contrebande** pour tout le secteur Auril.
+- En échange, ces syndicats servent d'yeux et d'oreilles à Hopner. Ils lui signalent les mouvements suspects, les nouvelles arrivées, les dissidents. C'est du renseignement à bas coût.
+- Quand un criminel **sort du rang** — devient trop gourmand, trop visible, ou menace les intérêts de Hopner — elle engage des **mercenaires et des chasseurs de primes** pour l'éliminer discrètement. C'est précisément le rôle que joue le **Consortium d'Edna** sans le savoir pleinement. Edna pense prendre des contrats normaux de la guilde — en réalité, beaucoup de ces contrats remontent indirectement à Hopner, qui utilise le Consortium comme un outil de régulation criminelle.
+- Cette relation explique pourquoi Hopner connaît le Consortium et pourquoi elle passe par eux pour le contrat sur Hashk — elle a déjà utilisé leurs services via des intermédiaires.
+
+**La Force de Sécurité de Kelden (FSK) :**
+
+Sur Forscan Prime, Hopner ne fait pas régner l'ordre uniquement par les stormtroopers. Elle a créé une **force de police locale d'élite**, la FSK, censée "protéger et servir" les citoyens. En réalité :
+
+- La FSK est une **milice privée au service des élites** de Kelden — les commerçants, les administrateurs, les officiers à la retraite. Si vous avez de l'argent ou des connexions, la FSK vous protège. Si vous n'en avez pas, elle vous ignore — ou pire, elle vous désigne comme "élément perturbateur".
+- Les agents de la FSK sont bien équipés (armure légère, blasters de qualité, speeders de patrouille), bien payés, et arrogants. Ils méprisent les stormtroopers "réguliers" et se considèrent comme au-dessus d'eux.
+- Dans les campagnes de Forscan Prime, la FSK n'intervient jamais. Les fermiers du Réseau Racine ne les voient que quand ils viennent collecter des "contributions" ou arrêter un dissident. C'est une source de ressentiment profond.
+- L'ambiance de la FSK est très **Cyberpunk 2077 / NCPD** : une police corporatiste qui protège les riches et réprime les pauvres, avec un vernis de professionnalisme qui masque la corruption.
 
 **Forces :**
 - 1 Destroyer Stellaire de classe Impérial — le *Verdict Gris* (vaisseau amiral)
@@ -285,6 +312,8 @@ Son coup de maître stratégique : l'**Accord d'Ossus**. Hopner a compris que la
 - ~12 corvettes et patrouilleurs
 - Garnisons au sol sur les mondes clés (dont Arrakha)
 - Pilotes TIE vétérans et stormtroopers disciplinés
+- Réseau criminel sur Murkhana (renseignement, tribut)
+- Force de Sécurité de Kelden (FSK) — milice d'élite sur Forscan Prime
 
 **Personnalité :** Impeccable, posée, analytique. Elle ne hausse jamais la voix. Elle traite ses subordonnés avec un respect glacial. Elle joue aux échecs holographiques seule dans ses quartiers et planifie trois coups à l'avance. Elle ne veut pas tuer le Muun — elle veut le capturer pour l'interroger et démanteler tout son réseau.
 
@@ -405,7 +434,7 @@ Le coup d'état de Hashk est lancé en avance — soit parce que les joueurs l'o
 
 **Camp Hashk :** Le coup d'état réussit, mais la NUS envoie ses propres "conseillers" qui ressemblent beaucoup à des occupants. Hashk perd-il le contrôle de son propre mouvement ?
 
-**Camp République :** Linus Torv obtient un mandat diplomatique, mais les négociations sont lentes et fragiles. Quelqu'un sabote le processus — qui ?
+**Camp République :** Linus Torv obtient un mandat diplomatique, mais les négociations sont lentes et fragiles. Quelqu'un sabote le processus — les joueurs découvrent qu'un agent républicain alimente secrètement le conflit pour provoquer Hopner. Torv est horrifié.
 
 **Camp Hutt :** Gekko propose une alliance pragmatique. Arrakha devient une zone franche sous protection Hutt. C'est stable, mais à quel prix moral ?
 
@@ -418,6 +447,11 @@ Le coup d'état de Hashk est lancé en avance — soit parce que les joueurs l'o
 - **Créatures** des profondeurs des mines réveillées par les combats
 - **Missions d'infiltration** dans les camps ennemis
 
+#### Révélations de l'Acte 3 (voir section Révélations Majeures pour les détails)
+- **Le Projet Secret de Forge-7** — Les joueurs découvrent ce que Hopner prépare dans les niveaux inférieurs de sa base. Point de non-retour moral.
+- **Le Plan B de Hashk** — Des charges explosives sont cachées dans les mines. Si Hashk perd, il est prêt à tout détruire. Course contre la montre.
+- **L'Agent Républicain** — Quelqu'un dans la République alimente le conflit en secret. Personne ne joue franc jeu.
+
 ---
 
 ### ACTE 4 — "LES CENDRES"
@@ -429,11 +463,13 @@ Le coup d'état de Hashk est lancé en avance — soit parce que les joueurs l'o
 
 #### Éléments finaux possibles
 - Confrontation finale avec la faction principale opposée aux joueurs
-- Le sort de **Hashk Ellor** — mort, capturé, libéré, ou au pouvoir ?
-- Le sort de l'**Amiral Hopner** — vaincue, alliée, ou toujours en embuscade ?
+- Le sort de **Hashk Ellor** — mort, capturé, libéré, ou au pouvoir ? Si le Plan B est encore actif, les joueurs doivent l'en empêcher — ou le convaincre d'y renoncer.
+- Le sort de l'**Amiral Hopner** — vaincue, alliée, ou toujours en embuscade ? Son enfant sur Arrakha peut être un levier de négociation ou un facteur de complication émotionnelle.
+- **Le Projet de Forge-7** — Si Hopner est acculée, elle active son projet secret en dernier recours. Les joueurs doivent infiltrer ou détruire la base avant qu'il n'aboutisse.
 - **Gekko** tente un dernier coup — il a toujours un plan de secours
 - Le **Consortium d'Edna** survit-il ? Edna doit peut-être faire un sacrifice
-- Possibilité d'une intervention de la **Nouvelle République** en force (ou pas)
+- Possibilité d'une intervention de la **Nouvelle République** en force — mais seulement si l'Accord d'Ossus est brisé, ce qui met le temple de Luke en danger
+- **L'après-libération** — Qui gouverne ? Que fait-on des collaborateurs ? Arrakha fracturée entre radicaux, modérés et opportunistes. Forscan Prime entre citadins et campagnards.
 
 #### Épilogue
 Qu'est devenu Arrakha ? Murkhana ? Le Consortium ? Chaque joueur décrit ce que fait son personnage après la fin.
@@ -545,6 +581,134 @@ Le fil rouge : **Il n'y a pas de camp innocent.** Même la République a du sang
 | **Le maître du chaos** | Gekko semble inoffensif | Gekko est partout | Gekko révèle ses cartes | Gekko tente de survivre |
 | **L'après-libération** | Invisible | Graines plantées | Les fractures apparaissent | Explosion — les joueurs arbitrent |
 | **L'Accord d'Ossus** | Invisible | Révélation — choc moral | Arme politique pour tous les camps | Rompre l'accord ? À quel prix ? |
+
+---
+
+## RÉVÉLATIONS MAJEURES
+
+Ces révélations sont les "bombes narratives" de la campagne — des informations cachées qui, une fois découvertes, redéfinissent la situation et forcent les joueurs à reconsidérer leurs alliances. Elles sont conçues pour être révélées progressivement, à des moments clés de l'histoire.
+
+Avec l'Accord d'Ossus (déjà détaillé dans les Thèmes), la campagne compte **5 révélations majeures**, idéalement réparties comme suit :
+
+| Révélation | Acte idéal | Faction touchée |
+|---|---|---|
+| L'Accord d'Ossus | Acte 2 | Nouvelle République / Hopner |
+| L'enfant de Hopner | Acte 2-3 | Hopner |
+| Le projet secret de Forge-7 | Acte 3 | Hopner |
+| Le Plan B de Hashk | Acte 3-4 | Hashk / Arrakha |
+| L'agent républicain fantôme | Acte 3-4 | Nouvelle République |
+
+---
+
+### Révélation 1 : L'enfant de Hopner
+
+**Le secret :** L'Amiral Gracia Hopner a un enfant — un fils ou une fille (au choix du MJ selon la dynamique de la table) — qui vit sur Arrakha sous une fausse identité, parmi les mineurs. Hopner ne l'a pas envoyé(e) là comme espion. C'est le contraire : l'enfant a rejeté sa mère et tout ce qu'elle représente, et a disparu il y a plusieurs années pour vivre une vie anonyme loin de l'Empire.
+
+**L'enfant :** À développer en détail, mais voici les grandes lignes :
+- **Âge :** ~25 ans
+- **Couverture :** Travaille dans les mines ou tient un petit commerce à Torren. Connu(e) et apprécié(e) des locaux. Personne ne sait qui est son parent.
+- **Position politique :** Sympathisant(e) du mouvement de Hashk, sans être un(e) combattant(e). Il/elle aide le Terrier en fournissant discrètement des médicaments ou des informations.
+- **Relation avec Hopner :** Complexe. Il/elle déteste ce que sa mère fait, mais ne la hait pas en tant que personne. Hopner, de son côté, sait exactement où est son enfant (elle a des espions partout) mais refuse d'intervenir — c'est la seule chose dans le secteur qu'elle ne contrôle pas, et ça la ronge.
+
+**Comment les joueurs découvrent la vérité :**
+- En passant du temps sur Arrakha, les joueurs rencontrent ce PNJ naturellement. Il/elle devient un allié ou un contact récurrent.
+- Des indices subtils s'accumulent : un accent trop éduqué pour un mineur, une connaissance étrange des procédures militaires, une réaction de panique quand des officiers impériaux passent.
+- La révélation peut venir d'un espion de Hopner qui essaie de récupérer l'enfant, de Gekko qui vend l'information, ou de l'enfant lui-même/elle-même dans un moment de confiance.
+
+**Impact sur la campagne :**
+- Ça **humanise Hopner**. Elle n'est plus une stratège froide sans faille — elle est aussi une mère qui a perdu son enfant à cause de ses propres choix. Les joueurs qui voulaient l'éliminer hésitent.
+- Ça crée un **levier**. L'enfant peut être utilisé(e) comme monnaie d'échange, comme intermédiaire pour négocier avec Hopner, ou comme moyen de la déstabiliser. Mais l'utiliser ainsi a un coût moral.
+- Ça pose un **dilemme concret** : si les joueurs attaquent Arrakha avec les forces de Hopner, l'enfant est en danger. Si les joueurs défendent Arrakha contre Hopner, ils protègent son enfant — sans qu'elle le sache, ou en le sachant.
+
+**Timing idéal :** Fin d'Acte 2 ou début d'Acte 3. Les joueurs connaissent déjà Hopner et la détestent (ou la respectent). La révélation vient compliquer un jugement qui semblait simple.
+
+---
+
+### Révélation 2 : Le projet secret de Forge-7
+
+**Le secret :** Dans les niveaux inférieurs de Forge-7, la base impériale de Forscan Prime, Hopner mène un projet classifié que même ses officiers supérieurs ne connaissent pas dans son intégralité. Ce projet change la nature de la menace qu'elle représente.
+
+**Options (à choisir selon la direction que prend la campagne) :**
+
+**Option A — Le Ravageur :** Hopner a récupéré et répare secrètement un deuxième vaisseau capital — un croiseur lourd de classe Arquitens ou une frégate lourde gravement endommagée, trouvée dans le Cron Drift. Si la réparation aboutit, ses forces passent de "modestes" à "redoutables". Le doonium d'Arrakha sert en partie à ce projet. Ça explique pourquoi elle est si déterminée à garder les mines.
+
+**Option B — Le Programme Endoctrinement :** Hopner a mis en place un programme de conditionnement pour les conscrits, inspiré du modèle du Premier Ordre (sans qu'elle le sache — la convergence est idéologique, pas organisationnelle). Les jeunes de Forscan Prime et d'Arrakha enlevés pour la conscription ne sont pas juste formés — ils sont rééduqués, leur identité effacée. Les joueurs découvrent des "soldats" qui ne se souviennent plus de leurs noms.
+
+**Option C — L'Arme orbitale :** Hopner a converti une plateforme de défense orbitale en arme de bombardement capable de vitrifier une zone de la taille d'une ville depuis l'orbite. C'est son option nucléaire — si elle perd le contrôle du secteur, elle peut menacer de tout détruire. Un "Ordre de Base Delta Zéro" à l'échelle locale.
+
+**Comment les joueurs découvrent la vérité :**
+- Des indices disséminés : conscrits disparus qui ne reviennent jamais, cargaisons de doonium qui ne correspondent pas aux besoins de maintenance de la flotte, des ouvriers de Forge-7 qui murmurent dans les cantinas de Kelden.
+- Une mission d'infiltration dans Forge-7 (session de haut risque, Acte 3) révèle le projet.
+- Un officier de Hopner qui déserte et cherche refuge auprès des joueurs avec des preuves.
+
+**Impact sur la campagne :**
+- Ça brise l'image du "seigneur de guerre raisonnable". Hopner n'est pas juste une administratrice autoritaire — elle prépare quelque chose de dangereux.
+- Ça crée une **urgence**. Avant cette révélation, les joueurs peuvent prendre leur temps. Après, il y a une horloge qui tourne.
+- Ça donne un **objectif clair** : neutraliser le projet avant qu'il ne soit opérationnel, quel que soit le camp des joueurs.
+
+**Timing idéal :** Milieu de l'Acte 3. La guerre est ouverte, les joueurs pensent comprendre les enjeux — et soudain, l'escalade.
+
+---
+
+### Révélation 3 : Le Plan B de Hashk — "La Politique de la Terre Brûlée"
+
+**Le secret :** Hashk Ellor a un plan de contingence en cas d'échec du coup d'état. Si les forces de Hopner reprennent Arrakha, il a positionné des charges explosives dans les galeries principales des Puits Rouges et des mines profondes. L'activation de ces charges provoquerait l'effondrement de l'ensemble du réseau minier, détruisant définitivement les réserves de doonium et tuant potentiellement des milliers de mineurs encore dans les galeries.
+
+Sa logique : *"Si Arrakha ne peut pas être libre, alors Arrakha ne sera utile à personne. Sans le doonium, Hopner n'a aucune raison de rester."*
+
+**Les détails :**
+- Les charges sont des détonateurs miniers industriels détournés — pas de la haute technologie, mais suffisamment puissants pour provoquer des effondrements en chaîne.
+- Seul Hashk et 2-3 de ses lieutenants les plus fidèles connaissent le plan. Les mineurs ordinaires qui le soutiennent n'en ont aucune idée.
+- Les charges sont déjà en place. Ce n'est pas une menace théorique — c'est un bouton sur lequel Hashk peut appuyer.
+- Un détonateur de secours est caché quelque part sur Hashk lui-même ou dans un endroit secret.
+
+**Comment les joueurs découvrent la vérité :**
+- Un lieutenant de Hashk, pris de doutes moraux, révèle le plan aux joueurs en secret.
+- Les joueurs trouvent des schémas d'explosifs dans les affaires de Hashk lors d'une fouille ou infiltration.
+- Hashk lui-même révèle le plan dans un moment de pression — soit comme menace, soit comme confession désespérée.
+
+**Impact sur la campagne :**
+- C'est la révélation qui **brise le plus**. Hashk, le libérateur que les joueurs ont peut-être aidé, est prêt à sacrifier les gens mêmes qu'il prétend sauver. Même s'il pense que c'est un dernier recours, c'est monstrueux.
+- Les joueurs qui ont rejoint le camp de Hashk sont confrontés à un **choix impossible** : le confronter (risquant de perdre leur allié), le dénoncer (le trahir), ou essayer de désamorcer les charges en secret (mission technique et narrative tendue).
+- Si le Plan B est activé, les conséquences sont catastrophiques — non seulement pour Arrakha, mais pour l'équilibre politique du secteur entier (plus de doonium = Hopner affaiblie, mais aussi la NUS frustrée et les Hutts furieux).
+
+**Timing idéal :** Fin d'Acte 3 ou début d'Acte 4. Le conflit est à son paroxysme. Hashk est au pied du mur. Le désamorçage des charges peut être le climax de l'Acte 4 — une course contre la montre littérale.
+
+---
+
+### Révélation 4 : L'agent républicain fantôme
+
+**Le secret :** Quelqu'un au sein de la Nouvelle République — au-dessus du sénateur Linus Torv, dans les sphères du Renseignement Militaire de la République — fournit secrètement des armes, du financement et des renseignements à la rébellion de Hashk Ellor. Non pas pour aider Arrakha, mais pour **déstabiliser Hopner**.
+
+**La stratégie :** L'Accord d'Ossus empêche la République d'attaquer Hopner directement. Mais si Hopner est affaiblie par une rébellion interne — si le secteur devient instable par des causes "locales" — alors la République peut intervenir en tant que "force de stabilisation" sans avoir techniquement rompu l'accord. C'est une opération de changement de régime déguisée en soulèvement populaire.
+
+**L'agent :** Un personnage que les joueurs n'ont peut-être jamais vu directement. Il/elle opère via des intermédiaires, des caches d'armes "anonymes" qui apparaissent au bon moment, et des fuites d'informations militaires impériales étrangement précises. Les joueurs remarquent que Hashk reçoit parfois du matériel bien trop sophistiqué pour un mouvement de mineurs — des brouilleurs de communication de grade militaire, des codes de fréquence impériaux actualisés, des cartes précises des patrouilles de Hopner.
+
+**Comment les joueurs découvrent la vérité :**
+- En enquêtant sur la source du matériel de Hashk — la piste remonte à des intermédiaires liés à la République.
+- Linus Torv, s'il fait suffisamment confiance aux joueurs, finit par leur avouer qu'il soupçonne l'opération mais ne peut pas la prouver — et que ses supérieurs lui disent de ne pas chercher.
+- Gekko le sait (évidemment) et peut vendre l'information — ou la garder comme assurance.
+- Un des intermédiaires est capturé ou tué, et les joueurs trouvent des preuves sur son corps/dans ses données.
+
+**Impact sur la campagne :**
+- Ça **détruit l'innocence du camp République**. Non seulement ils ont passé l'Accord d'Ossus, mais en plus ils jouent un double jeu — ils prétendent ne pas pouvoir intervenir tout en alimentant un conflit qui tue des civils.
+- Ça **complique la relation avec Linus Torv**. Il est sincèrement du côté des joueurs, mais son institution le trahit. Est-ce qu'il couvre l'opération ? Est-ce qu'il la dénonce ? Les joueurs peuvent l'y pousser.
+- Ça **change la signification du coup d'état**. Si le soulèvement de Hashk n'est pas purement populaire mais partiellement orchestré par une puissance étrangère, est-il encore légitime ? Les mineurs qui se battent ne le savent pas — pour eux, c'est authentique. Mais la main invisible de la République en fait un outil géopolitique.
+- Ça crée un **danger d'escalade**. Si Hopner découvre que la République viole l'accord par procuration, elle pourrait rompre l'accord elle-même et menacer Ossus. Soudain, le temple de Luke est en danger — et c'est peut-être exactement ce que l'agent voulait provoquer.
+
+**Timing idéal :** Acte 3 ou 4. Les joueurs pensent avoir compris tous les angles — et soudain, une couche supplémentaire de manipulation apparaît. Personne n'est ce qu'il semble.
+
+---
+
+### Tableau récapitulatif des révélations
+
+| # | Révélation | Acte | Source possible | Ce que ça change |
+|---|---|---|---|---|
+| 1 | **L'Accord d'Ossus** | 2 | Linus Torv, Hashk, Gekko | La République n'est pas innocente |
+| 2 | **L'enfant de Hopner** | 2-3 | Rencontre naturelle, Gekko | Hopner devient humaine |
+| 3 | **Le projet de Forge-7** | 3 | Déserteur, infiltration | Hopner est plus dangereuse que prévu |
+| 4 | **Le Plan B de Hashk** | 3-4 | Lieutenant dissident, fouille | Hashk est prêt à tout sacrifier |
+| 5 | **L'agent républicain** | 3-4 | Enquête, Torv, Gekko | Personne ne joue franc jeu |
 
 ---
 
