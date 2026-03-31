@@ -5,7 +5,7 @@
 **Époque :** ~9 ABY — La galaxie post-Endor  
 **Secteur :** Secteur Auril, Bordure Extérieure, aux portes du Tion Cluster  
 **Nombre de joueurs :** 6  
-**Durée estimée :** 25+ sessions (longue campagne)  
+**Durée estimée :** 30+ sessions (longue campagne)  
 **Ton :** Moralement ambigu — chasse de primes, politique, guerre
 
 ---
@@ -123,11 +123,24 @@ Avant les bombardements, Murkhana était un monde de beauté — océans noirs, 
 - Lieu principal d'enquête et d'interactions sociales
 - Rencontres avec les informateurs, le milieu criminel, les agents de Gekko le Hutt
 
+**Le Cimetière de Fer — L'héritage de la Guerre des Clones :**
+
+Murkhana était le quartier général de l'Alliance Corporative — ce qui signifie que pendant la Guerre des Clones, la planète abritait des **usines de droïdes, des entrepôts militaires, et des armées entières** de droïdes de combat. Les bombardements orbitaux de la République ont détruit les usines, mais pas les droïdes. Des dizaines de milliers de B1, de B2 Super Battle Droids, de Droidekas, de tanks AAT et de vaisseaux vautours gisent dans les ruines — désactivés, endommagés, ensevelis sous des décennies de débris.
+
+Sous l'Empire, les sanctions interdisaient la récupération de matériel militaire séparatiste. Mais depuis la chute de l'Empire, la récupération de droïdes est devenue une **industrie à part entière** sur Murkhana. Toute une économie s'est développée :
+
+- **Les Ferrailleurs** — Des mécaniciens, des bricoleurs, et des ingénieurs autodidactes qui fouillent les ruines à la recherche de droïdes récupérables. Ils démontent, réparent, reprogramment et revendent. C'est un métier dangereux (les ruines sont instables, les droïdes parfois encore armés) mais lucratif.
+- **Le Marché des Carcasses** — Un immense bazar en plein air dans les niveaux bas de Murkhana City, installé dans et autour des épaves de walkers et de vaisseaux de la Guerre des Clones. On y trouve des pièces de droïdes, des processeurs, des servomoteurs, des blindages, et parfois des unités complètes encore fonctionnelles. C'est ici que Hashk achète son matériel — et c'est ici que les syndicats approvisionnent leurs propres droïdes de sécurité.
+- **Les Reprogrammeurs** — Des spécialistes rares et précieux, capables de reprogrammer un droïde de combat pour un nouveau maître. Ils travaillent dans l'ombre — c'est techniquement illégal même post-Empire, et Hopner considère la réactivation de droïdes CIS comme un acte séditieux. Les meilleurs reprogrammeurs sont courtisés par toutes les factions.
+
+**Conséquence pour la campagne :** Les droïdes de combat sont omniprésents sur Murkhana — pas comme une curiosité, mais comme une réalité quotidienne. Les habitants portent des pièces d'armure de B2 recyclées en protection. Les gangs utilisent des B1 modifiés comme gardes. Les enfants jouent dans les carcasses de chars AAT. Et sous la surface, deux armées parallèles se constituent dans l'ombre : celle de Hashk, et celle des syndicats.
+
 **Lieux notables dans Murkhana City :**
 - **La Tour Argente** — Ancien QG de l'Alliance Corporative, partiellement effondrée. Les niveaux inférieurs servent de marché noir. Hashk y a un bureau secret.
 - **Le Nid d'Edna** — Le quartier général du Consortium, installé dans un ancien hangar industriel reconverti. Salle commune, armurerie, quartiers spartiates mais propres.
 - **Les Fosses** — Le quartier le plus bas de la ville, inondé en permanence par des eaux toxiques. Repaire de contrebandiers et de désespérés. On y trouve tout, si on sait à qui demander.
 - **Le Port Gris** — Spatioport principal, contrôlé par un syndicat de dockers corrompus. Point de départ vers Arrakha et le reste du secteur.
+- **Le Marché des Carcasses** — Bazar en plein air dans les épaves de la Guerre des Clones. Pièces de droïdes, processeurs, servomoteurs, unités complètes parfois. Le cœur de l'économie de récupération. Ambiance : souk dans un cimetière de machines.
 
 ---
 
@@ -313,11 +326,28 @@ Hashk a passé vingt ans à préparer ce moment. Il connaît Murkhana City mieux
   - Identifier les syndicats "récupérables" (petits gangs qui exploitent leur quartier mais pourraient être retournés) et les syndicats "irrécupérables" (les gros trafiquants qui sont les interlocuteurs directs de Hopner).
   - Constituer un réseau de cellules populaires dans chaque quartier de Murkhana City — pas encore une milice, mais des gens prêts à agir quand le signal sera donné.
   - Obtenir des armes via le marché noir et des contacts NUS (et à son insu, via l'agent républicain — voir Révélation 5).
+  - **Constituer une armée de droïdes.** C'est le projet le plus ambitieux et le plus secret de Hashk. Via le Marché des Carcasses et des fouilles clandestines dans les ruines, ses ferrailleurs récupèrent et réactivent des droïdes de combat de l'ère séparatiste. Les meilleurs reprogrammeurs de Murkhana travaillent pour lui dans des ateliers cachés.
+
+- **L'armée de droïdes de Hashk — "Les Rouillés" :**
+  - **B1 réactivés (~200 unités)** — Le gros des forces. Vieux, mal entretenus, parfois comiques dans leurs dysfonctionnements (voix glitchées, membres manquants, protocoles obsolètes). Mais en nombre, ils font la différence. Beaucoup ont été modifiés par les ferrailleurs murkhanais : blindages soudés à la main, armes non standard, peintures de guerre murkhanaies.
+  - **B2 Super Battle Droids (~30 unités)** — Plus rares, plus difficiles à réactiver, beaucoup plus dangereux. Hashk les garde en réserve pour les objectifs critiques (assaut de la garnison, confrontation avec les stormtroopers). Certains sont en état presque neuf — récupérés dans des entrepôts souterrains scellés depuis la guerre.
+  - **Droidekas (~5 unités)** — Le trésor de Hashk. Cinq Destroyers réactivés, capables de se déployer en mode bouclier. Extrêmement dangereux. Hashk les considère comme son "arme de dissuasion" — les déployer signifie que c'est sérieux.
+  - **Droïdes customs "Bricolés"** — Des créations uniques des ferrailleurs murkhanais. Des châssis de B1 avec des bras de droïdes de chargement, des torses de B2 montés sur des pattes de droïdes araignées, des tourelles de chars montées sur des plateformes mobiles. Pas standardisés, pas fiables, mais terrifiants et imprévisibles. Certains ont des noms donnés par les ferrailleurs — les Murkhanais se sont attachés à leurs machines.
+  - **1 char AAT** — Un seul, récupéré dans un entrepôt effondré et remis en état par une équipe de ferrailleurs sur plusieurs mois. Il ne fonctionne pas parfaitement (le système de visée dérive, le moteur cale), mais c'est un char. Hashk le garde caché dans les niveaux bas pour le jour du soulèvement.
+
+- **Les droïdes des syndicats — "Les Chromés" :**
+  Les syndicats de Murkhana ont aussi puisé dans le cimetière de droïdes, mais avec une approche différente : moins nombreux, mieux équipés, et utilisés comme **gardes personnels et forces de sécurité**. Contrairement à Hashk qui a une armée, les syndicats ont des escouades d'élite :
+  - **B1 modifiés "Sentinelles"** — Reprogrammés comme gardes statiques aux portes des entrepôts, des laboratoires d'épice, et des QG de syndicats. Peints en noir ou chromé. Plus agressifs que les standards — ils tirent d'abord.
+  - **B2 "Gros Bras"** — Les syndicats les plus puissants ont chacun quelques B2 comme gardes du corps pour leurs chefs. Symbole de statut autant que de force.
+  - **Droïdes de combat modifiés** — Des créations sur mesure : un droïde assassin monté à partir de pièces de commando, un droïde de sécurité avec un lance-flammes intégré, un B1 sniper avec un module de visée de chasseur stellaire. Rares, chers, dangereux.
+  - Les syndicats n'ont **pas** de Droidekas ni de chars — c'est la ligne qui sépare leur puissance de feu de celle de Hashk.
+
+  **Pour la campagne :** Pendant le soulèvement, les joueurs verront des droïdes des deux camps s'affronter dans les rues de Murkhana City — des B1 rouillés portant des bannières murkhanaies contre des B2 chromés défendant les QG des syndicats. C'est un écho de la Guerre des Clones, rejouée à petite échelle par des gens qui n'ont jamais connu la paix.
 
 - **Le soulèvement :**
   - **Étape 1 — Couper les communications de Hopner :** Neutraliser les relais que les syndicats utilisent pour contacter la flotte de Hopner. Sans communication, les syndicats perdent leur "assurance-vie" impériale.
   - **Étape 2 — Le Chant des Marées :** Le signal. Quand le premier Murkhanais commence à chanter le Chant des Marées dans les Fosses, les autres suivent. De quartier en quartier, le Chant se propage à travers Murkhana City. Les cellules de quartier se soulèvent simultanément. Les habitants ferment les accès, bloquent les routes, encerclent les QG des syndicats. Ce n'est pas un assaut militaire — c'est une ville entière qui chante, qui marche, et qui dit "c'est fini". *(Style funérailles de Maarva / soulèvement de Ferrix dans Andor.)*
-  - **Étape 3 — Neutraliser les syndicats :** Les cellules les mieux armées (avec les droïdes B1 réactivés et les mercenaires) attaquent les positions des grands syndicats pendant que la population les isole. Hashk veut les chasser, pas les massacrer — mais il est prêt à accepter de la violence si nécessaire.
+  - **Étape 3 — Neutraliser les syndicats :** Les cellules les mieux armées déploient les Rouillés — B1, B2, et droïdes customs marchent dans les rues de Murkhana aux côtés des miliciens. Les Droidekas sont réservés pour les QG les mieux défendus. Le char AAT avance dans les niveaux bas. En face, les syndicats déploient leurs Chromés — B1 sentinelles et B2 gardes du corps. Les joueurs (selon leur camp) se retrouvent au milieu d'une bataille de droïdes dans les rues d'une mégalopole — un écho sale et bricolé de la Guerre des Clones.
   - **Étape 4 — Gouvernement provisoire :** Hashk installe un conseil populaire avec des représentants de chaque quartier. Il se positionne comme "coordinateur", pas comme dictateur — du moins au début.
 
 - **La division de la population (le vrai défi) :** Murkhana n'est pas unanime. La population est divisée :
@@ -339,13 +369,13 @@ La Phase 2 se prépare en même temps que la Phase 1, mais l'exécution est déc
   - Envoyer des agents sur Arrakha pour rallier les mineurs murkhanais. Beaucoup sont déjà en colère — ils ont été arrachés à Murkhana, forcés de travailler dans des conditions brutales. Il suffit de leur donner de l'espoir et une organisation.
   - Créer le Terrier — un camp secret dans les canyons d'Arrakha, base de la résistance locale.
   - Financer des cliniques et des écoles pour gagner la confiance des mineurs (même méthode que sur Murkhana).
-  - Réactiver d'anciens droïdes de combat B1 acheminés depuis Murkhana via des cargos de contrebande.
+  - Réactiver des droïdes de combat acheminés depuis Murkhana via des cargos de contrebande — principalement des B1 et quelques B2. Moins nombreux que sur Murkhana (environ 50 B1, 10 B2), mais suffisants pour compenser le manque de combattants entraînés parmi les mineurs.
   - Obtenir des renseignements sur la garnison impériale et les patrouilles du Verdict Gris.
 
 - **Le coup d'état sur Arrakha :**
   - **Étape 1 — Neutraliser les communications :** Détruire le relais impérial à Torren pour isoler la garnison.
   - **Étape 2 — Le Chant remonte des galeries :** Le même signal qu'à Murkhana. Le Chant des Marées résonne dans les mines, puis dans les canyons, puis dans Torren. Grève générale — des milliers de Murkhanais qui refusent de descendre dans les mines et marchent sur la ville en chantant. Le même hymne, à des millions de kilomètres de chez eux.
-  - **Étape 3 — Assaut sur la garnison :** La milice du Terrier et les droïdes B1 attaquent la caserne pendant que les mineurs submergent les défenses par le nombre. Capturer le Préfet Daran Null.
+  - **Étape 3 — Assaut sur la garnison :** La milice du Terrier, les droïdes B1/B2 et les mineurs armés attaquent la caserne pendant que la grève submerge les défenses par le nombre. Capturer le Préfet Daran Null.
   - **Étape 4 — Déclaration d'indépendance :** Arrakha se déclare libre et demande la protection de la NUS.
 
 - **Le timing crucial :** Idéalement, le soulèvement d'Arrakha est lancé **pendant que Hopner est occupée par la crise sur Murkhana**, ou quand le Verdict Gris est en patrouille loin du système. Si les deux soulèvements sont simultanés, Hopner doit choisir où envoyer ses forces — et elle ne peut pas être partout.
@@ -368,7 +398,7 @@ Le plan est intelligent mais fragile. Voici les points de rupture que les joueur
 | **Deux fronts simultanés** | Hashk n'a pas assez de forces pour mener les deux soulèvements à pleine puissance en même temps — si l'un échoue, l'autre est fragilisé |
 | **Division de Murkhana** | Les profiteurs du système criminel peuvent saboter le soulèvement de l'intérieur ou vendre des informations à Hopner |
 | **Dépendance à la vitesse** | Si Hopner est prévenue trop tôt, elle peut concentrer ses forces sur un front et écraser l'autre |
-| **Droïdes B1 peu fiables** | Les droïdes sont vieux et mal programmés — un bon mécanicien/pirate pourrait les retourner ou les désactiver |
+| **Droïdes peu fiables** | Les Rouillés sont vieux et bricolés — un bon mécanicien/pirate pourrait les retourner, les désactiver, ou provoquer des dysfonctionnements en chaîne. Les syndicats ont les mêmes faiblesses avec leurs Chromés. |
 | **Mercenaires sans loyauté** | Les mercenaires se battent pour l'argent, pas pour la cause. Si Gekko ou Hopner offre plus, ils changent de camp |
 | **La NUS a son propre agenda** | Les "conseillers" de la NUS ne sont pas là pour aider — ils sont là pour contrôler (voir Thème 2) |
 | **Les armes viennent de la République** | Si les joueurs révèlent cette information, la légitimité des soulèvements est entamée (voir Révélation 5) |
@@ -511,38 +541,37 @@ Les joueurs pourront, au fil de la campagne, choisir de s'allier à l'un de ces 
 ## STRUCTURE EN ACTES
 
 ### ACTE 1 — "LA PRIME"
-**Sessions :** 0 à 6  
+**Sessions :** 0 à 9  
 **Ton :** Aventure, découverte, humour  
-**Objectif narratif :** Les joueurs apprennent leur métier, s'attachent au Consortium, et découvrent que leur cible est plus complexe qu'une simple prime.
+**Objectif narratif :** Les joueurs découvrent le secteur Auril à travers ses trois mondes (Murkhana, Arrakha, Forscan Prime), s'attachent au Consortium et à la culture murkhanaise, et réalisent progressivement que leur cible est plus complexe qu'une simple prime. Hashk les teste via des intermédiaires avant de se montrer. Edna soutient les joueurs et fournit des missions secondaires.
 
 #### Déroulement
 
-**Session 0 :** Création des personnages. Déterminer comment chaque PJ arrive dans le Consortium d'Edna.
-
-**Arc principal :** Edna et Basch confient aux joueurs leur première vraie mission en équipe : retrouver Hashk Ellor, un Muun recherché par un client anonyme (ils ne savent pas encore que c'est le seigneur de guerre). La prime est généreuse — trop généreuse. Edna le remarque et met en garde les joueurs.
+**Arc principal :** Edna et Basch confient aux joueurs la traque de Hashk Ellor, un Muun recherché par un client anonyme. La prime est de 50 000 crédits — trop généreuse. Edna le remarque et met en garde les joueurs. Ce que personne ne sait, c'est que Hashk est au courant de la prime et orchestre un parcours de "conversion" : il teste les joueurs via des intermédiaires pour évaluer s'ils peuvent devenir des alliés. Edna, de son côté, est plus ou moins au courant de ce qui se trame — elle soutient les joueurs, fournit des missions secondaires quand la table n'est pas complète, et les suit dans leurs démarches.
 
 #### Éléments clés
-- 1 mission d'introduction pour apprendre les règles : capture du chef de gang Vekk Draal (enquête sociale, combat au blaster, combat spatial)
-- Enquête dans les bas-fonds de Murkhana City pour retrouver la trace du Muun — les joueurs découvrent la culture murkhanaise (Pierres Noires au cou des habitants, le Chant des Marées la nuit dans les Fosses), le poids des syndicats, et les premiers signes que quelqu'un organise la population
-- Rencontre avec le milieu criminel local, premiers contacts avec les agents de Gekko le Hutt (Fenn Sudo)
-- Rencontre avec **Nox Erso** sous couverture — une informatrice utile et sympathique qui aide les joueurs sans rien demander
-- Les joueurs croisent des signes de la conscription : un convoi de Murkhanais embarquant au Port Gris pour Arrakha, des familles séparées. Premier lien avec la colonie minière.
-- Premier voyage vers Arrakha en suivant une piste — découverte du système d'exploitation (quotas, endettement, Gorges de Lucas)
-- Découverte progressive : le Muun n'est pas un criminel en fuite, c'est un leader politique qui prépare un soulèvement — et les gens de Murkhana le protègent
-- **Indices à semer :** Le nom du "Superviseur Vektor" apparaît dans un rapport intercepté ou un message des syndicats. Un chasseur de primes rival est aussi sur la piste de Hashk — la pression monte.
+- **Sessions 0-1 :** Création, introduction au Consortium, tutoriel (Vekk Draal). Pierre Noire au-dessus de la porte du Nid, Chant des Marées en fond sonore.
+- **Session 2 :** Enquête sur Hashk à Murkhana City. Rencontres Nox Erso (couverture) et Fenn Sudo (agent de Gekko). **Scène du Convoi** — familles murkhanaies séparées au Port Gris, gut-punch de l'Acte 1. Premier avertissement de Hashk = premier test.
+- **Session 3 :** Hashk teste les joueurs via un intermédiaire — mission qui révèle le pacte syndicats/Hopner. Les joueurs découvrent que Murkhana est contrôlée à distance.
+- **Session 4 :** Voyage vers Arrakha. Découverte de la colonie de Murkhanais, du système d'exploitation (quotas, endettement, Gorges de Lucas). Second test de Hashk via Jyn Tracert.
+- **Session 5 :** Visite de **Forscan Prime** — la vitrine impériale. Kelden propre et prospère, FSK qui protège les riches, propagande. Contraste moral : la stabilité vaut-elle le silence ? Contact possible avec le Réseau Racine dans les campagnes.
+- **Session 6 :** Retour sur Murkhana/Arrakha. Le réseau de Hashk se dévoile. Troisième test. Nox réapparaît.
+- **Session 7 :** Hashk se montre enfin. Son plan (grandes lignes), sa vision, le dilemme : *"Je ne vous demande pas de vous battre pour moi. Donnez-moi le temps."*
+- **Session 8 :** Pression montante — Serres, Vektor, révélation du commanditaire (Hopner), humanisation d'Hopner (refus de l'Opération Cendre). Edna prend position sans forcer.
+- **Session 9 :** Climax — Raid impérial sur Arrakha, cellules qui s'agitent sur Murkhana, 5 choix pour les joueurs, le Chant des Marées qui frémit.
 
 #### L'horloge de l'Acte 1 — Ce qui presse les joueurs
-- **Les Serres (chasseurs rivaux) :** Une équipe de chasseurs de primes concurrents — menée par Kreel Voss — est aussi sur le contrat. Si les joueurs traînent, les Serres trouvent Hashk en premier, et les joueurs perdent la prime (et potentiellement un allié). Les Serres sont moins scrupuleux — ils livreront Hashk mort si c'est plus simple.
-- **Le prochain convoi :** Un nouveau convoi de conscrits part du Port Gris pour Arrakha dans [X] semaines. Hashk veut agir avant ce départ. Si les joueurs sont proches de lui, ils sentent l'urgence. Si les joueurs sont du côté de Hopner, le convoi est une opportunité pour un piège.
-- **Vektor qui se resserre :** Session après session, les joueurs remarquent des signes que quelqu'un suit leurs traces — un informateur qui disparaît après les avoir aidés, une transaction surveillée, un contact qui refuse soudain de parler. Vektor ne les poursuit pas directement — il cartographie leur réseau.
+- **Les Serres (chasseurs rivaux) :** Kreel Voss et son équipe sont aussi sur le contrat. Si les joueurs traînent, les Serres trouvent Hashk en premier.
+- **Le prochain convoi :** Un nouveau convoi de conscrits part du Port Gris pour Arrakha. Hashk veut agir avant.
+- **Vektor qui se resserre :** Session après session, les joueurs sentent qu'on les surveille — contacts arrêtés, informateurs muets, transactions surveillées.
 
 #### Climax de l'Acte 1
-Les joueurs retrouvent la trace de Hashk Ellor sur Murkhana — pas dans un repaire de criminel, mais au cœur d'un mouvement populaire naissant. Les gens le protègent, le respectent, le suivent. Parallèlement, ils découvrent le lien avec Arrakha : les mineurs là-bas sont des Murkhanais conscripts, et Hashk prépare quelque chose sur les deux fronts. Livrer Hashk signifie potentiellement écraser l'espoir de tout un peuple — sur deux mondes.
+Le Verdict Gris lance un raid sur Arrakha. Sur Murkhana, les cellules de Hashk s'agitent. Les joueurs doivent choisir : aider Hopner, aider Hashk (sur l'un des deux fronts), rester neutres, ou avertir la République. Le Chant des Marées murmure dans les Fosses — la tempête ne fait que commencer.
 
 ---
 
 ### ACTE 2 — "LE CHOIX"
-**Sessions :** 7 à 14  
+**Sessions :** 10 à 17  
 **Ton :** Tension croissante, dilemmes moraux, trahisons possibles  
 **Objectif narratif :** Les joueurs découvrent les vraies motivations de chaque faction et commencent à choisir un camp — ou à jouer double jeu.
 
@@ -573,7 +602,7 @@ Les soulèvements de Hashk sont lancés — sur Murkhana et/ou Arrakha, soit par
 ---
 
 ### ACTE 3 — "LA GUERRE"
-**Sessions :** 15 à 20  
+**Sessions :** 18 à 23  
 **Ton :** Épique, dramatique, conséquences lourdes. Les PNJ que les joueurs aiment peuvent mourir.  
 **Objectif narratif :** Les conséquences du choix de l'Acte 2 se déploient. La situation escalade en conflit ouvert.
 
@@ -604,7 +633,7 @@ Les soulèvements de Hashk sont lancés — sur Murkhana et/ou Arrakha, soit par
 ---
 
 ### ACTE 4 — "LES CENDRES"
-**Sessions :** 21 à 25+  
+**Sessions :** 24 à 30+  
 **Ton :** Bittersweet. Quelle que soit l'issue, des choses ont été perdues et gagnées.  
 **Objectif narratif :** Résolution du conflit. Les joueurs façonnent l'avenir du secteur Auril.
 
