@@ -1,5 +1,11 @@
 # CENDRES & CHROME
 
+> *Les Cendres, c'est Murkhana — un monde bombardé, brûlé, réduit en ruines par ceux qui prétendaient libérer la galaxie. Un peuple qui vit dans les décombres de ce qu'on lui a pris. La mémoire d'océans morts et de récifs noircis.*
+>
+> *Le Chrome, c'est ce qui renaît des cendres — les droïdes de combat qu'on déterre, qu'on répare, qu'on reprogramme. Les machines de guerre qui avaient causé la destruction de Murkhana, transformées en outils de sa libération. L'ironie d'un peuple qui se relève avec les armes mêmes qui l'ont condamné.*
+>
+> *Cendres & Chrome, c'est la question que la campagne pose : peut-on construire la liberté sur les ruines de la guerre ? Et si oui — à quel prix ?*
+
 ## Campagne Star Wars : Edge of the Empire
 
 **Époque :** ~9 ABY — La galaxie post-Endor  
@@ -80,13 +86,13 @@ C'est le secret le mieux gardé du secteur Auril, et la clé pour comprendre pou
 
 ## LE CONTEXTE
 
-L'Empire est tombé, mais rien ne l'a vraiment remplacé dans la Bordure Extérieure. La Nouvelle République peine à étendre son autorité au-delà des mondes du Noyau. Dans le secteur Auril, trois forces s'affrontent dans l'ombre : un seigneur de guerre impérial qui maintient l'ordre par la peur, un mouvement néo-séparatiste qui promet l'indépendance, et les cartels criminels qui profitent du vide de pouvoir.
+L'Empire est tombé, mais rien ne l'a vraiment remplacé dans la Bordure Extérieure. La Nouvelle République peine à étendre son autorité au-delà des mondes du Noyau. Dans le secteur Auril, trois forces s'affrontent dans l'ombre : le Protectorat d'Auril qui maintient l'ordre par la peur, un mouvement néo-séparatiste qui promet l'indépendance, et les cartels criminels qui profitent du vide de pouvoir.
 
 C'est dans ce chaos que le **Consortium d'Edna** opère — une guilde de chasseurs de primes pragmatique, qui prend les contrats sans poser trop de questions.
 
 Les joueurs commencent comme de simples chasseurs de primes au service du Consortium. Mais la cible qu'on va leur confier va les entraîner au cœur d'un conflit qui dépasse largement une simple prime.
 
-**Prémisse :** Un ancien administrateur séparatiste Muun prépare des soulèvements parallèles — libérer sa planète natale Murkhana de l'emprise des syndicats criminels, et libérer la colonie minière d'Arrakha de l'occupation impériale — pour rallier le système à la Nouvelle Union Séparatiste. Un seigneur de guerre impérial veut l'en empêcher et engage — via des intermédiaires — les chasseurs de primes du Consortium d'Edna pour le retrouver. Les joueurs découvriront progressivement que rien n'est noir ou blanc, et devront choisir leur camp.
+**Prémisse :** Un ancien administrateur séparatiste Muun prépare des soulèvements parallèles — libérer sa planète natale Murkhana de l'emprise des syndicats criminels, et libérer la colonie minière d'Arrakha de l'occupation impériale — pour rallier le système à la Nouvelle Union Séparatiste. La Protectrice du Protectorat d'Auril veut l'en empêcher et engage — via des intermédiaires — les chasseurs de primes du Consortium d'Edna pour le retrouver. Les joueurs découvriront progressivement que rien n'est noir ou blanc, et devront choisir leur camp.
 
 ---
 
@@ -105,7 +111,44 @@ Les joueurs commencent comme de simples chasseurs de primes au service du Consor
 
 Sous l'Empire, des sanctions brutales ont empêché toute reconstruction. La population, appauvrie et amère, survit grâce à la contrebande et déteste toute forme d'autorité extérieure. En 9 ABY, l'Empire est parti, mais personne ne l'a remplacé.
 
-**Murkhana City :** Une mégalopole côtière décrépite. Les tours en spirale de l'ancienne Alliance Corporative — dont la fameuse Tour Argente — se dressent comme des squelettes dans la brume permanente. Les rues basses sont un labyrinthe de marchés noirs installés dans des carcasses de droïdes de combat et de walkers abandonnés. Les niveaux supérieurs, autrefois luxueux, sont le domaine des seigneurs du crime.
+**Murkhana City — La Cité Verticale :**
+
+Murkhana City est construite en **strates**. Comme Coruscant ou Nar Shaddaa, c'est une ville verticale — mais là où Coruscant est une pyramide de pouvoir, Murkhana est une pyramide d'effondrement. Les tours de l'Alliance Corporative formaient autrefois une skyline élégante ; les bombardements les ont transformées en ruines habitées, chaque niveau racontant une histoire différente.
+
+**Les Hauts (niveaux 30+) — Le domaine des seigneurs du crime**
+
+Les étages supérieurs des tours encore debout — au-dessus de la brume permanente, là où on voit le ciel. C'est le seul endroit de Murkhana City où l'air est respirable sans transpirator. Les chefs de syndicats y vivent dans un luxe ostentatoire : suites reconverties des anciens bureaux de l'Alliance Corporative, avec vue sur les ruines de la ville en contrebas. Gardes B2 Chromés aux portes, serviteurs, droïdes de luxe. C'est ici que les décisions sont prises — les tributs à Hopner, les territoires entre gangs, les prix de l'épice.
+
+Les joueurs n'y accèdent pas facilement. Monter dans les Hauts signifie être invité par un chef de syndicat, ou infiltrer un étage fortifié. C'est un monde fermé, un club privé pour les puissants — et la preuve visible que la misère de Murkhana enrichit quelqu'un.
+
+**Les Niveaux Intermédiaires (niveaux 10-30) — La zone grise**
+
+Le ventre de la ville. C'est ici que vit la majorité de la population — dans des appartements reconvertis, des entrepôts divisés en logements, des couloirs transformés en marchés. L'air est brumeux mais supportable. La lumière vient des néons, des braseros, et des écrans holographiques qui diffusent de la publicité pour les cantinas et les combats de droïdes clandestins.
+
+C'est la Murkhana que les joueurs connaîtront le mieux : les cantinas enfumées, les ateliers de ferrailleurs, les cliniques de Hashk, les marchés de pièces détachées. Le Nid d'Edna est ici — niveau 14 d'un ancien hangar industriel. La Tour Argente traverse ces niveaux comme un axe vertical : ses étages intermédiaires servent de marché noir, de lieu de réunion, et de passage entre les strates. Hashk y a son bureau secret.
+
+La zone grise est aussi le territoire de Nox Erso (sous couverture) et de Fenn Sudo — les informateurs naviguent entre les niveaux comme des poissons dans l'eau.
+
+**Les Bas / Les Fosses (niveaux 0-10) — Le fond**
+
+Le sol de Murkhana City est inondé. Les eaux toxiques — résidu des bombardements et des pluies acides — montent et descendent selon les saisons, mais ne se retirent jamais complètement. Les Fosses sont les niveaux les plus bas, partiellement submergés, où la lumière du jour ne pénètre jamais.
+
+C'est ici que vivent les plus pauvres — les gens qui n'ont même pas les moyens de monter d'un niveau. Les réfugiés, les déserteurs, les endettés qui se cachent des syndicats, les familles qui attendent d'être "recrutées" pour Arrakha. C'est aussi ici que Hashk concentre son travail social : soupes populaires, cliniques clandestines, écoles de fortune. Les cellules du soulèvement naissent dans les Fosses — c'est de là que le Chant des Marées montera quand le signal sera donné.
+
+On y trouve le **Marché des Carcasses** — au niveau de l'eau, entre les pattes rouillées de walkers AT-TE effondrés. Et encore en dessous, dans les fondations inondées : la **Forge** de Hashk, cachée là où personne n'irait chercher.
+
+Les Fosses sont dangereuses : faune toxique dans les eaux, gangs qui rackettent les résidents, et des sections entières qui s'effondrent sans prévenir. Mais c'est aussi l'endroit où la solidarité murkhanaise est la plus forte. Les gens des Fosses se protègent mutuellement — parce que personne d'autre ne le fait.
+
+**La Tour Argente — L'axe vertical**
+
+La Tour Argente est le bâtiment le plus emblématique de Murkhana City — l'ancien QG de l'Alliance Corporative, une tour en spirale de plus de 80 niveaux, partiellement effondrée au-dessus du niveau 50. Elle traverse toutes les strates de la ville et fonctionne comme un **microcosme vertical de Murkhana** :
+
+- **Niveaux 0-10 (Fosses) :** Fondations inondées. Passage secret vers la Forge. Tunnels de contrebande.
+- **Niveaux 10-30 (Intermédiaires) :** Marché noir occupant plusieurs étages. Cantinas, ateliers, bureaux de passeurs. Le bureau secret de Hashk est au niveau 22.
+- **Niveaux 30-50 (Hauts) :** Occupés par le syndicat le plus puissant de Murkhana. Accès restreint. C'est ici que les joueurs devront monter s'ils veulent confronter le chef de syndicat principal.
+- **Niveaux 50+ (Ruines) :** Effondrés, instables, ouverts aux éléments. Accessible uniquement par escalade ou jetpack. Des rumeurs parlent de caches d'armes séparatistes jamais récupérées dans les niveaux scellés. Les ferrailleurs les plus téméraires y montent — certains ne redescendent pas.
+
+**Pour les joueurs :** La verticalité de Murkhana City est un outil narratif. Monter = s'approcher du pouvoir criminel. Descendre = s'enfoncer dans la misère mais aussi dans la résistance. La Tour Argente est un donjon vertical que les joueurs peuvent explorer de bas en haut au fil de la campagne — chaque strate révèle une facette de la ville.
 
 **Ambiance :** Blade Runner rencontre Nar Shaddaa, avec le cœur de Ferrix (Andor). Brume permanente, néons dans les ruines, marchés noirs dans les carcasses de droïdes de combat. Atmosphère brumeuse et corrosive par endroits — les transpirators sont recommandés. Mais sous la crasse et le crime, une communauté soudée survit — et se souvient.
 
@@ -113,7 +156,7 @@ Sous l'Empire, des sanctions brutales ont empêché toute reconstruction. La pop
 
 Avant les bombardements, Murkhana était un monde de beauté — océans noirs, récifs coralliens, plages de sable volcanique. La population a perdu tout ça, mais elle a gardé deux choses que ni la République, ni l'Empire, ni les syndicats n'ont pu lui prendre :
 
-- **Le Chant des Marées** — Un hymne ancien, transmis oralement depuis des générations, qui honorait autrefois les cycles des océans de Murkhana. Depuis que les océans sont morts, le Chant est devenu un hommage aux morts et un acte de mémoire collective. L'Empire l'a interdit — chanter le Chant en public était passible d'arrestation. Sous les syndicats, c'est toléré mais mal vu. Quand un Murkhanais chante le Chant des Marées, les gens s'arrêtent. Tout le monde écoute. Personne n'ose interrompre. **Pour la campagne :** Le Chant sera le signal du soulèvement. Quand les rues de Murkhana City résonneront du Chant des Marées, la révolution aura commencé.
+- **Le Chant des Marées** — Un hymne ancien, transmis oralement depuis des générations, qui honorait autrefois les cycles des océans de Murkhana. Depuis que les océans sont morts, le Chant est devenu un hommage aux morts et un acte de mémoire collective. L'Empire l'a interdit — chanter le Chant en public était passible d'arrestation. Sous les syndicats, c'est toléré mais mal vu. Quand un Murkhanais chante le Chant des Marées, les gens s'arrêtent. Tout le monde écoute. Personne n'ose interrompre. **Pour la campagne :** Le Chant sera le signal du soulèvement. Quand les rues de Murkhana City résonneront du Chant des Marées, la révolution aura commencé. *(Paroles complètes dans la section Éléments Récurrents.)*
 
 - **Les Pierres Noires** — Des fragments polis de l'ancien récif corallien de Murkhana, noircis par les pluies acides et le temps. Les Murkhanais les portent en bijou, en pendentif, ou les gardent simplement en poche. C'est un signe de reconnaissance silencieux — montrer sa Pierre Noire à un étranger, c'est dire "je suis des vôtres, je me souviens de ce qu'on a perdu". Les mineurs d'Arrakha emportent leurs Pierres Noires avec eux. C'est souvent la seule chose qu'ils possèdent encore de Murkhana. **Pour la campagne :** Les joueurs verront les Pierres Noires partout — au cou des habitants, sur les comptoirs des cantinas, dans les mains des mourants. C'est un détail visuel récurrent qui ancre l'identité murkhanaise.
 
@@ -136,11 +179,12 @@ Sous l'Empire, les sanctions interdisaient la récupération de matériel milita
 **Conséquence pour la campagne :** Les droïdes de combat sont omniprésents sur Murkhana — pas comme une curiosité, mais comme une réalité quotidienne. Les habitants portent des pièces d'armure de B2 recyclées en protection. Les gangs utilisent des B1 modifiés comme gardes. Les enfants jouent dans les carcasses de chars AAT. Et sous la surface, deux armées parallèles se constituent dans l'ombre : celle de Hashk, et celle des syndicats.
 
 **Lieux notables dans Murkhana City :**
-- **La Tour Argente** — Ancien QG de l'Alliance Corporative, partiellement effondrée. Les niveaux inférieurs servent de marché noir. Hashk y a un bureau secret.
-- **Le Nid d'Edna** — Le quartier général du Consortium, installé dans un ancien hangar industriel reconverti. Salle commune, armurerie, quartiers spartiates mais propres.
-- **Les Fosses** — Le quartier le plus bas de la ville, inondé en permanence par des eaux toxiques. Repaire de contrebandiers et de désespérés. On y trouve tout, si on sait à qui demander.
+- **La Tour Argente** — L'axe vertical de Murkhana City. 80+ niveaux, partiellement effondrée au-dessus du 50ème. Traverse toutes les strates : fondations inondées (accès Forge), marché noir (niveaux intermédiaires), bureau secret de Hashk (niveau 22), QG du syndicat dominant (Hauts), ruines instables avec caches d'armes potentielles (sommet). Voir description détaillée ci-dessus.
+- **Le Nid d'Edna** — Niveau 14. Le quartier général du Consortium, installé dans un ancien hangar industriel reconverti. Salle commune, armurerie, quartiers spartiates mais propres.
+- **Les Fosses** — Niveaux 0-10. Le fond de la ville, partiellement inondé par des eaux toxiques. Voir la description détaillée dans la section Cité Verticale ci-dessus.
 - **Le Port Gris** — Spatioport principal, contrôlé par un syndicat de dockers corrompus. Point de départ vers Arrakha et le reste du secteur.
 - **Le Marché des Carcasses** — Bazar en plein air dans les épaves de la Guerre des Clones. Pièces de droïdes, processeurs, servomoteurs, unités complètes parfois. Le cœur de l'économie de récupération. Ambiance : souk dans un cimetière de machines.
+- **La Forge** *(secret)* — Atelier clandestin de Hashk sous les ruines d'une ancienne usine Baktoid. Voir la section détaillée dans la fiche de Hashk Ellor.
 
 ---
 
@@ -203,7 +247,7 @@ Arrakha fonctionne comme une prison dont les murs sont le désert. Le système e
 
 ### Forscan Prime — "Le Poing de Velours"
 
-**Type :** Monde tempéré, capitale sectorielle du seigneur de guerre  
+**Type :** Monde tempéré, capitale sectorielle du Protectorat d'Auril  
 **Système :** Système Forscan (Grille R-7), Secteur Auril  
 **Population :** ~5 millions — Colons, agriculteurs, commerçants, personnel militaire impérial  
 **Gouvernement :** Gouvernement civil local fantoche, sous autorité directe de l'Amiral Gracia Hopner  
@@ -213,7 +257,7 @@ Arrakha fonctionne comme une prison dont les murs sont le désert. Le système e
 
 Quand l'Empire a cherché une capitale sectorielle pour le secteur Auril, Forscan Prime a été choisie pour sa position centrale, son climat agréable et sa population docile. Une base militaire massive — Forge-7 — a été construite à 40 kilomètres de la capitale civile, Kelden. Hangars, casernes, centre de commandement enterré, chantiers de maintenance navale, et défenses orbitales. Deux mondes ont commencé à coexister : la vie civile ordinaire de Kelden, et la machine militaire de Forge-7.
 
-Après la chute de l'Empire, l'Amiral Hopner a hérité de la base et de la planète. Elle a fait de Kelden une **vitrine impériale** : la ville est propre, ordonnée, prospère. Les rues sont pavées, les commerces approvisionnés, les écoles fonctionnent (avec un programme réécrit par le Bureau de Sécurité), et les HoloNews locales diffusent en boucle les succès de l'Amiral. Des affiches de propagande couvrent les murs : *"L'Amiral Protège"*, *"L'Ordre pour la Prospérité"*, *"Un Secteur Uni sous un même Drapeau"*. Pour un visiteur, Kelden semble être la preuve vivante que Hopner a raison — que l'ordre impérial fonctionne.
+Après la chute de l'Empire, l'Amiral Hopner a hérité de la base et de la planète. Elle a fait de Kelden une **vitrine impériale** : la ville est propre, ordonnée, prospère. Les rues sont pavées, les commerces approvisionnés, les écoles fonctionnent (avec un programme réécrit par le Bureau de Sécurité), et les HoloNews locales diffusent en boucle les succès de l'Amiral. Des affiches de propagande couvrent les murs : *"Le Protectorat Protège"*, *"L'Ordre pour la Prospérité"*, *"Un Secteur Uni sous un même Drapeau"*. Pour un visiteur, Kelden semble être la preuve vivante que Hopner a raison — que l'ordre impérial fonctionne.
 
 Mais cette vitrine s'arrête aux portes de la ville. **Dans les campagnes**, la réalité est tout autre. Les villages agricoles et les communautés forestières vivent sous le poids des taxes et des réquisitions. Des patrouilles impériales ratissent régulièrement la campagne pour la conscription, la collecte de "contributions volontaires", et la recherche de dissidents. Et c'est dans ces campagnes que la résistance vit — pas par les armes, mais par le silence.
 
@@ -243,8 +287,7 @@ Ce n'est pas une rébellion armée — c'est un mur de silence, de désobéissan
 - **Kelden** — La capitale civile. Propre, fonctionnelle, avec un spatioport commercial, un marché couvert, une école impériale (le "Lycée du Progrès"), et des HoloNews qui diffusent la propagande de Hopner. Architecture coloniale simple mais bien entretenue. Les stormtroopers patrouillent avec courtoisie — "Bonjour, citoyen. Bonne journée." C'est plus inquiétant que de la brutalité.
 - **Forge-7** — La base militaire impériale, à 40 km de Kelden. Un complexe fortifié enterré partiellement dans une colline, avec des hangars pour des escadrons de TIE, des casernes pour plusieurs bataillons de stormtroopers, un centre de commandement souterrain, et des chantiers de maintenance navale capables d'entretenir le *Verdict Gris*. Entourée d'un périmètre de sécurité de 5 km avec tourelles, scanners et patrouilles de droïdes sondes.
 - **Le Verdict Gris** *(en orbite)* — Le Destroyer Stellaire de classe Impérial de l'Amiral Hopner. Quand il est en orbite de Forscan Prime, il est visible depuis la surface comme une étoile menaçante. C'est autant un vaisseau de guerre qu'un symbole — mais il se déploie régulièrement dans le secteur pour projeter la puissance de Hopner (notamment vers Arrakha).
-- **Les Fermes Grises** — Le surnom donné aux communautés rurales autour de Kelden. Des villages agricoles dispersés dans les vallées et les collines, reliés par des routes de terre. C'est ici que vit la résistance passive. Les PJ qui cherchent des alliés sur Forscan Prime devront gagner la confiance de ces communautés — ce qui n'est pas facile. Elles ont appris à ne faire confiance à personne.
-- **Le Réseau Racine** — Le nom que se donne le réseau informel de résistance passive dans les campagnes. Pas de structure, pas de leader, pas d'armes — juste des gens qui se transmettent des informations, cachent des voyageurs, et ralentissent la machine impériale par mille petits actes de désobéissance quotidienne. Potentiel allié pour les joueurs, mais il faudra prouver qu'on n'est pas un espion de Hopner.
+- **Les Fermes Grises & le Réseau Racine** — Les communautés rurales autour de Kelden, dispersées dans les vallées et les collines. C'est ici que vit la résistance passive — un réseau informel sans structure ni leader nommé le **Réseau Racine**. Pas d'armes — juste des gens qui se transmettent des informations, cachent des voyageurs, et ralentissent la machine impériale par mille petits actes de désobéissance quotidienne. Le contact des joueurs est **Meema Kern**, fermière de confiance (voir Fiches PNJ). Gagner la confiance du Réseau exige un acte concret, pas des mots.
 - **La FSK (Force de Sécurité de Kelden)** — Police locale d'élite qui fonctionne en réalité comme une milice privée pour les élites de la ville. Bien équipés, bien payés, arrogants. Ils protègent les riches et répriment les pauvres sous un vernis de professionnalisme. Absents des campagnes sauf pour collecter des "contributions" ou arrêter des dissidents. Source de ressentiment profond chez les fermiers. Ambiance Cyberpunk 2077 / NCPD.
 
 ---
@@ -267,7 +310,20 @@ Ce n'est pas une rébellion armée — c'est un mur de silence, de désobéissan
 
 **Motivation :** La survie et la prospérité du Consortium. Aucune loyauté idéologique. Elle prend les contrats qui paient, mais refuse ceux qui mettraient ses gens en danger inutile. Le contrat sur le Muun la rend nerveuse — trop de factions impliquées.
 
-**Ce qu'Edna ne sait pas (ou fait semblant de ne pas savoir) :** Une part significative des contrats "d'élimination de criminels" que le Consortium exécute sur Murkhana remonte indirectement à l'Amiral Hopner. Le Consortium sert d'outil de régulation criminelle — il élimine les éléments perturbateurs pour maintenir l'équilibre que Hopner a négocié avec les syndicats. Edna soupçonne que certains contrats ont des origines impériales, mais elle ne creuse pas — tant que l'argent est bon et que ses gens ne sont pas en danger. Cette relation implicite explique pourquoi Hopner connaît le Consortium et passe par eux pour le contrat sur Hashk.
+**Ce qu'Edna sait (et ne sait pas) — Guide pour le MJ :**
+
+Les joueurs poseront des questions directes à Edna dès les premières sessions. Voici les réponses :
+
+| Question | Ce qu'Edna sait | Ce qu'elle ne sait pas |
+|---|---|---|
+| Les syndicats | Ils paient un tribut à quelqu'un de puissant | Que c'est spécifiquement Hopner / le Protectorat |
+| Le "Directeur Kole" | Quelqu'un organise quelque chose dans les niveaux bas, rachète des dettes | Que c'est un soulèvement armé avec des droïdes |
+| La conscription | Tout le monde sur Murkhana le sait — les convois partent régulièrement | L'ampleur exacte du système ni le lien avec le doonium |
+| Le commanditaire de la prime | Que c'est quelqu'un de très puissant — la prime est trop grosse pour un simple criminel | Que c'est le Protectorat (jusqu'à la session 8) |
+| Nox | Elle la croise dans les cantinas. Une mécanicienne compétente. | Sa vraie identité |
+| Le Consortium et Hopner | Elle soupçonne que certains contrats viennent de sources impériales | L'ampleur de la manipulation — elle ne creuse pas |
+
+**Pourquoi elle ne creuse pas :** Edna a survécu vingt ans sur Murkhana en ne posant pas de questions. Creuser signifie choisir un camp — et choisir un camp met ses "enfants" en danger. Elle préfère le flou. C'est de la survie, pas de la lâcheté.
 
 ---
 
@@ -277,7 +333,7 @@ Ce n'est pas une rébellion armée — c'est un mur de silence, de désobéissan
 - **Rôle :** Lieutenant d'Edna, intermédiaire des PJ
 - **Référence :** *Basch fon Ronsenburg* (Final Fantasy XII) — soldat loyal et bourru, faussement accusé de trahison, qui se bat jusqu'au bout. Le prénom "Basch" évoque aussi *bash*, le shell Unix.
 
-**Description :** Ancien chasseur de primes d'élite, il a perdu un bras lors d'un contrat qui a mal tourné (remplacé par une prothèse cybernétique sommaire). Il est bourru, direct, et secrètement loyal à Edna au point de mourir pour elle. C'est lui qui a reçu le contrat du seigneur de guerre via un intermédiaire, et c'est lui qui le confie aux joueurs.
+**Description :** Ancien chasseur de primes d'élite, il a perdu un bras lors d'un contrat qui a mal tourné (remplacé par une prothèse cybernétique sommaire). Il est bourru, direct, et secrètement loyal à Edna au point de mourir pour elle. C'est lui qui a reçu le contrat du Protectorat via un intermédiaire, et c'est lui qui le confie aux joueurs.
 
 **Rôle en jeu :** Point de contact principal des PJ avec la guilde. Il donne les missions, les briefings, et les rappelle à l'ordre si besoin.
 
@@ -297,12 +353,37 @@ Le Consortium n'est pas un simple décor de l'Acte 1 — il a son propre arc nar
 #### Hashk Ellor
 - **Espèce :** Muun
 - **Âge :** ~65 ans
-- **Rôle :** Ancien comptable de l'Alliance Corporative, leader néo-séparatiste
+- **Rôle :** Ancien comptable de Baktoid Combat Automata, leader néo-séparatiste
 - **Référence :** *Haskell* — langage de programmation fonctionnel réputé pour son élégance mathématique et sa rigueur logique. Parfait pour un Muun calculateur qui pense en systèmes et en équations.
 
-**Historique :** Pendant la Guerre des Clones, Hashk n'était personne : un sous-comptable de troisième rang dans les bureaux de l'Alliance Corporative sur Murkhana, chargé de la logistique des fonds de ravitaillement. Quand l'Empire a écrasé les Séparatistes, il a survécu précisément parce qu'il était trop insignifiant pour être pourchassé.
+**Historique :** Pendant la Guerre des Clones, Hashk n'était personne — en apparence. Officiellement, il était sous-comptable de troisième rang chez **Baktoid Combat Automata**, le fabricant de droïdes de combat de l'Alliance Corporative, dans les usines de Murkhana. Il gérait la logistique des fonds de ravitaillement — commandes de matériaux, coûts de production, inventaires de pièces détachées. Un poste ennuyeux, invisible, sans prestige.
 
-Pendant vingt ans sous l'Empire, il a observé, accumulé des contacts, et discrètement racheté des dettes et des faveurs. Après Endor, quand le chaos s'est installé, il a émergé comme le seul homme sur Murkhana qui savait où était l'argent, qui devait quoi à qui, et comment faire fonctionner les réseaux commerciaux que l'Empire avait laissés en ruine.
+Mais un comptable de Baktoid, même de troisième rang, a accès à quelque chose d'inestimable : les **plans de production**. Les schémas des chaînes d'assemblage. Les spécifications techniques des B1, des B2, des Droidekas. Les protocoles de programmation. Les fournisseurs de composants. Hashk a tout archivé — pas par ambition, mais par réflexe de comptable. Quand l'Empire a écrasé les Séparatistes et démantelé Baktoid, il a survécu précisément parce qu'il était trop insignifiant pour être pourchassé. Il a emporté ses archives avec lui.
+
+Pendant vingt ans sous l'Empire, il a observé, accumulé des contacts, et discrètement racheté des dettes et des faveurs. Les sanctions impériales interdisaient la récupération de matériel CIS, mais Hashk savait exactement où les usines avaient été, quels entrepôts n'avaient jamais été vidés, et quels droïdes étaient encore récupérables sous les décombres. Il a commencé à constituer un réseau de ferrailleurs fidèles — des gens qui fouillaient les ruines sur ses instructions et stockaient les pièces.
+
+Après Endor, quand le chaos s'est installé, il a émergé comme le seul homme sur Murkhana qui savait où était l'argent, qui devait quoi à qui, et comment faire fonctionner les réseaux commerciaux que l'Empire avait laissés en ruine. Mais surtout, il était le seul à posséder les plans pour **reconstruire ce que la guerre avait détruit**.
+
+**D'où vient l'argent :** Les joueurs poseront la question — un sous-comptable qui finance des cliniques, une armée et une usine clandestine pendant vingt ans. La réponse est triple :
+- **Les comptes dormants de Baktoid.** Hashk, en bon comptable, a détourné des fonds de Baktoid Combat Automata avant la chute — des comptes de ravitaillement, des lignes de crédit oubliées dans des banques du Clan Bancaire InterGalactique (les Muun sont la race de banquiers de la galaxie). Des sommes modestes individuellement, mais accumulées sur vingt ans, ça représente un capital solide.
+- **Le financement NUS.** Depuis ~5 ABY, la Nouvelle Union Séparatiste finance discrètement Hashk comme "investissement politique." Pas assez pour une armée conventionnelle, mais assez pour des cliniques, des écoles, et des achats de pièces au Marché des Carcasses. La NUS voit Hashk comme un pion bon marché — pour l'instant.
+- **Les fonds républicains (via Nox, à l'insu de Hashk).** Nox canalise des crédits vers la rébellion via des intermédiaires — présentés comme des "dons de sympathisants" ou des "bénéfices de contrebande." Hashk ne sait pas d'où vient cet argent. S'il l'apprenait, ça compromettrait la légitimité de tout son mouvement.
+
+**L'usine secrète — "La Forge" :**
+
+Ce que personne ne sait (sauf ses lieutenants les plus fidèles), c'est que Hashk a déjà commencé. Sous Murkhana City, dans les sous-niveaux d'une ancienne usine Baktoid effondrée, il a fait aménager une **petite chaîne de production clandestine**. Ce n'est pas une usine industrielle — c'est un atelier, opéré par une vingtaine de ferrailleurs de confiance et alimenté en pièces par le Marché des Carcasses.
+
+La Forge produit lentement mais sûrement :
+- Des **B1 reconditionnés** — pas juste réparés, mais remis à neuf avec des composants standardisés. Plus fiables que les Rouillés assemblés à la main.
+- Des **pièces détachées** pour les droïdes existants — servomoteurs, processeurs, blindages. Ça entretient l'armée actuelle.
+- Des **prototypes de B1 modernisés** — des versions améliorées basées sur les plans originaux de Baktoid, adaptées avec des matériaux disponibles localement. Hashk les appelle les "B1-M" (M pour Murkhana). Ils sont en développement, pas encore déployés.
+
+La Forge est le secret industriel de Hashk — sa vision de l'avenir de Murkhana en miniature. Si les joueurs la découvrent avant le soulèvement, ça change leur compréhension de l'ampleur de son projet. Ce n'est pas juste un idéaliste avec des vieux droïdes recyclés — c'est un homme qui reconstruit une industrie de guerre.
+
+**Note MJ — Quand les joueurs découvrent la Forge et le plan économique :**
+- **Acte 1 (possible mais rare) :** Si les joueurs poussent l'enquête très loin dans les niveaux bas de Murkhana, ils peuvent tomber sur la Forge par accident ou en suivant une piste de droïdes. Torque Venn les interceptera — et Hashk décidera si cette découverte accélère ou compromet ses plans.
+- **Acte 2 (probable) :** Hashk révèle la Forge aux joueurs s'ils l'aident activement — c'est un signe de confiance. Le plan économique (usines de droïdes, vente d'armes) est exposé en partie.
+- **Acte 3-4 (le débat) :** Le plan économique complet devient un enjeu politique majeur. Mara Crypt s'y oppose. La République y voit une menace. Gekko veut sa part. C'est à ce moment que les joueurs doivent décider : est-ce que ce plan est l'avenir de Murkhana ou sa prochaine destruction ?
 
 **Plan :** Hashk pense en comptable — chaque étape finance ou rend possible la suivante. Son objectif final est de libérer le système Murkhana de l'emprise de Hopner et de le rattacher à la Nouvelle Union Séparatiste. C'est un plan en trois phases qui se déroulent partiellement en parallèle. Les joueurs verront les grandes lignes dès l'Acte 1, mais les détails et les phases cachées se révèleront progressivement.
 
@@ -329,6 +410,8 @@ Hashk a passé vingt ans à préparer ce moment. Il connaît Murkhana City mieux
   - **Constituer une armée de droïdes.** C'est le projet le plus ambitieux et le plus secret de Hashk. Via le Marché des Carcasses et des fouilles clandestines dans les ruines, ses ferrailleurs récupèrent et réactivent des droïdes de combat de l'ère séparatiste. Les meilleurs reprogrammeurs de Murkhana travaillent pour lui dans des ateliers cachés.
 
 - **L'armée de droïdes de Hashk — "Les Rouillés" :**
+
+  L'ancien comptable de Baktoid connaît ces machines mieux que quiconque. C'est lui qui fournit les spécifications aux ferrailleurs, qui identifie les pièces compatibles, et qui sait quels droïdes valent la peine d'être réactivés. C'est pour ça que les Rouillés fonctionnent mieux que ce qu'on attendrait de machines vieilles de 25 ans — ils ont été remis en état par quelqu'un qui a les plans originaux. Les unités les plus récentes sortent directement de la Forge, son atelier clandestin sous Murkhana City.
   - **B1 réactivés (~200 unités)** — Le gros des forces. Vieux, mal entretenus, parfois comiques dans leurs dysfonctionnements (voix glitchées, membres manquants, protocoles obsolètes). Mais en nombre, ils font la différence. Beaucoup ont été modifiés par les ferrailleurs murkhanais : blindages soudés à la main, armes non standard, peintures de guerre murkhanaies.
   - **B2 Super Battle Droids (~30 unités)** — Plus rares, plus difficiles à réactiver, beaucoup plus dangereux. Hashk les garde en réserve pour les objectifs critiques (assaut de la garnison, confrontation avec les stormtroopers). Certains sont en état presque neuf — récupérés dans des entrepôts souterrains scellés depuis la guerre.
   - **Droidekas (~5 unités)** — Le trésor de Hashk. Cinq Destroyers réactivés, capables de se déployer en mode bouclier. Extrêmement dangereux. Hashk les considère comme son "arme de dissuasion" — les déployer signifie que c'est sérieux.
@@ -347,6 +430,7 @@ Hashk a passé vingt ans à préparer ce moment. Il connaît Murkhana City mieux
 - **Le soulèvement :**
   - **Étape 1 — Couper les communications de Hopner :** Neutraliser les relais que les syndicats utilisent pour contacter la flotte de Hopner. Sans communication, les syndicats perdent leur "assurance-vie" impériale.
   - **Étape 2 — Le Chant des Marées :** Le signal. Quand le premier Murkhanais commence à chanter le Chant des Marées dans les Fosses, les autres suivent. De quartier en quartier, le Chant se propage à travers Murkhana City. Les cellules de quartier se soulèvent simultanément. Les habitants ferment les accès, bloquent les routes, encerclent les QG des syndicats. Ce n'est pas un assaut militaire — c'est une ville entière qui chante, qui marche, et qui dit "c'est fini". *(Style funérailles de Maarva / soulèvement de Ferrix dans Andor.)*
+  - **Note MJ — Comment distinguer le signal du Chant normal ?** Le Chant des Marées est chanté régulièrement par les Murkhanais — dans les cantinas, dans les mines, aux funérailles. Le signal n'est pas le Chant lui-même. C'est sa **propagation**. Quand un mineur chante seul dans une galerie, c'est du quotidien. Quand le Chant est repris par des gens qui ne chantent jamais, d'étage en étage, de quartier en quartier, sans s'arrêter — c'est le signal. Les cellules de Hashk reconnaissent la différence : le signal commence à un endroit précis (les Fosses, niveau 3), à une heure précise, et il ne s'arrête pas. Le MJ peut le décrire comme une vague qui monte — d'abord une voix, puis dix, puis cent, puis la ville entière.
   - **Étape 3 — Neutraliser les syndicats :** Les cellules les mieux armées déploient les Rouillés — B1, B2, et droïdes customs marchent dans les rues de Murkhana aux côtés des miliciens. Les Droidekas sont réservés pour les QG les mieux défendus. Le char AAT avance dans les niveaux bas. En face, les syndicats déploient leurs Chromés — B1 sentinelles et B2 gardes du corps. Les joueurs (selon leur camp) se retrouvent au milieu d'une bataille de droïdes dans les rues d'une mégalopole — un écho sale et bricolé de la Guerre des Clones.
   - **Étape 4 — Gouvernement provisoire :** Hashk installe un conseil populaire avec des représentants de chaque quartier. Il se positionne comme "coordinateur", pas comme dictateur — du moins au début.
 
@@ -356,7 +440,22 @@ Hashk a passé vingt ans à préparer ce moment. Il connaît Murkhana City mieux
   - **Les prudents** : Ceux qui ont survécu en ne prenant jamais parti. Ils ont vu des "libérateurs" aller et venir. Ils ne croiront Hashk que quand ils verront des résultats concrets.
   - Cette division est ce qui rend le soulèvement de Murkhana fragile et nuancé — ce n'est pas une révolution unanime.
 
-- **Le problème économique (la faille que Hashk refuse de voir) :** Les syndicats SONT l'économie de Murkhana. La contrebande, le marché noir, le narcotrafic, les services illégaux — c'est ce qui fait manger la planète depuis des décennies. L'économie légale a été détruite par les bombardements de la Guerre des Clones et les sanctions impériales. Si Hashk chasse les syndicats, des milliers de receleurs, passeurs, dockers et intermédiaires perdent leur gagne-pain du jour au lendemain. Hashk le comptable a un plan théorique : reconvertir l'économie vers l'industrie de recyclage (les épaves de vaisseaux et de droïdes de guerre qui jonchent la planète), le commerce légal avec la NUS, et l'exploitation de ce qui reste des récifs coralliens pour des matériaux de construction. Sur le papier, c'est viable. En pratique, la transition prendra des mois voire des années — et entre-temps, les gens ont faim. C'est une source majeure de tension dans l'Acte 3-4 : même si le soulèvement réussit, l'économie de Murkhana peut s'effondrer, créant un vide que Gekko ou d'autres rempliront avec joie.
+- **Le plan économique de Hashk — L'usine de droïdes :** Hashk le comptable a un plan pour l'après-libération, et c'est peut-être le plus moralement ambigu de tous ses projets. Sa vision économique repose sur trois piliers :
+
+  **1. Les mines d'Arrakha :** Le doonium reste la ressource la plus précieuse du système. Une fois Arrakha libérée, les mines continuent de tourner — mais sous contrôle murkhanais, avec des conditions décentes, des salaires réels, et la fin du système de quotas et d'endettement. Le doonium est vendu à la NUS et sur le marché libre au lieu d'alimenter la flotte de Hopner.
+
+  **2. Le relancement des usines de droïdes :** C'est le cœur du plan — et le plus controversé. Murkhana était le QG de l'Alliance Corporative. Les ruines des anciennes usines Baktoid Combat Automata sont encore là, sous les décombres. Hashk veut les reconstruire — et il a déjà commencé. La Forge, son atelier clandestin sous Murkhana City, est le prototype de ce qu'il veut bâtir à grande échelle. Il possède les plans originaux de Baktoid (son ancien employeur), le savoir-faire des ferrailleurs murkhanais, et le doonium d'Arrakha comme matière première. L'objectif : produire des droïdes de combat neufs — B1 modernisés ("B1-M"), B2 améliorés, droïdes customs — à un niveau industriel suffisant pour alimenter la NUS et le marché libre.
+
+  **3. La vente d'armes :** Le produit fini — droïdes de combat, pièces détachées, matériel militaire recyclé — est vendu à la NUS, à des systèmes indépendants de la Bordure Extérieure, et à quiconque paie. Murkhana devient le **fournisseur officiel d'armes de la NUS** et un acteur majeur du marché de l'armement dans la Bordure Extérieure.
+
+  **Pourquoi c'est moralement complexe :** Hashk propose de libérer Murkhana de l'exploitation... en la transformant en usine d'armes. Les mêmes machines qui ont valu à la planète les bombardements de la République deviennent la base de sa nouvelle économie. C'est un plan qui fonctionne économiquement — les ferrailleurs ont du travail, le doonium finance tout, la NUS achète — mais qui pose des questions dérangeantes :
+  - Est-ce que Murkhana veut redevenir "la planète des droïdes de combat" ? C'est cette identité qui a causé sa destruction.
+  - La République verra la réouverture d'usines de droïdes CIS comme une menace directe — ça pourrait briser l'Accord d'Ossus même sans intervention militaire.
+  - Gekko voudra sa part du commerce d'armes — et si Hashk refuse, il deviendra un ennemi actif.
+  - Mara Crypt (camp Autodétermination) s'oppose violemment à ce plan : *"On a été bombardés parce qu'on construisait des droïdes de guerre. Et la première chose que Hashk veut faire, c'est recommencer ? Combien de fois faut-il que notre monde brûle avant qu'on apprenne ?"*
+  - Les joueurs doivent se demander : est-ce que construire des armes pour la liberté, c'est encore la liberté ?
+
+  **Pour le MJ :** Ce plan est une source de tension majeure dans les Actes 3-4. Si le soulèvement réussit, le débat économique devient le nouveau champ de bataille — plus de blasters, mais des arguments, des votes, des sabotages discrets, et des choix impossibles.
 
 - **Le point faible :** Si Hopner réagit vite en envoyant des forces depuis Forscan, les syndicats peuvent appeler à l'aide et le soulèvement est écrasé. Hashk doit frapper vite et déclencher la Phase 2 (Arrakha) dans la foulée — le chaos de Murkhana empêche Hopner de se concentrer sur un seul front. Si les deux soulèvements se renforcent mutuellement, Hopner est débordée. Si le timing est raté, elle les écrase l'un après l'autre.
 
@@ -379,6 +478,12 @@ La Phase 2 se prépare en même temps que la Phase 1, mais l'exécution est déc
   - **Étape 4 — Déclaration d'indépendance :** Arrakha se déclare libre et demande la protection de la NUS.
 
 - **Le timing crucial :** Idéalement, le soulèvement d'Arrakha est lancé **pendant que Hopner est occupée par la crise sur Murkhana**, ou quand le Verdict Gris est en patrouille loin du système. Si les deux soulèvements sont simultanés, Hopner doit choisir où envoyer ses forces — et elle ne peut pas être partout.
+
+- **Pourquoi Hopner ne peut pas simplement bombarder (la vraie arme de Hashk) :** Les joueurs poseront la question — le Verdict Gris peut traverser le système en heures, pourquoi ne pas tout vitrifier ? Trois raisons, et Hashk compte sur les trois :
+  - **Arrakha est intouchable depuis l'orbite.** Bombarder les mines détruit le doonium — la ressource qui finance le Protectorat, qui alimente les Dark Troopers, et qui justifie l'existence même d'Arrakha pour Hopner. Sans le doonium, le Protectorat s'effondre en quelques années. Hopner ne tirera jamais sur ses propres mines. Et son enfant est en bas.
+  - **Murkhana est un piège médiatique.** Un bombardement de Murkhana — un monde peuplé de millions de civils, visiblement non militaire — serait exactement le genre d'images que Hashk veut faire parvenir au Sénat. Le Protectorat "progressiste" qui massacre des civils qui chantent ? L'Accord d'Ossus ne survivrait pas au scandale. Hopner le sait.
+  - **Le Protectorat a une image à maintenir.** Hopner recrute des non-humains, investit dans les écoles, se présente comme une protectrice. Un bombardement orbital détruirait cette façade en un instant — et avec elle, la loyauté de ses propres soldats et administrateurs.
+  - **Résultat :** Le Verdict Gris est un marteau qui ne peut frapper personne. Hashk a conçu son soulèvement pour que l'arme la plus puissante de Hopner soit inutilisable. Le combat se joue au sol — là où les Rouillés, les miliciens, et la foule murkhanaise ont une chance.
 
 - **Le point faible :** Les mineurs d'Arrakha sont courageux mais pas des soldats. Si la garnison tient assez longtemps pour que des renforts arrivent, le soulèvement sera noyé dans le sang. Et le Plan B de Hashk (les charges explosives dans les mines) est sa police d'assurance terrifiante — voir Révélation 4.
 
@@ -404,10 +509,20 @@ Le plan est intelligent mais fragile. Voici les points de rupture que les joueur
 | **Les armes viennent de la République** | Si les joueurs révèlent cette information, la légitimité des soulèvements est entamée (voir Révélation 5) |
 | **Le Plan B** | Si Hashk panique, il peut faire sauter les mines d'Arrakha plutôt que de perdre (voir Révélation 4) |
 | **Gekko riposte** | Le soulèvement de Murkhana menace directement les intérêts de Gekko — il ne restera pas les bras croisés |
+| **L'usine de droïdes** | Le plan économique de Hashk (relancer la production d'armes) divise la population, provoque la République, et transforme Murkhana en cible — le même piège que pendant la Guerre des Clones |
 
 **Personnalité :** Grand, mince, calme. Il parle doucement, avec une précision mathématique. Il ne menace jamais — il explique calmement pourquoi vous avez déjà perdu. Il a un vrai charisme intellectuel, et il croit sincèrement en sa cause. Ce n'est pas un méchant caricatural : c'est un idéaliste pragmatique.
 
-**L'ambiguïté morale :** Le combat de Hashk est sincère — libérer son peuple de l'exploitation criminelle sur Murkhana et de la conscription minière sur Arrakha. Mais les moyens sont discutables : mercenaires, droïdes de combat, alliance avec une NUS dont les motivations ne sont pas pures. Et la division de Murkhana entre ceux qui subissent le crime et ceux qui en profitent rend le soulèvement moralement complexe — chasser les syndicats, c'est aussi détruire l'économie de survie de milliers de gens.
+**Forces :**
+- **Terrestres (Murkhana) :** ~200 B1 "Rouillés", ~30 B2, 5 Droidekas, dizaines de Bricolés, 1 char AAT, milice populaire de plusieurs centaines de civils armés, mercenaires engagés
+- **Terrestres (Arrakha) :** ~50 B1, ~10 B2, milice du Terrier (~100 mineurs armés), quelques mercenaires
+- **Spatiales :** Hashk n'a pas de flotte de guerre — c'est son plus grand point faible. Il dispose de quelques cargos armés, d'une poignée de chasseurs Vulture réactivés, et d'une corvette NUS. Contre le Verdict Gris, c'est dérisoire.
+- **La vraie stratégie — une victoire politique, pas militaire :** Hashk le comptable sait compter. Il sait qu'il ne peut pas vaincre le Protectorat par les armes. Son plan ne repose pas sur la victoire militaire — il repose sur **l'image**. Si le soulèvement tient assez longtemps pour que des images de Murkhanais massacrés par des stormtroopers atteignent le Sénat (via Torv, via les réseaux d'information, via l'HoloNet), l'Accord d'Ossus devient intenable. Le Protectorat ne peut pas bombarder des civils qui chantent sans détruire sa propre légitimité — surtout un Protectorat qui recrute des non-humains et se prétend progressiste. Le plan de Hashk n'est pas de vaincre Hopner — c'est de la **forcer à montrer son vrai visage**. Et si elle montre ce visage, la République sera obligée d'intervenir. En attendant, la stratégie spatiale repose sur l'évitement : frapper au sol quand le Destroyer est ailleurs, utiliser le Cron Drift comme refuge, et compter sur la NUS après la déclaration d'indépendance — si elle arrive.
+- **La guerre de l'information — L'HoloNet :** Le Protectorat contrôle les relais HoloNet du secteur Auril — c'est d'ailleurs pour ça que l'Étape 1 du soulèvement sur les deux mondes est "couper les communications." Mais Hashk n'a pas besoin de l'HoloNet officiel. Ses canaux de diffusion sont clandestins : les réseaux de contrebandiers qui font circuler des données entre les systèmes, le **Moria** de Gekko (qui possède son propre relais HoloNet indépendant — il ne dépend de personne et vendra l'accès au plus offrant), **Nox** qui a un canal chiffré direct vers le Renseignement Militaire sur Coruscant, et **Torv** qui peut relayer des images via les canaux diplomatiques du Sénat. L'Étape 1 du soulèvement (couper les relais) n'est pas pour empêcher Hashk de communiquer — c'est pour empêcher les **syndicats** d'appeler Hopner à l'aide, et pour empêcher Hopner de coordonner sa réponse.
+- **Renseignement :** Réseau de cellules sur Murkhana, agents infiltrés parmi les mineurs d'Arrakha, Nox Erso (à son insu)
+- **Alliés incertains :** La NUS (agenda caché), les mercenaires (loyauté achetable), les contrebandiers (opportunistes)
+
+**L'ambiguïté morale :** Le combat de Hashk est sincère — libérer son peuple de l'exploitation criminelle sur Murkhana et de la conscription minière sur Arrakha. Mais les moyens sont discutables : mercenaires, droïdes de combat, alliance avec une NUS dont les motivations ne sont pas pures. Et son plan d'après — relancer les usines de droïdes et faire de Murkhana un fournisseur d'armes — est une ironie cruelle. Les bombardements de la République ont détruit Murkhana *parce qu'elle produisait des droïdes de guerre*. Hashk propose de reconstruire exactement la même chose. La liberté par les armes — mais combien de temps avant que quelqu'un ne bombarde Murkhana une seconde fois ?
 
 ---
 
@@ -416,18 +531,30 @@ Le plan est intelligent mais fragile. Voici les points de rupture que les joueur
 #### Amiral Gracia Hopner
 - **Espèce :** Humaine
 - **Âge :** ~50 ans
-- **Rôle :** Ancienne officier de la Marine Impériale, seigneur de guerre du secteur Auril
+- **Rôle :** Fondatrice et Protectrice du Protectorat d'Auril
 - **Référence :** *Grace Hopper* — pionnière de l'informatique ET contre-amirale de l'US Navy. Double parallèle parfait : une femme amirale brillante et méthodique.
 
-**Historique :** Gracia Hopner commandait un groupe de bataille impérial dans le secteur Auril quand l'Empire s'est effondré. Après la Bataille d'Endor, quand les droïdes messagers de Palpatine ont transmis les ordres de l'**Opération Cendre** — le bombardement de planètes entières, y compris des mondes loyaux, pour punir la galaxie de la mort de l'Empereur — Hopner a **refusé**. Elle a considéré ces ordres comme de la folie destructrice, indigne d'un officier. Elle a retenu sa flotte et protégé son secteur pendant que d'autres amiraux brûlaient leurs propres mondes.
+**Le Protectorat d'Auril :** Hopner ne se considère pas comme un seigneur de guerre — et elle interdit qu'on utilise ce terme dans ses territoires. Son gouvernement s'appelle le **Protectorat d'Auril** : un État autonome, organisé, avec une administration civile (fantoche), une armée professionnelle, et une propagande efficace. Les affiches de Kelden ne disent pas "L'Empire Protège" — elles disent *"Le Protectorat Protège"*. La différence est calculée.
 
-Ce refus la distingue radicalement des autres seigneurs de guerre impériaux. Elle ne s'est pas non plus rendue à la Nouvelle République ni n'a rallié les Vestiges. Elle a choisi une troisième voie : garder le contrôle de son secteur et gouverner de manière autonome. Elle a établi son siège de pouvoir sur Forscan Prime, héritant de la base impériale Forge-7 et de son infrastructure.
+Ce qui distingue le Protectorat des autres vestiges impériaux : **Hopner a appris des erreurs de l'Empire.** Le racisme anti-aliens qui a miné la crédibilité impériale ? Aboli. Le Protectorat recrute activement des non-humains — dans l'armée, dans l'administration, dans la FSK. Les stormtroopers du Protectorat incluent des Koorivar, des Gossams, des Gran, des Nikto. Les officiers non-humains sont rares mais existent. Sur Forscan Prime, un Twi'lek dirige une section de la FSK. Sur Arrakha, le sergent de la garnison est un Zabrak respecté par ses hommes.
 
-Ce refus de l'Opération Cendre est son argument moral le plus puissant : *"Quand l'Empire a voulu brûler ses propres citoyens, c'est moi qui les ai protégés. Où était la République à ce moment-là ?"* Et elle a raison — c'est ce qui rend les gens de Forscan Prime prêts à la tolérer, et c'est ce qui complique la position des joueurs.
+**Pourquoi c'est important narrativement :** Quand les joueurs verront un Koorivar en armure de stormtrooper à Torren, ou un Gran dans la FSK à Kelden, ils comprendront que Hopner n'est pas un tyran nostalgique — c'est quelqu'un qui a construit quelque chose de *nouveau*. Et ça rend le Protectorat beaucoup plus difficile à haïr, parce que les gens qui le servent ne sont pas des fanatiques impériaux — ce sont des citoyens ordinaires du secteur qui ont choisi la stabilité.
 
-Elle se considère non pas comme une tyran, mais comme la seule adulte responsable dans la pièce. Sans elle, le secteur sombrerait dans le chaos et la piraterie. Elle a raison, en partie — sa flotte maintient les routes commerciales ouvertes et protège les convois. Mais son "ordre" repose sur des taxes écrasantes, la conscription forcée, et l'élimination silencieuse de toute opposition politique.
+**Historique :** Gracia Hopner commandait un groupe de bataille impérial dans le secteur Auril quand l'Empire s'est effondré. Après la Bataille d'Endor, quand les droïdes messagers de Palpatine ont transmis les ordres de l'**Opération Cendre** — le bombardement de planètes entières, y compris des mondes loyaux — Hopner a **refusé**. Elle a retenu sa flotte et protégé son secteur pendant que d'autres amiraux brûlaient leurs propres mondes.
 
-Son coup de maître stratégique : l'**Accord d'Ossus**. Hopner a compris que la proximité du temple Jedi de Luke Skywalker sur Ossus était sa meilleure assurance-vie. En garantissant la sécurité du système Adega, elle a obtenu un pacte tacite de non-agression avec la Nouvelle République. C'est ce qui la rend si difficile à déloger — attaquer Hopner, c'est risquer de briser l'accord et de mettre le temple de Luke en danger.
+Ce refus la distingue radicalement. Elle ne s'est pas rendue à la République ni n'a rallié les Vestiges. Elle a fondé le **Protectorat d'Auril** — un État autonome qui ne rend de comptes ni à Coruscant ni aux cendres de l'Empire. Elle a établi son siège sur Forscan Prime, héritant de Forge-7 et de son infrastructure.
+
+Ce refus de l'Opération Cendre est son argument moral le plus puissant : *"Quand l'Empire a voulu brûler ses propres citoyens, c'est moi qui les ai protégés. Où était la République à ce moment-là ?"* C'est ce qui rend les gens de Forscan Prime prêts à la tolérer.
+
+**Pourquoi Hopner n'occupe pas Murkhana directement :**
+
+Les joueurs poseront cette question — la réponse doit être solide :
+- **Forces trop limitées.** Occuper Murkhana City — une mégalopole verticale hostile de plusieurs millions d'habitants — nécessiterait des dizaines de milliers de soldats. Le Protectorat tient Forscan Prime et Arrakha — il n'a pas le personnel pour un troisième front.
+- **Revenus criminels nécessaires.** Le pacte des ombres rapporte un tribut régulier sans coût d'occupation. Occuper Murkhana détruirait l'économie de contrebande qui finance le Protectorat.
+- **L'Accord d'Ossus.** Une occupation militaire visible serait un acte d'expansion. La République pourrait considérer que Hopner dépasse les limites tacites de l'accord.
+- **Murkhana n'en vaut pas la peine.** Un monde toxique sans ressources stratégiques. Le doonium est sur Arrakha. Le contrôle indirect suffit.
+
+Son coup de maître stratégique : l'**Accord d'Ossus**. En garantissant la sécurité du système Adega et du temple Jedi de Luke Skywalker, elle a obtenu un pacte tacite de non-agression avec la Nouvelle République. Attaquer le Protectorat, c'est risquer de briser l'accord et de mettre Ossus en danger.
 
 **Le contrôle de Murkhana — Le pacte des ombres :**
 
@@ -456,6 +583,7 @@ Sur Forscan Prime, Hopner ne fait pas régner l'ordre uniquement par les stormtr
 - Réseau criminel sur Murkhana (renseignement, tribut)
 - Force de Sécurité de Kelden (FSK) — milice d'élite sur Forscan Prime
 - Bureau de Sécurité Sectoriel (BSS) — renseignement et contre-insurrection
+- **Pas de droïdes de combat.** Hopner considère la réactivation de matériel militaire CIS comme un **acte séditieux** — un retour au séparatisme. Quiconque est pris avec un droïde de combat réactivé sur un monde contrôlé par Hopner est arrêté et interrogé. C'est une des raisons pour lesquelles l'armée de Hashk est secrète — et c'est un risque permanent pour les joueurs qui se baladent avec des pièces de B1 dans leur inventaire.
 
 **Le Bureau de Sécurité Sectoriel (BSS) — L'œil de Hopner :**
 
@@ -482,6 +610,11 @@ Le BSS est le service de renseignement personnel de l'Amiral Hopner, calqué sur
 
 **Personnalité :** Impeccable, posée, analytique. Elle ne hausse jamais la voix. Elle traite ses subordonnés avec un respect glacial. Elle joue aux échecs holographiques seule dans ses quartiers et planifie trois coups à l'avance. Elle ne veut pas tuer le Muun — elle veut le capturer pour l'interroger et démanteler tout son réseau.
 
+**Citations :**
+- *"Quand l'Empire a voulu brûler ses propres citoyens, c'est moi qui les ai protégés. Où était la République à ce moment-là ? Où étiez-vous ?"*
+- *"L'ordre n'est pas un cadeau. C'est un travail. Chaque jour, je choisis entre ce qui est juste et ce qui fonctionne. Et chaque jour, je choisis ce qui fonctionne — parce que les gens qui choisissent ce qui est juste finissent morts dans un canyon d'Arrakha."*
+- *(aux joueurs, si confrontation directe)* *"Vous pensez que je suis le problème. Éliminez-moi. Regardez ce qui arrive après. Le Hutt prend le secteur en six mois. La NUS en fait une base militaire. Vos amis murkhanais se retrouvent avec un nouveau maître — un qui ne leur interdira même pas le droit de mourir dans les mines."*
+
 **Motivation :** Hopner voit Hashk comme une menace existentielle sur deux fronts. Sur Murkhana, il sape le pacte des ombres avec les syndicats — si le peuple se soulève, Hopner perd son réseau de renseignement et de contrôle indirect. Sur Arrakha, il menace le doonium qui entretient sa flotte et finance son pouvoir. C'est pour ça qu'elle veut Hashk capturé vivant — pas pour le punir, mais pour l'interroger et démanteler l'intégralité de son réseau sur les deux mondes avant qu'il ne soit trop tard.
 
 ---
@@ -500,7 +633,9 @@ Il s'est installé sur une station spatiale reconvertie dans le système Fial �
 
 **Personnalité :** Jovial, rieur, d'une vulgarité assumée. Il adore les jeux de hasard, les combats de gladiateurs, et les banquets obscènes. Mais derrière cette façade grotesque, c'est un calculateur redoutable. Il parle en riant, mais chaque mot est pesé.
 
-**Stratégie :** Que les factions s'épuisent mutuellement, puis ramasser les morceaux. Il finance les mercenaires du Muun, vend des pièces détachées au seigneur de guerre, et a un espion dans le Consortium d'Edna.
+**Stratégie :** Que les factions s'épuisent mutuellement, puis ramasser les morceaux. Il finance les mercenaires du Muun, vend des pièces détachées au Protectorat, et a un espion dans le Consortium d'Edna.
+
+**Comment Gekko sait tout :** Les joueurs se demanderont comment un Hutt sur une station paumée est si bien informé. La réponse est simple — **chaque transaction est une source d'information.** Gekko vend des armes à Hashk (il connaît ses besoins militaires), des pièces détachées au Protectorat (il connaît leurs projets de maintenance), de l'épice aux syndicats (il connaît leurs finances), et des informations à quiconque paie. Le Moria est un carrefour : toutes les factions y envoient des agents, des marchands, des pilotes — et tous parlent trop quand ils jouent au sabacc ou boivent au bar. Majordome Grep écoute chaque conversation. Sly Nmap surveille les visiteurs importants. Fenn Sudo et Jyn Tracert sont ses agents nommés, mais il en a d'autres — des dockers au Port Gris, un serveur dans une cantina de Torren, un technicien à Forge-7 qui a une dette de jeu. Gekko ne sait pas *tout* — mais il sait assez pour donner cette impression, et l'impression suffit.
 
 **Rôle dans la campagne :** Apparaît d'abord comme un PNJ secondaire (contact pour matériel/informations). Puis les joueurs réalisent qu'il est partout. Il leur propose de travailler pour lui quand le vent tourne.
 
@@ -522,6 +657,11 @@ Torv cherche désespérément des agents locaux — des gens sur le terrain qui 
 
 **Rôle dans la campagne :** Apparaît dans l'Acte 2 ou 3, offrant aux joueurs une alternative légitime mais frustrante. Il est honnête sur les limites de ce qu'il peut offrir — et si les joueurs le poussent, il finira par leur révéler l'existence de l'Accord d'Ossus. C'est un moment de bascule potentiel pour la campagne.
 
+#### Nox Erso — L'agent fantôme
+*(Fiche complète dans la section Révélations Majeures — Révélation 4)*
+
+Un agent du Renseignement Militaire de la Nouvelle République opère sous couverture dans le secteur sous le nom de "Nox". Les joueurs la rencontrent dès l'Acte 1 comme une mécanicienne serviable. En réalité, elle alimente secrètement le conflit pour forcer la République à intervenir — un "Luthen Rael" du secteur Auril. Linus Torv ne connaît pas son existence. Quand il l'apprend, c'est un séisme.
+
 ---
 
 ## LES CINQ CAMPS
@@ -530,11 +670,11 @@ Les joueurs pourront, au fil de la campagne, choisir de s'allier à l'un de ces 
 
 | Camp | Leader | Philosophie | Avantage | Prix |
 |---|---|---|---|---|
-| **Seigneur de guerre** | Amiral Hopner | L'ordre par la force | Ressources militaires, protection | Oppression, compromission morale |
+| **Protectorat** | Amiral Hopner | L'ordre par la force | Ressources militaires, protection, stabilité | Oppression, compromission morale |
 | **Séparatiste / NUS** | Hashk Ellor | Indépendance par la sécession | Cause juste, soutien populaire | Moyens discutables, incertitude |
 | **Nouvelle République** | Sénateur Linus Torv | Légitimité démocratique | Légalité, diplomatie | L'Accord d'Ossus — la République a choisi de ne pas intervenir |
-| **Les Hutts** | Gekko Grancha Tiure | Le profit avant tout | Argent, réseau, pragmatisme | Corruption, servitude déguisée |
-| **Autodétermination** | Le peuple murkhanais | Liberté totale | Vraie liberté, fierté | Aucun allié puissant, tout à construire |
+| **Les Hutts** | Gekko Grancha Tiure | Le pragmatisme sans idéologie | Argent immédiat, protection concrète, aucune loyauté exigée | Corruption, dépendance, pas de liberté réelle — juste un nouveau patron |
+| **Autodétermination** | Mara Crypt / Le peuple murkhanais | Liberté totale | Vraie liberté, fierté | Aucun allié puissant, tout à construire |
 
 ---
 
@@ -543,22 +683,24 @@ Les joueurs pourront, au fil de la campagne, choisir de s'allier à l'un de ces 
 ### ACTE 1 — "LA PRIME"
 **Sessions :** 0 à 9  
 **Ton :** Aventure, découverte, humour  
-**Objectif narratif :** Les joueurs découvrent le secteur Auril à travers ses trois mondes (Murkhana, Arrakha, Forscan Prime), s'attachent au Consortium et à la culture murkhanaise, et réalisent progressivement que leur cible est plus complexe qu'une simple prime. Hashk les teste via des intermédiaires avant de se montrer. Edna soutient les joueurs et fournit des missions secondaires.
+**Objectif narratif :** Les joueurs découvrent le secteur Auril à travers ses trois mondes (Murkhana, Arrakha, Forscan Prime), s'attachent au Consortium et à la culture murkhanaise, et réalisent progressivement que leur cible est plus complexe qu'une simple prime. Le réseau de Hashk les observe sans qu'ils le sachent. Edna soutient les joueurs et fournit des missions secondaires.
 
 #### Déroulement
 
-**Arc principal :** Edna et Basch confient aux joueurs la traque de Hashk Ellor, un Muun recherché par un client anonyme. La prime est de 50 000 crédits — trop généreuse. Edna le remarque et met en garde les joueurs. Ce que personne ne sait, c'est que Hashk est au courant de la prime et orchestre un parcours de "conversion" : il teste les joueurs via des intermédiaires pour évaluer s'ils peuvent devenir des alliés. Edna, de son côté, est plus ou moins au courant de ce qui se trame — elle soutient les joueurs, fournit des missions secondaires quand la table n'est pas complète, et les suit dans leurs démarches.
+**Arc principal :** Edna et Basch confient aux joueurs la traque de Hashk Ellor, un Muun recherché par un client anonyme. La prime est de 50 000 crédits — trop généreuse. Edna le remarque et met en garde les joueurs. Ce que personne ne sait, c'est que Hashk est au courant de la prime et a un protocole standard : son réseau observe quiconque le cherche, rapporte, et Hashk décide de se montrer — ou de disparaître — en fonction de ce qu'il apprend. Les joueurs ne sont pas spéciaux. Pas encore. Edna, de son côté, est plus ou moins au courant de ce qui se trame — elle soutient les joueurs, fournit des missions secondaires quand la table n'est pas complète, et les suit dans leurs démarches.
 
 #### Éléments clés
-- **Sessions 0-1 :** Création, introduction au Consortium, tutoriel (Vekk Draal). Pierre Noire au-dessus de la porte du Nid, Chant des Marées en fond sonore.
-- **Session 2 :** Enquête sur Hashk à Murkhana City. Rencontres Nox Erso (couverture) et Fenn Sudo (agent de Gekko). **Scène du Convoi** — familles murkhanaies séparées au Port Gris, gut-punch de l'Acte 1. Premier avertissement de Hashk = premier test.
-- **Session 3 :** Hashk teste les joueurs via un intermédiaire — mission qui révèle le pacte syndicats/Hopner. Les joueurs découvrent que Murkhana est contrôlée à distance.
-- **Session 4 :** Voyage vers Arrakha. Découverte de la colonie de Murkhanais, du système d'exploitation (quotas, endettement, Gorges de Lucas). Second test de Hashk via Jyn Tracert.
-- **Session 5 :** Visite de **Forscan Prime** — la vitrine impériale. Kelden propre et prospère, FSK qui protège les riches, propagande. Contraste moral : la stabilité vaut-elle le silence ? Contact possible avec le Réseau Racine dans les campagnes.
-- **Session 6 :** Retour sur Murkhana/Arrakha. Le réseau de Hashk se dévoile. Troisième test. Nox réapparaît.
-- **Session 7 :** Hashk se montre enfin. Son plan (grandes lignes), sa vision, le dilemme : *"Je ne vous demande pas de vous battre pour moi. Donnez-moi le temps."*
-- **Session 8 :** Pression montante — Serres, Vektor, révélation du commanditaire (Hopner), humanisation d'Hopner (refus de l'Opération Cendre). Edna prend position sans forcer.
-- **Session 9 :** Climax — Raid impérial sur Arrakha, cellules qui s'agitent sur Murkhana, 5 choix pour les joueurs, le Chant des Marées qui frémit.
+*(Détail session par session dans ACTE1_README.md)*
+- **Session 0 :** Création des PJ + vaisseau. Soirée dédiée (4-5h), pas de jeu narratif.
+- **Session 1 :** Introduction au Nid d'Edna + tutoriel (Vekk Draal). Pierre Noire, Chant des Marées en ambiance.
+- **Session 2 :** Enquête Hashk. Nox Erso, Fenn Sudo, **scène du Convoi**. Le réseau observe. *(2-3 pistes max.)*
+- **Session 3 :** Mission entrepôt — révèle le pacte syndicats/Hopner. Ambiance Fosses.
+- **Session 4 :** Arrakha. Colonie, exploitation, sauvetage mineur. Le réseau rapporte.
+- **Session 5 :** Forscan Prime — vitrine + **mission concrète** (contact disparu ou protection). FSK, Réseau Racine.
+- **Session 6 :** Retour + réseau visible + **rencontre Hashk** + embuscade des Serres. Tournant narratif.
+- **Session 7 :** **Le Moria** — session sociale chez Gekko. Sabacc, ambiance, premier contact Hutt. Respiration.
+- **Session 8 :** Pression — Vektor, commanditaire révélé (Hopner), humanisation. Edna réagit.
+- **Session 9 :** Climax — Raid limité Arrakha, 5 choix, le Chant frémit.
 
 #### L'horloge de l'Acte 1 — Ce qui presse les joueurs
 - **Les Serres (chasseurs rivaux) :** Kreel Voss et son équipe sont aussi sur le contrat. Si les joueurs traînent, les Serres trouvent Hashk en premier.
@@ -566,7 +708,7 @@ Les joueurs pourront, au fil de la campagne, choisir de s'allier à l'un de ces 
 - **Vektor qui se resserre :** Session après session, les joueurs sentent qu'on les surveille — contacts arrêtés, informateurs muets, transactions surveillées.
 
 #### Climax de l'Acte 1
-Le Verdict Gris lance un raid sur Arrakha. Sur Murkhana, les cellules de Hashk s'agitent. Les joueurs doivent choisir : aider Hopner, aider Hashk (sur l'un des deux fronts), rester neutres, ou avertir la République. Le Chant des Marées murmure dans les Fosses — la tempête ne fait que commencer.
+Le Verdict Gris lance un **raid limité** sur Arrakha — pas un assaut total, mais une opération ciblée pour capturer Hashk dans les canyons. Sur Murkhana, les cellules de Hashk s'agitent à la nouvelle, mais le soulèvement n'est pas lancé — c'est trop tôt, les préparatifs ne sont pas terminés. L'Acte 1 se termine sur une situation instable : Hashk a échappé (ou pas) au raid, les joueurs ont dû choisir leur réaction dans l'urgence, et tout le monde sait que la prochaine fois, ce sera le vrai affrontement. Le Chant des Marées murmure dans les Fosses — pas encore un cri, mais un avertissement.
 
 ---
 
@@ -576,19 +718,23 @@ Le Verdict Gris lance un raid sur Arrakha. Sur Murkhana, les cellules de Hashk s
 **Objectif narratif :** Les joueurs découvrent les vraies motivations de chaque faction et commencent à choisir un camp — ou à jouer double jeu.
 
 #### Révélations clés
-- Le commanditaire de la prime est l'Amiral Hopner, un seigneur de guerre impérial
-- Hashk prépare des soulèvements parallèles — libérer Murkhana des syndicats ET Arrakha de la garnison impériale — pour rallier le système à la Nouvelle Union Séparatiste
-- Gekko le Hutt vend des armes aux deux camps et a un espion dans le Consortium
-- Un émissaire de la Nouvelle République (Linus Torv) prend contact avec les joueurs
-- **L'Accord d'Ossus** — La Nouvelle République tolère Hopner en échange de la protection du temple Jedi de Luke. Les peuples du secteur ont été sacrifiés par la realpolitik. Cette révélation peut venir de Linus Torv (s'il fait confiance aux joueurs), de Hashk (comme argument de recrutement), ou de Gekko (qui la vend comme information).
+*(Les joueurs savent déjà qui est Hashk, ce qu'il prépare, et qui est le commanditaire. L'Acte 2 approfondit et complique :)*
+- **L'Accord d'Ossus** — La Nouvelle République tolère Hopner en échange de la protection du temple Jedi de Luke. Les peuples du secteur ont été sacrifiés par la realpolitik. Source : Linus Torv, Hashk, ou Gekko.
+- **L'enfant de Hopner** — Les joueurs découvrent qu'un PNJ qu'ils connaissent sur Arrakha est lié à l'Amiral. Ça humanise l'ennemie et complique tout.
+- Le **vrai visage de la NUS** — Les "conseillers" qui arrivent ne sont pas là pour aider. Premiers signes que la NUS a son propre agenda.
+- **Gekko sait tout** — Le Hutt révèle qu'il a un espion dans le Consortium et qu'il connaît les plans de toutes les factions. Il propose un deal — ou menace de tout vendre à Hopner.
+- Le sénateur **Linus Torv** prend contact avec les joueurs et offre une alternative républicaine — frustrante mais légitime.
 
 #### Éléments clés
-- **Infiltration** dans les cercles de Hashk (déguisements, fausses identités)
-- **Négociations tendues** avec l'Amiral Hopner à bord du *Verdict Gris*
-- **Bataille terrestre** quand une garnison impériale attaque un camp de mineurs rebelles
-- **Exploration** des canyons d'Arrakha — créatures prédatrices dans les mines abandonnées
-- **Scène sociale** au Moria de Gekko — combat de gladiateurs, sabacc à enjeux élevés, proposition tentante
-- **Contact diplomatique** avec la Nouvelle République via le sénateur Linus Torv
+*(Détail session par session dans ACTE2_README.md)*
+- **Session 10 :** Conséquences du raid. Factions en alerte. Vektor a un dossier sur les joueurs. Seren Awk recrute ouvertement.
+- **Session 11 :** Gekko invite les joueurs au Moria. Session sociale : sabacc, luxe, deal/chantage. Gekko révèle ce qu'il sait (Jyn Tracert, soupçons sur Nox, intérêts de Hopner sur Arrakha).
+- **Session 12 :** Linus Torv prend contact. Alternative républicaine — légitime mais frustrante. **Révélation de l'Accord d'Ossus** si les joueurs le poussent.
+- **Session 13 :** Confrontation directe avec Hopner à bord du Verdict Gris. Humanisation. Vektor se montre en personne et mentionne Nox.
+- **Session 14 :** Reth Systemd (NUS) arrive avec ses "conseillers". Premiers signes de contrôle. **L'enfant de Hopner** est découvert sur Arrakha.
+- **Session 15 :** Vektor frappe — contact arrêté, visite au Nid, dossier sur les joueurs. Consortium menacé. **Edna pose la question.** Mara Crypt entre en scène comme 5ème voix. Premiers indices Dark Troopers (rumeurs de Forge-7).
+- **Session 16 :** Compte à rebours. Alliances finalisées. Le Chant monte dans les rues. Le Verdict Gris entre dans le système Murkhana. La nuit avant le soulèvement.
+- **Session 17 :** **Le Chant des Marées éclate.** Double soulèvement. Rouillés vs Chromés dans les rues de Murkhana. Grève et assaut sur Arrakha. Point de non-retour.
 
 #### L'horloge de l'Acte 2 — L'escalade
 - **Vektor en personne :** Le Superviseur commence à agir directement — il interroge des contacts des joueurs, se présente au Nid d'Edna avec des questions polies, ou fait arrêter un allié. Il se rapproche de Hashk et des joueurs simultanément.
@@ -597,38 +743,39 @@ Le Verdict Gris lance un raid sur Arrakha. Sur Murkhana, les cellules de Hashk s
 - **Gekko force la main :** Il révèle aux joueurs qu'il sait tout sur tout (ou presque) et propose un deal. Si les joueurs refusent, il menace de vendre leurs informations à Hopner. Le temps joue contre eux.
 
 #### Climax de l'Acte 2
-Les soulèvements de Hashk sont lancés — sur Murkhana et/ou Arrakha, soit parce que les joueurs l'ont aidé, soit parce qu'il a été forcé d'agir en avance. Le système Murkhana plonge dans le chaos sur deux fronts simultanés. Les joueurs doivent choisir leur camp.
+Le **vrai soulèvement** est lancé. Le Chant des Marées éclate dans les rues de Murkhana City — de quartier en quartier, la ville se lève. Les Rouillés marchent. Les syndicats déploient leurs Chromés. En parallèle, sur Arrakha, le Chant remonte des galeries et les mineurs refusent de descendre. C'est le double soulèvement de Hashk — le point de non-retour. Le système Murkhana plonge dans la guerre sur deux fronts simultanés. Les joueurs sont au cœur du chaos — et leur camp est maintenant public.
 
 ---
 
 ### ACTE 3 — "LA GUERRE"
 **Sessions :** 18 à 23  
 **Ton :** Épique, dramatique, conséquences lourdes. Les PNJ que les joueurs aiment peuvent mourir.  
-**Objectif narratif :** Les conséquences du choix de l'Acte 2 se déploient. La situation escalade en conflit ouvert.
+**Objectif narratif :** Les conséquences du choix de l'Acte 2 se déploient. La situation escalade en conflit ouvert. 5 routes distinctes selon le camp choisi.
 
-#### Variations selon le camp choisi
+*(Détail : 5 routes × 6 sessions dans ACTE3_README.md)*
 
-**Camp Hopner :** Les joueurs aident à écraser la rébellion, mais découvrent que Hopner prévoit de faire un exemple en bombardant les quartiers civils. Peuvent-ils la modérer de l'intérieur ?
+#### Événements mondiaux (toutes routes)
+- **Session 20 :** Dark Troopers Phase I frappent — assassinats ciblés, "soldats noirs" dans la nuit.
+- **Session 21 :** Nox Erso démasquée (via Gekko qui vend son identité à Vektor). Crise diplomatique.
+- **Session 22 :** Plan B activé — charges explosives dans les mines d'Arrakha. L'enfant de Hopner est en danger.
+- **Session 23 :** Dark Troopers Phase II déployés. Climax militaire.
 
-**Camp Hashk :** Le coup d'état réussit, mais la NUS envoie ses propres "conseillers" qui ressemblent beaucoup à des occupants. Hashk perd-il le contrôle de son propre mouvement ?
+#### Les 5 routes
 
-**Camp République :** Linus Torv obtient un mandat diplomatique, mais les négociations sont lentes et fragiles. Quelqu'un sabote le processus — les joueurs découvrent qu'un agent républicain alimente secrètement le conflit pour provoquer Hopner. Torv est horrifié.
+**Route 1 — Camp Hashk :** Victoire → contrôle NUS → Dark Troopers → Plan B → sauver Hashk de lui-même. *Thème : le libérateur qui dérape.*
 
-**Camp Hutt :** Gekko propose une alliance pragmatique. Arrakha devient une zone franche sous protection Hutt. C'est stable, mais à quel prix moral ?
+**Route 2 — Camp Hopner :** Répression → découverte des Dark Troopers de l'intérieur → crise morale → extraction de l'enfant → réforme ou trahison. *Thème : l'ordre à quel prix.*
 
-**Camp Peuple :** La voie la plus dure. Les joueurs doivent unifier les factions locales, repousser tous les envahisseurs, et construire quelque chose de nouveau sans alliés puissants.
+**Route 3 — Camp République :** Négociation → sabotage du cessez-le-feu → Nox révélée comme saboteur → scandale → transmettre le dossier au Sénat. *Thème : la diplomatie dans les ruines.*
 
-#### Éléments clés (communs à toutes les routes)
-- Grande **bataille spatiale** — la flotte de Hopner contre les forces combinées du Muun et de ses alliés
-- **Batailles terrestres** dans les canyons et les mines d'Arrakha
-- **Trahison** au sein du Consortium — l'espion de Gekko est révélé
-- **Créatures** des profondeurs des mines réveillées par les combats
-- **Missions d'infiltration** dans les camps ennemis
+**Route 4 — Camp Hutt :** Opportunisme → livraisons aux deux camps → vol des données Dark Trooper → un PNJ meurt → choix de rester ou trahir Gekko. *Thème : le prix de la neutralité.*
+
+**Route 5 — Camp Peuple :** Isolement → protection des civils → alliances improbables → désarmer le Plan B par la conviction seule → unification populaire contre les Dark Troopers. *Thème : construire sans fondations.*
 
 #### Révélations de l'Acte 3 (voir section Révélations Majeures pour les détails)
-- **Le Projet Secret de Forge-7** — Les joueurs découvrent ce que Hopner prépare dans les niveaux inférieurs de sa base. Point de non-retour moral.
-- **Le Plan B de Hashk** — Des charges explosives sont cachées dans les mines. Si Hashk perd, il est prêt à tout détruire. Course contre la montre.
-- **L'Agent Républicain** — Quelqu'un dans la République alimente le conflit en secret. Personne ne joue franc jeu.
+- **Les Dark Troopers de Forge-7** — Hopner construit ses propres droïdes de combat avec le doonium d'Arrakha et la technologie Baktoid. Hypocrisie totale.
+- **Le Plan B de Hashk** — Charges explosives dans les mines. Si Hashk perd, il est prêt à tout détruire. Course contre la montre.
+- **Nox Erso** — Agent républicain qui alimente le conflit. Gekko la vend à Vektor. Torv est anéanti.
 
 ---
 
@@ -643,7 +790,7 @@ Les soulèvements de Hashk sont lancés — sur Murkhana et/ou Arrakha, soit par
 - Confrontation finale avec la faction principale opposée aux joueurs
 - Le sort de **Hashk Ellor** — mort, capturé, libéré, ou au pouvoir ? Si le Plan B est encore actif, les joueurs doivent l'en empêcher — ou le convaincre d'y renoncer.
 - Le sort de l'**Amiral Hopner** — vaincue, alliée, ou toujours en embuscade ? Son enfant sur Arrakha peut être un levier de négociation ou un facteur de complication émotionnelle.
-- **Le Projet de Forge-7** — Si Hopner est acculée, elle active son projet secret en dernier recours. Les joueurs doivent infiltrer ou détruire la base avant qu'il n'aboutisse.
+- **Le Projet de Forge-7** — Si Hopner est acculée, elle déploie les Dark Troopers Phase II en masse. Si les joueurs n'ont pas saboté Forge-7, le prototype Phase III est activé — boss final potentiel de la campagne.
 - **Gekko** tente un dernier coup — il a toujours un plan de secours
 - Le **Consortium d'Edna** survit-il ? Edna doit peut-être faire un sacrifice
 - Possibilité d'une intervention de la **Nouvelle République** en force — mais seulement si l'Accord d'Ossus est brisé, ce qui met le temple de Luke en danger
@@ -684,16 +831,152 @@ La révélation de l'enfant de Hopner (Acte 2-3) sera d'autant plus puissante si
 ### Obligation
 Chaque joueur a une Obligation (mécanique de base d'Edge of the Empire). Les intégrer dans la trame enrichit l'histoire : une dette envers Gekko, un passé avec l'Empire, un lien familial sur Arrakha, une rivalité au sein du Consortium...
 
+### Le Vaisseau des Joueurs
+
+Le vaisseau du groupe est choisi collectivement lors de la **Session 0 (Création de personnages)**. C'est une décision de groupe — le vaisseau est leur foyer, leur outil de travail, et un personnage à part entière (comme le Ghost dans Rebels ou le Razor Crest dans Mandalorian).
+
+**Comment ça se passe :** Après la création des personnages, le MJ propose aux joueurs de choisir leur vaisseau parmi les options du livre de base EotE (ou un modèle convenu ensemble). Quelques questions à poser au groupe :
+- **D'où vient-il ?** Prêté par le Consortium ? Gagné au sabacc ? Volé ? Hérité d'un ancien chasseur de primes ?
+- **Dans quel état ?** Neuf et fiable (rare), ou vieux et capricieux (plus intéressant) ?
+- **Qui le pilote ?** Un joueur dédié, ou tout le monde s'y colle ?
+- **Comment il s'appelle ?** Laisser les joueurs nommer leur vaisseau — c'est un moment d'appropriation important.
+
+**Conseils pour le MJ :**
+- Un cargo léger (type YT-1300, YT-2400, ou HWK-290) est idéal pour la campagne : assez grand pour 6 joueurs + équipement, assez petit pour se poser discrètement dans les canyons d'Arrakha ou les niveaux bas du Port Gris.
+- Le vaisseau devrait avoir des **défauts** que le MJ peut exploiter : hyperdrive capricieux, tourelle qui grince, soute qui fuit, système de recyclage d'air bruyant. Ça crée de la tension et de la comédie.
+- Les joueurs le modifieront, le répareront, le défendront au fil de la campagne. Quand il sera endommagé — et il le sera — ça fera mal.
+- **Idée :** Si le vaisseau est prêté par le Consortium, Edna s'attend à ce qu'il revienne en un seul morceau. Si les joueurs le perdent ou le détruisent, c'est un moment narratif fort — et une dette envers Edna.
+
 ### La Bourse de Primes
 Le Consortium a un tableau de primes secondaires que les joueurs peuvent accomplir entre les missions principales — du contenu optionnel pour les sessions où l'on veut quelque chose de plus léger ou pour gagner des crédits supplémentaires.
 
+### L'Engrenage — Pourquoi les joueurs ne peuvent pas rester neutres
+
+Les joueurs commencent comme des chasseurs de primes. Ils veulent faire le contrat, prendre l'argent, et passer au suivant. La campagne est conçue pour rendre cette posture **de plus en plus difficile à maintenir** — pas en forçant un choix, mais en rendant l'inaction plus coûteuse que l'action. L'implication monte en deux phases : d'abord l'émotion, puis la pression.
+
+#### Phase 1 — L'émotion (Acte 1, sessions 0-9)
+
+Les joueurs ne sont pas forcés de réagir. Mais ils voient des choses qui s'accumulent :
+
+- **Le Convoi (session 2) :** Des familles séparées au Port Gris. Un enfant qui chante. Un docker indifférent. Les joueurs ne sont pas obligés d'intervenir — mais ils l'ont vu.
+- **La mission de la session 3 :** Les joueurs découvrent que Murkhana est contrôlée par un pacte entre les syndicats et Hopner. Le commerçant qui les a engagés dit simplement : *"Maintenant vous savez."* Ils savent.
+- **Arrakha (session 4) :** Les quotas, les dettes, les Gorges. Un vieux mineur qui montre sa Pierre Noire. Le Chant dans les galeries. Encore une fois, personne ne leur demande d'agir. Mais le monde s'imprime en eux.
+- **Forscan Prime (session 5) :** La vitrine propre. Le stormtrooper courtois. Le commerçant qui sourit en mentant. Le contraste avec ce qu'ils ont vu sur Arrakha et Murkhana est insupportable — et c'est le point. Les joueurs comprennent le système dans son ensemble.
+- **Les PNJ s'attachent (sessions 1-6) :** Les joueurs ne s'attachent peut-être pas aux PNJ — mais les PNJ s'attachent à eux. Rezz le barman leur garde une table. Ping leur sert sans qu'ils commandent. Un enfant d'Arrakha les suit partout. Jyn Tracert leur fait confiance. Nox les aide sans rien demander. Le Consortium est leur foyer. Quand ces gens seront en danger, les joueurs ressentiront quelque chose — même s'ils prétendent que non.
+
+**Principe MJ :** Pendant la phase émotionnelle, ne jamais demander aux joueurs de choisir. Ne pas les pousser. Juste montrer. Laisser le monde faire le travail. Les joueurs débutants ont besoin de temps pour s'attacher — 5-6 sessions d'immersion avant que la pression ne commence.
+
+#### Phase 2 — La pression (Acte 1 fin + Acte 2, sessions 7-17)
+
+À partir du moment où les joueurs rencontrent Hashk (session 7), les factions commencent à exiger des comptes. Rester neutre a un coût concret et croissant :
+
+**Le Consortium est menacé :**
+- **Session 8-9 :** Hopner (via Vektor) fait pression sur le Consortium. Le message est clair : livrez le Muun ou perdez votre licence d'opérer dans le secteur. Les contrats se tarissent. Des clients refusent de travailler avec le Consortium "tant que l'affaire du Muun n'est pas réglée". L'argent ne rentre plus.
+- **Acte 2 :** Le soulèvement bouleverse Murkhana. Les syndicats — qui étaient les principaux clients du Consortium — sont en guerre. Le Nid d'Edna est entre les lignes de front. Edna doit envisager de fermer, de fuir, ou de choisir un camp. Si les joueurs ne font rien, leur foyer disparaît.
+- **Le choix d'Edna :** Edna ne force pas les joueurs, mais elle leur pose la question : *"Le Nid ne survivra pas à cette guerre. Pas en restant au milieu. Alors soit on choisit un camp et on survit — soit on se disperse et chacun se débrouille. Qu'est-ce que vous voulez, mes enfants ?"*
+
+**Les factions forcent la main :**
+- **Hopner exige des comptes :** Via Vektor, via un officier impérial, ou via un ultimatum direct — Hopner rappelle aux joueurs qu'ils ont été payés pour un contrat et qu'elle n'aime pas les gens qui ne tiennent pas parole. Si les joueurs ont aidé Hashk (même passivement), elle les considère comme des ennemis. Si les joueurs n'ont rien fait, elle les considère comme des incapables — et envoie les Serres ou ses propres agents les remplacer.
+- **Hashk a besoin d'eux :** Hashk ne supplie pas — il explique froidement que les joueurs sont les seuls opérateurs indépendants du secteur qui connaissent à la fois Murkhana, Arrakha et Forscan Prime. Ils sont trop précieux pour rester neutres. Si les joueurs refusent, Hashk comprend — mais il prévient : *"Si vous n'êtes pas avec nous, vous serez au milieu. Et au milieu, on meurt."*
+- **Gekko fait chanter :** Gekko sait tout ce que les joueurs ont fait — chaque rencontre, chaque faveur, chaque information échangée. Il utilise ça comme levier : *"Vous avez parlé au Muun. Vous avez parlé à l'Amiral. Vous avez parlé à moi. Ça fait de vous des gens très intéressants — et très compromis. Je peux vous protéger... si vous me rendez un service."* Si les joueurs refusent, Gekko menace de vendre leurs mouvements à Hopner.
+- **Linus Torv appelle à leur conscience :** Le sénateur ne menace pas — il demande. *"Vous avez vu Arrakha. Vous avez vu ce que Hopner fait à ces gens. Je ne peux pas envoyer de troupes — mais vous, vous êtes déjà là. Vous pouvez faire la différence. Pas pour moi, pas pour la République. Pour eux."*
+
+**Les conséquences rattrapent les joueurs :**
+- **Quelqu'un qu'ils ont aidé souffre :** Le commerçant de la session 3 est retrouvé battu par les syndicats — les joueurs ont volé la cargaison de tribut, et les syndicats ont trouvé le responsable. Si les joueurs n'interviennent pas, il disparaît.
+- **Quelqu'un qu'ils ont ignoré meurt :** Le mineur d'Arrakha qu'ils ont sauvé dans les galeries (session 4) est renvoyé aux Gorges de Lucas par la direction. Si les joueurs avaient poussé plus loin, ils auraient pu empêcher ça. Le MJ ne souligne pas le lien — les joueurs le font eux-mêmes.
+- **Le convoi suivant part :** Un nouveau convoi de conscrits quitte le Port Gris. Les joueurs reconnaissent un visage — quelqu'un qu'ils ont croisé dans les Fosses, ou un voisin du Nid. Le système continue, avec ou sans eux.
+- **Vektor les cite :** Un rapport du BSS intercepté mentionne les joueurs par nom. Vektor les a cartographiés. Ils ne sont plus anonymes — rester neutre ne les protège plus.
+
+**Principe MJ :** La pression n'est pas binaire ("choisis un camp ou meurs"). C'est une accumulation : chaque session apporte un coût supplémentaire à la neutralité. Les joueurs sentent l'étau se resserrer sans qu'on leur dise "vous devez choisir maintenant." Le moment du choix viendra naturellement — quand les joueurs décideront d'eux-mêmes que c'est assez.
+
+#### Le moment de bascule
+
+Chaque table basculera à un moment différent. Pour certains joueurs, c'est le Convoi en session 2. Pour d'autres, c'est Edna qui demande "qu'est-ce que vous voulez ?" en Acte 2. Pour les plus mercenaires, c'est Vektor qui les cite par nom — le moment où rester neutre ne les protège plus.
+
+Le MJ ne doit pas forcer ce moment. Il doit juste s'assurer que chaque session ajoute un poids supplémentaire sur la balance. La campagne est construite pour que la question ne soit plus "est-ce qu'on s'implique ?" mais "pour qui ?"
+
 ### Arrakha Vivante
 Des PNJ locaux récurrents pour que les joueurs s'attachent au monde et que leurs choix aient du poids émotionnel :
-- Un mineur qui aide les joueurs — il porte sa Pierre Noire autour du cou et chante le Chant des Marées en travaillant
+- **Tova Wget** — Mineure koorivar, ~40 ans, cheffe d'équipe aux Puits Rouges. C'est la voix civile indépendante d'Arrakha — elle ne suit pas Hashk aveuglément, elle n'est pas pro-Hopner, elle veut juste que ses mineurs survivent. Elle a un avis sur tout et ne se gêne pas pour le donner. *"Hashk nous promet la liberté. Hopner nous promet l'ordre. Moi je promets rien — je suis juste là demain matin à 5h pour descendre dans le trou."* *(Réf : wget — commande de téléchargement Unix. Celle qui descend chercher les données là où personne ne veut aller.)*
 - Un enfant qui les admire — né sur Arrakha, il n'a jamais vu Murkhana mais connaît le Chant par cœur
 - Un marchand qui les arnaque — un des "profiteurs" qui vit bien du système actuel et ne veut pas que ça change
 - Un médecin de camp qui soigne tout le monde sans distinction de camp
 - (Potentiellement) L'enfant de Hopner — voir Révélation 2
+
+### Boîte à Outils MJ
+
+#### Noms murkhanais (pour improviser des PNJ)
+
+La population de Murkhana est cosmopolite (Koorivar, Aqualish, Gossams, Gran, humains). Voici des noms prêts à l'emploi, classés par espèce :
+
+| Koorivar | Aqualish | Gossam | Gran | Humain |
+|---|---|---|---|---|
+| Torren Kaal | Brek Tusk | Linn Prael | Orvo Dexx | Sera Vold |
+| Denn Vorix | Ponda Rek | Mila Shek | Tann Ovis | Kael Jorin |
+| Savet Nuur | Grondo Fen | Ishi Taag | Raal Besh | Lyra Tohn |
+| Korin Mael | Asha Tul | Deen Makk | Farr Odin | Joss Renn |
+| Venn Taruk | Poda Greel | Savi Ool | Benn Kresh | Nila Cade |
+
+#### Table de rumeurs de cantina (d20)
+
+À utiliser quand les joueurs traînent dans une cantina (Le Fond du Trou, Chez Ping, ou n'importe quel bar) :
+
+| d20 | Rumeur | Vérité |
+|---|---|---|
+| 1 | "Y a un Muun qui rachète les dettes des gens dans les Fosses." | Vrai — c'est Hashk |
+| 2 | "Les Serres ont été vus à Torren. Ils cherchent le même type que vous." | Vrai |
+| 3 | "Le Boss Iptab a fait chromé un nouveau B2. Pour son anniversaire." | Vrai — et c'est ridicule |
+| 4 | "On dit que Hopner a un enfant quelque part dans le secteur." | Vrai — mais personne ne sait où |
+| 5 | "Un cargo a disparu dans le Cron Drift la semaine dernière. L'équipage n'a jamais été retrouvé." | Vrai — pirates ou anomalie |
+| 6 | "Le ferrailleur du niveau 8 a trouvé un Droideka intact. Il le vend au plus offrant." | Partiellement vrai — il en a trouvé un, mais il est déjà vendu à Hashk |
+| 7 | "Le Moria organise un tournoi de sabacc avec 10 000 crédits de mise." | Vrai — invitation de Gekko |
+| 8 | "Y a un espion impérial dans le Consortium." | Faux — mais il y a un espion de Gekko (Jyn Tracert) |
+| 9 | "Les mineurs d'Arrakha préparent une grève." | Prématuré — mais l'agitation monte |
+| 10 | "Un type du Bureau de Sécurité pose des questions sur vous." | Vrai si après la session 2 — c'est Vektor |
+| 11 | "Les syndicats versent un tribut à quelqu'un en orbite. Personne sait à qui." | Vrai — Hopner |
+| 12 | "On peut descendre sous le niveau 0 si on connaît le bon passage." | Vrai — et c'est comme ça qu'on accède à la Forge |
+| 13 | "Un chasseur de primes a disparu en cherchant des caches dans les ruines de la Tour Argente, au-dessus du 50ème." | Vrai |
+| 14 | "Quelqu'un envoie des cargaisons de pièces de droïdes vers les canyons d'Arrakha." | Vrai — c'est Hashk |
+| 15 | "Le Préfet Null a un faible pour le jeu. Il perd régulièrement au Moria." | Vrai — exploitable pour le faire chanter |
+| 16 | "Y a une mécanicienne au Port Gris qui répare gratis. Bizarre, non ?" | Vrai — c'est Nox Erso |
+| 17 | "Les fermiers de Forscan ont un réseau secret. Personne peut les infiltrer." | Partiellement vrai — le Réseau Racine |
+| 18 | "Le Chant des Marées, c'est juste une chanson de vieux." | Faux — et dangereusement ignorant |
+| 19 | "Gekko sait tout ce qui se passe dans le secteur. Tout." | Presque vrai |
+| 20 | "Quelqu'un construit des droïdes neufs sous la ville." | Vrai — la Forge. Cette rumeur est dangereuse. |
+
+#### Table d'événements aléatoires — Murkhana City (d12)
+
+À utiliser quand les joueurs se déplacent dans la ville et que le MJ veut ajouter de l'ambiance ou une complication :
+
+| d12 | Événement |
+|---|---|
+| 1 | **Panne de transpirator :** L'air devient irrespirable dans cette section. Les joueurs doivent trouver un détour ou acheter un transpirator d'urgence (50 crédits au marché noir). |
+| 2 | **Contrôle de syndicat :** Des hommes de main d'un syndicat contrôlent le passage. Péage de 20 crédits par personne, ou Coercition/Charme pour passer. |
+| 3 | **Le Chant :** Quelqu'un chante le Chant des Marées dans une ruelle. Les passants s'arrêtent. Le moment est solennel. Puis ça reprend comme si de rien n'était. |
+| 4 | **Droïde errant :** Un B1 à moitié fonctionnel trébuche dans la rue, répétant en boucle "Roger roger" avant de s'effondrer. Un ferrailleur se précipite pour récupérer les pièces. |
+| 5 | **Bagarre de cantina :** Deux groupes s'affrontent dans un bar voisin. Les joueurs peuvent intervenir, profiter du chaos, ou ignorer — mais un des combattants pourrait avoir des informations utiles. |
+| 6 | **Effondrement :** Une section de passerelle ou de mur cède. Athlétisme (Difficulté Facile) pour éviter, sinon 3 dégâts de stress et un détour de 30 minutes. |
+| 7 | **Convoi de conscription :** Un cargo décolle du Port Gris avec un groupe de conscrits. Les joueurs le voient depuis leur position. Rappel constant du système. |
+| 8 | **Marché des Carcasses :** Un ferrailleur propose aux joueurs un "lot exceptionnel" — des pièces de droïde à bon prix. Peut contenir un processeur encore fonctionnel, ou un mouchard posé par Vektor. |
+| 9 | **Agent de Gekko :** Fenn Sudo (ou un autre agent) croise les joueurs "par hasard" et offre une information gratuite. Trop gratuite. |
+| 10 | **Pierre Noire :** Un enfant des Fosses offre une Pierre Noire à un des joueurs. *"Tiens. C'est pour toi. Pour que tu te souviennes de nous."* |
+| 11 | **Patrouille FSK :** Des agents de la FSK (si sur Forscan) ou des gardes de syndicat (si sur Murkhana) vérifient les identités. Les joueurs avec du matériel suspect (pièces de droïdes CIS, armes lourdes) attirent l'attention. |
+| 12 | **Nox Erso :** Si les joueurs l'ont déjà rencontrée, Nox apparaît "par hasard" et propose un coup de main. Si pas encore rencontrée, c'est l'occasion de l'introduire. |
+
+#### Table de complications de voyage (d8)
+
+Pour les trajets entre Murkhana, Arrakha, Forscan Prime, le Moria, et le Cron Drift :
+
+| d8 | Complication |
+|---|---|
+| 1 | **Patrouille impériale :** Un patrouilleur du Verdict Gris scanne le vaisseau. Tromperie pour passer, ou Pilotage pour fuir. |
+| 2 | **Tempête de débris (Cron Drift) :** Astéroïdes. Pilotage (Difficulté Moyenne) ou 5 dégâts de coque. |
+| 3 | **Panne d'hyperdrive :** Le vaisseau sort de l'hyperespace trop tôt. Mécanique (Difficulté Moyenne) pour repartir, sinon dérive pendant 1d6 heures. |
+| 4 | **Signal de détresse :** Un cargo civil envoie un SOS. Piège de pirates ? Vraie détresse ? Les joueurs doivent décider. |
+| 5 | **Tempête de sable (Arrakha) :** Impossible de se poser pendant 1d6 heures. Pilotage (Difficulté Difficile) pour tenter quand même. |
+| 6 | **Contrebandier amical :** Un pilote croisé en route propose un échange : informations contre cargaison. Peut être un contact utile ou un arnaqueur. |
+| 7 | **Vaisseau des Serres :** Le vaisseau de Kreel Voss est repéré sur la même route. Confrontation, fuite, ou ignorance mutuelle tendue. |
+| 8 | **Rien** — Voyage calme. Le MJ peut en profiter pour une scène de roleplay à bord du vaisseau : les joueurs discutent, planifient, ou se disputent. |
 
 ### Répertoire des PNJ
 
@@ -704,7 +987,7 @@ Des PNJ locaux récurrents pour que les joueurs s'attachent au monde et que leur
 | **Edna Style** | Consortium | Matriarche de la guilde — Actes 1-4 |
 | **Basch Kull** | Consortium | Lieutenant, contact des PJ — Actes 1-4 |
 | **Hashk Ellor** | Séparatiste / NUS | Leader des soulèvements — Actes 1-4 |
-| **Amiral Gracia Hopner** | Impérial | Seigneur de guerre du secteur — Actes 2-4 |
+| **Amiral Gracia Hopner** | Protectorat | Seigneur de guerre du secteur — Actes 2-4 |
 | **Gekko Grancha Tiure** | Hutts | Maître du chaos, opportuniste — Actes 1-4 |
 | **Sénateur Linus Torv** | Nouvelle République | Idéaliste brisé, contact diplomatique — Actes 2-4 |
 
@@ -712,22 +995,189 @@ Des PNJ locaux récurrents pour que les joueurs s'attachent au monde et que leur
 
 | PNJ | Faction | Lieu | Rôle | Apparition | Référence |
 |---|---|---|---|---|---|
-| **Superviseur Cael Vektor** | Impérial (BSS) | Forscan / Mobile | Antagoniste récurrent, analyste du renseignement — style Dedra Meero | Acte 1 (nom) → Acte 3 (en personne) | *Vecteur* (math/cybersécurité) |
+| **Superviseur Cael Vektor** | Protectorat (BSS) | Forscan / Mobile | Antagoniste récurrent, analyste du renseignement — style Dedra Meero | Acte 1 (nom) → Acte 3 (en personne) | *Vecteur* (math/cybersécurité) |
 | **Nox Erso** | Rép. (couverture) | Murkhana / Mobile | Agent républicain sous couverture — style Luthen Rael | Acte 1-2 (couverture) → Acte 3-4 (révélée) | *Erso* (Rogue One) |
 | **Fenn Sudo** | Gekko | Murkhana | Agent de Gekko, informateur trop serviable | Acte 1-2 | *sudo* (commande Unix) |
-| **Jyn Tracert** | Consortium / Gekko | Arrakha | Informatrice locale — en réalité l'espion de Gekko (dette personnelle) | Acte 1-3 | *tracert* (commande réseau) |
-| **Préfet Daran Null** | Impérial | Arrakha | Gouverneur fantoche d'Arrakha | Acte 1-3 | */dev/null* (Unix) |
+| **Jyn Tracert** | Consortium / Gekko | Arrakha | Informatrice locale — en réalité espion de Gekko (dette : il a payé pour faire sortir sa sœur d'Arrakha) | Acte 1-3 | *tracert* (commande réseau) |
+| **Torque Venn** | Hashk | Murkhana (Forge) | Ferrailleur en chef, responsable des Rouillés | Acte 1-4 | *Torque* (mécanique) |
+| **Seren Awk** | Hashk | Murkhana (Fosses) | Coordinatrice des cellules, radicale impatiente | Acte 1-4 | *awk* (commande Unix) |
+| **Kael Dpkg** | Hashk | Arrakha (Terrier) | Logisticien d'Arrakha, ancien mineur conscrit | Acte 1-4 | *dpkg* (gestionnaire paquets Debian) |
+| **Vrak Chmod** | Syndicat (récup.) | Murkhana (Port Gris) | Chef des dockers, récupérable | Acte 1-3 | *chmod* (permissions Unix) |
+| **Boss Iptab** | Syndicat (irrécup.) | Murkhana (Hauts) | Chef des Hauts, trafiquant, antagoniste Phase 1 | Acte 1-3 | *iptables* (pare-feu Linux) |
+| **Majordome Grep** | Gekko | Le Moria | Gestionnaire de la station, accueil et surveillance | Acte 1-4 | *grep* (recherche Unix) |
+| **Sly Nmap** | Gekko | Mobile | Tueur à gages personnel de Gekko | Acte 2-4 | *nmap* (scan réseau) |
+| **Meema Kern** | Réseau Racine | Forscan Prime | Fermière, contact du Réseau Racine | Acte 1-4 | *kernel* (noyau OS) |
+| **Sergent Drenn Rix** | Protectorat | Arrakha | Sergent Zabrak de la garnison, soldat qui doute | Acte 1-4 | *rix* (matrice de permissions) |
+| **Préfet Daran Null** | Protectorat | Arrakha | Gouverneur fantoche d'Arrakha | Acte 1-3 | */dev/null* (Unix) |
 | **Ping** | Neutre | Arrakha | Tenancier de Chez Ping, silencieux | Acte 1-4 | *ping* (commande réseau) |
+| **Tova Wget** | Civile | Arrakha (Puits Rouges) | Cheffe d'équipe minière, voix civile indépendante | Acte 1-4 | *wget* (téléchargement Unix) |
 | **Enfant de Hopner** | ??? | Arrakha | Révélation 2 — identité secrète | Acte 2-4 | À nommer |
+| **Mara Crypt** | Peuple | Murkhana | Leader communautaire, voix de l'autodétermination | Acte 2-4 | *crypt* (commande Unix) |
+| **Reth Systemd** | NUS | Murkhana (Acte 2+) | "Conseiller diplomatique" — agent de contrôle de la NUS | Acte 2-4 | *systemd* (gestionnaire services Linux) |
+| **Kreel Voss** | Indépendant | Mobile | Chef des Serres (chasseurs rivaux) | Acte 1-2 | — |
+
+### Fiches PNJ complémentaires
+
+#### Préfet Daran Null — Le gouverneur fantoche d'Arrakha
+- **Espèce :** Humain | **Âge :** ~55 ans
+- **Personnalité :** Bureaucrate lâche, corrompu, et secrètement misérable. Null a été nommé gouverneur d'Arrakha parce que personne d'autre ne voulait du poste. Il touche un pourcentage sur le doonium extrait, vit confortablement dans son bureau fortifié à Torren, et ferme les yeux sur les conditions dans les mines. Il n'est pas cruel — il est faible. Il sait que ce qui se passe est mal, mais il n'a ni le courage ni les moyens de changer quoi que ce soit. Quand les joueurs le confrontent, il se justifie : *"Qu'est-ce que vous voulez que je fasse ? Si je m'oppose à l'Amiral, elle me remplace par quelqu'un de pire."* Il a peut-être raison.
+- **Rôle :** Obstacle bureaucratique dans l'Acte 1, levier potentiel dans l'Acte 2 (les joueurs peuvent le retourner, le faire chanter, ou le neutraliser). Si Arrakha est libérée, son sort est un dilemme : le juger comme collaborateur ou le gracier comme pantin impuissant ?
+
+#### Mara Crypt — La voix du peuple
+- **Espèce :** Gossam (espèce canon associée à Murkhana et au Commerce Guild)
+- **Âge :** ~50 ans
+- **Rôle :** Leader communautaire informelle des quartiers bas de Murkhana City. Ancienne ouvrière dans les usines de recyclage. Elle incarne le **5ème camp — l'autodétermination** : ni Hopner, ni Hashk, ni la NUS, ni la République, ni Gekko. Juste le peuple murkhanais qui se gouverne lui-même.
+- **Référence :** *crypt* — commande Unix de chiffrement. Ce qui est caché, protégé, indéchiffrable de l'extérieur. Comme la vraie volonté du peuple, que personne ne prend le temps de demander.
+- **Personnalité :** Directe, pragmatique, méfiante envers tous les "sauveurs". Elle respecte Hashk mais ne lui fait pas confiance : *"Il dit qu'il nous libère. Mais il ne nous a jamais demandé si on voulait de SA liberté."* Elle refuse la NUS : *"Échanger un maître lointain contre un autre maître lointain, c'est pas mon idée de l'indépendance."*
+- **Rôle dans la campagne :** Apparaît en Acte 2 comme voix critique du soulèvement. Si les joueurs choisissent le camp Autodétermination, elle devient leur alliée principale — mais exigeante. Elle représente la voie la plus difficile et la plus honnête.
+
+#### Les Serres — Arc après l'Acte 1
+Les chasseurs rivaux menés par **Kreel Voss** ne disparaissent pas après l'Acte 1. Selon les événements :
+- **Si les joueurs les ont battus :** Les Serres reviennent dans l'Acte 2-3, cette fois au service de Hopner directement. Voss a une rancune personnelle.
+- **Si les joueurs les ont ignorés :** Les Serres capturent un lieutenant de Hashk et le livrent à Hopner — ce qui accélère le raid sur le Terrier.
+- **Si les joueurs les ont vaincus définitivement :** Voss est en prison ou mort. Mais ses contacts dans le milieu des chasseurs de primes peuvent revenir sous une autre forme.
+- **Option intéressante :** Voss découvre la vérité sur Hopner et le système d'exploitation d'Arrakha, et change de camp — devenant un allié inattendu.
+
+### Le mécanisme de la conscription
+
+La conscription vers Arrakha est organisée **conjointement par les syndicats et Hopner** :
+- Les **syndicats de Murkhana** identifient les cibles : les plus endettés, les sans-abri, les familles qui ne peuvent pas payer le racket. Ils leur "proposent" le Programme d'Emploi Minier — présenté comme une opportunité.
+- Les **gardes privés** (ni stormtroopers, ni syndicats — des contractuels payés par la compagnie minière d'Arrakha) gèrent le transport depuis le Port Gris. Ils portent des uniformes gris sans insignes.
+- **Hopner fournit la logistique** : les cargos de transport, la sécurité en orbite, et le cadre légal (décret de "mobilisation économique" signé par le Préfet Null).
+- **Le Consortium d'Edna** ne participe pas directement à la conscription, mais certains de ses contrats "d'élimination" visent des gens qui tentent de résister au recrutement — Edna ne le sait pas.
+- **Pour les joueurs :** Saboter un convoi de conscription est possible dès l'Acte 1. C'est dangereux (les gardes privés sont armés, et un convoi manqué attire l'attention de Vektor) mais émotionnellement puissant.
+
+### Le Chant des Marées — Paroles
+
+> *Là où les vagues frappaient la pierre noire,*
+> *Là où le sel chantait avec le soir,*
+> *On portait nos morts vers les eaux profondes*
+> *Et l'océan les rendait au monde.*
+>
+> *Les marées sont mortes, la pierre est froide,*
+> *Mais le sel reste sur nos doigts.*
+> *On chante encore pour ceux qu'on a perdus —*
+> *L'océan les attend, on n'oublie plus.*
+
+Le MJ peut lire ces paroles à voix haute lors de trois moments clés : la première fois que les joueurs entendent le Chant (session 0 ou 2), le signal du soulèvement (climax de l'Acte 2), et le Chant sur deux mondes (climax de l'Acte 4). Chaque fois, les mêmes paroles — mais le contexte change tout.
+
+### Lieutenants de Hashk
+
+#### Torque Venn — Le ferrailleur en chef
+- **Espèce :** Koorivar | **Âge :** ~45 ans
+- **Rôle :** Responsable de la Forge et de l'armée de Rouillés. Le meilleur reprogrammeur de Murkhana.
+- **Référence :** *Torque* — unité de force de rotation, et outil de mécanique. L'homme qui fait tourner les machines.
+- **Personnalité :** Taciturne, les mains toujours couvertes de graisse. Parle aux droïdes plus qu'aux gens. Passionné par son travail au point de dormir dans la Forge. Loyal à Hashk parce que Hashk lui a donné un but — mais secrètement mal à l'aise avec l'idée de construire des armes pour la vente. Il fabrique des machines, pas des instruments de mort. Si les joueurs visitent la Forge, c'est Torque qui les accueille (méfiant) et qui leur explique le fonctionnement des Rouillés avec une fierté discrète.
+- **Rôle dans la campagne :** Interlocuteur technique. Les joueurs qui veulent modifier des droïdes, en pirater, ou comprendre les Rouillés passent par lui. Potentiel allié si les joueurs choisissent le camp Autodétermination — Torque préfère réparer que détruire.
+
+#### Seren Awk — La voix des cellules
+- **Espèce :** Aqualish | **Âge :** ~35 ans
+- **Rôle :** Coordinatrice des cellules populaires de Murkhana City. L'organisatrice du soulèvement.
+- **Référence :** *awk* — commande Unix de traitement de texte, qui filtre et transforme les données. Seren filtre les informations et transforme la colère en action.
+- **Personnalité :** Charismatique, directe, impatiente. Seren est celle qui va dans les Fosses, qui parle aux gens, qui recrute. Elle est plus radicale que Hashk — elle veut frapper maintenant, pas attendre le "moment optimal". Sa relation avec Hashk est tendue : elle le respecte mais le trouve trop prudent. *"Pendant que le Directeur calcule, des gens crèvent."* Si les joueurs sont trop hésitants, c'est Seren qui les confronte.
+- **Rôle dans la campagne :** Les joueurs la croisent potentiellement en session 6 quand le réseau de Hashk devient visible. Elle est le visage du soulèvement au niveau de la rue — brute, honnête, et dangereuse si poussée à bout. Si Hashk dérape dans l'Acte 3-4, Seren pourrait être celle qui le défie... ou celle qui le pousse plus loin.
+
+#### Kael Dpkg — Le logisticien d'Arrakha
+- **Espèce :** Gossam | **Âge :** ~50 ans
+- **Rôle :** Contact de Hashk sur Arrakha. Ancien mineur devenu organisateur du Terrier.
+- **Référence :** *dpkg* — gestionnaire de paquets Debian. L'homme qui gère les "paquets" (cargaisons, ressources, gens) entre Murkhana et Arrakha.
+- **Personnalité :** Patient, méthodique, épuisé. Kael a été conscrit à Arrakha il y a quinze ans. Il a vu les Gorges. Il a perdu des amis. Il ne croit plus en grand-chose — sauf en Hashk, qui est le premier à avoir tenu ses promesses. Il gère le Terrier avec une efficacité discrète : rations, armes, tours de garde, logistique. Si les joueurs arrivent sur Arrakha, c'est Kael qui les guide vers le Terrier.
+- **Rôle dans la campagne :** Les joueurs le rencontrent sur Arrakha (session 4) — c'est lui qui les guide vers les mines et qui rapporte leur comportement au réseau. C'est aussi Kael qui connaît l'emplacement des charges du Plan B — et qui, potentiellement, est le lieutenant qui craque et révèle le secret aux joueurs.
+
+### Chefs de syndicats de Murkhana
+
+#### Vrak Chmod — Le récupérable
+- **Espèce :** Gran | **Âge :** ~40 ans
+- **Rôle :** Chef du syndicat des dockers du Port Gris. Contrôle le transit maritime et spatial.
+- **Référence :** *chmod* — commande Unix de modification des permissions. Celui qui décide qui passe et qui ne passe pas.
+- **Personnalité :** Pragmatique, fatigué du crime, mais coincé. Vrak n'est pas devenu chef de syndicat par ambition — il a hérité du poste de son prédécesseur (assassiné). Il gère le Port Gris avec une efficacité morne. Il paie le tribut à Hopner, organise la conscription, et déteste ce qu'il fait. **Pourquoi il ne s'arrête pas :** Son frère cadet travaille dans les mines d'Arrakha — envoyé là par le prédécesseur de Vrak comme "garantie". Si Vrak cesse de coopérer, son frère descend aux Gorges de Lucas. Hopner ne l'a jamais menacé directement — elle n'a pas besoin de le faire. Le système se suffit à lui-même. Si les joueurs l'approchent, il est ouvert à la négociation — mais il ne bougera que si son frère est en sécurité.
+- **Rôle dans la campagne :** Les joueurs interagissent avec ses dockers dès la Session 2 (piste du Port Gris). Il peut devenir un allié discret (sabotage de convois, informations sur les mouvements impériaux) ou un obstacle si les joueurs le brusquent. Pendant le soulèvement, le contrôle du Port Gris est un objectif stratégique — Vrak peut l'ouvrir de l'intérieur ou le verrouiller.
+
+#### Boss Iptab — L'irrécupérable
+- **Espèce :** Weequay | **Âge :** ~55 ans
+- **Rôle :** Chef du syndicat des Hauts. Trafic d'épice, armes, et marché noir de luxe. Le plus puissant criminel de Murkhana.
+- **Référence :** *iptables* — pare-feu Linux. Celui qui contrôle ce qui entre et sort. Le mur entre les niveaux.
+- **Personnalité :** Cruel, intelligent, paranoïaque. Iptab règne depuis les Hauts de la Tour Argente (niveaux 30-50) avec des B2 Chromés comme gardes du corps et un réseau d'informateurs dans chaque strate. Il a bâti son empire sur la peur et la dette. Il profite du système de Hopner et n'a aucune intention de le voir changer — le chaos populaire est mauvais pour les affaires. Il méprise Hashk ("un comptable qui joue au révolutionnaire") et considère le Consortium d'Edna comme un outil jetable.
+- **Rôle dans la campagne :** L'antagoniste principal de la Phase 1 de Murkhana. C'est lui que les Rouillés devront affronter dans les Hauts pendant le soulèvement. Les joueurs peuvent le confronter avant (infiltration des Hauts, Acte 1-2) ou pendant le chaos. Son QG au sommet de la Tour Argente est un "donjon" vertical — monter les niveaux, affronter ses gardes, et le confronter au sommet.
+
+### Lieutenants de Gekko
+
+#### Majordome Grep
+- **Espèce :** Twi'lek | **Âge :** ~60 ans
+- **Rôle :** Gestionnaire du Moria. L'homme qui fait tourner la station.
+- **Référence :** *grep* — commande Unix de recherche dans les fichiers. Grep cherche, trouve, et trie — tout ce qui passe par le Moria passe par lui.
+- **Personnalité :** Poli, obséquieux, imperturbable. Grep accueille tout le monde au Moria avec le même sourire — clients, ennemis, prisonniers. Il connaît chaque recoin de la station, chaque réservation, chaque transaction. Il est loyal à Gekko par habitude plus que par conviction — il travaille pour le Hutt depuis quarante ans. Si les joueurs visitent le Moria, c'est Grep qui les installe, leur explique les règles, et les surveille discrètement.
+- **Tic :** Il appelle tout le monde "cher ami" — même les gens qu'il va faire jeter dans le sas.
+
+#### Sly Nmap — La lame dans l'ombre
+- **Espèce :** Devaronian | **Âge :** ~30 ans
+- **Rôle :** Tueur à gages personnel de Gekko. Missions d'élimination, d'intimidation, et de "persuasion".
+- **Référence :** *nmap* — outil de scan réseau, qui cartographie les vulnérabilités. Sly scanne ses cibles et frappe là où ça fait mal.
+- **Personnalité :** Charmeur, décontracté, et absolument sans remords. Sly est le genre de personne qui vous offre un verre et vous plante un couteau vibro dans le dos pendant que vous buvez. Gekko l'utilise pour les travaux que même les syndicats ne veulent pas faire. Il est dangereux en combat (Rival, Combat mêlée 3, Furtivité 3) mais son vrai talent c'est la manipulation sociale — il se fait passer pour n'importe qui.
+- **Rôle dans la campagne :** Apparaît si les joueurs refusent un deal de Gekko — Sly est l'avertissement. Ou si Gekko veut faire pression sur quelqu'un (un PNJ allié des joueurs), c'est Sly qui s'en charge. Rencontre possible au Moria (il joue au sabacc) ou dans les rues de Murkhana (il suit les joueurs).
+
+### Contact du Réseau Racine
+
+#### Meema Kern
+- **Espèce :** Humaine | **Âge :** ~65 ans
+- **Rôle :** Fermière des Fermes Grises, contact officieuse du Réseau Racine sur Forscan Prime.
+- **Référence :** *kernel* — le noyau d'un système d'exploitation. La base invisible sur laquelle tout repose.
+- **Personnalité :** Silencieuse, méfiante, dure comme la pierre. Meema vit dans une ferme isolée à 30 km de Kelden. Elle a survécu à l'Empire, aux réquisitions, à la FSK, et à trois saisons de sécheresse. Elle ne fait confiance à personne — surtout pas à des étrangers armés. Mais si les joueurs prouvent leur valeur (un acte concret, pas des mots), elle devient une alliée précieuse : elle connaît chaque fermier du réseau, chaque route de contrebande dans les collines, et chaque faiblesse de la FSK.
+- **Citation :** *"Kelden a ses affiches et ses stormtroopers polis. Nous, on a le silence et la patience. Ça fait vingt ans qu'on attend. On peut attendre encore."*
+- **Rôle dans la campagne :** Porte d'entrée du Réseau Racine en session 5 (Forscan Prime). Si les joueurs reviennent sur Forscan dans les Actes 2-3, Meema peut organiser le sabotage de l'infrastructure de Hopner (routes, communications, approvisionnement de Forge-7) sans jamais tirer un coup de feu.
+
+### Le Protectorat d'Auril — PNJ militaires
+
+#### Sergent Drenn Rix — Le soldat qui doute
+- **Espèce :** Zabrak | **Âge :** ~30 ans
+- **Rôle :** Sergent de la garnison du Protectorat sur Arrakha. Commandant d'une section de stormtroopers à Torren.
+- **Référence :** *rix* — Suffixe informatique pour gestion de droits (comme dans la matrice de permissions Unix). Celui qui applique les règles sans les avoir écrites.
+- **Personnalité :** Professionnel, droit, et de plus en plus mal à l'aise. Drenn est un Zabrak né sur Forscan Prime. Il a rejoint le Protectorat à 18 ans parce que c'était le seul employeur stable du secteur. Il croit en la mission — maintenir l'ordre, protéger les civils, empêcher le chaos. Mais depuis qu'il est posté sur Arrakha, il voit les quotas, les dettes, les Gorges. Il applique les ordres de Hopner ("zéro mort civile, incapacitantes uniquement") mais il se demande de plus en plus si maintenir l'ordre pour le Protectorat et être du bon côté de l'histoire sont la même chose.
+- **Citation :** *"Je suis soldat, pas bourreau. Je fais ce qu'on me dit — mais on ne m'a jamais dit de regarder des gens crever de faim en souriant."*
+- **Rôle dans la campagne :** Les joueurs le croisent sur Arrakha (session 4, puis Acte 2-3). Il est la preuve que les stormtroopers du Protectorat ne sont pas des automates — certains ont une conscience. Si les joueurs le traitent avec respect, Drenn peut devenir un informateur discret (mouvements de la garnison, ordres de Vektor) ou même un déserteur potentiel. Si les joueurs le brutalisent, il se durcit et devient un adversaire compétent. Son arc pose la question : **les soldats du Protectorat sont-ils des ennemis ou des victimes du système eux aussi ?**
+
+### Le lien personnel Hashk-Hopner
+
+Hashk et Hopner ne se connaissent pas personnellement — mais ils sont liés par un événement que ni l'un ni l'autre ne mentionne.
+
+Pendant les premières années de l'occupation impériale de Murkhana, Hopner — alors jeune capitaine — commandait l'escadron qui a mené les raids de "pacification" dans les usines Baktoid. Son objectif : saisir les stocks de droïdes et démanteler les chaînes de production. Pendant l'un de ces raids, son escadron a arrêté et exécuté le **directeur de l'usine Baktoid de Murkhana** — le supérieur direct de Hashk. L'homme qui l'avait embauché, formé, et protégé pendant la guerre.
+
+Hashk a assisté à l'exécution depuis une fenêtre du bâtiment administratif. Il a vu le visage de la jeune officière impériale qui donnait l'ordre. Il ne l'a jamais oubliée.
+
+**Hopner ne sait pas que Hashk était témoin.** Pour elle, c'était un raid parmi d'autres. Pour Hashk, c'est le moment qui a transformé un comptable en révolutionnaire.
+
+**Pour la campagne :** Ce lien est révélé tard — Acte 3 ou 4, idéalement lors d'une confrontation directe entre Hashk et Hopner (ou quand les joueurs arrangent une rencontre). Hashk garde cette blessure en silence pendant toute la campagne. Quand il la révèle enfin, ça change la lecture de tout ce qu'il a fait : son combat n'est pas seulement politique, il est personnel. Et Hopner doit se confronter à un fantôme de son passé qu'elle avait oublié — un rappel que ses "raids de pacification" avaient des témoins.
+
+**Note pour le MJ :** Ce lien ne fait pas de Hashk un simple vengeur — il reste un idéaliste. Mais la vengeance est le moteur silencieux qui l'a mis en mouvement. Sans l'exécution du directeur, Hashk serait resté comptable toute sa vie.
 
 ### La Nouvelle Union Séparatiste
 Gouvernement galactique ambitieux formé vers 5 ABY dans les territoires où le contrôle de la Nouvelle République est purement théorique. Basée sur les idéaux de la Confédération des Systèmes Indépendants — égale représentation, liberté, gouvernement décentralisé — mais sans la domination corporatiste. Principalement dans la Bordure Extérieure. En 9 ABY, c'est un acteur politique légitime qui inquiétait la chancelière Mon Mothma elle-même.
+
+#### Conseiller Reth Systemd — Le visage de la NUS
+- **Espèce :** Néimoidien | **Âge :** ~45 ans
+- **Rôle :** "Conseiller diplomatique" envoyé par la NUS pour accompagner le soulèvement de Hashk. En réalité, agent de contrôle.
+- **Référence :** *systemd* — le gestionnaire de services Linux, omniprésent, contrôlant tout en arrière-plan, et que beaucoup détestent précisément pour ça.
+- **Personnalité :** Poli, méthodique, d'une froideur administrative. Reth parle de "partenariat" et de "coopération" pendant qu'il prend des notes sur tout le monde. Il ne menace jamais — il "suggère". Il ne donne pas d'ordres — il "recommande fortement". Il arrive sur Murkhana en Acte 2, se présente comme un allié de Hashk, et commence immédiatement à cartographier les cellules, évaluer les leaders, et identifier les "éléments non-alignés".
+- **Citation :** *"La NUS ne vous impose rien. Nous sommes ici pour vous aider à construire votre indépendance. Il se trouve simplement que nous avons de l'expérience en la matière — et quelques suggestions sur la marche à suivre."*
+- **Rôle dans la campagne :** Apparaît en Acte 2, devient omniprésent en Acte 3. Les joueurs le trouvent d'abord utile, puis envahissant, puis menaçant. C'est à travers Reth que le thème "L'ombre de la NUS" prend un visage — et c'est lui que Mara Crypt déteste le plus.
 
 ---
 
 ## THÈMES & FILS ROUGES
 
 Ces thèmes sont les moteurs narratifs profonds de la campagne. Ils ne sont pas tous visibles dès l'Acte 1 — certains émergent progressivement et prennent toute leur ampleur dans les Actes 3 et 4.
+
+#### Tableau de progression des thèmes par acte
+
+| Thème | Acte 1 | Acte 2 | Acte 3 | Acte 4 |
+|---|---|---|---|---|
+| 1. Le libérateur qui dérape | Hashk = idéaliste calme | Premiers signes de rigidité | Décisions discutables, exécutions | Autocrate ou sauvé par les joueurs ? |
+| 2. L'ombre de la NUS | Absente | "Conseillers" arrivent | Infiltration, éliminations discrètes | Occupation déguisée ou rejet |
+| 3. Le prix du sang | Le Convoi, Arrakha | Contacts en danger | PNJ aimé meurt en dommage collatéral | Le bilan humain de chaque camp |
+| 4. Le maître du chaos (Gekko) | Fenn Sudo en arrière-plan | Gekko se révèle, deal/chantage | Manipulation de toutes les factions | Dernier coup — il a toujours un plan |
+| 5. L'après-libération | — | Premiers débats (usines de droïdes) | Murkhana économiquement fragile | Collaborateurs, gouvernance, reconstruction |
+| 6. L'Accord d'Ossus | — | Révélation — la République a trahi | Nox révélée, escalade diplomatique | Accord brisé ? Ossus en danger ? |
+| 7. Cendres & Chrome (titre) | Ruines et droïdes dans le décor | La Forge, les Rouillés marchent | Rouillés vs Chromés vs Dark Troopers | Usines de droïdes = avenir ou malédiction ? |
 
 ### 1. Le libérateur qui dérape
 
@@ -796,6 +1246,14 @@ C'est le thème le plus ambitieux de la campagne. Il émerge dans l'Acte 4, quan
 - Les **fidèles de Hashk** suivent leur leader aveuglément — pour le meilleur ou pour le pire.
 - Et les **gens ordinaires** veulent juste que les mines rouvrent et que leurs enfants aillent à l'école.
 
+**Sur Murkhana :** Si les syndicats sont chassés, le débat économique explose :
+- Hashk propose de relancer les usines de droïdes et de devenir le fournisseur d'armes de la NUS. Ça crée des emplois, ça finance tout, et les ferrailleurs sont enthousiastes.
+- Mais une partie de la population refuse : *"C'est les droïdes qui ont causé les bombardements. On veut pas redevenir ça."* Mara Crypt mène l'opposition.
+- Les **profiteurs** de l'ancien système criminel sabotent la transition — ils préféraient le marché noir.
+- Gekko tente de s'imposer comme intermédiaire commercial — si Hashk refuse, il devient un ennemi.
+- La République voit la réouverture d'usines CIS comme une menace — ça pourrait briser l'Accord d'Ossus.
+- En attendant que les usines tournent, les gens ont faim. La transition économique prend des mois. Le mécontentement monte.
+
 **Sur Forscan Prime :** Si Hopner est vaincue, la question des collaborateurs explose :
 - Le professeur de Kelden qui enseignait la propagande — coupable ou victime ?
 - Le médecin qui soignait les stormtroopers — traître ou humaniste ?
@@ -848,13 +1306,14 @@ Avec l'Accord d'Ossus (déjà détaillé dans les Thèmes), la campagne compte *
 
 ### Révélation 1 : L'enfant de Hopner
 
-**Le secret :** L'Amiral Gracia Hopner a un enfant — un fils ou une fille (au choix du MJ selon la dynamique de la table) — qui vit sur Arrakha sous une fausse identité, parmi les mineurs. Hopner ne l'a pas envoyé(e) là comme espion. C'est le contraire : l'enfant a rejeté sa mère et tout ce qu'elle représente, et a disparu il y a plusieurs années pour vivre une vie anonyme loin de l'Empire.
+**Le secret :** L'Amiral Gracia Hopner a un enfant — un fils ou une fille (au choix du MJ) — qui vit sur Arrakha sous une fausse identité, parmi les mineurs.
 
-**L'enfant :** À développer en détail, mais voici les grandes lignes :
+**L'histoire :** Hopner a envoyé son enfant sur Arrakha il y a une dizaine d'années, quand le monde était encore une colonie minière ordinaire sous administration impériale — avant que le système de quotas et d'endettement ne se durcisse. C'était un choix de protection : éloigner l'enfant des intrigues politiques de Forscan Prime et des dangers d'être la progéniture d'un commandant militaire. Arrakha semblait sûr — un monde isolé, sans importance stratégique. Puis le doonium a été découvert en quantité massive, Hopner a transformé la colonie en machine d'extraction, et les conditions se sont dégradées. L'enfant, qui avait grandi parmi les mineurs et s'était construit une vie, a refusé de partir. Par orgueil, par attachement au peuple qui l'avait accueilli, ou par défi silencieux envers une mère qui avait transformé son refuge en prison.
+
 - **Âge :** ~25 ans
-- **Couverture :** Travaille dans les mines ou tient un petit commerce à Torren. Connu(e) et apprécié(e) des locaux. Personne ne sait qui est son parent.
-- **Position politique :** Sympathisant(e) du mouvement de Hashk, sans être un(e) combattant(e). Il/elle aide le Terrier en fournissant discrètement des médicaments ou des informations.
-- **Relation avec Hopner :** Complexe. Il/elle déteste ce que sa mère fait, mais ne la hait pas en tant que personne. Hopner, de son côté, sait exactement où est son enfant (elle a des espions partout) mais refuse d'intervenir — c'est la seule chose dans le secteur qu'elle ne contrôle pas, et ça la ronge.
+- **Couverture :** Travaille dans les mines ou tient un petit commerce à Torren. Connu(e) et apprécié(e) des locaux.
+- **Position politique :** Sympathisant(e) du mouvement de Hashk, aide discrètement le Terrier.
+- **Relation avec Hopner :** Hopner sait exactement où est son enfant — Vektor le/la surveille à distance. Mais elle ne peut pas l'extraire sans révéler le lien, ce qui ferait de l'enfant un otage pour Hashk, Gekko, ou n'importe quelle faction. Le secret est la seule protection.
 
 **Comment les joueurs découvrent la vérité :**
 - En passant du temps sur Arrakha, les joueurs rencontrent ce PNJ naturellement. Il/elle devient un allié ou un contact récurrent.
@@ -870,29 +1329,65 @@ Avec l'Accord d'Ossus (déjà détaillé dans les Thèmes), la campagne compte *
 
 ---
 
-### Révélation 2 : Le projet secret de Forge-7
+### Révélation 2 : Le projet secret de Forge-7 — "Les Dark Troopers"
 
-**Le secret :** Dans les niveaux inférieurs de Forge-7, la base impériale de Forscan Prime, Hopner mène un projet classifié que même ses officiers supérieurs ne connaissent pas dans son intégralité. Ce projet change la nature de la menace qu'elle représente.
+**Le secret :** Dans les niveaux inférieurs de Forge-7, la base impériale de Forscan Prime, Hopner développe un programme de droïdes de combat de nouvelle génération : les **Dark Troopers**. Ce ne sont pas des stormtroopers améliorés — ce sont des **droïdes autonomes en armure lourde**, des machines de guerre pures, sans pilote, sans conscience, sans hésitation.
 
-**Options (à choisir selon la direction que prend la campagne) :**
+**L'ironie cruelle :** Hopner interdit la réactivation de droïdes CIS sur ses mondes — elle considère ça comme un acte séditieux, un retour au séparatisme. Mais dans le secret de Forge-7, elle fait **exactement la même chose** : construire une armée de droïdes. La différence ? Les siens sont neufs, avancés, et portent un blindage impérial au lieu de peinture murkhanaise. L'hypocrisie est totale — et c'est ce qui rend la révélation si dévastatrice.
 
-**Option A — Le Ravageur :** Hopner a récupéré et répare secrètement un deuxième vaisseau capital — un croiseur lourd de classe Arquitens ou une frégate lourde gravement endommagée, trouvée dans le Cron Drift. Si la réparation aboutit, ses forces passent de "modestes" à "redoutables". Le doonium d'Arrakha sert en partie à ce projet. Ça explique pourquoi elle est si déterminée à garder les mines.
+**L'origine du projet :** Pendant les raids de "pacification" sur les usines Baktoid de Murkhana (les mêmes raids où Hopner a exécuté le directeur de l'usine — le mentor de Hashk), ses ingénieurs ont saisi des archives techniques : plans de production, protocoles de programmation, schémas de blindage. Hopner a gardé ces archives pendant vingt ans. Après Endor, quand elle a perdu l'accès aux cloneurs et aux centres de formation impériaux, elle a réalisé que des droïdes autonomes résolvaient un problème fondamental : elle n'a pas assez de soldats humains pour tenir le secteur à long terme. Les Dark Troopers sont sa solution.
 
-**Option B — Le Programme Endoctrinement :** Hopner a mis en place un programme de conditionnement pour les conscrits, inspiré du modèle du Premier Ordre (sans qu'elle le sache — la convergence est idéologique, pas organisationnelle). Les jeunes de Forscan Prime et d'Arrakha enlevés pour la conscription ne sont pas juste formés — ils sont rééduqués, leur identité effacée. Les joueurs découvrent des "soldats" qui ne se souviennent plus de leurs noms.
+**Les Dark Troopers — Caractéristiques :**
 
-**Option C — L'Arme orbitale :** Hopner a converti une plateforme de défense orbitale en arme de bombardement capable de vitrifier une zone de la taille d'une ville depuis l'orbite. C'est son option nucléaire — si elle perd le contrôle du secteur, elle peut menacer de tout détruire. Un "Ordre de Base Delta Zéro" à l'échelle locale.
+- **Phase I (opérationnel, ~20 unités) :** Châssis squelettique, rapide, léger. Utilisé comme éclaireur et assassin. Autonome, silencieux, efficace. Déjà déployé en secret pour des éliminations ciblées dans le secteur — des dissidents de Forscan Prime, des agents NUS. Si les joueurs enquêtent sur des disparitions mystérieuses dans les campagnes, la piste mène aux Phase I.
+
+- **Phase II (en production, ~5 unités achevées) :** Le cœur du projet. Blindage intégral en duracier renforcé au doonium (d'où l'obsession de Hopner pour les mines d'Arrakha). Armement lourd intégré — canon blaster et lance-roquettes. Jetpack pour déploiement orbital. Plus lourd et plus lent qu'un stormtrooper, mais incomparablement plus résistant et mortel. Un seul Phase II peut nettoyer un bâtiment entier.
+
+- **Phase III (prototype, 1 unité en développement) :** L'arme ultime. Un exosquelette de combat géant, silhouette 2, blindé comme un char et armé comme une canonnière. Le prototype est presque terminé — il manque du doonium raffiné pour le blindage final. Si Arrakha tombe, le Phase III ne sera jamais fini. Si Hopner garde les mines, il le sera en quelques semaines.
+
+**Le lien avec le doonium :** Le doonium d'Arrakha n'alimente pas seulement la flotte de Hopner — il est la **matière première des blindages Dark Trooper**. C'est la vraie raison pour laquelle Hopner est prête à tout pour garder les mines. Perdre Arrakha = perdre le projet.
+
+**Le miroir narratif — Rouillés vs Dark Troopers :**
+Hashk construit des B1 rouillés dans une cave avec des pièces recyclées. Hopner construit des Dark Troopers dans une base militaire avec du doonium extrait par les gens de Hashk. Les deux camps ont choisi la même réponse — les machines de guerre — mais à des échelles et avec des moyens radicalement différents. Si les joueurs ont soutenu Hashk et sa future usine de droïdes, la révélation des Dark Troopers les force à se demander : *est-ce qu'on est vraiment différents d'elle ?*
 
 **Comment les joueurs découvrent la vérité :**
-- Des indices disséminés : conscrits disparus qui ne reviennent jamais, cargaisons de doonium qui ne correspondent pas aux besoins de maintenance de la flotte, des ouvriers de Forge-7 qui murmurent dans les cantinas de Kelden.
-- Une mission d'infiltration dans Forge-7 (session de haut risque, Acte 3) révèle le projet.
-- Un officier de Hopner qui déserte et cherche refuge auprès des joueurs avec des preuves.
+- Des indices disséminés : cargaisons de doonium qui disparaissent des registres d'Arrakha, des rumeurs de "soldats noirs" dans les campagnes de Forscan, des disparitions inexpliquées attribuées au Réseau Racine.
+- **Meema Kern** (contact Réseau Racine) mentionne des "choses" qui marchent la nuit près de Forge-7 — les fermiers en parlent à voix basse.
+- Un **officier déserteur** de Forge-7 contacte les joueurs (ou le Consortium) avec des preuves fragmentaires — un datapad, un schéma de blindage, une image floue d'un Phase I.
+- Une **mission d'infiltration dans Forge-7** (Acte 3) — le moment où les joueurs voient les Dark Troopers de leurs propres yeux. Session de haut risque.
 
 **Impact sur la campagne :**
-- Ça brise l'image du "seigneur de guerre raisonnable". Hopner n'est pas juste une administratrice autoritaire — elle prépare quelque chose de dangereux.
-- Ça crée une **urgence**. Avant cette révélation, les joueurs peuvent prendre leur temps. Après, il y a une horloge qui tourne.
-- Ça donne un **objectif clair** : neutraliser le projet avant qu'il ne soit opérationnel, quel que soit le camp des joueurs.
+- **Ça brise le miroir Hopner/Hashk.** Hopner condamne Hashk pour ses droïdes séparatistes tout en construisant les siens. L'hypocrisie est un argument dévastateur pour quiconque veut retourner l'opinion contre elle.
+- **Ça crée une urgence.** Si les Phase II sont déployés en masse, ni les Rouillés ni la milice de Hashk ne pourront résister. Le soulèvement doit réussir AVANT que le programme soit opérationnel à grande échelle.
+- **Ça complique le camp Hopner.** Les joueurs qui ont choisi Hopner découvrent qu'elle prépare quelque chose de monstrueux. Rester loyal signifie cautionner les Dark Troopers.
+- **Ça donne un objectif clair :** Infiltrer ou détruire Forge-7 avant que les Dark Troopers ne soient déployés. Mission possible pour tous les camps.
+- **Ça renforce le thème "Cendres & Chrome" :** Le chrome n'est pas que celui des Rouillés — c'est aussi celui des Dark Troopers. Tout le monde construit des machines de guerre. La question est : pour quoi faire ?
 
-**Timing idéal :** Milieu de l'Acte 3. La guerre est ouverte, les joueurs pensent comprendre les enjeux — et soudain, l'escalade.
+**Stats EotE — Dark Troopers :**
+
+**Dark Trooper Phase I** — *Rival*
+- Silhouette 1 | Blessure : 10 | Blindage : 3
+- Combat à distance (armes légères) 2, Furtivité 2
+- Blaster de poignet (dégâts 7, portée moyenne) + Lame vibrante intégrée (dégâts 6, Perce 2)
+- **Silencieux :** +1 Revers sur les jets de Perception pour le détecter.
+- *Déployé en Acte 2-3 comme menace d'arrière-plan.*
+
+**Dark Trooper Phase II** — *Némésis*
+- Silhouette 1 | Blessure : 18 | Stress : 10 | Blindage : 5
+- Combat à distance (armes lourdes) 3
+- Canon blaster lourd (dégâts 10, portée moyenne) + Lance-roquettes (dégâts 12, portée longue, Brèche 1, Souffle 6, Limitée 3)
+- Jetpack (déplacement portée longue par action, 1 round de recharge)
+- **Implacable :** Immunisé aux effets de peur, aux étourdissements, et aux critiques qui ciblent les organes. C'est une machine.
+- *⚠️ Un seul Phase II est un combat de boss. Deux ou plus = besoin de stratégie, véhicules, ou sabotage. Ne pas utiliser avant l'Acte 3.*
+
+**Dark Trooper Phase III (prototype unique)** — *Némésis (boss final potentiel)*
+- Silhouette 2 | Blessure : 25 | Stress : 15 | Blindage : 6
+- Combat à distance (armes lourdes) 4
+- Double canon blaster lourd (dégâts 12, portée moyenne, Jumelé 1) + Lance-roquettes (dégâts 15, portée longue, Brèche 2, Souffle 8, Limitée 2)
+- Jetpack avancé + blindage renforcé au doonium
+- **Si le Phase III est terminé et déployé, il est le boss final de la campagne pour les joueurs qui affrontent Hopner.**
+
+**Timing idéal :** Indices en Acte 2 (Phase I, disparitions). Révélation complète en milieu d'Acte 3 (infiltration de Forge-7). Confrontation avec les Phase II en Acte 3-4. Le Phase III = climax potentiel de l'Acte 4.
 
 ---
 
@@ -934,7 +1429,13 @@ Sa logique : *"Si Arrakha ne peut pas être libre, alors Arrakha ne sera utile �
 - **Rôle :** Officier du Renseignement Militaire de la Nouvelle République, en mission clandestine dans le secteur Auril
 - **Référence :** *Erso* — clin d'œil au nom de famille de Jyn Erso (Rogue One), mais aucun lien de parenté. Un rappel que la rébellion a toujours exigé des sacrifices de gens ordinaires.
 
-**Couverture :** Les joueurs rencontrent Nox sous une fausse identité — peut-être une marchande de matériel, une mécanicienne itinérante, ou une informatrice indépendante qui traîne dans les mêmes cercles qu'eux sur Murkhana. Elle est **utile, compétente, et sympathique**. Elle rend des services, donne des informations justes, et ne demande jamais rien en retour — ce qui, rétrospectivement, est le plus gros red flag.
+**Couverture :** Les joueurs rencontrent Nox comme **mécanicienne itinérante** travaillant pour un petit atelier de réparation de vaisseaux au Port Gris — l'atelier de "Kesh", un vieux Sullustain qui existe vraiment (c'est un contact républicain, mais les joueurs ne le savent pas). Nox a un salaire visible, un logement dans les niveaux intermédiaires, un casier judiciaire mineur (contrebande — fabriqué par ses supérieurs pour crédibiliser le personnage). Elle traîne dans les cantinas parce que "les pilotes parlent quand on répare leurs moteurs". Ça explique ses contacts, ses informations, et ses revenus.
+
+**Réponses préparées pour le MJ quand les joueurs enquêtent :**
+- "D'où vient-elle ?" → Corellia, arrivée sur Murkhana il y a 3 ans pour fuir une dette (faux, mais vérifiable — ses faux papiers sont bien faits).
+- "Pourquoi elle aide gratuitement ?" → Elle ne le fait pas — elle accepte des paiements en services (un transport, une information, un accès). Elle n'aide "gratuitement" que les joueurs, parce qu'elle a des raisons cachées.
+- "Comment elle sait autant de choses ?" → "Les mécaniciens entendent tout. Vous seriez surpris de ce que les gens disent quand vous avez la tête dans leur moteur."
+- **Quand la couverture commence à craquer (Acte 2-3) :** Nox est absente pendant des jours sans explication. Elle a du matériel de communication militaire dans son sac. Un contact mentionne qu'il n'y a aucune Nox de Corellia dans les registres de transport des 5 dernières années. Vektor la mentionne par son prénom (session 13) — il la cherche aussi.
 
 **La vraie Nox :** Sous sa couverture, Nox est une opératrice de terrain chevronnée qui a servi dans les services de renseignement rebelles avant la chute de l'Empire. Elle croit sincèrement que l'Empire doit être éradiqué — chaque vestige, chaque seigneur de guerre, chaque compromis. L'Accord d'Ossus la dégoûte. Mais elle obéit à sa hiérarchie... tout en la subvertissant.
 
@@ -949,9 +1450,9 @@ Elle alimente le conflit pour une raison : forcer la main de la République. Si 
 **Comment les joueurs découvrent la vérité :**
 - En enquêtant sur la source du matériel de Hashk — la piste remonte à des intermédiaires liés à la République, puis à Nox.
 - Linus Torv, s'il fait suffisamment confiance aux joueurs, finit par leur avouer qu'il soupçonne l'opération mais ne peut pas la prouver — et que ses supérieurs lui disent de ne pas chercher.
-- Gekko le sait (évidemment) et peut vendre l'information — ou la garder comme assurance.
+- **Gekko vend Nox à Vektor/Hopner** — dans toutes les routes, c'est lui qui la compromet, au moment le plus rentable pour ses intérêts. Les joueurs l'apprennent directement (Route Hutt) ou après le fait (autres routes).
 - Les joueurs surprennent Nox en communication chiffrée avec Coruscant.
-- Le Superviseur Vektor la traque aussi — il sait qu'il y a une taupe républicaine dans le secteur.
+- Le Superviseur Vektor la traque aussi — il sait qu'il y a une taupe républicaine dans le secteur, et c'est Gekko qui lui donne la confirmation finale.
 
 **Impact sur la campagne :**
 - Ça **détruit l'innocence du camp République**. Non seulement ils ont passé l'Accord d'Ossus, mais en plus ils jouent un double jeu — ils prétendent ne pas pouvoir intervenir tout en alimentant un conflit qui tue des civils.
@@ -970,10 +1471,46 @@ Elle alimente le conflit pour une raison : forcer la main de la République. Si 
 |---|---|---|---|---|
 | 1 | **L'Accord d'Ossus** | 2 | Linus Torv, Hashk, Gekko | La République n'est pas innocente |
 | 2 | **L'enfant de Hopner** | 2-3 | Rencontre naturelle, Gekko | Hopner devient humaine |
-| 3 | **Le projet de Forge-7** | 3 | Déserteur, infiltration, Réseau Racine | Hopner est plus dangereuse que prévu |
+| 3 | **Les Dark Troopers de Forge-7** | 3 | Déserteur, infiltration, Réseau Racine | Hopner construit sa propre armée de droïdes — hypocrisie totale |
 | 4 | **Le Plan B de Hashk** | 3-4 | Lieutenant dissident, fouille | Hashk est prêt à tout sacrifier |
 | 5 | **L'agent républicain (Nox Erso)** | 3-4 | Enquête, Linus Torv, Gekko, Vektor | Personne ne joue franc jeu — trahison personnelle |
 
 ---
 
 *Document de travail — à développer session par session au fil de la campagne.*
+
+---
+
+## PISTES DE TRAVAIL — À DÉVELOPPER
+
+### Complété
+- [x] Lieutenants de Hashk (Torque Venn, Seren Awk, Kael Dpkg)
+- [x] Lieutenants de Gekko (Majordome Grep, Sly Nmap)
+- [x] Chefs de syndicats (Vrak Chmod récupérable, Boss Iptab irrécupérable)
+- [x] Contact du Réseau Racine (Meema Kern)
+- [x] Paroles du Chant des Marées
+- [x] Lien personnel Hashk-Hopner (exécution du directeur Baktoid)
+- [x] Explication du titre "Cendres & Chrome"
+- [x] Verticalité de Murkhana City (3 strates + Tour Argente axe vertical)
+- [x] Mécanique d'implication (L'Engrenage : émotion → pression)
+- [x] Le vaisseau des joueurs (choisi en Session 0, conseils MJ, défauts suggérés)
+- [x] Boîte à outils MJ (noms murkhanais, 20 rumeurs, 12 événements, 8 complications de voyage)
+
+### Personnages
+- [ ] **Nommer l'enfant de Hopner** — Avec une référence cohérente (informatique/tech).
+
+### Worldbuilding
+- [ ] **Le Moria développé** — Session dédiée : ambiance casino spatial, arène de gladiateurs, tables de sabacc, marché noir VIP, règles de Gekko ("pas de violence dans ma station"), PNJ résidents.
+- [ ] **Rencontres de créatures scriptées** — Intégrer le Rampant, les Vautours Rouges et le Tunnelier dans des scènes précises (voyage vers Arrakha, exploration des canyons, mines profondes).
+- [ ] **Scénarios exploitant la verticalité** — Poursuite du haut vers les Fosses, infiltration des Hauts, exploration des ruines au sommet de la Tour Argente.
+
+### Structure de jeu
+- [x] **Acte 2 session par session** — Sessions 10-17 dans ACTE2_README.md
+- [x] **Acte 3 session par session** — 5 routes séparées × 6 sessions dans ACTE3_README.md
+- [ ] **Acte 4 session par session + épilogues par camp** — Sessions 24-30+.
+- [ ] **Scénarios tactiques de combat de droïdes** — Scénarios types : défense d'entrepôt (B1 Sentinelles), assaut de position (Droideka), rencontre imprévisible (Bricolé), bataille urbaine (Rouillés vs Chromés).
+
+### Narratif
+- [ ] **Exploitation des Obligations des PJ** — Intégrer concrètement les Obligations des joueurs dans les sessions.
+- [x] **Projet Forge-7 choisi** — Dark Troopers (Phase I/II/III), stats EotE, miroir narratif avec Hashk
+- [x] **SESSION1_BAPTEME_DU_FEU.md réécrit** — Intro Nid, ambiance murkhanaise, vaisseau des joueurs, Chant des Marées
