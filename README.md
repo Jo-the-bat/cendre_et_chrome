@@ -92,7 +92,7 @@ C'est dans ce chaos que le **Consortium d'Edna** opère — une guilde de chasse
 
 Les joueurs commencent comme de simples chasseurs de primes au service du Consortium. Mais la cible qu'on va leur confier va les entraîner au cœur d'un conflit qui dépasse largement une simple prime.
 
-**Prémisse :** Un ancien administrateur séparatiste Muun prépare des soulèvements parallèles — libérer sa planète natale Murkhana de l'emprise des syndicats criminels, et libérer la colonie minière d'Arrakha de l'occupation impériale — pour rallier le système à la Nouvelle Union Séparatiste. La Protectrice du Protectorat d'Auril veut l'en empêcher et engage — via des intermédiaires — les chasseurs de primes du Consortium d'Edna pour le retrouver. Les joueurs découvriront progressivement que rien n'est noir ou blanc, et devront choisir leur camp.
+**Prémisse :** Un ancien comptable séparatiste Muun prépare des soulèvements parallèles — libérer sa planète natale Murkhana de l'emprise des syndicats criminels, et libérer la colonie minière d'Arrakha de l'occupation impériale — pour rallier le système à la Nouvelle Union Séparatiste. La Protectrice du Protectorat d'Auril veut l'en empêcher et engage — via des intermédiaires — les chasseurs de primes du Consortium d'Edna pour le retrouver. Les joueurs découvriront progressivement que rien n'est noir ou blanc, et devront choisir leur camp.
 
 ---
 
@@ -360,12 +360,12 @@ Le Consortium n'est pas un simple décor de l'Acte 1 — il a son propre arc nar
 
 Mais un comptable de Baktoid, même de troisième rang, a accès à quelque chose d'inestimable : les **plans de production**. Les schémas des chaînes d'assemblage. Les spécifications techniques des B1, des B2, des Droidekas. Les protocoles de programmation. Les fournisseurs de composants. Hashk a tout archivé — pas par ambition, mais par réflexe de comptable. Quand l'Empire a écrasé les Séparatistes et démantelé Baktoid, il a survécu précisément parce qu'il était trop insignifiant pour être pourchassé. Il a emporté ses archives avec lui.
 
-Pendant vingt ans sous l'Empire, il a observé, accumulé des contacts, et discrètement racheté des dettes et des faveurs. Les sanctions impériales interdisaient la récupération de matériel CIS, mais Hashk savait exactement où les usines avaient été, quels entrepôts n'avaient jamais été vidés, et quels droïdes étaient encore récupérables sous les décombres. Il a commencé à constituer un réseau de ferrailleurs fidèles — des gens qui fouillaient les ruines sur ses instructions et stockaient les pièces.
+Pendant plus de vingt ans sous l'Empire, il a observé, accumulé des contacts, et discrètement racheté des dettes et des faveurs. Les sanctions impériales interdisaient la récupération de matériel CIS, mais Hashk savait exactement où les usines avaient été, quels entrepôts n'avaient jamais été vidés, et quels droïdes étaient encore récupérables sous les décombres. Il a commencé à constituer un réseau de ferrailleurs fidèles — des gens qui fouillaient les ruines sur ses instructions et stockaient les pièces.
 
 Après Endor, quand le chaos s'est installé, il a émergé comme le seul homme sur Murkhana qui savait où était l'argent, qui devait quoi à qui, et comment faire fonctionner les réseaux commerciaux que l'Empire avait laissés en ruine. Mais surtout, il était le seul à posséder les plans pour **reconstruire ce que la guerre avait détruit**.
 
-**D'où vient l'argent :** Les joueurs poseront la question — un sous-comptable qui finance des cliniques, une armée et une usine clandestine pendant vingt ans. La réponse est triple :
-- **Les comptes dormants de Baktoid.** Hashk, en bon comptable, a détourné des fonds de Baktoid Combat Automata avant la chute — des comptes de ravitaillement, des lignes de crédit oubliées dans des banques du Clan Bancaire InterGalactique (les Muun sont la race de banquiers de la galaxie). Des sommes modestes individuellement, mais accumulées sur vingt ans, ça représente un capital solide.
+**D'où vient l'argent :** Les joueurs poseront la question — un sous-comptable qui finance des cliniques, une armée et une usine clandestine depuis la fin de la guerre. La réponse est triple :
+- **Les comptes dormants de Baktoid.** Hashk, en bon comptable, a détourné des fonds de Baktoid Combat Automata avant la chute — des comptes de ravitaillement, des lignes de crédit oubliées dans des banques du Clan Bancaire InterGalactique (les Muun sont la race de banquiers de la galaxie). Des sommes modestes individuellement, mais accumulées sur plus de vingt ans, ça représente un capital solide.
 - **Le financement NUS.** Depuis ~5 ABY, la Nouvelle Union Séparatiste finance discrètement Hashk comme "investissement politique." Pas assez pour une armée conventionnelle, mais assez pour des cliniques, des écoles, et des achats de pièces au Marché des Carcasses. La NUS voit Hashk comme un pion bon marché — pour l'instant.
 - **Les fonds républicains (via Nox, à l'insu de Hashk).** Nox canalise des crédits vers la rébellion via des intermédiaires — présentés comme des "dons de sympathisants" ou des "bénéfices de contrebande." Hashk ne sait pas d'où vient cet argent. S'il l'apprenait, ça compromettrait la légitimité de tout son mouvement.
 
@@ -379,6 +379,34 @@ La Forge produit lentement mais sûrement :
 - Des **prototypes de B1 modernisés** — des versions améliorées basées sur les plans originaux de Baktoid, adaptées avec des matériaux disponibles localement. Hashk les appelle les "B1-M" (M pour Murkhana). Ils sont en développement, pas encore déployés.
 
 La Forge est le secret industriel de Hashk — sa vision de l'avenir de Murkhana en miniature. Si les joueurs la découvrent avant le soulèvement, ça change leur compréhension de l'ampleur de son projet. Ce n'est pas juste un idéaliste avec des vieux droïdes recyclés — c'est un homme qui reconstruit une industrie de guerre.
+
+**Le cœur de la Forge — TX-73 "Sept-Trois"**
+
+Au fond de la Forge, branché dans un nœud de câbles et de terminaux, se trouve le secret le mieux gardé de Hashk : un **droïde tactique T-series**, désignation TX-73. Un survivant de la Guerre des Clones.
+
+TX-73 était affecté aux usines Baktoid de Murkhana comme coordinateur logistique — il gérait les flux de production et le déploiement des droïdes sortant des chaînes. Quand les bombardements de la République ont frappé, il a été enseveli sous les décombres de l'usine principale. Hashk l'a trouvé quinze ans plus tard, lors des premières fouilles dans les ruines — endommagé mais fonctionnel. Il l'a réparé sur des années, pièce par pièce, avec l'aide de Torque Venn.
+
+**État physique :** TX-73 est immobile. Ses jambes sont détruites au-delà de toute réparation — il est fixé à un châssis de maintenance, connecté en permanence aux systèmes de la Forge. Un bras fonctionne. L'autre est un moignon de câbles. Ses capteurs visuels sont endommagés — il voit flou à plus de quelques mètres. Mais son **processeur tactique** est intact. C'est tout ce qui compte.
+
+**Personnalité :** Près de trente ans d'isolement, de dommages, et de calculs sans fin ont donné à TX-73 quelque chose que les droïdes tactiques T-series n'étaient pas censés avoir : une **personnalité**. Il est cynique, sec, et brutalement honnête. Il calcule les probabilités de tout — y compris les chances de succès du plan de Hashk — et ne se gêne pas pour les annoncer à voix haute. Il considère les organiques comme des créatures émotionnelles et illogiques, Hashk inclus. Mais il le respecte — parce que Hashk est le seul organique qui l'a traité comme un conseiller, pas comme un outil.
+
+**Voix :** Monotone, plate, légèrement grésillante (haut-parleur endommagé). Pas de modulation émotionnelle — mais les mots qu'il choisit sont tranchants.
+
+**Citations :**
+- *"Les probabilités de succès de la Phase 1 sont de 34,7%. C'est ce qu'on appelle 'de l'optimisme' chez les organiques."*
+- *"Le Directeur me demande mon avis, puis fait le contraire. C'est pour ça qu'il a besoin de moi — quelqu'un doit calculer les conséquences de ses décisions émotionnelles."*
+- *(à un joueur)* *"Vous êtes des chasseurs de primes. Votre loyauté est transactionnelle par définition. Je calcule une probabilité de 62% que vous nous trahissiez. Le Directeur pense que j'ai tort. Il a tort de penser que j'ai tort."*
+- *(si la joueuse droïde le rencontre)* *"...Vous êtes un droïde. Et vous êtes libre. C'est... inhabituel. Mes données sur ce phénomène sont insuffisantes."*
+
+**Rôle narratif :**
+- **Le cerveau tactique de Hashk.** TX-73 coordonne les cellules, calcule les timings, analyse les mouvements du Protectorat. Sans lui, le double soulèvement serait improvisé. Avec lui, c'est un plan militaire — imparfait, mais structuré.
+- **Le contrepoint cynique.** Hashk est un idéaliste. TX-73 est un calculateur. Leur dynamique est le cœur émotionnel de la Forge — un comptable et une machine de guerre qui essaient de faire quelque chose de bien avec des outils conçus pour la destruction.
+- **Un miroir pour la joueuse droïde.** TX-73 est un droïde conscient, intelligent, avec des opinions — mais il est immobile, dépendant, et défini par sa fonction de guerre. La joueuse droïde verra en lui ce qu'elle pourrait devenir — ou ce dont elle peut le libérer.
+- **Un dilemme en Acte 3-4.** Si Hashk dérape, TX-73 suit-il ? Un droïde tactique est programmé pour obéir aux ordres — mais TX-73 a développé un jugement propre. Il pourrait être celui qui dit à Hashk *"Les probabilités indiquent que vous êtes en train de devenir l'ennemi"* — ou celui qui calcule froidement que le Plan B est la solution optimale.
+
+**Ce que TX-73 ne dit pas :** Il a accès aux mêmes plans Baktoid que Hashk. Il sait exactement ce que les Dark Troopers de Hopner sont — parce que la technologie est la même, poussée plus loin. S'il l'apprend (Acte 3), sa réaction sera la plus froide et la plus dévastatrice : *"L'Amiral utilise nos propres plans. Efficace. J'aurais fait la même chose."*
+
+*(Réf : TX — désignation canon des droïdes tactiques, comme TX-20 dans Clone Wars. "Sept-Trois" sonne comme un callsign militaire. Pas de référence tech — c'est un personnage Star Wars pur.)*
 
 **Note MJ — Quand les joueurs découvrent la Forge et le plan économique :**
 - **Acte 1 (possible mais rare) :** Si les joueurs poussent l'enquête très loin dans les niveaux bas de Murkhana, ils peuvent tomber sur la Forge par accident ou en suivant une piste de droïdes. Torque Venn les interceptera — et Hashk décidera si cette découverte accélère ou compromet ses plans.
@@ -400,7 +428,7 @@ Hashk ne cache pas ses intentions générales. Si les joueurs l'interrogent ou g
 **PHASE 1 — "MURKHANA" (visible, en préparation au début de la campagne)**
 *Objectif : Briser le pacte des ombres entre Hopner et les syndicats, libérer Murkhana par un soulèvement populaire.*
 
-Hashk a passé vingt ans à préparer ce moment. Il connaît Murkhana City mieux que personne — chaque réseau, chaque dette, chaque flux d'argent. Son plan :
+Hashk a passé près de trente ans à préparer ce moment. Il connaît Murkhana City mieux que personne — chaque réseau, chaque dette, chaque flux d'argent. Son plan :
 
 - **Travail de sape (en cours au début de la campagne) :**
   - Racheter les dettes des familles murkhanaies pour se constituer un réseau de loyautés. Financer des soupes populaires, des cliniques, des écoles clandestines dans les Fosses et les niveaux bas. Devenir l'homme qui aide quand personne d'autre ne le fait.
@@ -411,7 +439,7 @@ Hashk a passé vingt ans à préparer ce moment. Il connaît Murkhana City mieux
 
 - **L'armée de droïdes de Hashk — "Les Rouillés" :**
 
-  L'ancien comptable de Baktoid connaît ces machines mieux que quiconque. C'est lui qui fournit les spécifications aux ferrailleurs, qui identifie les pièces compatibles, et qui sait quels droïdes valent la peine d'être réactivés. C'est pour ça que les Rouillés fonctionnent mieux que ce qu'on attendrait de machines vieilles de 25 ans — ils ont été remis en état par quelqu'un qui a les plans originaux. Les unités les plus récentes sortent directement de la Forge, son atelier clandestin sous Murkhana City.
+  L'ancien comptable de Baktoid connaît ces machines mieux que quiconque. C'est lui qui fournit les spécifications aux ferrailleurs, qui identifie les pièces compatibles, et qui sait quels droïdes valent la peine d'être réactivés. C'est pour ça que les Rouillés fonctionnent mieux que ce qu'on attendrait de machines vieilles de près de trente ans — ils ont été remis en état par quelqu'un qui a les plans originaux. Les unités les plus récentes sortent directement de la Forge, son atelier clandestin sous Murkhana City.
   - **B1 réactivés (~200 unités)** — Le gros des forces. Vieux, mal entretenus, parfois comiques dans leurs dysfonctionnements (voix glitchées, membres manquants, protocoles obsolètes). Mais en nombre, ils font la différence. Beaucoup ont été modifiés par les ferrailleurs murkhanais : blindages soudés à la main, armes non standard, peintures de guerre murkhanaies.
   - **B2 Super Battle Droids (~30 unités)** — Plus rares, plus difficiles à réactiver, beaucoup plus dangereux. Hashk les garde en réserve pour les objectifs critiques (assaut de la garnison, confrontation avec les stormtroopers). Certains sont en état presque neuf — récupérés dans des entrepôts souterrains scellés depuis la guerre.
   - **Droidekas (~5 unités)** — Le trésor de Hashk. Cinq Destroyers réactivés, capables de se déployer en mode bouclier. Extrêmement dangereux. Hashk les considère comme son "arme de dissuasion" — les déployer signifie que c'est sérieux.
@@ -1000,6 +1028,7 @@ Pour les trajets entre Murkhana, Arrakha, Forscan Prime, le Moria, et le Cron Dr
 | **Fenn Sudo** | Gekko | Murkhana | Agent de Gekko, informateur trop serviable | Acte 1-2 | *sudo* (commande Unix) |
 | **Jyn Tracert** | Consortium / Gekko | Arrakha | Informatrice locale — en réalité espion de Gekko (dette : il a payé pour faire sortir sa sœur d'Arrakha) | Acte 1-3 | *tracert* (commande réseau) |
 | **Torque Venn** | Hashk | Murkhana (Forge) | Ferrailleur en chef, responsable des Rouillés | Acte 1-4 | *Torque* (mécanique) |
+| **TX-73 "Sept-Trois"** | Hashk | Murkhana (Forge) | Droïde tactique T-series, cerveau stratégique de Hashk | Acte 2-4 | *TX* (désignation canon) |
 | **Seren Awk** | Hashk | Murkhana (Fosses) | Coordinatrice des cellules, radicale impatiente | Acte 1-4 | *awk* (commande Unix) |
 | **Kael Dpkg** | Hashk | Arrakha (Terrier) | Logisticien d'Arrakha, ancien mineur conscrit | Acte 1-4 | *dpkg* (gestionnaire paquets Debian) |
 | **Vrak Chmod** | Syndicat (récup.) | Murkhana (Port Gris) | Chef des dockers, récupérable | Acte 1-3 | *chmod* (permissions Unix) |
@@ -1335,7 +1364,7 @@ Avec l'Accord d'Ossus (déjà détaillé dans les Thèmes), la campagne compte *
 
 **L'ironie cruelle :** Hopner interdit la réactivation de droïdes CIS sur ses mondes — elle considère ça comme un acte séditieux, un retour au séparatisme. Mais dans le secret de Forge-7, elle fait **exactement la même chose** : construire une armée de droïdes. La différence ? Les siens sont neufs, avancés, et portent un blindage impérial au lieu de peinture murkhanaise. L'hypocrisie est totale — et c'est ce qui rend la révélation si dévastatrice.
 
-**L'origine du projet :** Pendant les raids de "pacification" sur les usines Baktoid de Murkhana (les mêmes raids où Hopner a exécuté le directeur de l'usine — le mentor de Hashk), ses ingénieurs ont saisi des archives techniques : plans de production, protocoles de programmation, schémas de blindage. Hopner a gardé ces archives pendant vingt ans. Après Endor, quand elle a perdu l'accès aux cloneurs et aux centres de formation impériaux, elle a réalisé que des droïdes autonomes résolvaient un problème fondamental : elle n'a pas assez de soldats humains pour tenir le secteur à long terme. Les Dark Troopers sont sa solution.
+**L'origine du projet :** Pendant les raids de "pacification" sur les usines Baktoid de Murkhana (les mêmes raids où Hopner a exécuté le directeur de l'usine — le mentor de Hashk), ses ingénieurs ont saisi des archives techniques : plans de production, protocoles de programmation, schémas de blindage. Hopner a gardé ces archives pendant plus de vingt-cinq ans. Après Endor, quand elle a perdu l'accès aux cloneurs et aux centres de formation impériaux, elle a réalisé que des droïdes autonomes résolvaient un problème fondamental : elle n'a pas assez de soldats humains pour tenir le secteur à long terme. Les Dark Troopers sont sa solution.
 
 **Les Dark Troopers — Caractéristiques :**
 
