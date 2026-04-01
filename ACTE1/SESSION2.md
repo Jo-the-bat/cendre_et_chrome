@@ -30,7 +30,7 @@ Le lendemain matin au Nid. Edna est assise à la table commune, un caf à la mai
 >
 > *Edna tapote la table.*
 >
-> *"Voilà ce qu'on sait. Hashk Ellor, Muun. Ancien de l'Alliance Corporative — du temps de la Guerre des Clones. Il a survécu au bombardement, à l'Empire, et à vingt-cinq ans de chaos. Quelqu'un le veut vivant — et ce quelqu'un paye 50 000 crédits pour ça."*
+> *"Voilà ce qu'on sait. Hashk Ellor, Muun. Ancien de l'Alliance Corporative — du temps de la Guerre des Clones. Il a survécu au bombardement, à l'Empire, et à près de trente ans de chaos. Quelqu'un le veut vivant — et ce quelqu'un paye 50 000 crédits pour ça."*
 >
 > *Elle regarde chacun de vous.*
 >
