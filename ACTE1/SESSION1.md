@@ -95,7 +95,7 @@ Laisse les joueurs poser des questions :
 >
 > *Les Fosses portent bien leur nom. C'est le niveau le plus bas de Murkhana City. Les rues sont inondées d'une eau verdâtre et toxique qui monte jusqu'aux chevilles. Des passerelles branlantes relient les bâtiments. L'air pue l'acide et le métal rouillé.*
 >
-> *Sur un mur, un graffiti en aurebesh : les premières notes du Chant des Marées, peintes en noir. Plus loin, un groupe de jeunes porte des morceaux de carcasses de droïdes B1 comme armure improvisée — des épaulières, des plaques de poitrine soudées sur du cuir. La Guerre des Clones est finie depuis 25 ans, mais ses débris sont encore partout.*
+> *Sur un mur, un graffiti en aurebesh : les premières notes du Chant des Marées, peintes en noir. Plus loin, un groupe de jeunes porte des morceaux de carcasses de droïdes B1 comme armure improvisée — des épaulières, des plaques de poitrine soudées sur du cuir. La Guerre des Clones est finie depuis près de trente ans, mais ses débris sont encore partout.*
 >
 > *Le Fond du Trou. Un néon cassé au-dessus d'une porte blindée. L'enseigne montre un verre qui se remplit et se vide en boucle.*
 
@@ -314,7 +314,7 @@ Fumigène : +2⚫⚫ distance pendant 2 rounds. Poursuite : Athlétisme Facile �
 >
 > *Un holoprojecteur s'active. L'image d'un Muun — grand, mince, impassible.*
 >
-> *"Hashk Ellor. Ancien administrateur de l'Alliance Corporative. Un client anonyme le veut vivant. 50 000 crédits."*
+> *"Hashk Ellor. Muun. Ancien de l'Alliance Corporative, du temps de la Guerre des Clones. Un client anonyme le veut vivant. 50 000 crédits."*
 >
 > *Silence.*
 >
