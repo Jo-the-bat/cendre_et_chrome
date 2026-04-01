@@ -156,6 +156,7 @@ La joueuse droïde peut, au fil des sessions, construire un petit réseau de "li
 **PNJ alliés potentiels :**
 - **Ori Hex** — Le ferrailleur ithorien. Il aide par compassion.
 - **Torque Venn** — Le ferrailleur de Hashk. Il aide parce que des droïdes loyaux = des soldats pour le soulèvement.
+- **TX-73 "Sept-Trois"** — Si les joueurs découvrent la Forge, ils rencontrent le droïde tactique T-series de Hashk — un survivant immobile, cynique, et brillant. Pour la joueuse droïde, c'est une rencontre transformatrice : un droïde conscient avec près de trente ans de mémoire, qui a des opinions sur tout, y compris sur la condition des droïdes. TX-73 ne comprend pas la "libération" — il est programmé pour la guerre. Mais il peut *calculer* pourquoi c'est logique.
 - **Doc Frag** — Le médecin de la Clinique de Sel. Il ne soigne pas que les organiques.
 
 **PNJ antagonistes :**
