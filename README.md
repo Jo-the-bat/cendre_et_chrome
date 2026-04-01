@@ -249,7 +249,7 @@ Arrakha fonctionne comme une prison dont les murs sont le désert. Le système e
 
 **Type :** Monde tempéré, capitale sectorielle du Protectorat d'Auril  
 **Système :** Système Forscan (Grille R-7), Secteur Auril  
-**Population :** ~5 millions — Colons, agriculteurs, commerçants, personnel militaire impérial  
+**Population :** ~5 millions — Colons, agriculteurs, commerçants, personnel militaire du Protectorat  
 **Gouvernement :** Gouvernement civil local fantoche, sous autorité directe de l'Amiral Gracia Hopner  
 **Présence militaire :** Base impériale Forge-7 (au sol) + le *Verdict Gris* (Destroyer Stellaire, basé en orbite — se déploie dans le secteur selon les besoins)
 
@@ -257,7 +257,7 @@ Arrakha fonctionne comme une prison dont les murs sont le désert. Le système e
 
 Quand l'Empire a cherché une capitale sectorielle pour le secteur Auril, Forscan Prime a été choisie pour sa position centrale, son climat agréable et sa population docile. Une base militaire massive — Forge-7 — a été construite à 40 kilomètres de la capitale civile, Kelden. Hangars, casernes, centre de commandement enterré, chantiers de maintenance navale, et défenses orbitales. Deux mondes ont commencé à coexister : la vie civile ordinaire de Kelden, et la machine militaire de Forge-7.
 
-Après la chute de l'Empire, l'Amiral Hopner a hérité de la base et de la planète. Elle a fait de Kelden une **vitrine impériale** : la ville est propre, ordonnée, prospère. Les rues sont pavées, les commerces approvisionnés, les écoles fonctionnent (avec un programme réécrit par le Bureau de Sécurité), et les HoloNews locales diffusent en boucle les succès de l'Amiral. Des affiches de propagande couvrent les murs : *"Le Protectorat Protège"*, *"L'Ordre pour la Prospérité"*, *"Un Secteur Uni sous un même Drapeau"*. Pour un visiteur, Kelden semble être la preuve vivante que Hopner a raison — que l'ordre impérial fonctionne.
+Après la chute de l'Empire, l'Amiral Hopner a hérité de la base et de la planète. Elle a fait de Kelden une **vitrine du Protectorat** : la ville est propre, ordonnée, prospère. Les rues sont pavées, les commerces approvisionnés, les écoles fonctionnent (avec un programme réécrit par le Bureau de Sécurité), et les HoloNews locales diffusent en boucle les succès de l'Amiral. Des affiches de propagande couvrent les murs : *"Le Protectorat Protège"*, *"L'Ordre pour la Prospérité"*, *"Un Secteur Uni sous un même Drapeau"*. Pour un visiteur, Kelden semble être la preuve vivante que Hopner a raison — que l'ordre impérial fonctionne.
 
 Mais cette vitrine s'arrête aux portes de la ville. **Dans les campagnes**, la réalité est tout autre. Les villages agricoles et les communautés forestières vivent sous le poids des taxes et des réquisitions. Des patrouilles impériales ratissent régulièrement la campagne pour la conscription, la collecte de "contributions volontaires", et la recherche de dissidents. Et c'est dans ces campagnes que la résistance vit — pas par les armes, mais par le silence.
 
@@ -500,7 +500,7 @@ La Phase 2 se prépare en même temps que la Phase 1, mais l'exécution est déc
   - Obtenir des renseignements sur la garnison impériale et les patrouilles du Verdict Gris.
 
 - **Le coup d'état sur Arrakha :**
-  - **Étape 1 — Neutraliser les communications :** Détruire le relais impérial à Torren pour isoler la garnison.
+  - **Étape 1 — Neutraliser les communications :** Détruire le relais du Protectorat à Torren pour isoler la garnison.
   - **Étape 2 — Le Chant remonte des galeries :** Le même signal qu'à Murkhana. Le Chant des Marées résonne dans les mines, puis dans les canyons, puis dans Torren. Grève générale — des milliers de Murkhanais qui refusent de descendre dans les mines et marchent sur la ville en chantant. Le même hymne, à des millions de kilomètres de chez eux.
   - **Étape 3 — Assaut sur la garnison :** La milice du Terrier, les droïdes B1/B2 et les mineurs armés attaquent la caserne pendant que la grève submerge les défenses par le nombre. Capturer le Préfet Daran Null.
   - **Étape 4 — Déclaration d'indépendance :** Arrakha se déclare libre et demande la protection de la NUS.
@@ -847,7 +847,7 @@ Si les joueurs ont réussi à maintenir la rébellion sur les deux fronts, le cl
 
 La révélation de l'enfant de Hopner (Acte 2-3) sera d'autant plus puissante si les joueurs ont entrevu son humanité avant. Indices subtils à distiller :
 
-- **Acte 1 :** Un officier impérial capturé ou interrogé mentionne que l'Amiral "n'est pas comme les autres" — elle refuse les bombardements de civils, elle visite les casernes, elle connaît les noms de ses soldats. "C'est pour ça qu'on la suit."
+- **Acte 1 :** Un officier du Protectorat capturé ou interrogé mentionne que l'Amiral "n'est pas comme les autres" — elle refuse les bombardements de civils, elle visite les casernes, elle connaît les noms de ses soldats. "C'est pour ça qu'on la suit."
 - **Acte 1-2 :** Les joueurs interceptent un ordre de Hopner à la garnison d'Arrakha : "Pas de tirs sur les manifestants non armés. Si la situation dégénère, utilisez des grenades incapacitantes. Je veux zéro mort civile." Ça ne colle pas avec l'image d'un tyran.
 - **Acte 2 :** Lors de la rencontre avec Hopner (à bord du Verdict Gris ou via holo), elle mentionne Arrakha d'une manière étrangement personnelle : "Je connais les canyons d'Arrakha. J'y ai... des intérêts." Un joueur attentif notera l'hésitation.
 - **Acte 2 :** Hopner refuse explicitement une proposition de bombardement orbital d'un officier zélé. "L'Opération Cendre a prouvé que la destruction gratuite ne résout rien. Je ne suis pas Palpatine." Les joueurs la voient agir avec retenue — ce qui rend ses décisions plus dures d'autant plus choquantes.
@@ -904,7 +904,7 @@ Les joueurs ne sont pas forcés de réagir. Mais ils voient des choses qui s'acc
 - **Le choix d'Edna :** Edna ne force pas les joueurs, mais elle leur pose la question : *"Le Nid ne survivra pas à cette guerre. Pas en restant au milieu. Alors soit on choisit un camp et on survit — soit on se disperse et chacun se débrouille. Qu'est-ce que vous voulez, mes enfants ?"*
 
 **Les factions forcent la main :**
-- **Hopner exige des comptes :** Via Vektor, via un officier impérial, ou via un ultimatum direct — Hopner rappelle aux joueurs qu'ils ont été payés pour un contrat et qu'elle n'aime pas les gens qui ne tiennent pas parole. Si les joueurs ont aidé Hashk (même passivement), elle les considère comme des ennemis. Si les joueurs n'ont rien fait, elle les considère comme des incapables — et envoie les Serres ou ses propres agents les remplacer.
+- **Hopner exige des comptes :** Via Vektor, via un officier du Protectorat, ou via un ultimatum direct — Hopner rappelle aux joueurs qu'ils ont été payés pour un contrat et qu'elle n'aime pas les gens qui ne tiennent pas parole. Si les joueurs ont aidé Hashk (même passivement), elle les considère comme des ennemis. Si les joueurs n'ont rien fait, elle les considère comme des incapables — et envoie les Serres ou ses propres agents les remplacer.
 - **Hashk a besoin d'eux :** Hashk ne supplie pas — il explique froidement que les joueurs sont les seuls opérateurs indépendants du secteur qui connaissent à la fois Murkhana, Arrakha et Forscan Prime. Ils sont trop précieux pour rester neutres. Si les joueurs refusent, Hashk comprend — mais il prévient : *"Si vous n'êtes pas avec nous, vous serez au milieu. Et au milieu, on meurt."*
 - **Gekko fait chanter :** Gekko sait tout ce que les joueurs ont fait — chaque rencontre, chaque faveur, chaque information échangée. Il utilise ça comme levier : *"Vous avez parlé au Muun. Vous avez parlé à l'Amiral. Vous avez parlé à moi. Ça fait de vous des gens très intéressants — et très compromis. Je peux vous protéger... si vous me rendez un service."* Si les joueurs refusent, Gekko menace de vendre leurs mouvements à Hopner.
 - **Linus Torv appelle à leur conscience :** Le sénateur ne menace pas — il demande. *"Vous avez vu Arrakha. Vous avez vu ce que Hopner fait à ces gens. Je ne peux pas envoyer de troupes — mais vous, vous êtes déjà là. Vous pouvez faire la différence. Pas pour moi, pas pour la République. Pour eux."*
@@ -958,7 +958,7 @@ La population de Murkhana est cosmopolite (Koorivar, Aqualish, Gossams, Gran, hu
 | 5 | "Un cargo a disparu dans le Cron Drift la semaine dernière. L'équipage n'a jamais été retrouvé." | Vrai — pirates ou anomalie |
 | 6 | "Le ferrailleur du niveau 8 a trouvé un Droideka intact. Il le vend au plus offrant." | Partiellement vrai — il en a trouvé un, mais il est déjà vendu à Hashk |
 | 7 | "Le Moria organise un tournoi de sabacc avec 10 000 crédits de mise." | Vrai — invitation de Gekko |
-| 8 | "Y a un espion impérial dans le Consortium." | Faux — mais il y a un espion de Gekko (Jyn Tracert) |
+| 8 | "Y a un espion du Protectorat dans le Consortium." | Faux — mais il y a un espion de Gekko (Jyn Tracert) |
 | 9 | "Les mineurs d'Arrakha préparent une grève." | Prématuré — mais l'agitation monte |
 | 10 | "Un type du Bureau de Sécurité pose des questions sur vous." | Vrai si après la session 2 — c'est Vektor |
 | 11 | "Les syndicats versent un tribut à quelqu'un en orbite. Personne sait à qui." | Vrai — Hopner |
