@@ -50,21 +50,20 @@ Le MJ lit ou résume les sections suivantes aux joueurs. Ils connaissent Star Wa
 
 **Quand :** On est en **9 ABY** — 5 ans après la Bataille d'Endor et la mort de l'Empereur. Le contexte est celui de *The Mandalorian* (saison 1-2). L'Empire a perdu la guerre, mais il n'a pas disparu. Des dizaines de commandants impériaux refusent de se rendre et contrôlent encore des secteurs entiers de la Bordure Extérieure. La **Nouvelle République** existe mais elle est jeune, désorganisée, et incapable de projeter sa force partout. L'Outer Rim est un Far West — chaque système se débrouille.
 
-**Où :** Le **secteur Auril** — un coin reculé de la Bordure Extérieure, loin de Coruscant, loin de tout. Trois mondes comptent :
-- **Murkhana** — Votre base. Une mégalopole verticale en ruine, autrefois belle (océans noirs, récifs coralliens), bombardée pendant la Guerre des Clones, aujourd'hui contrôlée par des syndicats criminels. L'air pue le métal. L'eau est toxique. Mais les gens sont fiers — ils portent des fragments de corail noir autour du cou et chantent un hymne ancien, le Chant des Marées. C'est ici que vous vivez et travaillez.
-- **Arrakha** — La lune minière. Rouge, désertique, riche en doonium (un métal précieux). Des Murkhanais y sont envoyés par un "Programme d'Emploi" qui ressemble beaucoup à de la conscription forcée. Les conditions sont brutales.
-- **Forscan Prime** — La vitrine du régime. Propre, ordonnée, fonctionnelle. C'est là que vit l'Amiral Hopner — la femme qui tient le secteur d'une main de fer enveloppée de velours.
+**Où :** Le **secteur Auril** — un coin reculé de la Bordure Extérieure, loin de Coruscant, loin de tout. Un secteur oublié où personne ne viendra vous chercher — et où personne ne viendra vous aider non plus.
 
-**Qui dirige :** L'**Amiral Gracia Hopner** a refusé l'Opération Cendre (l'ordre de Palpatine de détruire les mondes impériaux) et a créé le **Protectorat d'Auril** — un état indépendant, ni impérial ni républicain. Elle recrute des non-humains dans ses troupes, investit dans les écoles, et se présente comme une protectrice. La République la tolère grâce à un traité appelé l'**Accord d'Ossus** (voir ci-dessous). C'est une antagoniste nuancée — pas un monstre, pas une héroïne.
+Vous vivez sur **Murkhana** — une mégalopole verticale en ruine. Autrefois un monde magnifique (océans noirs, récifs coralliens), bombardé pendant la Guerre des Clones parce que c'était un bastion séparatiste. Aujourd'hui, les océans sont morts, l'air est toxique, et la ville est contrôlée par des syndicats criminels qui rackettent les habitants. Mais les gens sont fiers — ils portent des fragments de corail noir autour du cou (les "Pierres Noires") et chantent un hymne ancien, le Chant des Marées.
 
-**Qui êtes-vous :** Des **chasseurs de primes** du **Consortium d'Edna** — une guilde familiale basée à Murkhana City. Edna Style (Weequay, ~60 ans) est votre patronne et votre mère de substitution. Basch Kull (Trandoshan, bras cybernétique) est votre officier de liaison. Vous prenez des contrats, vous ramenez des cibles, et vous survivez. Vous n'êtes pas des héros — mais vous pourriez le devenir.
+Vous savez qu'il y a un **Amiral** qui tient le secteur depuis une base militaire sur un autre monde. Tout le monde l'appelle "l'Amiral" — elle a des stormtroopers, un Destroyer Stellaire, et un réseau de syndicats qui font le sale boulot à sa place sur Murkhana. Les gens qui ne peuvent pas payer leurs dettes sont "recrutés" pour aller travailler sur **Arrakha**, une lune minière. Personne n'en revient. Personne ne pose de questions.
 
-**Le ton :** Moralement ambigu, inspiré d'*Andor*, *Deep Space Nine*, et *The Expanse*. Personne n'a raison à 100%. Tout le monde a des raisons. Vos choix auront des conséquences — et la campagne a 5 fins possibles selon le camp que vous rejoindrez (ou pas).
+**Qui êtes-vous :** Des **chasseurs de primes** du **Consortium d'Edna** — une guilde familiale basée à Murkhana City. Edna Style (Weequay, ~60 ans) est votre patronne et votre mère de substitution. Basch Kull (Trandoshan, bras cybernétique) est votre officier de liaison. Vous prenez des contrats, vous ramenez des cibles, et vous survivez. Vous n'êtes pas des héros — pas encore.
+
+**Le ton :** Moralement ambigu, inspiré d'*Andor*, *Deep Space Nine*, et *The Expanse*. Personne n'a raison à 100%. Tout le monde a des raisons. Vos choix auront des conséquences réelles — et la fin de l'histoire dépendra de ce que vous déciderez de faire quand les choses deviendront compliquées.
 
 **Ce qu'il faut savoir pour la création :**
-- Toutes les espèces du livre de base sont jouables. Les espèces murkhanaises (Gossam, Koorivar, Gran, Weequay) donnent des liens naturels avec le secteur, mais un humain de Corellia ou un Twi'lek de Ryloth peut aussi avoir atterri ici.
-- **Un joueur veut jouer un droïde ?** Parfait. Murkhana est une planète où les droïdes sont partout — des B1 recyclés en gardes, des astromechs cabossés, des droïdes de protocole oubliés. Un droïde joueur aura une histoire personnelle riche dans ce cadre (liberté, conscience, esclavage mécanique).
-- Les carrières les plus naturelles pour des chasseurs de primes : Chasseur de primes (toutes spécialités), Contrebandier (Pilote, Voleur), Mercenaire, Explorateur (Éclaireur). Mais toute carrière est viable — un Technicien est précieux pour les droïdes, un Diplomate pour les négociations, un Docteur pour les mines.
+- Toutes les espèces du livre de base sont jouables. Les espèces locales (Gossam, Koorivar, Gran, Weequay) donnent des liens naturels avec Murkhana, mais un humain de Corellia ou un Twi'lek de Ryloth peut aussi avoir atterri ici — la galaxie est pleine de gens qui fuient quelque chose.
+- **Un joueur veut jouer un droïde ?** Parfait. Murkhana est une planète où les droïdes sont partout — des B1 recyclés en gardes, des astromechs cabossés, des droïdes de protocole oubliés. Un droïde joueur aura une histoire personnelle riche dans ce cadre (liberté, conscience, esclavage mécanique). C'est un des thèmes de la campagne.
+- Les carrières les plus naturelles pour des chasseurs de primes : Chasseur de primes (toutes spécialités), Contrebandier (Pilote, Voleur), Mercenaire, Explorateur (Éclaireur). Mais toute carrière est viable — un Technicien est précieux pour les droïdes, un Diplomate pour les négociations, un Docteur pour quand les choses tournent mal.
 
 ### Choix du vaisseau
 
@@ -78,6 +77,12 @@ Le groupe choisit **un vaisseau collectif**. Voici 3 options adaptées à la cam
 
 **Profil par défaut (si le groupe ne choisit pas) — "Le Croc d'Edna" (YT-1300) :**
 Silhouette 4, Vitesse 3, Maniabilité -1, Blindage 4, Coque 22, Contrainte 15, Boucliers 1/1. Tourelle laser dorsale (dégâts 6, Courte, tous) + Canon laser avant (dégâts 5, Moyenne, avant).
+
+**Firespray-31 :**
+Silhouette 4, Vitesse 4, Maniabilité +1, Blindage 3, Coque 20, Contrainte 15, Boucliers 1/1. Canon laser moyen avant (dégâts 6, Courte, avant) + Canon laser arrière (dégâts 5, Courte, arrière). Lanceur de torpilles (dégâts 8, Courte, avant, Ammo limitée 4, Brèche 4, Guidé 3).
+
+**HWK-290 :**
+Silhouette 4, Vitesse 3, Maniabilité 0, Blindage 2, Coque 16, Contrainte 14, Boucliers 1/1. Canon laser léger avant (dégâts 5, Courte, avant). Furtivité intégrée : +1⚫ aux scans ennemis pour détecter le vaisseau.
 
 **Le vaisseau a une dette :** Le vaisseau n'est pas gratuit — il est financé par le Consortium (30% de chaque prime = remboursement). Ça donne au MJ un levier narratif : si les joueurs ne prennent pas de contrats, le vaisseau est en danger de saisie.
 
