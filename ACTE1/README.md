@@ -58,10 +58,6 @@ Le MJ lit (ou paraphrase) le texte suivant aux joueurs. C'est Edna qui parle —
 >
 > *"Il y a cinq ans, l'Empereur est mort. La galaxie a fait la fête. Ici, rien n'a changé. On est sur Murkhana — un monde que personne ne regarde, au bout de la galaxie. Avant la guerre, c'était beau. Des océans noirs, des récifs de corail, des plages. Mon père m'en parlait. Aujourd'hui, les océans sont morts, l'air pue le métal, et la pluie vous brûle la peau si vous restez trop longtemps dehors."*
 >
-> *Elle touche un fragment de corail noir accroché au mur.*
->
-> *"Les gens d'ici portent ça autour du cou — des morceaux de récif. Les Pierres Noires. C'est tout ce qui reste. Et parfois, dans les niveaux bas, quelqu'un chante un vieil hymne — le Chant des Marées. On le chantait quand les océans étaient vivants. Maintenant, on le chante pour les morts."*
->
 > *"La ville, c'est une tour géante de misère. En bas, les Fosses — inondées, toxiques, dangereuses. Au milieu, là où on vit, c'est supportable. En haut, les chefs de syndicats se la coulent douce dans des bureaux volés. Les syndicats contrôlent tout : le racket, les drogues, les ports. Et au-dessus de tout ça — littéralement, en orbite — il y a l'Amiral."*
 >
 > *"Personne sait son nom complet. Tout le monde l'appelle 'l'Amiral.' Elle a des stormtroopers, un Destroyer, et un deal avec les syndicats : ils font régner l'ordre en bas, elle les laisse tranquilles. Et les gens qui peuvent pas payer ? Ils sont 'recrutés' pour aller travailler dans les mines, sur une lune qui s'appelle Arrakha."*
