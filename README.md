@@ -160,6 +160,18 @@ Avant les bombardements, Murkhana était un monde de beauté — océans noirs, 
 
 - **Les Pierres Noires** — Des fragments polis de l'ancien récif corallien de Murkhana, noircis par les pluies acides et le temps. Les Murkhanais les portent en bijou, en pendentif, ou les gardent simplement en poche. C'est un signe de reconnaissance silencieux — montrer sa Pierre Noire à un étranger, c'est dire "je suis des vôtres, je me souviens de ce qu'on a perdu". Les mineurs d'Arrakha emportent leurs Pierres Noires avec eux. C'est souvent la seule chose qu'ils possèdent encore de Murkhana. **Pour la campagne :** Les joueurs verront les Pierres Noires partout — au cou des habitants, sur les comptoirs des cantinas, dans les mains des mourants. C'est un détail visuel récurrent qui ancre l'identité murkhanaise.
 
+  **Mécanique narrative — Don d'une Pierre Noire :** Quand un Murkhanais donne sa Pierre Noire à un joueur, c'est un événement. Le MJ le note. Pas de chiffre — juste un indicateur narratif de confiance :
+  - **1 Pierre :** Le peuple vous considère comme "pas un ennemi." Les gens répondent sans méfiance.
+  - **2-3 Pierres :** Vous êtes "des amis de Murkhana." Les cellules vous contactent. Les commerçants font des prix. Les gangs vous laissent tranquilles.
+  - **4+ Pierres :** Vous êtes "des nôtres." Le Chant des Marées est chanté *pour vous*. C'est le plus grand honneur.
+  - **Un droïde qui reçoit une Pierre Noire :** Un Murkhanais qui traite un droïde comme un membre du peuple. Le droïde ne peut pas se souvenir de la mer — mais il peut porter le souvenir de ceux qui s'en souviennent.
+
+  **Moments de don possibles :** Session 3 (commerçant après le repas), Session 4 (mineur sauvé), Session 9 (enfant lors de l'évacuation du Terrier).
+
+- **L'écologie morte** — Les océans de Murkhana sont morts. L'air est toxique. Les pluies sont acides. Personne n'en parle au quotidien — c'est la normalité depuis près de trente ans. Mais c'est le rêve de fond de la campagne : l'idée qu'un jour, si Murkhana est libre et que les mines cessent de pomper, la planète pourrait guérir. Pas demain — dans des générations. C'est l'utopie au-delà de la politique.
+
+  **Fil à tisser :** Session 3 — un Murkhanais raconte que les récifs *chantaient* quand la marée montait. *"C'est de là que vient le Chant des Marées. On chantait avec l'océan."* Session 6 — si un joueur demande à Hashk ce qu'il veut vraiment : *"...Les océans. Je veux que les océans reviennent. Pas dans ma vie — mais dans la vie de quelqu'un."* Route Peuple — l'écologie devient un argument politique. Mara Crypt : *"Si on se bat pour Murkhana, on se bat pour quoi — le droit de polluer nous-mêmes ?"*
+
 **Rôle dans la campagne :**
 - Base arrière du séparatiste Muun Hashk Ellor
 - Siège du Consortium d'Edna
@@ -334,6 +346,14 @@ Les joueurs poseront des questions directes à Edna dès les premières sessions
 - **Référence :** *Basch fon Ronsenburg* (Final Fantasy XII) — soldat loyal et bourru, faussement accusé de trahison, qui se bat jusqu'au bout. Le prénom "Basch" évoque aussi *bash*, le shell Unix.
 
 **Description :** Ancien chasseur de primes d'élite, il a perdu un bras lors d'un contrat qui a mal tourné (remplacé par une prothèse cybernétique sommaire). Il est bourru, direct, et secrètement loyal à Edna au point de mourir pour elle. C'est lui qui a reçu le contrat du Protectorat via un intermédiaire, et c'est lui qui le confie aux joueurs.
+
+**Le secret de Basch :** Avant de rejoindre Edna, Basch a pris des contrats du Protectorat — dont un qu'il regrette. Il y a six ans, il a livré un résistant murkhanais à la garnison d'Arrakha. Le résistant est mort dans les Puits Rouges. Basch ne connaissait même pas son nom. C'est pour ça qu'il est si loyal à Edna — elle l'a racheté, au sens moral. Et c'est pour ça que Vektor le connaît.
+
+**Arc :**
+- **Acte 1 :** Basch est un mur. Professionnel, bourru, fiable. Rien ne filtre.
+- **Acte 2 (session 15) :** Quand Vektor visite le Nid, Basch est tendu. Un joueur attentif (Perception Difficile 🟣🟣🟣) remarque un échange de regards entre Basch et Vektor. Vektor en partant : *"Kull. Toujours debout. L'Amiral se souvient de toi — elle te trouvait efficace."*
+- **Acte 3 :** Si les joueurs choisissent un camp anti-Hopner, Basch avoue : *"J'ai livré un homme au Protectorat. Il y a six ans. Il est mort dans les Puits Rouges. Je ne connaissais même pas son nom."*
+- **Acte 4 :** Basch veut aller sur Arrakha chercher le nom du résistant qu'il a livré. Trouver sa famille. S'excuser. C'est sa rédemption.
 
 **Rôle en jeu :** Point de contact principal des PJ avec la guilde. Il donne les missions, les briefings, et les rappelle à l'ordre si besoin.
 
@@ -643,6 +663,13 @@ Le BSS est le service de renseignement personnel de l'Amiral Hopner, calqué sur
 - *"L'ordre n'est pas un cadeau. C'est un travail. Chaque jour, je choisis entre ce qui est juste et ce qui fonctionne. Et chaque jour, je choisis ce qui fonctionne — parce que les gens qui choisissent ce qui est juste finissent morts dans un canyon d'Arrakha."*
 - *(aux joueurs, si confrontation directe)* *"Vous pensez que je suis le problème. Éliminez-moi. Regardez ce qui arrive après. Le Hutt prend le secteur en six mois. La NUS en fait une base militaire. Vos amis murkhanais se retrouvent avec un nouveau maître — un qui ne leur interdira même pas le droit de mourir dans les mines."*
 
+**Pourquoi des chasseurs de primes ?** Les joueurs demanderont pourquoi Hopner engage des mercenaires civils alors qu'elle a Vektor et le BSS. La réponse est triple :
+- **Plausible deniability.** Si le BSS traque officiellement Hashk, Hopner admet publiquement qu'un séparatiste menace son régime — un aveu de faiblesse devant ses soldats, la NUS, et la République. Des chasseurs de primes via des intermédiaires, c'est du "maintien de l'ordre privé."
+- **Vektor est occupé.** Le BSS surveille tout le secteur. Hashk n'est qu'un dossier parmi d'autres. Des mercenaires libèrent des ressources.
+- **C'est un test.** Les chasseurs de primes sont des sondes involontaires. Leurs mouvements, leurs contacts, leurs découvertes remontent à Vektor via les intermédiaires — et cartographient le réseau de Hashk mieux qu'un agent du BSS qui se fait repérer.
+
+**Réplique de Vektor (Acte 2, si les joueurs comprennent) :** *"Vous pensez que l'Amiral a besoin de vous pour trouver un Muun ? Elle sait exactement où il est. Ce qu'elle voulait savoir, c'est qui d'autre le cherche — et ce qu'il y a autour de lui. Vous étiez des capteurs, pas des chasseurs."*
+
 **Motivation :** Hopner voit Hashk comme une menace existentielle sur deux fronts. Sur Murkhana, il sape le pacte des ombres avec les syndicats — si le peuple se soulève, Hopner perd son réseau de renseignement et de contrôle indirect. Sur Arrakha, il menace le doonium qui entretient sa flotte et finance son pouvoir. C'est pour ça qu'elle veut Hashk capturé vivant — pas pour le punir, mais pour l'interroger et démanteler l'intégralité de son réseau sur les deux mondes avant qu'il ne soit trop tard.
 
 ---
@@ -759,7 +786,7 @@ Le Verdict Gris lance un **raid limité** sur Arrakha — pas un assaut total, m
 - **Session 11 :** Gekko invite les joueurs au Moria. Session sociale : sabacc, luxe, deal/chantage. Gekko révèle ce qu'il sait (Jyn Tracert, soupçons sur Nox, intérêts de Hopner sur Arrakha).
 - **Session 12 :** Linus Torv prend contact. Alternative républicaine — légitime mais frustrante. **Révélation de l'Accord d'Ossus** si les joueurs le poussent.
 - **Session 13 :** Confrontation directe avec Hopner à bord du Verdict Gris. Humanisation. Vektor se montre en personne et mentionne Nox.
-- **Session 14 :** Reth Systemd (NUS) arrive avec ses "conseillers". Premiers signes de contrôle. **L'enfant de Hopner** est découvert sur Arrakha.
+- **Session 14 :** Reth Sabo (NUS) arrive avec ses "conseillers". Premiers signes de contrôle. **L'enfant de Hopner** est découvert sur Arrakha.
 - **Session 15 :** Vektor frappe — contact arrêté, visite au Nid, dossier sur les joueurs. Consortium menacé. **Edna pose la question.** Mara Crypt entre en scène comme 5ème voix. Premiers indices Dark Troopers (rumeurs de Forge-7).
 - **Session 16 :** Compte à rebours. Alliances finalisées. Le Chant monte dans les rues. Le Verdict Gris entre dans le système Murkhana. La nuit avant le soulèvement.
 - **Session 17 :** **Le Chant des Marées éclate.** Double soulèvement. Rouillés vs Chromés dans les rues de Murkhana. Grève et assaut sur Arrakha. Point de non-retour.
@@ -1030,7 +1057,7 @@ Pour les trajets entre Murkhana, Arrakha, Forscan Prime, le Moria, et le Cron Dr
 | **Torque Venn** | Hashk | Murkhana (Forge) | Ferrailleur en chef, responsable des Rouillés | Acte 1-4 | *Torque* (mécanique) |
 | **TX-73 "Sept-Trois"** | Hashk | Murkhana (Forge) | Droïde tactique T-series, cerveau stratégique de Hashk | Acte 2-4 | *TX* (désignation canon) |
 | **Seren Awk** | Hashk | Murkhana (Fosses) | Coordinatrice des cellules, radicale impatiente | Acte 1-4 | *awk* (commande Unix) |
-| **Kael Dpkg** | Hashk | Arrakha (Terrier) | Logisticien d'Arrakha, ancien mineur conscrit | Acte 1-4 | *dpkg* (gestionnaire paquets Debian) |
+| **Kael Saul** | Hashk | Arrakha (Terrier) | Logisticien d'Arrakha, ancien mineur conscrit | Acte 1-4 | *Saul (Jaguar D. Saul, One Piece)* (gestionnaire paquets Debian) |
 | **Vrak Chmod** | Syndicat (récup.) | Murkhana (Port Gris) | Chef des dockers, récupérable | Acte 1-3 | *chmod* (permissions Unix) |
 | **Boss Iptab** | Syndicat (irrécup.) | Murkhana (Hauts) | Chef des Hauts, trafiquant, antagoniste Phase 1 | Acte 1-3 | *iptables* (pare-feu Linux) |
 | **Majordome Grep** | Gekko | Le Moria | Gestionnaire de la station, accueil et surveillance | Acte 1-4 | *grep* (recherche Unix) |
@@ -1042,7 +1069,7 @@ Pour les trajets entre Murkhana, Arrakha, Forscan Prime, le Moria, et le Cron Dr
 | **Tova Wget** | Civile | Arrakha (Puits Rouges) | Cheffe d'équipe minière, voix civile indépendante | Acte 1-4 | *wget* (téléchargement Unix) |
 | **Enfant de Hopner** | ??? | Arrakha | Révélation 2 — identité secrète | Acte 2-4 | À nommer |
 | **Mara Crypt** | Peuple | Murkhana | Leader communautaire, voix de l'autodétermination | Acte 2-4 | *crypt* (commande Unix) |
-| **Reth Systemd** | NUS | Murkhana (Acte 2+) | "Conseiller diplomatique" — agent de contrôle de la NUS | Acte 2-4 | *systemd* (gestionnaire services Linux) |
+| **Reth Sabo** | NUS | Murkhana (Acte 2+) | "Conseiller diplomatique" — agent de contrôle de la NUS | Acte 2-4 | *Sabo (One Piece)* |
 | **Kreel Voss** | Indépendant | Mobile | Chef des Serres (chasseurs rivaux) | Acte 1-2 | — |
 
 ### Fiches PNJ complémentaires
@@ -1106,12 +1133,15 @@ Le MJ peut lire ces paroles à voix haute lors de trois moments clés : la premi
 - **Personnalité :** Charismatique, directe, impatiente. Seren est celle qui va dans les Fosses, qui parle aux gens, qui recrute. Elle est plus radicale que Hashk — elle veut frapper maintenant, pas attendre le "moment optimal". Sa relation avec Hashk est tendue : elle le respecte mais le trouve trop prudent. *"Pendant que le Directeur calcule, des gens crèvent."* Si les joueurs sont trop hésitants, c'est Seren qui les confronte.
 - **Rôle dans la campagne :** Les joueurs la croisent potentiellement en session 6 quand le réseau de Hashk devient visible. Elle est le visage du soulèvement au niveau de la rue — brute, honnête, et dangereuse si poussée à bout. Si Hashk dérape dans l'Acte 3-4, Seren pourrait être celle qui le défie... ou celle qui le pousse plus loin.
 
-#### Kael Dpkg — Le logisticien d'Arrakha
+#### Kael Saul — Le logisticien d'Arrakha
 - **Espèce :** Gossam | **Âge :** ~50 ans
 - **Rôle :** Contact de Hashk sur Arrakha. Ancien mineur devenu organisateur du Terrier.
-- **Référence :** *dpkg* — gestionnaire de paquets Debian. L'homme qui gère les "paquets" (cargaisons, ressources, gens) entre Murkhana et Arrakha.
-- **Personnalité :** Patient, méthodique, épuisé. Kael a été conscrit à Arrakha il y a quinze ans. Il a vu les Gorges. Il a perdu des amis. Il ne croit plus en grand-chose — sauf en Hashk, qui est le premier à avoir tenu ses promesses. Il gère le Terrier avec une efficacité discrète : rations, armes, tours de garde, logistique. Si les joueurs arrivent sur Arrakha, c'est Kael qui les guide vers le Terrier.
-- **Rôle dans la campagne :** Les joueurs le rencontrent sur Arrakha (session 4) — c'est lui qui les guide vers les mines et qui rapporte leur comportement au réseau. C'est aussi Kael qui connaît l'emplacement des charges du Plan B — et qui, potentiellement, est le lieutenant qui craque et révèle le secret aux joueurs.
+- **Référence :** *Jaguar D. Saul (One Piece)* — le géant qui protège les innocents et leur dit "vis." Kael protège les mineurs.
+- **Personnalité :** Patient, méthodique, épuisé. Kael a été conscrit à Arrakha il y a quinze ans. Il a vu les Gorges. Il a perdu des amis. Il ne croit plus en grand-chose — sauf en Hashk, qui est le premier à avoir tenu ses promesses. Il gère le Terrier avec une efficacité discrète : rations, armes, tours de garde, logistique.
+- **Trait marquant :** Kael tient un **carnet**. Il note tout — les quotas, les heures, les noms des mineurs morts. Chaque nom. Chaque jour. Depuis trois ans. Des centaines de pages. Quand il est stressé, il récite des chiffres à voix basse — tonnes extraites, morts par galerie, pourcentages de quota. C'est sa façon de garder le contrôle.
+- **Citation :** *"Aujourd'hui, galerie 7 : trois blessés, un évacué, quota à 84%. Hier : deux blessés, zéro évacués, quota à 91%. La direction dit que 84% c'est insuffisant. Moi je dis qu'on a perdu quatre personnes en deux jours. Mais personne ne compte comme moi."*
+- **Lien avec Hashk :** Kael est le miroir de Hashk — un autre comptable, mais qui compte des vies au lieu de crédits. C'est pour ça que Hashk lui fait confiance : Kael ne ment jamais sur les chiffres.
+- **Rôle dans la campagne :** Les joueurs le rencontrent sur Arrakha (session 4). C'est aussi Kael qui connaît l'emplacement des charges du Plan B — et qui pourrait craquer et révéler le secret aux joueurs.
 
 ### Chefs de syndicats de Murkhana
 
@@ -1182,13 +1212,17 @@ Hashk a assisté à l'exécution depuis une fenêtre du bâtiment administratif.
 ### La Nouvelle Union Séparatiste
 Gouvernement galactique ambitieux formé vers 5 ABY dans les territoires où le contrôle de la Nouvelle République est purement théorique. Basée sur les idéaux de la Confédération des Systèmes Indépendants — égale représentation, liberté, gouvernement décentralisé — mais sans la domination corporatiste. Principalement dans la Bordure Extérieure. En 9 ABY, c'est un acteur politique légitime qui inquiétait la chancelière Mon Mothma elle-même.
 
-#### Conseiller Reth Systemd — Le visage de la NUS
+#### Conseiller Reth Sabo — Le visage de la NUS
 - **Espèce :** Néimoidien | **Âge :** ~45 ans
 - **Rôle :** "Conseiller diplomatique" envoyé par la NUS pour accompagner le soulèvement de Hashk. En réalité, agent de contrôle.
-- **Référence :** *systemd* — le gestionnaire de services Linux, omniprésent, contrôlant tout en arrière-plan, et que beaucoup détestent précisément pour ça.
-- **Personnalité :** Poli, méthodique, d'une froideur administrative. Reth parle de "partenariat" et de "coopération" pendant qu'il prend des notes sur tout le monde. Il ne menace jamais — il "suggère". Il ne donne pas d'ordres — il "recommande fortement". Il arrive sur Murkhana en Acte 2, se présente comme un allié de Hashk, et commence immédiatement à cartographier les cellules, évaluer les leaders, et identifier les "éléments non-alignés".
-- **Citation :** *"La NUS ne vous impose rien. Nous sommes ici pour vous aider à construire votre indépendance. Il se trouve simplement que nous avons de l'expérience en la matière — et quelques suggestions sur la marche à suivre."*
-- **Rôle dans la campagne :** Apparaît en Acte 2, devient omniprésent en Acte 3. Les joueurs le trouvent d'abord utile, puis envahissant, puis menaçant. C'est à travers Reth que le thème "L'ombre de la NUS" prend un visage — et c'est lui que Mara Crypt déteste le plus.
+- **Référence :** *Sabo (One Piece)* — le révolutionnaire idéaliste qui découvre que la liberté a un prix sanglant. Reth croit en la cause mais exécute des ordres qui la trahissent.
+- **Personnalité :** Reth est un **vrai croyant qui se ment à lui-même**. Il croit sincèrement que la NUS apporte la démocratie et l'autodétermination. Mais il exécute des ordres qui contredisent ses principes — surveillance, contrôle des cellules, notation des dissidents. Il rationalise : *"C'est temporaire. Une fois le secteur stabilisé, on rendra le pouvoir au peuple."*
+- **Trait marquant :** Il prend des notes compulsives pendant les réunions. Les joueurs qui jettent un œil (Perception Moyenne) voient qu'il note non seulement les décisions, mais aussi les **noms des gens qui s'opposent aux conseillers NUS**. C'est un bureaucrate qui prépare une liste sans se l'avouer.
+- **Citations :**
+  - *"La NUS n'est pas ici pour remplacer un tyran par un autre. Nous sommes ici pour vous aider — en tant que partenaires, pas en tant que maîtres."* — Il le pense. Ses actions disent l'inverse.
+  - *(en privé, si les joueurs le confrontent)* *"Vous croyez que c'est facile ? Chaque rapport que j'envoie, je sais ce qu'ils en feront. Mais si je ne le fais pas, ils envoient quelqu'un d'autre — quelqu'un qui ne posera aucune question."*
+- **Arc (Acte 3) :** Reth doit choisir : exécuter l'ordre de la NUS de prendre le contrôle direct de Murkhana (purge des dissidents, arrestation de Mara Crypt) ou refuser et être rappelé. S'il refuse, il perd tout — carrière, sécurité, identité. S'il obéit, il devient ce qu'il prétendait combattre. Les joueurs peuvent l'influencer dans un sens ou l'autre.
+- **Rôle dans la campagne :** Apparaît en Acte 2, devient omniprésent en Acte 3. C'est à travers Reth que le thème "L'ombre de la NUS" prend un visage — et c'est lui que Mara Crypt déteste le plus.
 
 ---
 
@@ -1333,28 +1367,33 @@ Avec l'Accord d'Ossus (déjà détaillé dans les Thèmes), la campagne compte *
 
 ---
 
-### Révélation 1 : L'enfant de Hopner
+### Révélation 1 : L'enfant de Hopner — Lyn Vivi
 
-**Le secret :** L'Amiral Gracia Hopner a un enfant — un fils ou une fille (au choix du MJ) — qui vit sur Arrakha sous une fausse identité, parmi les mineurs.
+**Le secret :** L'Amiral Gracia Hopner a une fille — **Lyn Vivi**, 16 ans — qui vit sur Arrakha sous une fausse identité, parmi les mineurs.
 
-**L'histoire :** Hopner a envoyé son enfant sur Arrakha il y a une dizaine d'années, quand le monde était encore une colonie minière ordinaire sous administration impériale — avant que le système de quotas et d'endettement ne se durcisse. C'était un choix de protection : éloigner l'enfant des intrigues politiques de Forscan Prime et des dangers d'être la progéniture d'un commandant militaire. Arrakha semblait sûr — un monde isolé, sans importance stratégique. Puis le doonium a été découvert en quantité massive, Hopner a transformé la colonie en machine d'extraction, et les conditions se sont dégradées. L'enfant, qui avait grandi parmi les mineurs et s'était construit une vie, a refusé de partir. Par orgueil, par attachement au peuple qui l'avait accueilli, ou par défi silencieux envers une mère qui avait transformé son refuge en prison.
+**Qui est Lyn :** Lyn travaille comme assistante administrative à la direction minière de Torren. C'est une adolescente studieuse, silencieuse, et en colère. Elle ne porte pas le nom de Hopner publiquement — elle utilise "Vivi", le nom de son père (décédé). Elle a été envoyée sur Arrakha par sa mère il y a deux ans — officiellement pour "apprendre le terrain" dans le cadre de sa formation d'officier, officieusement parce que Hopner veut que sa fille comprenne d'où vient le doonium qui finance le Protectorat. Hopner pensait que ça forgerait le caractère de Lyn. Au lieu de ça, Lyn voit le système de l'intérieur — les quotas impossibles, les chiffres maquillés, les mineurs qui meurent sans que personne ne les compte — et elle commence à douter profondément de tout ce que sa mère représente.
 
-- **Âge :** ~25 ans
-- **Couverture :** Travaille dans les mines ou tient un petit commerce à Torren. Connu(e) et apprécié(e) des locaux.
-- **Position politique :** Sympathisant(e) du mouvement de Hashk, aide discrètement le Terrier.
-- **Relation avec Hopner :** Hopner sait exactement où est son enfant — Vektor le/la surveille à distance. Mais elle ne peut pas l'extraire sans révéler le lien, ce qui ferait de l'enfant un otage pour Hashk, Gekko, ou n'importe quelle faction. Le secret est la seule protection.
+- **Âge :** 16 ans
+- **Couverture :** Assistante administrative à la direction minière de Torren. Les mineurs la voient comme "la fille des bureaux" — jeune, polie, qui pose trop de questions.
+- **Personnalité :** Studieuse et précise comme sa mère, mais avec une empathie que Hopner a perdue. Elle lit les rapports de quotas et voit des noms, pas des chiffres. Elle est en colère — contre le système, contre sa mère, contre elle-même pour ne rien faire.
+- **Position politique :** Elle n'est dans aucun camp — mais elle aide discrètement les mineurs quand elle peut (un rapport retardé ici, un quota arrondi là). Pas par idéologie — par décence.
+- **Relation avec Hopner :** Hopner sait exactement où est Lyn — Vektor la surveille à distance. Mais elle ne peut pas l'extraire sans révéler le lien, ce qui ferait de Lyn un otage pour n'importe quelle faction. Le secret est la seule protection.
+
+*(Réf : Nefertari Vivi, One Piece — princesse infiltrée qui découvre la vérité sur les souffrances de son propre royaume.)*
+
+**Réplique de Lyn (si les joueurs la croisent en session 4) :** *"Les quotas sont impossibles. Tout le monde le sait. La direction le sait. Mais personne ne change rien parce que les chiffres remontent propres à Forscan."* — Les joueurs noteront qu'une simple assistante ne devrait pas savoir comment les rapports fonctionnent à l'échelle du secteur.
 
 **Comment les joueurs découvrent la vérité :**
-- En passant du temps sur Arrakha, les joueurs rencontrent ce PNJ naturellement. Il/elle devient un allié ou un contact récurrent.
-- Des indices subtils s'accumulent : un accent trop éduqué pour un mineur, une connaissance étrange des procédures militaires, une réaction de panique quand des officiers impériaux passent.
-- La révélation peut venir d'un espion de Hopner qui essaie de récupérer l'enfant, de Gekko qui vend l'information, ou de l'enfant lui-même/elle-même dans un moment de confiance.
+- En passant du temps sur Arrakha, les joueurs croisent Lyn naturellement — d'abord en session 4, puis à nouveau en Acte 2 (session 14).
+- Des indices subtils : un accent trop éduqué, une connaissance des procédures militaires, une panique quand des officiers du Protectorat passent.
+- La révélation (session 14) peut venir de Vektor (qui lâche l'info comme levier), de Gekko (qui vend l'information), ou de Lyn elle-même dans un moment de confiance.
 
 **Impact sur la campagne :**
-- Ça **humanise Hopner**. Elle n'est plus une stratège froide sans faille — elle est aussi une mère qui a perdu son enfant à cause de ses propres choix. Les joueurs qui voulaient l'éliminer hésitent.
-- Ça crée un **levier**. L'enfant peut être utilisé(e) comme monnaie d'échange, comme intermédiaire pour négocier avec Hopner, ou comme moyen de la déstabiliser. Mais l'utiliser ainsi a un coût moral.
-- Ça pose un **dilemme concret** : si les joueurs attaquent Arrakha avec les forces de Hopner, l'enfant est en danger. Si les joueurs défendent Arrakha contre Hopner, ils protègent son enfant — sans qu'elle le sache, ou en le sachant.
+- Ça **humanise Hopner**. Elle n'est plus une stratège froide — elle est aussi une mère dont la fille la rejette à cause de ses propres choix.
+- Ça crée un **levier** moral. Utiliser Lyn comme monnaie d'échange est possible — mais les joueurs la connaissent. Elle n'est pas abstraite.
+- En **Acte 3**, Lyn est dans la zone du Plan B. Si les charges explosent, elle meurt — et les joueurs le savent. C'est personnel.
 
-**Timing idéal :** Fin d'Acte 2 ou début d'Acte 3. Les joueurs connaissent déjà Hopner et la détestent (ou la respectent). La révélation vient compliquer un jugement qui semblait simple.
+**Timing idéal :** Rencontre en session 4 (sans révélation). Identité découverte en session 14. Enjeu maximal en Acte 3 (Plan B).
 
 ---
 
@@ -1513,7 +1552,7 @@ Elle alimente le conflit pour une raison : forcer la main de la République. Si 
 ## PISTES DE TRAVAIL — À DÉVELOPPER
 
 ### Complété
-- [x] Lieutenants de Hashk (Torque Venn, Seren Awk, Kael Dpkg)
+- [x] Lieutenants de Hashk (Torque Venn, Seren Awk, Kael Saul)
 - [x] Lieutenants de Gekko (Majordome Grep, Sly Nmap)
 - [x] Chefs de syndicats (Vrak Chmod récupérable, Boss Iptab irrécupérable)
 - [x] Contact du Réseau Racine (Meema Kern)
