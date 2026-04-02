@@ -44,29 +44,61 @@
 **Durée estimée :** 4-5h  
 **⚠️ C'est une soirée dédiée, pas une session de jeu.** Avec 6 joueurs débutants, la création prend du temps. Ne pas essayer de jouer après.
 
-### Ce qu'on fait
+### Présentation de l'univers (~30min)
 
-- **Création des PJ :** Espèce, carrière, compétences, Obligation, Motivation, équipement. Le MJ guide chaque joueur individuellement pendant que les autres lisent les livres ou discutent entre eux. Prévoir 30-45min par joueur.
-- **Liens entre PJ :** Chaque joueur crée au moins un lien avec un autre PJ.
-- **Choix du vaisseau :** Le groupe choisit collectivement son vaisseau (voir section "Le Vaisseau des Joueurs" dans le document principal).
-- **Présentation du cadre :** Le MJ résume l'époque (post-Endor, 9 ABY), le secteur Auril, et le Consortium d'Edna en 5 minutes. Pas plus — le reste viendra en jeu.
+Le MJ lit ou résume les sections suivantes aux joueurs. Ils connaissent Star Wars — il faut juste les situer.
+
+**Quand :** On est en **9 ABY** — 5 ans après la Bataille d'Endor et la mort de l'Empereur. Le contexte est celui de *The Mandalorian* (saison 1-2). L'Empire a perdu la guerre, mais il n'a pas disparu. Des dizaines de commandants impériaux refusent de se rendre et contrôlent encore des secteurs entiers de la Bordure Extérieure. La **Nouvelle République** existe mais elle est jeune, désorganisée, et incapable de projeter sa force partout. L'Outer Rim est un Far West — chaque système se débrouille.
+
+**Où :** Le **secteur Auril** — un coin reculé de la Bordure Extérieure, loin de Coruscant, loin de tout. Trois mondes comptent :
+- **Murkhana** — Votre base. Une mégalopole verticale en ruine, autrefois belle (océans noirs, récifs coralliens), bombardée pendant la Guerre des Clones, aujourd'hui contrôlée par des syndicats criminels. L'air pue le métal. L'eau est toxique. Mais les gens sont fiers — ils portent des fragments de corail noir autour du cou et chantent un hymne ancien, le Chant des Marées. C'est ici que vous vivez et travaillez.
+- **Arrakha** — La lune minière. Rouge, désertique, riche en doonium (un métal précieux). Des Murkhanais y sont envoyés par un "Programme d'Emploi" qui ressemble beaucoup à de la conscription forcée. Les conditions sont brutales.
+- **Forscan Prime** — La vitrine du régime. Propre, ordonnée, fonctionnelle. C'est là que vit l'Amiral Hopner — la femme qui tient le secteur d'une main de fer enveloppée de velours.
+
+**Qui dirige :** L'**Amiral Gracia Hopner** a refusé l'Opération Cendre (l'ordre de Palpatine de détruire les mondes impériaux) et a créé le **Protectorat d'Auril** — un état indépendant, ni impérial ni républicain. Elle recrute des non-humains dans ses troupes, investit dans les écoles, et se présente comme une protectrice. La République la tolère grâce à un traité appelé l'**Accord d'Ossus** (voir ci-dessous). C'est une antagoniste nuancée — pas un monstre, pas une héroïne.
+
+**Qui êtes-vous :** Des **chasseurs de primes** du **Consortium d'Edna** — une guilde familiale basée à Murkhana City. Edna Style (Weequay, ~60 ans) est votre patronne et votre mère de substitution. Basch Kull (Trandoshan, bras cybernétique) est votre officier de liaison. Vous prenez des contrats, vous ramenez des cibles, et vous survivez. Vous n'êtes pas des héros — mais vous pourriez le devenir.
+
+**Le ton :** Moralement ambigu, inspiré d'*Andor*, *Deep Space Nine*, et *The Expanse*. Personne n'a raison à 100%. Tout le monde a des raisons. Vos choix auront des conséquences — et la campagne a 5 fins possibles selon le camp que vous rejoindrez (ou pas).
+
+**Ce qu'il faut savoir pour la création :**
+- Toutes les espèces du livre de base sont jouables. Les espèces murkhanaises (Gossam, Koorivar, Gran, Weequay) donnent des liens naturels avec le secteur, mais un humain de Corellia ou un Twi'lek de Ryloth peut aussi avoir atterri ici.
+- **Un joueur veut jouer un droïde ?** Parfait. Murkhana est une planète où les droïdes sont partout — des B1 recyclés en gardes, des astromechs cabossés, des droïdes de protocole oubliés. Un droïde joueur aura une histoire personnelle riche dans ce cadre (liberté, conscience, esclavage mécanique).
+- Les carrières les plus naturelles pour des chasseurs de primes : Chasseur de primes (toutes spécialités), Contrebandier (Pilote, Voleur), Mercenaire, Explorateur (Éclaireur). Mais toute carrière est viable — un Technicien est précieux pour les droïdes, un Diplomate pour les négociations, un Docteur pour les mines.
+
+### Choix du vaisseau
+
+Le groupe choisit **un vaisseau collectif**. Voici 3 options adaptées à la campagne (le MJ peut en proposer d'autres) :
+
+| Vaisseau | Type | Points forts | Points faibles | Ambiance |
+|---|---|---|---|---|
+| **YT-1300** | Cargo léger | Polyvalent, blindé, tourelle dorsale. Le classique. | Lent à manœuvrer. Reconnaissable. | Faucon Millenium discount. |
+| **Firespray-31** | Patrouilleur | Rapide, bien armé, furtif. | Peu de place cargo. 4-5 passagers max. | Slave I. Chasseur de primes pur. |
+| **HWK-290** | Transport léger | Discret, rapide, bon pour l'infiltration. | Fragile. Peu d'armement. | Raven's Claw (Kyle Katarn). |
+
+**Profil par défaut (si le groupe ne choisit pas) — "Le Croc d'Edna" (YT-1300) :**
+Silhouette 4, Vitesse 3, Maniabilité -1, Blindage 4, Coque 22, Contrainte 15, Boucliers 1/1. Tourelle laser dorsale (dégâts 6, Courte, tous) + Canon laser avant (dégâts 5, Moyenne, avant).
+
+**Le vaisseau a une dette :** Le vaisseau n'est pas gratuit — il est financé par le Consortium (30% de chaque prime = remboursement). Ça donne au MJ un levier narratif : si les joueurs ne prennent pas de contrats, le vaisseau est en danger de saisie.
+
+### Obligations — Table adaptée + Guide d'exploitation
+
+| Obligation | Lien avec la campagne | Quand le MJ la déclenche |
+|---|---|---|
+| **Dette** | Envers Gekko le Hutt, Edna, ou un syndicat | Session 7 (Gekko rappelle la dette), Session 11 (Gekko exige un service) |
+| **Contrat** | Un ancien employeur qui n'a pas oublié | Session 8 (l'ancien client refait surface via Vektor) |
+| **Prime sur sa tête** | Un ennemi qui a mis une prime — ironique | Session 3-4 (un chasseur rival apparaît sur Murkhana ou Arrakha) |
+| **Famille** | Un proche sur Arrakha (mineur conscrit) | Session 4 (le joueur croise sa famille dans les mines), Session 14+ (la famille est en danger) |
+| **Passé criminel** | Un passé avec les gangs/syndicats | Session 3 (un ancien complice reconnaît le joueur), Session 16 (le syndicat se souvient) |
+| **Passé impérial** | Ancien stormtrooper/officier déserteur | Session 5 (un officier du Protectorat reconnaît le joueur), Session 13 (à bord du Verdict Gris) |
+| **Addiction** | Épice, jeu (le Moria) | Session 7 (le Moria = tentation pure), Session 11 (Gekko offre l'objet de l'addiction) |
+| **Serment** | Un serment qui entre en conflit avec les choix | Session 6 (Hashk demande quelque chose qui viole le serment), Acte 2 climax |
+
+**Comment déclencher les Obligations :** Au début de chaque session, le MJ lance un d100. Si le résultat tombe dans la tranche d'Obligation d'un joueur, cette Obligation est "active" — le MJ doit l'intégrer dans la session, même brièvement. Le joueur commence la session avec +1 Stress (la pression mentale de son passé). Avec 6 joueurs, il y a ~60% de chances qu'une Obligation soit active à chaque session.
 
 ### Ce qu'on ne fait PAS
 
 Pas de scène narrative. Pas de jeu. La Session 0 est de la préparation pure. L'introduction au Nid d'Edna se fait en Session 1.
-
-**Table d'Obligations adaptées :**
-
-| Obligation | Lien avec la campagne |
-|---|---|
-| **Dette** | Envers Gekko le Hutt, envers Edna, ou envers un syndicat de Murkhana |
-| **Contrat** | Un ancien employeur qui n'a pas oublié |
-| **Prime sur sa tête** | Un ennemi qui a mis une prime — ironique pour un chasseur de primes |
-| **Famille** | Un proche sur Arrakha (mineur murkhanais conscrit) |
-| **Passé criminel** | Un passé avec les gangs/syndicats de Murkhana City |
-| **Passé impérial** | Ancien stormtrooper/officier déserteur |
-| **Addiction** | Épice, jeu (le Moria sera une tentation) |
-| **Serment** | Un serment qui entrera en conflit avec les choix de la campagne |
 
 ---
 
