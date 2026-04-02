@@ -175,7 +175,7 @@ Infiltration ou assaut d'un **entrepôt de syndicat** dans les niveaux interméd
 Après la mission, le commerçant tient parole — il donne un rendez-vous dans les Fosses pour les informations promises. Mais avant :
 
 - **Repas communautaire :** Familles murkhanaies, ragoût dans un ancien hall de droïdes. Quelqu'un chante le Chant des Marées. C'est simple et triste.
-- **Un Murkhanais montre un holo :** Murkhana "d'avant" — les océans noirs, les récifs. *"C'était chez nous. Avant que la guerre ne prenne tout."*
+- **Un Murkhanais montre un holo :** Murkhana "d'avant" — les océans noirs, les récifs. *"C'était chez nous. Avant que la guerre ne prenne tout."* Puis, plus bas : *"Mon grand-père disait que les récifs chantaient. Quand la marée montait, le corail vibrait — une note basse, profonde. C'est de là que vient le Chant des Marées. On chantait avec l'océan."*
 - **Une Gossam qui ne chante pas :** Dans un coin, une femme Gossam d'une cinquantaine d'années mange en silence pendant que les autres chantent. Si un joueur lui demande pourquoi, elle répond sèchement : *"Chanter, ça nourrit personne. On a besoin de travail, pas de chansons."* C'est **Mara Crypt** — les joueurs ne le savent pas encore, mais ils s'en souviendront quand elle réapparaîtra en Acte 2 comme voix de l'autodétermination.
 
 **XP :** 15 XP
@@ -200,9 +200,23 @@ Via **Jyn Tracert** (contact du Consortium à Torren) et les mineurs :
 - Le Chant des Marées résonne dans les galeries
 - Visite des **Puits Rouges** : cratère géant, rampes en spirale, baraquements, chaleur
 
-**Tova Wget** — Cheffe d'équipe koorivar aux Puits Rouges. Les joueurs la croisent pendant la visite — elle gère ses mineurs avec une autorité bourrue et une efficacité silencieuse. Si les joueurs lui parlent, elle est directe et méfiante : *"Vous êtes pas des mineurs. Qu'est-ce que vous voulez ?"* Pas hostile — juste pragmatique. Les joueurs s'en souviendront quand elle réapparaîtra comme voix civile indépendante en Acte 2-3.
+**Lyn Vivi** — À la direction minière de Torren, les joueurs croisent une jeune assistante administrative (~16 ans) qui trie des datapads. Si les joueurs lui parlent, elle est polie mais réservée — et étrangement bien informée : *"Les quotas sont impossibles. Tout le monde le sait. La direction le sait. Mais personne ne change rien parce que les chiffres remontent propres à Forscan."* Les joueurs ne savent pas qui elle est — juste une ado qui travaille dans les bureaux et qui en sait trop. Elle réapparaîtra en session 14.
+
+**Tova Wget** — Cheffe d'équipe koorivar aux Puits Rouges. Les joueurs la croisent pendant la visite — elle gère ses mineurs avec une autorité bourrue et une efficacité silencieuse. Si les joueurs lui parlent, elle est directe et méfiante : *"Vous êtes pas des mineurs. Qu'est-ce que vous voulez ?"*
 
 Le vieux mineur avec sa Pierre Noire : *"Toi aussi t'es de Murkhana ? Ça fait trois ans que j'ai pas vu la brume."*
+
+### Un shift dans les Puits (~30min, optionnel mais recommandé)
+
+Jyn Tracert : *"Vous voulez comprendre Arrakha ? Prenez une pioche."*
+
+Les joueurs travaillent un shift aux Puits Rouges — extraction de doonium dans la chaleur et la poussière. C'est le **gut-punch mécanique** de la session : les joueurs ressentent le système dans leur corps, pas juste dans les mots de Hashk.
+
+- Chaque joueur fait un test d'**Athlétisme Moyenne 🟣🟣** (extraction).
+- **Succès** = quota atteint. **Échec** = quota raté — un contremaître note le nom du joueur sur un datapad. *"Galerie 4, quota insuffisant. Enregistré."*
+- Chaque joueur subit **1 Stress** (chaleur, fatigue, poussière).
+- À la fin du shift, un mineur s'effondre à côté des joueurs. Personne ne vient. Le contremaître : *"Il a encore 3 heures. Debout."*
+- Si les joueurs aident le mineur, le contremaître note ça aussi — *"Interruption de travail non autorisée."* L'aide a un coût dans ce système.
 
 ### Sauvetage (~2h)
 
@@ -241,6 +255,22 @@ Ce n'est PAS un détour arbitraire. Pendant l'enquête sur Arrakha (session 4), 
 
 Affiches de propagande. Lycée du Progrès. FSK qui patrouille les quartiers riches. Commerçant : *"Tout va bien ici. Vraiment."*
 
+### Le discours de Hopner (ambiance, ~5min)
+
+Dans une place de Kelden, un écran holographique diffuse un discours de l'Amiral. Les joueurs **voient Hopner** pour la première fois — pas une abstraction, une personne.
+
+> *Le visage de l'Amiral Hopner apparaît — une femme d'une soixantaine d'années, cheveux gris tirés en arrière, uniforme impeccable. Elle ne crie pas. Elle ne menace pas. Elle parle calmement, comme une enseignante.*
+>
+> *"Citoyens du Protectorat. Cette semaine, nos équipes médicales ont vacciné 12 000 enfants sur Forscan Prime. Notre programme agricole a augmenté les rendements de 8%. Et nos forces de sécurité ont intercepté trois cargaisons d'épice destinées à vos quartiers."*
+>
+> *Un temps.*
+>
+> *"Le secteur Auril n'est pas parfait. Mais il est en paix. Il est nourri. Il est protégé. Et tant que je serai là, il le restera."*
+>
+> *Les gens dans la rue regardent l'écran. Certains hochent la tête. D'autres détournent le regard.*
+
+**Note MJ :** C'est déstabilisant — et c'est le but. Hopner gouverne, soigne, protège. Les joueurs doivent se demander si Hashk a raison de vouloir la renverser. Après Murkhana et Arrakha, voir un régime qui *fonctionne* est la meilleure propagande possible.
+
 ### Mission concrète (~2h)
 
 Selon le prétexte d'arrivée :
@@ -278,7 +308,7 @@ Après Forscan, les joueurs ont vu les trois mondes. Ils comprennent le système
 
 Les rapports de ses agents sont clairs : ces chasseurs de primes ne sont pas comme les autres que Hopner a envoyés. Ils ont posé des questions au lieu de tirer. Ils ont aidé un mineur. Ils ont vu Forscan et Arrakha. Hashk décide que le risque vaut la peine — il les invite.
 
-Un lieutenant de Hashk (Seren Awk ou Kael Dpkg) contacte les joueurs :
+Un lieutenant de Hashk (Seren Awk ou Kael Saul) contacte les joueurs :
 > *"Vous avez vu les trois mondes. Le Directeur veut vous rencontrer."*
 
 **La rencontre :** Au Terrier (Arrakha) ou à la Tour Argente (Murkhana).
@@ -292,6 +322,22 @@ Un lieutenant de Hashk (Seren Awk ou Kael Dpkg) contacte les joueurs :
 
 **Le dilemme :**
 > *"Je ne vous demande pas de vous battre pour moi. Je vous demande de ne pas me livrer. Pas encore. Donnez-moi le temps."*
+
+**Si un joueur demande "Pourquoi vous ne partez pas ?" :**
+
+> *Hashk marque un silence. Il touche la Pierre Noire sur son bureau.*
+>
+> *"Partir ? Pour aller où ? Sur Scipio, compter les crédits d'autres Muun dans une banque froide ? J'ai passé ma vie à compter des choses pour des gens qui ne comptent personne. Et puis un jour, j'ai vu un docker au Port Gris porter sa Pierre Noire au cou de sa fille avant de monter dans un cargo pour Arrakha. Il savait qu'il ne reviendrait pas. Et il l'a fait quand même — pour qu'elle mange."*
+>
+> *"Ce docker, c'est Murkhana. Pas le bâtiment, pas les ruines — les gens. Si je pars, qui compte pour eux ?"*
+
+**Si un joueur demande "Qu'est-ce que vous voulez vraiment ?" (au-delà de la politique) :**
+
+> *Un long silence. Hashk regarde la Pierre Noire.*
+>
+> *"...Les océans. Je veux que les océans reviennent. Pas dans ma vie — mais dans la vie de quelqu'un. Si on libère Murkhana, si on arrête de pomper, si on laisse la planète respirer... en quelques générations, peut-être."*
+>
+> *Il ne le dit qu'en privé. C'est son rêve le plus intime.*
 
 **⚠️ Note MJ — Et si les joueurs essaient de capturer Hashk ?** C'est des chasseurs de primes — la tentation est réelle. Hashk n'est pas stupide : le lieu de rencontre est préparé. Le Terrier est gardé par des B1 et la milice. La Tour Argente (niv. 22) a des issues de secours que Hashk connaît par cœur. Si les joueurs tentent de le capturer, Hashk ne se bat pas — il s'enfuit par une route préparée, et les joueurs se retrouvent face à ses gardes. La prime est toujours là, mais maintenant Hashk sait qu'il ne peut pas leur faire confiance — et la suite de la campagne change de ton (le réseau de Hashk devient hostile au lieu de coopératif). Laisser les joueurs essayer — mais que les conséquences soient claires.
 
@@ -348,6 +394,14 @@ Si Gekko reçoit les joueurs (pas obligatoire en Session 7 — il peut attendre 
 > *"Alors c'est vous, les chasseurs d'Edna. On m'a dit que vous cherchiez un Muun. Intéressant. Très intéressant."*
 
 Gekko ne révèle rien de majeur — il jauge les joueurs, évalue leur intelligence, et s'amuse. Il peut offrir un petit service gratuit (une information, un contact) pour les mettre en confiance. L'offre sérieuse viendra en Acte 2.
+
+### Ce que Gekko montre (sans qu'on le demande)
+
+Si les joueurs traînent assez longtemps, Grep les emmène voir un **quartier de la station** que Gekko a "libéré" — un ancien bloc de détention reconverti en habitat pour des réfugiés. Des familles vivent là. Nourriture, eau propre, une école improvisée. Des droïdes de service s'occupent des enfants. C'est propre, fonctionnel, et sans idéologie.
+
+Gekko, s'il est présent : *"Pas de discours. Pas de Chant. Pas de Pierre Noire. Juste des gens qui mangent, qui dorment, et qui ne meurent pas. C'est ça que je vends. Vous voulez acheter ?"*
+
+**Note MJ :** Les joueurs qui choisissent la Route Hutt en Acte 2 ne sont pas cyniques — ils ont *vu* que ça marche. Le piège, c'est que "ça marche" tant que Gekko décide que ça doit marcher. Le jour où les réfugiés ne sont plus rentables, le quartier ferme.
 
 ### Sly Nmap (ambiance)
 
@@ -501,8 +555,9 @@ Quel que soit le choix, le Chant des Marées frémit — dans les Fosses ou dans
 | **Nox Erso** | Humaine | Murkhana | Agent républicain sous couverture | *Erso* |
 | **Jyn Tracert** | Humaine | Arrakha | Informatrice Consortium (+ espion Gekko) | *tracert* |
 | **Torque Venn** | Koorivar | Murkhana (Forge) | Ferrailleur en chef de Hashk | *Torque* |
+| **TX-73 "Sept-Trois"** | Droïde tactique T-series | Murkhana (Forge) | Cerveau stratégique de Hashk, immobile, cynique | *TX* (canon) |
 | **Seren Awk** | Aqualish | Murkhana (Fosses) | Coordinatrice des cellules de Hashk | *awk* |
-| **Kael Dpkg** | Gossam | Arrakha (Terrier) | Logisticien de Hashk sur Arrakha | *dpkg* |
+| **Kael Saul** | Gossam | Arrakha (Terrier) | Logisticien de Hashk sur Arrakha | *Saul (Jaguar D. Saul, One Piece)* |
 | **Vrak Chmod** | Gran | Murkhana (Port Gris) | Chef des dockers, récupérable | *chmod* |
 | **Boss Iptab** | Weequay | Murkhana (Hauts) | Chef syndicat des Hauts, antagoniste | *iptables* |
 | **Préfet Daran Null** | Humain | Arrakha | Gouverneur fantoche | */dev/null* |
