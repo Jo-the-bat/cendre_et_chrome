@@ -44,26 +44,67 @@
 **Durée estimée :** 4-5h  
 **⚠️ C'est une soirée dédiée, pas une session de jeu.** Avec 6 joueurs débutants, la création prend du temps. Ne pas essayer de jouer après.
 
-### Présentation de l'univers (~30min)
+### Présentation de l'univers — Le discours d'Edna (~15min)
 
-Le MJ lit ou résume les sections suivantes aux joueurs. Ils connaissent Star Wars — il faut juste les situer.
+Le MJ lit (ou paraphrase) le texte suivant aux joueurs. C'est Edna qui parle — elle s'adresse aux joueurs comme si c'étaient de nouvelles recrues du Consortium. Le MJ peut jouer la scène ou simplement lire. L'objectif : accrocher les joueurs, planter le décor, et leur donner assez pour créer un personnage qui a sa place ici.
 
-**Quand :** On est en **9 ABY** — 5 ans après la Bataille d'Endor et la mort de l'Empereur. Le contexte est celui de *The Mandalorian* (saison 1-2). L'Empire a perdu la guerre, mais il n'a pas disparu. Des dizaines de commandants impériaux refusent de se rendre et contrôlent encore des secteurs entiers de la Bordure Extérieure. La **Nouvelle République** existe mais elle est jeune, désorganisée, et incapable de projeter sa force partout. L'Outer Rim est un Far West — chaque système se débrouille.
+> ### 📖 LIRE À VOIX HAUTE (OU PARAPHRASER)
+>
+> *"Asseyez-vous. Mangez. On a le temps."*
+>
+> *Edna pose un bol de ragoût devant chacun de vous. Elle s'assoit en face, les coudes sur la table.*
+>
+> *"Bon. Vous êtes nouveaux, alors je vais vous expliquer comment ça marche ici. Pas longtemps — j'aime pas les discours."*
+>
+> *"Il y a cinq ans, l'Empereur est mort. La galaxie a fait la fête. Ici, rien n'a changé. On est sur Murkhana — un monde que personne ne regarde, au bout de la galaxie. Avant la guerre, c'était beau. Des océans noirs, des récifs de corail, des plages. Mon père m'en parlait. Aujourd'hui, les océans sont morts, l'air pue le métal, et la pluie vous brûle la peau si vous restez trop longtemps dehors."*
+>
+> *Elle touche un fragment de corail noir accroché au mur.*
+>
+> *"Les gens d'ici portent ça autour du cou — des morceaux de récif. Les Pierres Noires. C'est tout ce qui reste. Et parfois, dans les niveaux bas, quelqu'un chante un vieil hymne — le Chant des Marées. On le chantait quand les océans étaient vivants. Maintenant, on le chante pour les morts."*
+>
+> *"La ville, c'est une tour géante de misère. En bas, les Fosses — inondées, toxiques, dangereuses. Au milieu, là où on vit, c'est supportable. En haut, les chefs de syndicats se la coulent douce dans des bureaux volés. Les syndicats contrôlent tout : le racket, les drogues, les ports. Et au-dessus de tout ça — littéralement, en orbite — il y a l'Amiral."*
+>
+> *"Personne sait son nom complet. Tout le monde l'appelle 'l'Amiral.' Elle a des stormtroopers, un Destroyer, et un deal avec les syndicats : ils font régner l'ordre en bas, elle les laisse tranquilles. Et les gens qui peuvent pas payer ? Ils sont 'recrutés' pour aller travailler dans les mines, sur une lune qui s'appelle Arrakha."*
+>
+> *Elle marque un temps.*
+>
+> *"Personne n'en revient. Personne ne pose de questions."*
+>
+> *"Maintenant — nous. Le Consortium d'Edna. C'est moi. C'est ici. C'est ma guilde de chasseurs de primes. On prend des contrats, on ramène des cibles, et on survit. Les règles sont simples : 70% pour vous, 30% pour le Nid. On ramène ses coéquipiers vivants. Et on ne trahit pas la famille."*
+>
+> *Elle vous regarde un par un.*
+>
+> *"Vous n'êtes pas des héros. Pas encore. Vous êtes des gens qui ont besoin de manger et qui savent se battre. C'est suffisant pour commencer."*
+>
+> *"Bienvenue chez vous."*
 
-**Où :** Le **secteur Auril** — un coin reculé de la Bordure Extérieure, loin de Coruscant, loin de tout. Un secteur oublié où personne ne viendra vous chercher — et où personne ne viendra vous aider non plus.
+### Guide de création — Pour le MJ (~15min par joueur)
 
-Vous vivez sur **Murkhana** — une mégalopole verticale en ruine. Autrefois un monde magnifique (océans noirs, récifs coralliens), bombardé pendant la Guerre des Clones parce que c'était un bastion séparatiste. Aujourd'hui, les océans sont morts, l'air est toxique, et la ville est contrôlée par des syndicats criminels qui rackettent les habitants. Mais les gens sont fiers — ils portent des fragments de corail noir autour du cou (les "Pierres Noires") et chantent un hymne ancien, le Chant des Marées.
+Après le discours d'Edna, le MJ passe en mode création individuelle. Les sections suivantes sont **MJ-facing** — pas besoin de les lire aux joueurs, juste de les guider.
 
-Vous savez qu'il y a un **Amiral** qui tient le secteur depuis une base militaire sur un autre monde. Tout le monde l'appelle "l'Amiral" — elle a des stormtroopers, un Destroyer Stellaire, et un réseau de syndicats qui font le sale boulot à sa place sur Murkhana. Les gens qui ne peuvent pas payer leurs dettes sont "recrutés" pour aller travailler sur **Arrakha**, une lune minière. Personne n'en revient. Personne ne pose de questions.
+**Le contexte en 3 phrases (si un joueur demande plus de détails) :**
+- On est 5 ans après Endor, dans la Bordure Extérieure. La Nouvelle République existe mais elle est loin et faible.
+- Le secteur est tenu par une autorité militaire (l'Amiral) qui n'est ni l'Empire ni la République — c'est quelque chose entre les deux.
+- Murkhana est une ville de millions d'habitants, verticale, en ruine, pleine de droïdes recyclés et de gens qui se débrouillent.
 
-**Qui êtes-vous :** Des **chasseurs de primes** du **Consortium d'Edna** — une guilde familiale basée à Murkhana City. Edna Style (Weequay, ~60 ans) est votre patronne et votre mère de substitution. Basch Kull (Trandoshan, bras cybernétique) est votre officier de liaison. Vous prenez des contrats, vous ramenez des cibles, et vous survivez. Vous n'êtes pas des héros — pas encore.
+**Espèces :**
+- Toutes les espèces du livre de base sont jouables.
+- Les espèces locales (Gossam, Koorivar, Gran, Weequay) donnent des liens naturels avec Murkhana — un Gossam est un natif, un Koorivar a peut-être travaillé pour les syndicats.
+- Un humain de Corellia, un Twi'lek de Ryloth, ou un Rodien peut avoir atterri ici en fuyant quelque chose — la galaxie est pleine de gens qui fuient.
 
-**Le ton :** Moralement ambigu, inspiré d'*Andor*, *Deep Space Nine*, et *The Expanse*. Personne n'a raison à 100%. Tout le monde a des raisons. Vos choix auront des conséquences réelles — et la fin de l'histoire dépendra de ce que vous déciderez de faire quand les choses deviendront compliquées.
+**Droïde joueur :**
+- Murkhana est parfaite pour un PJ droïde. La ville est pleine de machines recyclées — des B1 de combat devenus gardes, des astromechs cabossés, des droïdes de protocole sans propriétaire. Un droïde libre et conscient est rare et intéressant dans ce cadre.
+- Questions à poser au joueur : Comment es-tu devenu libre ? Qui t'a réactivé ? Est-ce que tu te souviens de ta vie "d'avant" (si tu es un ancien droïde CIS) ?
 
-**Ce qu'il faut savoir pour la création :**
-- Toutes les espèces du livre de base sont jouables. Les espèces locales (Gossam, Koorivar, Gran, Weequay) donnent des liens naturels avec Murkhana, mais un humain de Corellia ou un Twi'lek de Ryloth peut aussi avoir atterri ici — la galaxie est pleine de gens qui fuient quelque chose.
-- **Un joueur veut jouer un droïde ?** Parfait. Murkhana est une planète où les droïdes sont partout — des B1 recyclés en gardes, des astromechs cabossés, des droïdes de protocole oubliés. Un droïde joueur aura une histoire personnelle riche dans ce cadre (liberté, conscience, esclavage mécanique). C'est un des thèmes de la campagne.
-- Les carrières les plus naturelles pour des chasseurs de primes : Chasseur de primes (toutes spécialités), Contrebandier (Pilote, Voleur), Mercenaire, Explorateur (Éclaireur). Mais toute carrière est viable — un Technicien est précieux pour les droïdes, un Diplomate pour les négociations, un Docteur pour quand les choses tournent mal.
+**Carrières :**
+- Chasseur de primes (toutes spécialités), Contrebandier (Pilote, Voleur), Mercenaire, Explorateur (Éclaireur) — les plus naturels.
+- Technicien — précieux pour les droïdes et le vaisseau.
+- Diplomate — utile pour les négociations (et il y en aura beaucoup).
+- Docteur — quand les choses tournent mal (et elles tourneront mal).
+
+**Liens entre PJ :**
+- Chaque joueur crée au moins un lien avec un autre PJ. Exemples : "On a fait un boulot ensemble avant le Consortium", "Il/elle m'a sauvé la vie", "On vient du même monde", "Je lui dois de l'argent."
+- Le MJ peut aussi proposer des liens avec les PNJ : "Tu connais Rezz le barman", "Tu as une dette envers un syndicat", "Tu as vu les mines d'Arrakha."
 
 ### Choix du vaisseau
 
