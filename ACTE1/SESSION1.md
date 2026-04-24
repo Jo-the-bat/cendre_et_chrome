@@ -27,13 +27,13 @@ Première scène de jeu de la campagne. Prends ton temps. L'objectif n'est pas l
 >
 > *Devant vous, une porte blindée dans un mur de duracier — un ancien hangar industriel, sans enseigne, sans décoration. Juste un sas.*
 >
-> *Le sas s'ouvre avec un sifflement pneumatique. Vous entrez. La porte extérieure se referme derrière vous. Un temps — juste assez long pour entendre votre propre respiration, rauque et sifflante. Puis la porte intérieure s'ouvre.*
+> *Le sas s'ouvre avec un sifflement pneumatique. Vous entrez. La porte extérieure se referme derrière vous. juste assez longtemps pour entendre votre propre respiration, rauque et sifflante. Puis la porte intérieure s'ouvre.*
 >
 > *L'air change. D'un coup. Comme un voile qu'on retire de vos poumons. Ce n'est pas de l'air pur — ça sent encore le vieux cuir, le métal huilé, et quelque chose d'épicé qui vient d'une porte sur la gauche. Mais c'est respirable. Votre gorge arrête de brûler. Vos yeux arrêtent de pleurer.*
 >
 > *Vous entrez dans une salle commune. Au centre, une table ronde avec des chaises. Un Trandoshan massif est assis là — un bras cybernétique qui grince à chaque mouvement — et compte des crédits en piles nettes sur la table. Il lève les yeux une seconde quand vous entrez, puis retourne à ses piles sans un mot. Contre le mur opposé, un projecteur holographique affiche la silhouette d'un vaisseau qui tourne lentement dans un halo bleu. Sur la gauche, une porte entrouverte donne sur ce qui sent le ragoût — une cuisine. Les murs sont couverts de marques, de graffitis en aurebesh, et de pièces de droïdes recyclées en décoration.*
 >
-> *Sur la droite, une ouverture donne sur une pièce plus petite — une salle de repos. Trois couchettes alignées contre le mur du fond, spartiates, faites au carré. Un coffre ouvert au pied de l'une d'elles, rempli d'effets personnels. Au fond de cette pièce, une autre porte — fermée, avec un cadenas magnétique.*
+> *Sur la droite, une ouverture donne sur une autre pièce — une salle de repos. Trois couchettes alignées contre le mur du fond, spartiates, faites au carré. Un coffre ouvert dans le coin de la pièce, rempli d'effets personnels. Au fond vous pouvez dinstinguer, une autre porte — fermée, avec un cadenas magnétique.*
 >
 > *Contre le mur de la salle commune, un chasseur est assis sur une chaise, les yeux fermés. Un blaster démonté sur ses genoux — il le nettoie sans regarder, les gestes automatiques. De temps en temps, il tousse — une toux sèche, courte, qu'il ravale sans ouvrir les yeux. Entre deux quintes, il fredonne.*
 >
@@ -221,7 +221,7 @@ En traversant les Fosses pour atteindre Le Fond du Trou, les joueurs passent dev
 
 À l'intérieur :
 
-> *Sombre, enfumé, bondé. Un bar en duracier au fond, tenu par un Bith au regard fatigué. Des boxes longent les murs. À gauche, une porte gardée par un Weequay costaud. Dans un coin, un vieux Murkhanais touche distraitement un fragment de roche noire accroché à son cou.*
+> *Sombre, enfumé, bondé. Un bar en duracier, tenu par un Bith au regard fatigué. À gauche, une porte gardée par un Weequay costaud. Dans un coin, un vieux Murkhanais touche distraitement un fragment de roche noire accroché à son cou.*
 
 > ### 💡 CONSEIL MJ
 >
@@ -303,7 +303,7 @@ En traversant les Fosses pour atteindre Le Fond du Trou, les joueurs passent dev
 
 **Entrée porte principale :**
 
-> *Entrepôt reconverti. Caisses, table de jeu, fumée d'épice. Quatre individus. Au fond, dos au mur : un Nikto à la peau rouge écarlate. Vekk Draal. Blaster lourd sur la table.*
+> *Entrepôt reconverti. Caisses, table de jeu, fumée d'épice. Quatre individus à la table. Un Nikto à la peau rouge écarlate. Vekk Draal. Blaster lourd sur la table.*
 >
 > *"Vous êtes pas des clients. Qui vous envoie ?"*
 
@@ -517,7 +517,7 @@ Si personne ne verrouille les clamps et que Vekk atteint le cockpit :
 >
 > *Un holoprojecteur s'active. L'image d'un Muun — grand, mince, impassible.*
 >
-> *"Hashk Ellor. Muun. Ancien de l'Alliance Corporative, du temps de la Guerre des Clones. Un client anonyme le veut vivant. 50 000 crédits."*
+> *"Hashk Ellor. Muun. Ancien de l'Alliance Corporative, du temps de la Guerre des Clones. Un client anonyme le veut vivant. 100 000 crédits."*
 >
 > *Silence.*
 >
