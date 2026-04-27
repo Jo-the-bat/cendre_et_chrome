@@ -753,7 +753,7 @@ Les joueurs pourront, au fil de la campagne, choisir de s'allier à l'un de ces 
 
 #### Déroulement
 
-**Arc principal :** Edna et Basch confient aux joueurs la traque de Hashk Ellor, un Muun recherché par un client anonyme. La prime est de 50 000 crédits — trop généreuse. Edna le remarque et met en garde les joueurs. Ce que personne ne sait, c'est que Hashk est au courant de la prime et a un protocole standard : son réseau observe quiconque le cherche, rapporte, et Hashk décide de se montrer — ou de disparaître — en fonction de ce qu'il apprend. Les joueurs ne sont pas spéciaux. Pas encore. Edna, de son côté, est plus ou moins au courant de ce qui se trame — elle soutient les joueurs, fournit des missions secondaires quand la table n'est pas complète, et les suit dans leurs démarches.
+**Arc principal :** Edna et Basch confient aux joueurs la traque de Hashk Ellor, un Muun recherché par un client anonyme. La prime est de 100 000 crédits — trop généreuse. Edna le remarque et met en garde les joueurs. Ce que personne ne sait, c'est que Hashk est au courant de la prime et a un protocole standard : son réseau observe quiconque le cherche, rapporte, et Hashk décide de se montrer — ou de disparaître — en fonction de ce qu'il apprend. Les joueurs ne sont pas spéciaux. Pas encore. Edna, de son côté, est plus ou moins au courant de ce qui se trame — elle soutient les joueurs, fournit des missions secondaires quand la table n'est pas complète, et les suit dans leurs démarches.
 
 #### Éléments clés
 *(Détail session par session dans ACTE1_README.md)*
@@ -1351,16 +1351,88 @@ L'Accord d'Ossus est le socle géopolitique du statu quo — et sa révélation 
 
 Le fil rouge : **Il n'y a pas de camp innocent.** Même la République a du sang sur les mains — pas par malveillance, mais par calcul. C'est le genre de vérité qui transforme des chasseurs de primes en acteurs politiques.
 
-### 7. Tableau des thèmes par acte
+### 8. Le miroir — Les échos du réel
 
-| Thème | Acte 1 | Acte 2 | Acte 3 | Acte 4 |
-|---|---|---|---|---|
-| **Le libérateur qui dérape** | Hashk est idéaliste | Premiers signes de dureté | Décisions moralement grises | Autocrate ou héros ? |
-| **L'ombre de la NUS** | Invisible | Premiers "conseillers" | Infiltration des institutions | Révélation de l'agenda caché |
-| **Le prix du sang** | Premiers sacrifices (PNJ blessés/tués) | Les conséquences s'alourdissent | Les PNJ aimés souffrent | Le bilan — qui a survécu ? |
-| **Le maître du chaos** | Gekko semble inoffensif | Gekko est partout | Gekko révèle ses cartes | Gekko tente de survivre |
-| **L'après-libération** | Invisible | Graines plantées | Les fractures apparaissent | Explosion — les joueurs arbitrent |
-| **L'Accord d'Ossus** | Invisible | Révélation — choc moral | Arme politique pour tous les camps | Rompre l'accord ? À quel prix ? |
+*Inspiration : Le discours de Nemik (Andor), la fenêtre d'Overton, la fatigue démocratique*
+
+Ces thèmes ne sont jamais nommés explicitement. Comme dans Andor, le parallèle avec la réalité fonctionne parce que les personnages parlent de **leur** monde — les joueurs font la connexion eux-mêmes. Quatre fils traversent la campagne :
+
+#### A. La fatigue comme outil de contrôle
+
+On ne mate pas une population par la force — on l'épuise. L'air toxique de Murkhana est la métaphore : il vous attaque lentement, vous affaiblit sans que vous le remarquiez, jusqu'à ce que la toux devienne normale.
+
+**Porteur : Mara Crypt** — Session 14-15, Route Peuple.
+
+> *"Ils n'ont pas besoin de nous enfermer. Ils n'ont pas besoin de nous battre. Ils ont juste besoin qu'on soit fatigués. Fatigués de l'air qu'on respire. Fatigués de compter ses crédits. Fatigués de regarder les cargos décoller vers Arrakha en se disant que ça changera rien. La fatigue, c'est leur meilleure arme. Parce qu'un peuple fatigué ne se révolte pas — il s'adapte. Et quand on s'adapte assez longtemps, on oublie qu'on avait le choix."*
+
+**Progression :** S2-3 les joueurs sentent la fatigue (le docker hausse les épaules). S6-8 Mara la nomme. S18+ les joueurs doivent décider s'ils réveillent un peuple fatigué ou s'ils le laissent dormir.
+
+#### B. La normalisation de l'inacceptable
+
+Le Programme d'Emploi n'a pas commencé par la conscription. Ça a commencé par "un programme temporaire d'emploi volontaire." Puis les quotas. Puis les amendes. Puis les gardes. À chaque étape, les gens se disent "c'est pas si grave." Et un jour, des enfants montent dans les cargos et personne ne regarde.
+
+**Porteur : Kael Saul** — Session 7-8, quand les joueurs le rencontrent.
+
+> *"Tu sais ce qui est le plus dur à documenter ? C'est pas les morts. Les morts, c'est un chiffre — je le note, je passe au suivant. Le plus dur, c'est de noter le moment exact où quelque chose est devenu normal. Quand est-ce que le premier convoi est parti ? Personne se souvient. Quand est-ce qu'on a arrêté de poser des questions ? Personne se souvient non plus. C'est ça le vrai pouvoir — pas la force, pas la peur. C'est l'oubli du moment où on a cessé de trouver ça anormal."*
+
+**Progression :** S2 les joueurs voient le Convoi (normalisation en action). S7-8 Kael verbalise le glissement. S13 Hopner montre un hologramme de Murkhana d'avant les bombardements — pour la première fois, les joueurs voient ce qu'on a normalisé.
+
+#### C. Le faux choix entre l'ordre et le chaos
+
+Le discours sécuritaire pose un faux dilemme : soit vous acceptez l'autorité (même abusive), soit c'est le chaos. Ça efface la troisième option — des institutions justes, un pouvoir partagé, une alternative construite collectivement.
+
+**Porteur : Hashk Ellor** — Session 6, première vraie rencontre.
+
+> *"L'Amiral vous dira qu'il maintient l'ordre. C'est vrai. Il maintient l'ordre dans lequel les gens meurent dans les mines et les syndicats se partagent les restes. L'ordre, c'est pas la paix — c'est l'absence de résistance. Quand quelqu'un vous dit que le seul choix, c'est entre lui et le chaos, c'est qu'il a peur que vous trouviez une troisième option."*
+
+**Progression :** S2-5 les joueurs voient Hopner comme "celle qui maintient l'ordre." S6 Hashk plante le doute. S10-12 les joueurs voient les limites de chaque camp. S18+ ils construisent (ou détruisent) la troisième option.
+
+**Ironie tragique :** Si les joueurs ne le tempèrent pas, Hashk lui-même finit par poser le même faux dilemme — "moi ou le chaos" (thème 1, le libérateur qui dérape). Le discours de Hashk en S6 résonne différemment quand c'est lui qui écrase la dissidence en S22.
+
+#### D. La complicité des modérés
+
+Le thème le plus intime — parce que c'est la position des joueurs. Ils sont des chasseurs de primes. Ils font leur travail. Ils ne font pas de politique. Mais chaque contrat les place dans un système. Le contrat Hashk est le point de bascule.
+
+**Porteur : Edna Style** — Session 9-10, quand la tension monte.
+
+> *"J'ai passé ma vie à dire que je faisais pas de politique. Que le Consortium, c'est du business. On prend les contrats, on pose pas de questions, on ramène les gens. Propre."*
+>
+> *Elle touche sa cicatrice.*
+>
+> *"Mais y'a un moment où 'poser pas de questions', ça veut dire 'accepter les réponses de quelqu'un d'autre'. Et les réponses de quelqu'un d'autre, c'est des gamins dans des cargos et un comptable qui rachète les dettes des pauvres avec un prix sur sa tête."*
+
+**Progression :** S1-3 les joueurs font leur travail sans questions. S4-6 les questions s'imposent. S9-10 Edna verbalise le dilemme. S18+ les joueurs ne peuvent plus être neutres — l'inaction est un choix.
+
+#### Tableau de progression — Les échos du réel
+
+| Session | Thème actif | Moment | Porteur |
+|---|---|---|---|
+| S2-3 | Normalisation | Le Convoi — les joueurs voient sans comprendre | Décor (docker qui hausse les épaules) |
+| S4-5 | Fatigue | Arrakha — les mineurs sont épuisés, pas révoltés | Ambiance (toux, résignation) |
+| S6 | Faux choix | *"L'ordre, c'est pas la paix"* | **Hashk** |
+| S7-8 | Normalisation | *"Le plus dur, c'est de noter le moment exact..."* | **Kael Saul** |
+| S9-10 | Complicité | *"Poser pas de questions, c'est accepter les réponses d'un autre"* | **Edna** |
+| S13 | Normalisation | Hologramme de Murkhana d'avant — le choc visuel | **Hopner** (involontairement) |
+| S14-15 | Fatigue | *"La fatigue, c'est leur meilleure arme"* | **Mara Crypt** |
+| S18-23 | Tous | Les joueurs choisissent — ils ne peuvent plus être spectateurs | **Les joueurs** |
+
+**Principe MJ :** Ne jamais nommer le parallèle. Ne jamais dire "c'est comme en France." Les joueurs font la connexion — ou pas. Dans les deux cas, les thèmes fonctionnent comme du bon Star Wars. Le parallèle est un bonus, pas le but.
+
+### 9. Tableau récapitulatif — Tous les thèmes
+
+| # | Thème | Inspiration | Porteur principal |
+|---|---|---|---|
+| 1 | Le libérateur qui dérape | Marco Inaros / Cham Syndulla | Hashk Ellor |
+| 2 | L'ombre de la NUS | Section 31 / Cerberus | Agents NUS |
+| 3 | Le prix du sang | Andor (Bix, Maarva, Luthen) | Tous les PNJ aimés |
+| 4 | Le maître du chaos | Littlefinger / Hondo | Gekko le Hutt |
+| 5 | L'après-libération | Bajor / New Caprica | Murkhana post-conflit |
+| 6 | L'Accord d'Ossus | Politique de non-intervention | Nox / République |
+| 7 | Cendres & Chrome | — | Le titre lui-même |
+| 8a | La fatigue | Fatigue démocratique | Mara Crypt |
+| 8b | La normalisation | Fenêtre d'Overton | Kael Saul |
+| 8c | Le faux choix | Discours sécuritaire | Hashk (puis ironie : Hashk lui-même) |
+| 8d | La complicité | Neutralité = choix | Edna / les joueurs |
 
 ---
 
