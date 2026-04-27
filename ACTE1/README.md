@@ -13,18 +13,18 @@
 
 ## VUE D'ENSEMBLE — 10 SESSIONS
 
-| Session | Titre | Lieu | Objectif narratif | Rythme |
-|---|---|---|---|---|
-| 0 | Création | Hors-jeu | Fiches de PJ, vaisseau, liens. Pas de jeu narratif. | Préparation |
-| 1 | Baptême du Feu | Murkhana City | Intro au Nid + tutoriel : capturer Vekk Draal | Action |
-| 2 | La Piste du Muun | Murkhana City | Enquête Hashk. Nox, Fenn Sudo, Convoi. Le réseau observe | Enquête |
-| 3 | Les Ruelles Grises | Murkhana City | Mission entrepôt (pacte syndicats/Hopner). Ambiance Fosses | Action |
-| 4 | Le Monde de Poussière | Arrakha / Torren | Colonie, exploitation, Puits Rouges. Sauvetage mineur | Exploration |
-| 5 | Le Poing de Velours | Forscan Prime | Vitrine du Protectorat + mission concrète. Contraste moral | Exploration + Action |
-| 6 | Le Directeur | Murkhana / Arrakha | Réseau visible + rencontre Hashk. Plan, dilemme | RP + Tournant |
-| 7 | Le Moria | Station de Gekko | Session sociale : sabacc, Gekko, décadence. Respiration | Social |
-| 8 | L'Ombre du Verdict Gris | Mobile | Serres, Vektor, commanditaire, Edna réagit. Pression | Tension |
-| 9 | Le Point de Non-Retour | Murkhana + Arrakha | Climax : raid limité, choix des joueurs | Action + Climax |
+| Session | Titre | Lieu | Objectif narratif | Rythme | Thème "miroir" |
+|---|---|---|---|---|---|
+| 0 | Création | Hors-jeu | Fiches de PJ, vaisseau, liens. Pas de jeu narratif. | Préparation | — |
+| 1 | Baptême du Feu | Murkhana City | Intro au Nid + tutoriel : capturer Vekk Draal | Action | — |
+| 2 | La Piste du Muun | Murkhana City | Enquête Hashk. Nox, Fenn Sudo, Convoi. Le réseau observe | Enquête | **Normalisation** (le Convoi) |
+| 3 | Les Ruelles Grises | Murkhana City | Mission entrepôt (pacte syndicats/Hopner). Ambiance Fosses | Action | Normalisation (le pacte) |
+| 4 | Le Monde de Poussière | Arrakha / Torren | Colonie, exploitation, Puits Rouges. Sauvetage mineur | Exploration | **Fatigue** (les mineurs) |
+| 5 | Le Poing de Velours | Forscan Prime | Vitrine du Protectorat + mission concrète. Contraste moral | Exploration + Action | **Faux choix** (Hopner montre "l'ordre") |
+| 6 | Le Directeur | Murkhana / Arrakha | Réseau visible + rencontre Hashk. Plan, dilemme | RP + Tournant | **Faux choix** (Hashk : *"l'ordre, c'est pas la paix"*) |
+| 7 | Le Moria | Station de Gekko | Session sociale : sabacc, Gekko, décadence. Respiration | Social | Complicité (Gekko profite du système) |
+| 8 | L'Ombre du Verdict Gris | Mobile | Serres, Vektor, commanditaire, Edna réagit. Pression | Tension | **Normalisation** (Kael Saul : le glissement) |
+| 9 | Le Point de Non-Retour | Murkhana + Arrakha | Climax : raid limité, choix des joueurs | Action + Climax | **Complicité** (Edna : *"poser pas de questions..."*) |
 
 **Note sur le rythme :** L'alternance Action → Enquête → Action → Exploration → Exploration/Action → RP → Social → Tension → Climax est conçue pour éviter les creux. Chaque session a au minimum une scène d'action OU une scène sociale forte. Aucune session n'est purement passive.
 
@@ -189,7 +189,7 @@ Basch affiche le dossier : Vekk Draal, Nikto, chef du gang "Les Griffes Rouges",
 
 ### La Prime
 
-> **Cible :** Hashk Ellor — **Muun** — **50 000 crédits (vivant uniquement)** — Commanditaire anonyme  
+> **Cible :** Hashk Ellor — **Muun** — **100 000 crédits (vivant uniquement)** — Commanditaire anonyme  
 > **Dernière localisation :** Secteur Tour Argente, Murkhana City
 
 Edna : *"Ce genre de prime, ça attire du monde. Les Serres sont aussi sur le coup. Soyez malins."*
