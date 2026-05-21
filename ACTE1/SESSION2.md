@@ -1,17 +1,19 @@
 # SESSION 2 — "LA PISTE DU MUUN"
 
-**Durée estimée :** ~4h  
-**Joueurs :** 6  
-**Contenu :** Briefing Hashk (~15min) + enquête libre 2-3 pistes (~1h30) + confrontation les Serres (~45min) + scène du Convoi (~15min) + avertissement Koorivar (~30min) + clôture (~15min)  
-**Mécaniques introduites :** Enquête ouverte (les joueurs choisissent l'ordre), Informatique/Piratage, Connaissance (Pègre), Tromperie/Charme en contexte d'investigation, combat en terrain urbain  
-**Résumé :** Les joueurs reçoivent le contrat Hashk Ellor — 100 000 crédits, vivant uniquement, commanditaire anonyme. Ils enquêtent à travers Murkhana City, croisent les Serres (chasseurs de primes rivaux), assistent au Convoi (premier gut-punch émotionnel), et reçoivent un avertissement du réseau de Hashk. Deux PNJ récurrents majeurs apparaissent (Nox Erso, Fenn Sudo).
+**Durée estimée :** ~3h30 (4h30 si la planque est jouée)
+**Joueurs :** 6
+**Contenu :** Briefing Hashk + graine Krev (~20min) + interrogatoire Drukk optionnel (~15min) + enquête libre 2-3 pistes (~1h30) + scène du Convoi (~15min) + **expédition planque + Limier (~45min, optionnel)** + avertissement Koorivar (~30min) + clôture (~15min)
+**Mécaniques introduites :** Enquête ouverte (les joueurs choisissent l'ordre), Informatique/Piratage, Connaissance (Pègre), Tromperie/Charme en investigation. **Si planque jouée :** combat aquatique, mécanique de double traversée, noyade (Résilience OU Survie au choix).
+**Résumé :** Les joueurs reçoivent le contrat Hashk Ellor — 100 000 crédits, vivant uniquement. Avant ou pendant le briefing, le sbire Weequay capturé en S1 attire discrètement leur attention — il propose un deal contre les coordonnées d'une planque de Vekk dans les Fosses inondées. Les joueurs enquêtent, assistent au Convoi (gut-punch émotionnel), et reçoivent un avertissement du réseau de Hashk. S'ils tentent la planque, ils découvrent qu'il y a pire que les voyous dans les Fosses.
 
-**⚠️ Note MJ — Profil du groupe :** Tes joueurs sont agressifs et tactiques. Ils planifient, frappent fort, et ne s'embarrassent pas de subtilité (le Wookiee a éclaté le crâne de Gruuk sur le bar en S1). Adapte en conséquence :
+**⚠️ Note MJ — Profil du groupe :** Tes joueurs sont agressifs et tactiques. Ils planifient, frappent fort, et ne s'embarrassent pas de subtilité (Tatouf a éclaté le crâne de Gruuk sur le bar en S1, Sanji et Tatouf ont menacé Rezz). Adapte en conséquence :
 - Les PNJ sociaux (Fenn, Nox) doivent être prêts à recevoir de l'intimidation
-- Le combat avec les Serres est le morceau de viande de la session — ne le raccourcis pas
+- Rezz est méfiant après les menaces de S1 (voir ajustement en fin de fichier)
 - Le Convoi doit les prendre à contre-pied : c'est la première situation où la violence ne résout rien
 
-**⚠️ Note MJ — Pacing :** Il y a 4 pistes d'enquête. Les joueurs n'en feront que **2-3 en 4h.** C'est normal. Ne pas essayer de tout caser. Les pistes non explorées peuvent revenir en Session 3. Laisse les joueurs choisir — c'est la première session où ils ont une vraie liberté d'action.
+**⚠️ Note MJ — Pas de combat planifié :** La S2 n'a pas de combat scénarisé. Si la planque est explorée, le Limier sert de menace optionnelle. Sinon, la session est 100% enquête + RP. Si tes joueurs s'ennuient ou si tu veux relancer le rythme, tu peux improviser une rencontre (voir section "Stats de réserve" en fin de document).
+
+**⚠️ Note MJ — Pacing :** Il y a 4 pistes d'enquête. Les joueurs n'en feront que **2-3 en 3h30.** C'est normal. Ne pas essayer de tout caser. Les pistes non explorées peuvent revenir en Session 3. Laisse les joueurs choisir — c'est la première session où ils ont une vraie liberté d'action.
 
 ---
 
@@ -20,7 +22,7 @@
 - Les joueurs connaissent le Nid, Edna, et Basch (Session 1)
 - Ils ont touché leur première prime (Vekk Draal)
 - **Donne 10 XP bonus** en début de session : *"Edna a réfléchi. Votre travail sur Vekk valait plus que prévu. Considérez ça comme un bonus de bienvenue."*
-- Prépare les noms des PNJ de cette session : **Nox Erso**, **Fenn Sudo**, **Kreel Voss** (Les Serres), **Rezz** (s'il est encore amical)
+- Prépare les noms des PNJ de cette session : **Nox Erso**, **Fenn Sudo**, **Rezz** (méfiant), **Drukk** (le sbire Weequay capturé)
 - 2 joueurs ont une **Pierre Noire** → 🔵 sur les jets sociaux avec des Murkhanais
 
 ---
@@ -29,11 +31,13 @@
 
 Si l'accroche a été lue en fin de Session 1, résume rapidement. Sinon, lis-la maintenant.
 
-Le lendemain matin au Nid. Edna est assise à la table commune, un caf à la main. Ambiance calme — le Consortium commence sa journée.
+Le lendemain matin au Nid. Edna est assise à la table commune, un caf à la main. Ambiance calme — le Consortium commence sa journée. **Drukk, le sbire Weequay capturé en S1, est toujours attaché à la porte que Tatouf a arrachée — la porte est appuyée contre un mur de la salle commune, Drukk ligoté dessus comme un trophée comique.**
 
 > ### 📖 LIRE À VOIX HAUTE
 >
 > *Le tableau holographique affiche un nouveau dossier — celui du Muun. L'image tourne lentement : un visage allongé, des yeux enfoncés, une expression indéchiffrable. Le nom clignote en aurebesh : HASHK ELLOR.*
+>
+> *Dans le coin de la salle commune, attaché à la porte arrachée que Tatouf a ramenée hier, le jeune Weequay vous regarde sans rien dire. Ses poignets sont serrés dans des liens. Il a une lèvre fendue. Il essaie de ne pas avoir l'air d'écouter — mais ses oreilles bougent.*
 >
 > *Edna tapote la table.*
 >
@@ -42,10 +46,6 @@ Le lendemain matin au Nid. Edna est assise à la table commune, un caf à la mai
 > *Elle regarde chacun de vous.*
 >
 > *"Dernière localisation connue : le secteur de la Tour Argente, ici à Murkhana City. Il utilise l'alias 'Directeur Kole'. C'est tout ce qu'on a."*
->
-> *Basch intervient : "Les Serres sont aussi sur le contrat. Kreel Voss et son équipe. Des chasseurs de la Bordure Médiane. Si Kreel Voss est venu jusqu'ici pour 100 000 crédits, c'est que le contrat circule loin. Si vous les croisez, ne leur donnez rien."*
->
-> *Edna hoche la tête.*
 >
 > *"100 000 crédits, c'est trop d'argent pour un seul homme. Quand c'est trop beau..." Elle caresse sa cicatrice. "Soyez prudents. Et commencez par le bas — les gens des Fosses savent toujours plus qu'ils ne disent."*
 
@@ -57,18 +57,86 @@ Le lendemain matin au Nid. Edna est assise à la table commune, un caf à la mai
 | *"Pourquoi vivant uniquement ?"* | Basch : *"Le client veut lui parler. Ou l'interroger. Ça arrive quand la cible sait quelque chose."* |
 | *"100 000 pour un comptable ?"* | Edna : *"Exactement. Un comptable. Alors pourquoi quelqu'un paye une fortune pour un type qui faisait des additions ? C'est ça la question."* |
 | *"C'est quoi la Tour Argente ?"* | Basch : *"L'ancien QG de l'Alliance Corporative. 80 niveaux. Le haut est aux syndicats. Le milieu, c'est tout le monde. Le bas... vaut mieux avoir un guide."* |
-| *"Et les Serres ?"* | Basch : *"Kreel Voss. Humain. Chasseur de primes indépendant, quatre ou cinq gars avec lui. Compétent mais impatient. Si vous êtes malins, vous arrivez avant eux."* |
+| *"Et le Weequay là-bas ?"* | Basch : *"Le sbire que vous avez ramené. Drukk. 17 ans. Il sera livré au syndicat cet après-midi — c'est la procédure quand on capture un membre de gang. Edna négocie avec eux pour récupérer le cargo de Vekk au passage."* |
 | *"Qu'est-ce qu'Edna sait de plus ?"* | Edna hésite. *"Kole — Hashk — rachète des dettes dans les niveaux bas. Il aide des gens. Tout le monde en parle, personne ne sait pourquoi. Les niveaux bas l'aiment bien."* Elle ne développe pas. |
+
+---
+
+## LA GRAINE DRUKK — Pendant ou après le briefing
+
+**Quand :** Pendant le briefing d'Edna, ou juste après si les joueurs n'ont rien remarqué.
+
+**Test de Vigilance Facile 🟣** pour les PJ qui dirigent leur attention vers Drukk :
+
+| Résultat | Ce qui se passe |
+|---|---|
+| **Succès** | Drukk attire discrètement l'attention du PJ — un sifflement bas, un mouvement de tête. Il chuchote : *"Hé. J'ai quelque chose pour vous. Avant qu'Edna me file aux dockers."* |
+| **Échec** | Le PJ ne remarque rien. Drukk attend que quelqu'un finisse par lui parler avant son transfert. Il finira par sifler à un autre PJ plus tard. |
+
+**Si personne ne fait le jet :** Drukk siffle quand même au moment où la conversation autour de Hashk semble se conclure. Il prend le risque — il sait qu'il n'a que quelques heures avant le transfert.
+
+### L'interrogatoire — Si les PJ s'approchent de Drukk
+
+> ### 📖 LIRE À VOIX HAUTE
+>
+> *Drukk vous regarde. Il a 17 ans, peut-être 18. Il a peur — mais il essaye de ne pas le montrer.*
+>
+> *"Écoutez. Edna va me filer au syndicat de Vrak Chmod cet aprem. Vous savez ce qu'ils font aux types comme moi. Je veux pas finir dans le Port Gris avec un trou à la place de la nuque."*
+>
+> *Il déglutit.*
+>
+> *"J'ai un truc. Vekk avait une planque. Pas le cargo — une vraie planque. Dans les Fosses, niveau 3. Il y planquait du fric, des armes, du matos. Personne le sait à part moi — j'étais son cousin. Je donne les coordonnées contre ma liberté. Vous me libérez avant le transfert, je file, et vous vous payez avec ce qu'il y a là-bas."*
+
+**Ce que Drukk sait :** Les coordonnées exactes de la planque dans les Fosses (niveau 3, cabane sur une motte de terre au milieu d'une cuvette inondée). Il sait qu'il y a "du fric et du matos" — pas plus précis. **Il ne sait pas pour le Limier** — il n'y est jamais allé. Il connaît juste l'emplacement.
+
+**Avertissement potentiel :** Si le PJ qui interroge réussit un **Charme Moyenne 🟣🟣** ou si le PJ insiste pour avoir des détails sur la planque, Drukk hésite, puis ajoute : *"Vekk avait peur d'y aller. Disait qu'il y avait... quelque chose dans l'eau. Je sais pas si c'est vrai ou s'il bluffait pour décourager les visiteurs."*
+
+### Approches possibles
+
+**Charme Moyenne 🟣🟣** — Drukk est jeune, désespéré, prêt à parler :
+
+| Résultat | Ce qui se passe |
+|---|---|
+| **Succès** | Drukk donne les coordonnées + ajoute l'avertissement sur "quelque chose dans l'eau". |
+| **Succès + Avantages** | + il mentionne que la cabane a une trappe avec une boîte enterrée. |
+| **Échec** | Il donne les coordonnées mais sans détails utiles. |
+
+**Intimidation Moyenne 🟣🟣** — Drukk craque vite, mais avec des Menaces possibles :
+
+| Résultat | Ce qui se passe |
+|---|---|
+| **Succès** | Coordonnées données. Drukk tremble. |
+| **Succès + Menaces** | Drukk parle, mais Edna entend depuis la cuisine et débarque pour comprendre ce qui se passe (rupture potentielle). |
+| **Échec** | Drukk se bute. *"Tuez-moi, je m'en fous. De toute façon je suis mort."* |
+
+**Force / Coercition physique :** Si Tatouf ou Sanji menacent Drukk physiquement — Edna intervient. *"Pas chez moi. C'est ma maison."* Selon comment les PJ réagissent, ça peut créer une vraie tension avec Edna (elle a une ligne morale sur la protection de ceux sous son toit). Marquer ça pour plus tard — pas de conséquence immédiate, mais Edna observe.
+
+### La négociation avec Edna — Libérer Drukk
+
+Si les PJ veulent vraiment libérer Drukk pour récupérer les coordonnées :
+
+**Négociation Moyenne 🟣🟣** avec Edna :
+
+| Résultat | Ce qui se passe |
+|---|---|
+| **Succès** | Edna accepte. *"Vous payez sa libération. 100 crédits au syndicat pour 'rupture de contrat' sur le transfert. Et il disparaît — je veux pas le revoir."* |
+| **Succès + Avantages** | Edna baisse le prix à 50 crédits. *"Vous êtes neufs. Je vous fais un prix."* |
+| **Succès + Menaces** | Edna accepte mais elle est mécontente. *"Si ça nous retombe dessus avec le syndicat, c'est vous qui réparez."* |
+| **Échec** | Edna refuse. *"Non. Le syndicat l'attend. Je casse pas une parole donnée — même pour un sbire."* Les PJ doivent trouver autre chose (libération clandestine = vraie rupture avec Edna). |
+
+**Si les PJ libèrent Drukk clandestinement** (forcer les liens pendant qu'Edna est sortie, par exemple) : Conséquence majeure. Edna le découvre. Premier vrai conflit avec elle. Pas immédiatement fatal pour le Consortium, mais ça change durablement la relation. **À éviter sauf si le joueur le veut vraiment.**
+
+**Devenir de Drukk après libération :** Il file vers Nar Shaddaa, n'apparaîtra plus. PNJ jetable.
 
 ---
 
 ## LES 4 PISTES D'ENQUÊTE
 
-Les joueurs choisissent l'ordre. Chaque piste prend **30-45 minutes** de jeu. Les joueurs feront 2-3 pistes en une session. Présente-les comme des options naturelles, pas comme un menu :
+Les joueurs choisissent l'ordre. Chaque piste prend **30-45 minutes** de jeu. Présente-les comme des options naturelles :
 
 > *"Bon, par où vous commencez ? La Tour Argente, le Port Gris, les Fosses — ou autre chose ?"*
 
-> 💡 **Connaissant ton groupe :** Ils vont probablement foncer au Port Gris (ils l'ont déjà repéré en S1) ou à la Tour Argente. S'ils disent *"on va directement chercher Hashk"* sans plan, Edna les recadre : *"Vous ne savez même pas à quoi il ressemble en vrai. Commencez par poser des questions."*
+> 💡 **Note :** Si les joueurs ont obtenu les coordonnées de la planque de Drukk, ils peuvent aussi vouloir y aller en premier (par appât du gain). Voir la section "L'expédition à la planque" plus bas — elle peut être insérée à n'importe quel moment de la session.
 
 ---
 
@@ -80,11 +148,9 @@ Les joueurs choisissent l'ordre. Chaque piste prend **30-45 minutes** de jeu. Le
 >
 > *La Tour Argente est une spirale de métal et de verre brisé. Plus vous montez, plus l'air s'améliore — mais plus les regards se font méfiants. Les niveaux intermédiaires sont un monde entre deux : ni la misère des Fosses, ni le luxe des Hauts. Des bureaux recyclés en logements, des couloirs éclairés par des néons fatigués, et une odeur permanente de soudure.*
 
-**Trouver le bureau :** Les joueurs doivent demander, chercher, ou pirater.
-
 ### Ce que Swipping peut remarquer en montant
 
-Si un joueur (Swipping ou un autre) dit *"je regarde l'architecture"* ou *"j'observe en montant"* :
+Si un joueur dit *"je regarde l'architecture"* ou *"j'observe en montant"* :
 
 **Vigilance ou Survie (Facile 🟣) :**
 
@@ -92,8 +158,6 @@ Si un joueur (Swipping ou un autre) dit *"je regarde l'architecture"* ou *"j'obs
 |---|---|
 | **Succès** | *"Les murs changent en montant. En bas, du duracier brut — construction militaire CIS, utilitaire. Au milieu, des ajouts civils — cloisons en plastacier, câblage improvisé, des générations de gens qui ont bricolé pour vivre. En haut, le métal d'origine est poli, entretenu. Quelqu'un paye pour que ça reste propre."* |
 | **Succès + Avantages** | + *"Sur certains murs intermédiaires, tu repères des marques gravées dans le métal — des dates en aurebesh. Comme un calendrier. Quelqu'un compte les jours depuis le bombardement."* |
-
-**Note MJ :** La Tour Argente raconte l'histoire de Murkhana à travers ses murs — militaire en bas (CIS), survie au milieu (civils), pouvoir en haut (syndicats). C'est du contenu pour Swipping (Explorateur/découverte) mais tout joueur curieux peut le trouver.
 
 **Approche 1 — Demander aux locaux (Connaissance Pègre ou Charme)**
 
@@ -106,104 +170,92 @@ Si un joueur (Swipping ou un autre) dit *"je regarde l'architecture"* ou *"j'obs
 | **Succès + Menaces** | Le commerçant parle — mais un passant koorivar note la conversation. L'info remonte au réseau de Hashk. |
 | **Échec** | Personne ne parle. Les gens des niveaux intermédiaires protègent leurs propres. |
 
-> 💡 **Si le Wookiee menace un commerçant :** Intimidation Facile 🟣 (un Wookiee de 2m fait peur). Le commerçant parle, mais les gens du quartier voient. La réputation des joueurs dans la Tour Argente prend un coup — les prochains jets sociaux ici seront à +⚫.
+> 💡 **Si Tatouf menace un commerçant :** Intimidation Facile 🟣 (un Wookiee de 2m fait peur). Le commerçant parle, mais les gens du quartier voient. La réputation des joueurs dans la Tour Argente prend un coup — les prochains jets sociaux ici seront à +⚫.
 
 **Approche 2 — Chercher les registres du bâtiment (Informatique)**
 
-Un terminal d'accès au niveau 20 — vieux, mal entretenu, mais fonctionnel.
+Un terminal d'accès au niveau 20.
 
 **Difficulté : Moyenne 🟣🟣**
 
 | Résultat | Ce qui se passe |
 |---|---|
 | **Succès** | Le registre montre un bail au nom de "Kole Enterprises, niveau 22, bureau 4." Bail payé 6 mois à l'avance en liquide. |
-| **Succès + Avantages** | + Le système de surveillance du couloir du niveau 22 a été désactivé il y a 3 semaines. Quelqu'un ne veut pas être filmé. |
-| **Triomphe** | Tout ça + un log de communication chiffré qui part du bureau vers un relais dans le système Fial (le Moria de Gekko — mais les joueurs ne le savent pas encore). |
-| **Échec** | Le terminal est verrouillé. Les joueurs peuvent forcer (**Informatique Difficile 🟣🟣🟣**) ou chercher une autre approche. |
+| **Succès + Avantages** | + Le système de surveillance du couloir du niveau 22 a été désactivé il y a 3 semaines. |
+| **Triomphe** | Tout ça + un log de communication chiffré qui part du bureau vers un relais dans le système Fial (le Moria de Gekko). |
+| **Échec** | Le terminal est verrouillé. Forcer = **Informatique Difficile 🟣🟣🟣**. |
 
 ### Le bureau de Hashk (niveau 22)
 
-Si les joueurs trouvent le bureau :
-
 > ### 📖 LIRE À VOIX HAUTE
 >
-> *Bureau 4, niveau 22. La porte n'est pas verrouillée — elle a été laissée ouverte, comme si quelqu'un était parti en vitesse. L'intérieur est spartiate : un bureau en métal, une chaise, un terminal éteint. Pas de décoration, pas d'effets personnels. Mais sur le bureau, deux choses : un **datapad** dont l'écran est fissuré, et une **Pierre Noire** posée comme un presse-papier.*
+> *Bureau 4, niveau 22. La porte n'est pas verrouillée. L'intérieur est spartiate : un bureau en métal, une chaise, un terminal éteint. Pas de décoration. Mais sur le bureau, deux choses : un **datapad** dont l'écran est fissuré, et une **Pierre Noire** posée comme un presse-papier.*
 >
 > *La Pierre est plus grande que celles que vous avez vues — polie, presque luisante. Quelqu'un y tenait.*
 
-> 💡 **Connaissant ton groupe :** La Jawa va probablement essayer de voler la Pierre Noire et le datapad. Pas de jet nécessaire — c'est un bureau abandonné. Mais si elle la prend, c'est un indice de plus que Hashk est lié à la culture murkhanaise. Et ça fait une 3ème Pierre Noire dans le groupe.
-
-**Fouiller le bureau — Perception Facile 🟣 :**
+**Fouiller — Perception Facile 🟣 :**
 
 | Résultat | Ce qui se passe |
 |---|---|
-| **Succès** | Le datapad contient des fichiers **partiellement effacés** — des registres de production de l'ère CIS (droïdes de combat, pièces détachées), des listes de noms de fournisseurs murkhanais, et un calendrier avec des dates marquées d'un symbole : une vague (le Chant des Marées ?). |
-| **Succès + Avantages** | + Un tiroir caché sous le bureau contient une **carte de transit** vers Arrakha au nom de "Kole" — 7 voyages en 3 mois. Confirme les allers-retours. |
-| **Triomphe** | Tout ça + un fragment de message non effacé : *"Phase 1 avance. Les cellules sont en place. Le signal sera le Chant."* — Les joueurs ne comprennent pas encore, mais ils s'en souviendront. |
-| **Échec** | Le bureau semble vide. Le datapad est mort. La Pierre Noire est juste une pierre. |
+| **Succès** | Le datapad contient des fichiers **partiellement effacés** — registres CIS, listes de fournisseurs murkhanais, calendrier avec dates marquées d'un symbole : une vague. |
+| **Succès + Avantages** | + Un tiroir caché sous le bureau contient une **carte de transit** vers Arrakha au nom de "Kole" — 7 voyages en 3 mois. |
+| **Triomphe** | Tout ça + un fragment de message non effacé : *"Phase 1 avance. Les cellules sont en place. Le signal sera le Chant."* |
+| **Échec** | Le bureau semble vide. Le datapad est mort. |
 
-**Le datapad — Informatique Moyenne 🟣🟣 pour décrypter :**
+**Décrypter le datapad — Informatique Moyenne 🟣🟣 :**
 
 | Résultat | Ce qui se passe |
 |---|---|
-| **Succès** | Registres CIS lisibles — des inventaires d'usine Baktoid. Quelqu'un qui connaît ces machines intimement. |
-| **Succès + Avantages** | + Un contact récurrent dans les messages : quelqu'un au Port Gris, alias "Pont". C'est Vrak Chmod — les joueurs ne le savent pas. |
-| **Échec** | Le cryptage est trop avancé. Peut être retentée plus tard avec du matériel. |
+| **Succès** | Registres CIS lisibles — inventaires d'usine Baktoid. |
+| **Succès + Avantages** | + Contact récurrent dans les messages : alias "Pont" au Port Gris. (C'est Vrak Chmod — pas révélé.) |
+| **Échec** | Cryptage trop avancé. Peut être retentée plus tard. |
 
 ---
 
 ### PISTE 2 — LE PORT GRIS
 
-**Ce que les joueurs cherchent :** Des traces de voyage de Hashk/Kole.
+**Ce que les joueurs cherchent :** Des traces de voyage de Hashk/Kole. **Bonus :** le cargo de Vekk (le Crochet Rouillé) est ici, attendant la récupération par le syndicat de Vrak Chmod cet après-midi.
 
 > ### 📖 DESCRIPTION
 >
-> *Le Port Gris est le poumon de Murkhana City — un spatioport immense et chaotique, construit dans les restes d'un ancien chantier naval de l'Alliance Corporative. Des cargos de toutes tailles s'entassent sur des plateformes rouillées. L'air vibre du rugissement des moteurs et de l'odeur du carburant. Des dockers en salopettes grises déchargent des caisses sous l'œil des gardes de syndicats.*
+> *Le Port Gris est le poumon de Murkhana City. Des cargos de toutes tailles s'entassent sur des plateformes rouillées. L'air vibre du rugissement des moteurs. Des dockers en salopettes grises déchargent des caisses sous l'œil des gardes de syndicats.*
 >
 > *À l'entrée, un panneau holographique affiche les départs du jour. Parmi eux : "ARRAKHA — Programme d'Emploi Minier — Départ 14h00."*
 
-> 💡 **Ton groupe connaît le Port Gris** — ils l'ont repéré en S1. Ils se souviennent des droïdes de sécurité. Ne répète pas trop de description — *"Vous reconnaissez les lieux. Les droïdes de sécurité que vous avez croisés hier patrouillent toujours."*
+> 💡 **Le Crochet Rouillé :** Le cargo de Vekk capturé en S1 est amarré à la piste 7. Le syndicat de Vrak Chmod doit venir le récupérer cet après-midi (deal négocié par Edna). Les PJ peuvent le visiter une dernière fois s'ils veulent. La fouille de S1 a déjà rendu ses secrets — sauf si Namie cherche des compartiments cachés (Larcin Difficile 🟣🟣🟣 = trouve 200 crédits supplémentaires planqués dans la cloison du cockpit).
 
 ### Ce que Swipping peut lire dans les vaisseaux
 
-Si un joueur observe les cargos — Connaissance (Bordure Extérieure) ou Perception (Moyenne 🟣🟣) :
+**Connaissance (Bordure Extérieure) ou Perception Moyenne 🟣🟣 :**
 
 | Résultat | Ce qui se passe |
 |---|---|
-| **Succès** | *"Les cargos au Port Gris sont un cimetière volant. La moitié ont des coques CIS reconverties — des transports de droïdes transformés en cargo civil. Tu reconnais les lignes Baktoid sous la peinture. Ces vaisseaux ont bombardé cette planète il y a trente ans. Maintenant ils la nourrissent."* |
-| **Succès + Avantages** | + *"Un cargo porte des marques de clan sur la coque — des symboles peints à la main, pas des immatriculations officielles. Les Murkhanais marquent leurs vaisseaux comme des familles marquent leurs maisons."* |
-
-**Note MJ :** Pour Swipping (Explorateur/chasseur gros gibier), les vaisseaux racontent des histoires. C'est aussi un indice que l'héritage CIS est partout à Murkhana — pas juste dans les armures de B1 ou les droïdes de sécurité.
-
-**Enquêter sur les voyages de Kole :**
+| **Succès** | *"Les cargos au Port Gris sont un cimetière volant. La moitié ont des coques CIS reconverties. Tu reconnais les lignes Baktoid sous la peinture. Ces vaisseaux ont bombardé cette planète il y a trente ans. Maintenant ils la nourrissent."* |
+| **Succès + Avantages** | + *"Un cargo porte des marques de clan sur la coque — des symboles peints à la main."* |
 
 **Approche 1 — Parler aux dockers (Charme ou Corruption)**
 
-**Difficulté : Moyenne 🟣🟣** (les dockers sont contrôlés par le syndicat de Vrak Chmod — ils ne parlent pas facilement)
+**Difficulté : Moyenne 🟣🟣**
 
-> 💡 **Corruption :** Si un joueur offre des crédits (50-100), ajoute 🔵. Les dockers du Port Gris répondent mieux à l'argent qu'aux sourires.
+> 💡 **Corruption :** Si un joueur offre 50-100 crédits, +🔵.
 
 | Résultat | Ce qui se passe |
 |---|---|
-| **Succès** | Un docker : *"Kole ? Ouais, il prend le cargo vers Arrakha régulièrement. Toujours seul. Toujours discret. Dernière fois, c'était y'a deux semaines."* |
+| **Succès** | *"Kole ? Ouais, il prend le cargo vers Arrakha régulièrement. Toujours seul. Toujours discret. Dernière fois, c'était y'a deux semaines."* |
 | **Succès + Avantages** | + *"Il transporte jamais rien — pas de cargaison, pas de bagages. C'est bizarre pour un type qui fait 7 voyages en 3 mois."* |
-| **Succès + Menaces** | Le docker parle, mais un garde de syndicat l'a vu discuter avec les joueurs. Il s'approche : *"Y'a un problème ici ?"* Situation tendue. |
+| **Succès + Menaces** | Le docker parle, mais un garde de syndicat l'a vu. Il s'approche : *"Y'a un problème ici ?"* |
 | **Échec** | *"Connais pas. Pose pas de questions au Port."* |
-
-> 💡 **Si le Wookiee attrape un docker :** Intimidation Facile 🟣 mais le docker parle fort, panique, et un garde de syndicat arrive. Le groupe est identifié au Port Gris — les prochaines visites seront plus tendues. Le docker donne l'info mais sera hostile à l'avenir.
 
 **Approche 2 — Pirater le registre de vol (Informatique)**
 
-Un terminal de contrôle du trafic dans un bureau de supervision.
-
-**Difficulté : Difficile 🟣🟣🟣** (le système est protégé par le syndicat)
+**Difficulté : Difficile 🟣🟣🟣**
 
 | Résultat | Ce qui se passe |
 |---|---|
-| **Succès** | Registre complet : "Kole, D." — 7 vols vers Arrakha en 3 mois. Toujours en passager, jamais de fret déclaré. Billets payés en liquide. |
-| **Succès + Avantages** | + Un des vols a été enregistré sous un **deuxième alias** : "Venn, T." — C'est Torque Venn (ferrailleur de Hashk). Les joueurs ne le savent pas encore. |
-| **Triomphe** | Tout ça + le prochain vol de "Kole" est réservé dans **4 jours**. Si les joueurs le surveillent, ils peuvent le suivre. |
-| **Échec** | Le système bloque l'accès. Alarme silencieuse déclenchée — le syndicat saura que quelqu'un a fouillé. |
+| **Succès** | Registre complet : "Kole, D." — 7 vols vers Arrakha en 3 mois. Passager seul, jamais de fret déclaré. Billets en liquide. |
+| **Succès + Avantages** | + Un des vols enregistré sous un **deuxième alias** : "Venn, T." (Torque Venn — pas révélé). |
+| **Triomphe** | Tout + prochain vol de "Kole" réservé dans **4 jours**. |
+| **Échec** | Système bloque l'accès. Alarme silencieuse — le syndicat saura. |
 
 **C'est au Port Gris que les joueurs rencontrent Nox Erso** (voir Piste 4).
 
@@ -215,61 +267,69 @@ Un terminal de contrôle du trafic dans un bureau de supervision.
 
 > ### 📖 DESCRIPTION
 >
-> *Retour dans les Fosses. L'eau toxique monte un peu plus qu'hier — ou c'est l'impression. Les mêmes néons cassés, les mêmes passerelles qui grincent. Mais les joueurs connaissent le chemin maintenant — Le Fond du Trou est à quelques rues.*
+> *Retour dans les Fosses. L'eau toxique monte un peu plus qu'hier. Les mêmes néons cassés, les mêmes passerelles qui grincent. Mais les joueurs connaissent le chemin maintenant — Le Fond du Trou est à quelques rues.*
 
-Les joueurs qui posent des questions dans les cantinas des Fosses finissent par tomber sur **Fenn Sudo** — ou plutôt, c'est lui qui les trouve.
+### Rezz méfiant — Après les menaces de S1
+
+> ### 📖 NOTE MJ
+>
+> *Rezz a été menacé par Sanji et Tatouf en S1. Il ne l'a pas oublié. Quand les PJ entrent dans le Fond du Trou, sa réaction dépend de qui mène :*
+>
+> - **Si Sanji ou Tatouf parlent** → Rezz se fige, ses doigts se crispent sur le verre qu'il essuie. Il sert sans dire un mot. Ne croise pas leur regard. **+⚫ aux jets sociaux** sur Rezz si l'un des deux dirige l'interaction.
+> - **Si Namie, Michel ou Lolita parlent** → tendu mais civil. Il sert, répond aux questions banales. Pas de chaleur, mais pas de fermeture.
+> - **Si Swipping parle** → le seul qui ne l'a pas menacé. Rezz le scanne du regard, comprend qu'il est avec les deux brutes, reste méfiant mais ouvre légèrement. Jets sociaux **sans pénalité** si Swipping mène.
+
+**Pour donner l'indice Vektor :**
+- Sur **succès simple en Charme/Corruption** par Swipping ou un PJ "neutre", Rezz lâche l'info en cherchant à se débarrasser des PJ rapidement.
+- Si Sanji ou Tatouf tentent → **+⚫**, et même sur succès Rezz hésite, parle plus bas, dit le minimum.
+- Si les joueurs essaient de **réparer** leur première impression (excuses sincères, pourboire 50+ crédits, comportement protecteur) → Rezz se détend progressivement. Pas une amitié, mais une normalisation. **Important pour S8** (mort de Rezz).
+
+**Note MJ — Pourquoi c'est important :**
+
+La mort de Rezz en S8 est le **gut-punch émotionnel de l'Acte 1**. Plus les joueurs ont d'interactions avec lui (positives ou négatives), plus sa mort frappe. Si Rezz reste méfiant jusqu'à sa mort, c'est un **regret** narrativement riche. Si les joueurs réparent → la mort fait mal d'une autre façon. Les deux pistes sont valides. Ne force pas la réconciliation.
 
 ### Le vieux à la Pierre Noire — Retour au Fond du Trou
 
-Le vieux Murkhanais de la Session 1 est toujours là — même coin, même Pierre Noire autour du cou. Si un joueur (Swipping ou un autre) lui parle — **Charme Facile 🟣** (🔵 si Pierre Noire) :
+Le vieux Murkhanais de la Session 1 est toujours là. **Charme Facile 🟣** (🔵 si Pierre Noire) :
 
 | Résultat | Ce qui se passe |
 |---|---|
-| **Succès** | *Le vieil homme regarde le joueur un long moment. Puis : "T'es pas d'ici. Mais tu regardes. C'est bien."* Il montre sa Pierre. *"Ça vient des récifs. Avant le bombardement, y'avait un océan ici. Un vrai. Avec des récifs qui chantaient — les courants passaient à travers et ça faisait de la musique. Le Chant des Marées, c'est ça. On essaye de s'en souvenir."* |
-| **Succès + Avantages** | + *"Mon fils est né après. Il a jamais entendu l'océan. Mais il connaît le Chant."* Un silence. *"Tant qu'on chante, on oublie pas. Et tant qu'on oublie pas, ils ont pas gagné."* |
+| **Succès** | *Le vieil homme regarde le joueur un long moment. Puis : "T'es pas d'ici. Mais tu regardes. C'est bien."* Il montre sa Pierre. *"Ça vient des récifs. Avant le bombardement, y'avait un océan ici. Un vrai. Avec des récifs qui chantaient. Le Chant des Marées, c'est ça."* |
+| **Succès + Avantages** | + *"Mon fils est né après. Il a jamais entendu l'océan. Mais il connaît le Chant. Tant qu'on chante, on oublie pas. Et tant qu'on oublie pas, ils ont pas gagné."* |
 | **Échec** | Il regarde le joueur, touche sa Pierre, et retourne à son verre. Pas hostile — juste pas prêt. |
-
-**Note MJ :** C'est la première fois qu'un PNJ **explique** le lien entre les récifs, la Pierre et le Chant en une seule conversation. Ça récompense un joueur curieux pour avoir pris le temps de parler à un figurant. Si Swipping (ou un autre) a cette conversation, il comprend enfin le fil culturel de la Session 1 : la Pierre au-dessus de la porte du Nid, le chasseur qui fredonne, les graffitis musicaux, l'armure de B1 — tout est lié. Murkhana se souvient.
 
 ### Rencontre : Fenn Sudo
 
 > ### 📖 LIRE À VOIX HAUTE
 >
-> *Un Twi'lek s'assoit à votre table sans y être invité. Il a un sourire large, des lekku nerveux, et un verre qu'il ne boit pas. Il pose les coudes sur la table et vous regarde avec l'air de quelqu'un qui sait quelque chose.*
+> *Un Twi'lek s'assoit à votre table sans y être invité. Il a un sourire large, des lekku nerveux, et un verre qu'il ne boit pas.*
 >
 > *"Vous cherchez le Directeur Kole. Tout le monde le cherche en ce moment. Moi, je peux vous aider — gratuitement."*
 
-**Qui est Fenn Sudo :** Un Twi'lek d'une trentaine d'années, jovial, trop serviable. Il se présente comme un "courtier en informations" — il vend des tuyaux, des contacts, des rumeurs. En réalité, c'est un **agent de Gekko le Hutt**, chargé de surveiller Murkhana et de rapporter tout ce qui est intéressant.
-
-**Personnalité :** Amical, bavard, toujours en train de rendre service. Il pose des questions anodines en ayant l'air de ne rien faire. Il ne ment pas — il omet. Tout ce qu'il dit est vrai, mais ce qu'il ne dit pas est plus important.
+**Qui est Fenn :** Twi'lek, ~30 ans, "courtier en informations". En réalité, **agent de Gekko le Hutt**.
 
 **Ce que Fenn offre (gratuitement) :**
-- *"Kole est pas un criminel. Il fait pas de trafic, il vend pas d'épice. Il aide les gens. Il rachète des dettes, il finance des cliniques dans les niveaux bas. Les Fosses l'adorent."*
+- *"Kole est pas un criminel. Il fait pas de trafic. Il aide les gens. Il rachète des dettes, il finance des cliniques dans les niveaux bas. Les Fosses l'adorent."*
 - *"Il a des contacts sur Arrakha — des mineurs. Et ici, il a un réseau. Des ferrailleurs, des dockers, des gens ordinaires. Quelque chose de gros se prépare."*
 - Si les joueurs demandent quoi : *"Ça, je sais pas. Mais quand un Muun qui sait compter organise des gens en secret, c'est rarement pour une fête d'anniversaire."*
 
-**Ce que Fenn ne dit pas :**
-- Qu'il travaille pour Gekko.
-- Que Gekko surveille Hashk depuis des mois.
-- Que tout ce que les joueurs lui disent sera rapporté au Moria.
+**Ce que Fenn ne dit pas :** Qu'il travaille pour Gekko. Que tout ce que les joueurs lui disent sera rapporté au Moria.
 
-> 💡 **Connaissant ton groupe :**
+> 💡 **Si Tatouf le menace :** Fenn ne panique pas. Il lève les mains, sourit : *"Tout doux, gros bras. Je suis pas ton ennemi."* Si la violence monte, il lâche tout immédiatement — mais fera un rapport à Gekko : *"Le Consortium emploie des brutes. Exploitable."*
 >
-> **Si le Wookiee le menace :** Fenn ne panique pas. Il lève les mains, sourit : *"Tout doux, gros bras. Je suis pas ton ennemi. J'essaie de t'aider."* Si la violence monte, Fenn lâche tout ce qu'il sait immédiatement — il n'est pas courageux. Mais il fera un rapport détaillé à Gekko : *"Le Consortium emploie des brutes. Exploitable."*
+> **Si Namie essaie de le fouiller :** Larcin Moyenne 🟣🟣. Succès → communicateur crypté (canal Gekko) + 200 crédits.
 >
-> **Si la Jawa essaie de le fouiller :** Larcin Moyenne 🟣🟣. Succès → elle trouve un communicateur crypté (fréquence inconnue — c'est le canal de Gekko) et 200 crédits. Fenn ne réagit pas s'il ne s'en aperçoit pas, mais il le remarquera en quittant les joueurs.
->
-> **Si un PJ avec Pierre Noire lui parle :** Fenn note la Pierre. *"Ah, vous portez ça ? Les Murkhanais vont vous adorer."* Il rapportera ça aussi à Gekko.
+> **Si PJ avec Pierre Noire lui parle :** Fenn note la Pierre. *"Ah, vous portez ça ? Les Murkhanais vont vous adorer."* Rapporté à Gekko aussi.
 
-**Test de Perception Difficile 🟣🟣🟣 (optionnel) :** Si un joueur se méfie de Fenn, il peut remarquer que Fenn ne boit jamais son verre (il observe, il ne socialise pas), que ses vêtements sont trop propres pour les Fosses (il ne vit pas ici), et qu'il pose plus de questions qu'il n'en répond. Succès = le joueur sent que Fenn a un agenda. Pas assez pour savoir lequel.
+**Perception Difficile 🟣🟣🟣 (optionnel) :** Un joueur peut remarquer que Fenn ne boit jamais, que ses vêtements sont trop propres pour les Fosses, qu'il pose plus de questions qu'il n'en répond. Succès = le joueur sent l'agenda caché.
 
 ---
 
-### PISTE 4 — NOX ERSO (rencontre au Port Gris ou en cantina)
+### PISTE 4 — NOX ERSO (Port Gris ou cantina)
 
-**Comment les joueurs la rencontrent :** Naturellement, au Port Gris (si les joueurs y enquêtent sur les vols) ou dans une cantina des niveaux intermédiaires. Nox ne vient PAS les trouver — ce sont les joueurs qui tombent sur elle.
+**Comment les joueurs la rencontrent :** Naturellement, au Port Gris (Piste 2) ou dans une cantina intermédiaire. **Nox ne les cherche PAS.**
 
-**La scène :** Les joueurs ont un problème mécanique (le vaisseau, un datapad à déchiffrer, un speeder en panne) ou cherchent quelqu'un qui connaît le Port Gris.
+**La scène :** Les joueurs ont un problème mécanique ou cherchent quelqu'un qui connaît le Port Gris.
 
 > ### 📖 LIRE À VOIX HAUTE
 >
@@ -279,158 +339,330 @@ Le vieux Murkhanais de la Session 1 est toujours là — même coin, même Pierr
 >
 > *"Besoin de quelque chose ?"*
 
-**Qui est Nox Erso :** Humaine, ~40 ans. Mécanicienne itinérante travaillant pour l'atelier de Kesh. Calme, compétente, directe. Elle ne sourit pas beaucoup mais elle aide sans qu'on le demande.
+**Qui est Nox :** Humaine, ~40 ans. Mécanicienne itinérante. Calme, compétente, directe. **(En réalité : agent du Renseignement Militaire républicain.)**
 
 **Ce que Nox offre :**
-- Si les joueurs mentionnent Hashk/Kole : *"Le Directeur ? Tout le monde le connaît au Port. Il prend le cargo vers Arrakha régulièrement. Discret. Les gens l'aiment bien — il a aidé la fille de Kesh à payer une dette, je crois."*
-- Si les joueurs cherchent des informations sur Arrakha : *"Les mines ? C'est pas un secret — les gens partent et reviennent pas. Le 'Programme d'Emploi', tout le monde sait ce que c'est."*
-- Si les joueurs ont un problème technique : Elle les aide. Gratuitement. Compétemment. Sans rien demander en retour.
+- Si les joueurs mentionnent Hashk/Kole : *"Le Directeur ? Tout le monde le connaît au Port. Discret. Les gens l'aiment bien — il a aidé la fille de Kesh à payer une dette, je crois."*
+- Si les joueurs cherchent des infos sur Arrakha : *"Les mines ? C'est pas un secret — les gens partent et reviennent pas."*
+- Si problème technique : Elle aide. Gratuitement. Compétemment.
 
-**Ce que Nox ne dit pas :**
-- Sa vraie identité (agent du Renseignement Militaire républicain).
-- Qu'elle fournit des armes à Hashk.
-- Qu'elle sait exactement qui est Hashk et ce qu'il prépare.
+**Note MJ :** Nox doit sembler **normale**. Pas mystérieuse. Le red flag viendra plus tard.
 
-**Pourquoi elle aide :** Elle évalue les joueurs — comme Hashk, mais pour des raisons différentes. Si ces chasseurs de primes deviennent des variables importantes dans le secteur, Nox veut être leur amie, pas leur ennemie.
-
-**Note MJ :** Nox doit sembler **normale**. Pas mystérieuse, pas suspecte — juste une mécanicienne compétente qui connaît le Port Gris. Le red flag viendra plus tard (session 6+) quand les joueurs réaliseront qu'elle en sait toujours un peu trop. Pour l'instant, elle est juste sympathique.
-
-> 💡 **Connaissant ton groupe :** Nox est le type de PNJ que ton groupe ne va PAS menacer — elle est utile et non-menaçante. Si Michel (Tech) a besoin de décrypter le datapad de Hashk, Nox est la personne idéale pour aider. C'est leur premier contact **compétent** en dehors du Consortium.
-
-**Réponses préparées si les joueurs creusent :**
-
-| Question | Réponse de Nox |
-|---|---|
-| *"D'où tu viens ?"* | *"Corellia. Arrivée il y a trois ans. Une dette à oublier."* (Faux — papiers fabriqués.) |
-| *"Pourquoi tu nous aides ?"* | *"Je suis mécanicienne. Les pilotes parlent quand on répare leurs moteurs. Si un jour j'ai besoin d'un service, je saurai à qui demander."* |
-| *"Tu connais bien Kole ?"* | *"Pas personnellement. Mais quand un Muun voyage sept fois vers Arrakha en trois mois, les mécaniciens du Port le remarquent."* |
+> 💡 **C'est le PNJ que ton groupe ne va PAS menacer** — elle est utile et non-menaçante. Idéale pour Michel si elle veut décrypter le datapad de Hashk.
 
 ---
 
-## CONFRONTATION — LES SERRES (~45min)
+## L'EXPÉDITION À LA PLANQUE (~45min, optionnelle)
 
-**Quand :** Après que les joueurs ont fait **1-2 pistes d'enquête**. Le timing est flexible — choisis le moment où les joueurs traversent un lieu ouvert (sortie du Fond du Trou, couloir de la Tour Argente, ruelle entre deux pistes). L'idéal est **au milieu de la session** pour casser le rythme de l'enquête.
+**Quand :** À n'importe quel moment de la session une fois les coordonnées obtenues. Probablement après 1-2 pistes d'enquête (par appât du gain), ou en début de session si les PJ veulent traiter Drukk avant tout.
 
-> 💡 **Pourquoi maintenant :** Les Serres enquêtent aussi sur Hashk. Ils ont posé les mêmes questions aux mêmes gens — et ils ont entendu parler du Consortium. Kreel Voss veut éliminer la concurrence tôt.
+**⚠️ Note MJ — Cette section est entièrement optionnelle.** Si les PJ ignorent Drukk, ou refusent l'expédition, elle disparaît proprement. Pas de railroad.
 
-### L'accroche
+### Descente vers le niveau 3
 
 > ### 📖 LIRE À VOIX HAUTE
 >
-> *Trois silhouettes bloquent le passage. Au centre, un humain en armure de chasseur usée — grand, mince, un fusil blaster dans le dos. Il a le visage d'un homme qui n'a pas dormi depuis trois jours et qui s'en fiche. De chaque côté, deux Rodiens en combinaisons de vol — pistolets à la ceinture, grenades accrochées au gilet.*
+> *Le niveau 3 des Fosses est plus bas que ce que vous aviez exploré jusque-là. Les passerelles métalliques rouillées descendent en spirale jusqu'à une vaste zone inondée — une cuvette de béton fracturé envahie par des eaux toxiques d'un vert opaque, agitées de courants invisibles. L'air est plus dense, lourd de soufre et d'odeurs organiques que vos respirateurs filtrent à peine. Le goût métallique passe quand même.*
 >
-> *L'humain vous regarde. Pas de sourire.*
+> *Personne ici. Pas de mendiants, pas de gangs, pas de gosses qui jouent. Le niveau 3 est silencieux d'une manière qui n'est pas naturelle.*
 >
-> *"Le Consortium d'Edna. Je me disais bien qu'on finirait par se croiser."*
+> *Au centre de la zone inondée, à une dizaine de mètres de la passerelle, vous distinguez la cabane de Vekk : tôles boulonnées posées sur une motte de terre et de débris qui émerge de l'eau, formant une petite île au-dessus de la surface. Pas de pont — pour y accéder, il faut traverser l'eau. À cette distance, vous estimez que ça monte jusqu'aux genoux pour un humain de taille moyenne. À la taille pour Namie.*
 >
-> *Il fait un pas en avant.*
->
-> *"Kreel Voss. Les Serres. On est aussi sur le contrat Hashk. Et voilà comment ça va se passer : vous nous donnez ce que vous avez trouvé — les pistes, les noms, les lieux — et on partage la prime. 50-50. Pas besoin de se tirer dessus."*
->
-> *Il penche la tête.*
->
-> *"Ou alors vous refusez. Et là, ça va être compliqué."*
+> *Le silence pèse. Vos pas résonnent. Vous ne voyez rien d'inquiétant dans l'eau verte. Vous ne voyez rien tout court.*
 
-### Ce que les joueurs peuvent faire
+**Ambiance MJ :** Joue la descente lentement. Décris l'air qui s'épaissit, la lumière qui faiblit, le silence anormal. Tes joueurs doivent **sentir** que quelque chose ne va pas — mais ne survends pas. Laisse la curiosité (et la cupidité) faire son travail.
 
-**Option 1 — Négocier (Négociation ou Charme Difficile 🟣🟣🟣) :**
+### Le sac sur la berge
 
-Kreel n'est pas déraisonnable — juste pressé. Il accepterait un vrai partenariat si les joueurs le convainquent.
+Près du bord de l'eau, à mi-chemin entre la passerelle et la motte, **un vieux sac de toile** est posé à demi dans l'eau, à demi sur un débris émergeant — une vieille caisse de droïde rouillée qui dépasse de la surface. Le sac est sale, gonflé, attaché par une corde. À distance, on dirait qu'il contient quelque chose — forme bombée, contour irrégulier.
+
+C'est en réalité un vieux sac que Vekk laissait là — soit comme distraction pour les intrus, soit comme stockage d'outils oubliés. Il contient juste **des bouts de corde, un couteau rouillé, et deux ampoules vides**. Mais à distance, on ne peut pas le savoir.
+
+**Pour ton groupe :** Namie va probablement vouloir l'attraper. Un sac inattendu, potentiellement plein de trucs — c'est exactement ce qui attire un Jawa. Si elle hésite, un PJ peut la pousser à y aller.
+
+### La traversée — Deux options, un seul piège
+
+Pour atteindre la cabane, les joueurs doivent franchir 4-5 mètres d'eau. Le débris (caisse de droïde) émerge à mi-chemin. Présente clairement les **deux options** :
+
+> *La motte avec la cabane est à 4-5 mètres de la berge. L'eau verte est entre vous et elle — à hauteur de genoux pour un humain, à la taille pour Namie. À mi-chemin, un vieux débris de caisse de droïde émerge à demi-surface, juste là où le sac est posé. Pour traverser, vous avez deux options : sauter de point d'appui en point d'appui (berge → débris → motte), ou patauger dans l'eau à pied. Vous faites comment ?*
+
+#### Option SAUT (rapide mais risqué)
+
+**Compétence :** Athlétisme ou Coordination
+
+| Action | Difficulté |
+|---|---|
+| **Premier saut** (berge → débris, ~2m) | Facile 🟣 |
+| **Deuxième saut** (débris → motte, ~2,5m, débris instable) | Moyenne 🟣🟣 |
+| **Saut d'un coup** (les deux d'un trait, ~5m) | Difficile 🟣🟣🟣 |
 
 | Résultat | Ce qui se passe |
 |---|---|
-| **Succès** | Kreel hoche la tête : *"D'accord. On partage. Mais si vous me doublez, je vous retrouverai."* Les Serres deviennent des alliés temporaires — ils échangent des infos et disparaissent. Pas de combat. |
-| **Succès + Avantages** | + Kreel lâche une info en signe de bonne foi : *"Le Muun a des amis sur Arrakha. Des mineurs. Y'a un nom qui revient — 'Sept-Trois'. Un droïde, à ce qu'on dit."* (TX-73, le droïde tactique de Hashk.) |
-| **Échec** | Kreel secoue la tête : *"Mauvaise réponse."* Les Rodiens dégainent. Combat. |
+| **Succès** | Le PJ atterrit là où il visait, sec (ou presque). |
+| **Succès + Avantages** | Atterrissage élégant. Peut tendre la main au suivant → **+🔵 au prochain saut**. |
+| **Échec** | Le PJ tombe dans l'eau à mi-chemin. Eau à hauteur de taille pour humain, **épaules pour Namie**. 1 blessure acide immédiate. **Le Limier devient une menace directe.** |
+| **Échec + Menaces** | Son équipement glisse. **Coordination Facile 🟣** au tour suivant pour récupérer son arme avant qu'elle ne sombre, ou la perdre. |
 
-**Option 2 — Intimidation (Moyenne 🟣🟣) :**
+> 💡 **Spécifique au groupe :**
+> - **Tatouf** (Wookiee) passe les sauts facilement. Excellent guide.
+> - **Sanji** (Éclaireur) — idéal pour le saut audacieux d'un coup.
+> - **Namie** (Jawa, petite) — **+⚫** à ses jets de saut (taille).
+> - **Michel** peut bricoler un grappin/repulsorlift — **Mécanique Moyenne 🟣🟣** (manœuvre + action).
+> - **Lolita** (B1) — châssis non conçu pour les sauts, **+⚫**. Mais pas de risque de noyade.
 
-| Résultat | Ce qui se passe |
+#### Option PATAUGEAGE (lent mais contrôlé)
+
+Pas de jet pour entrer, mais :
+
+| Élément | Effet |
 |---|---|
-| **Succès** | Kreel recule d'un pas. *"On se calme. D'accord — chacun sa route. Mais ne vous mettez pas en travers."* Les Serres partent sans se battre. Pas d'info échangée. |
-| **Succès + Menaces** | Les Serres partent mais Kreel est humilié. Il reviendra en S6-8, plus préparé et plus agressif. |
-| **Échec** | Kreel sourit : *"C'est tout ?"* Les Rodiens dégainent. Combat. |
+| **Eau toxique** | 1 blessure/round, ignore Encaissement |
+| **Vitesse réduite** | 2 manœuvres pour traverser (au lieu d'1) |
+| **Vigilance** | Chaque round : **Vigilance Moyenne 🟣🟣**. Succès = repère une ondulation à 2-3 mètres. Peut prévenir/réagir |
+| **Cible privilégiée** | Le Limier attaque le PJ pataugeur le plus exposé — isolé, dos tourné, ou Namie aux épaules |
 
-> 💡 **Si le Wookiee essaye de frapper Kreel directement :** Pas de jet social — c'est un combat. Initiative immédiate. Le Wookiee a la satisfaction de frapper en premier. Kreel ne s'y attendait pas — la surprise donne 🔵 au premier jet du Wookiee.
+### Quand le Limier attaque
 
-**Option 3 — Combat (le plus probable avec ton groupe) :**
+**Règle simple :** Le Limier est un prédateur intelligent. Il attend **le moment dramatiquement optimal**. Tu choisis selon le déroulement à table. Trois déclencheurs naturels :
 
-### Mise en place du combat
+1. **Namie patauge seule** pour attraper le sac → attaque pendant qu'elle se penche
+2. **Un PJ rate son saut et tombe** → attaque immédiate sur ce PJ isolé
+3. **Le groupe patauge en formation** → attaque le PJ en queue de groupe
 
-**Terrain selon le lieu :**
+**⚠️ Le combat n'est PAS obligatoire — mais ils traversent deux fois 😈**
 
-| Lieu | Décor |
+Si les joueurs sont méticuleux, coordonnés, et que personne ne se met en position vulnérable, le Limier peut **laisser passer l'aller**. C'est un prédateur intelligent — il attend l'opportunité parfaite et préfère ne pas attaquer un groupe organisé qui regarde dans toutes les directions.
+
+**Mais ils doivent revenir.** Avec le butin (2 000 crédits + bouclier), peut-être en se sentant en sécurité (*"on est passé sans problème à l'aller"*), peut-être moins concentrés. Le Limier aura encore une chance au **retour** — et cette fois sa patience commencera à s'effriter. Voir section "Le retour" plus bas.
+
+**Récompense la prudence :** Si tes joueurs sont vraiment irréprochables, félicite-les implicitement en laissant passer. Le combat est une **conséquence des erreurs**, pas une punition imposée.
+
+### Test optionnel d'avertissement — Vigilance Difficile 🟣🟣🟣
+
+Si un PJ déclare explicitement observer l'eau avant qu'un autre PJ ne s'engage, ou si Drukk a donné l'avertissement sur "quelque chose dans l'eau" :
+
+| Résultat | Ce que le PJ remarque |
 |---|---|
-| **Ruelle des Fosses** | Étroite. Passerelles au-dessus (couverture). Flaques toxiques (si un PJ tombe : 2 blessures + Engagé avec l'eau). Caisses le long des murs. |
-| **Couloir Tour Argente** | Long et droit. Portes latérales (flanquement possible). Néons fatigués. |
-| **Sortie du Fond du Trou** | Salle ouverte devant la cantina. Tables dehors. Civils qui s'écartent. Rezz ferme la porte du bar. |
+| **Succès** | *"Quelque chose se déplace sous la surface, à 4-5 mètres du sac. Une ondulation longue. Trop longue pour un poisson normal. Tu ne le vois pas, tu vois juste qu'**il y a quelque chose**."* |
+| **Triomphe** | + *"Tu identifies la forme — un long serpent ou un mille-pattes aquatique. Ça ne bouge pas. Ça attend. Ça vous regarde sans yeux."* |
+| **Échec / Pas de test** | Le PJ ne remarque rien. La créature attaque par surprise dès que quelqu'un entre dans l'eau. |
 
-**Distances :** Moyenne entre les deux groupes au début.
+**Note MJ :** Un succès permet aux PJ de se préparer (arme dégainée, initiative avec avantage, choisir l'option saut, envoyer Tatouf en premier). Mais ça ne supprime pas l'attaque — le Limier surgira quand même au moment optimal.
 
-### Ennemis
+### LE LIMIER DES FOSSES — L'embuscade
 
-**KREEL VOSS (Rival)** — Chef des Serres. Froid, efficace. Tire de loin, ne s'engage pas en mêlée.
+> ### 📖 LIRE À VOIX HAUTE — au moment de l'attaque
+>
+> *L'eau a la consistance d'une soupe tiède. Elle pue. Tes pieds s'enfoncent dans la vase au fond.*
+>
+> *L'eau **explose** à un mètre de toi.*
+>
+> *Trois mètres de long, écailleux, six membres préhensiles couverts d'algues, des yeux blanchâtres aveugles qui pivotent vers toi, et une gueule qui s'ouvre sur des rangées de crocs en spirale. La créature jaillit hors de l'eau dans un sifflement aigu et **tend ses membres avant vers ta gorge**.*
 
-| Stat | Valeur |
+**Identité :** Limier des Fosses. Prédateur aquatique adapté aux eaux toxiques. Chasse aux vibrations et à l'odeur. Aveugle. Attaque depuis l'eau peu profonde, attrape une proie, l'entraîne vers les zones plus profondes pour la noyer et la dévorer.
+
+#### Fiche du Limier
+
+**LIMIER DES FOSSES (Nemesis)**
+
+| Caractéristique | Valeur |
 |---|---|
-| Agilité | 3 |
-| Vigueur | 3 |
-| Ruse | 3 |
-| Combat distance | 3 |
-| Blessure | 13 |
-| Stress | 12 |
-| Encaissement | 4 (armure de chasseur) |
-| Défense | 1/0 |
+| Vigueur | 5 |
+| Agilité | 4 |
+| Combat (Bagarre) | 4 |
+| Vigilance | 3 |
+| **Blessure** | 25 |
+| **Encaissement** | 4 |
+| **Défense** | 2 en eau / 0 hors eau |
 
-**Armes :**
-- Fusil blaster (8, Longue, **Crit 3**, Précis 1 → ajoute 🔵). C'est sa force — il tire de loin.
-- Pistolet blaster (6, Moyenne, **Crit 3**). Dégaine si les PJ l'approchent.
-- Couteau (4, Engagé, **Crit 3**). Dernier recours.
+**Mécaniques spéciales :**
+- **Chasse en embuscade :** Reste tapi sous l'eau peu profonde, attaque dès qu'une proie entre dans son rayon d'action.
+- **Aveugle :** Immunité aux distractions visuelles. Mais **+1⚫ aux jets** d'attaque si la cible n'a pas bougé.
+- **Adapté à l'eau toxique :** L'environnement ne le gêne pas.
+- **Vulnérabilité au feu et aux explosifs :** +1🟢 et +🟢 sur les attaques de ce type contre lui.
 
-**Comportement :** Kreel reste à Longue portée et tire avec le fusil. Il utilise les Rodiens comme bouclier. Fuit à **8+ blessures** — grenade fumigène (identique à Vekk) et disparaît. Il ne meurt PAS en S2 — il revient en S6-8.
+#### Armes / Attaques
 
-> ⚠️ **Important :** Si les joueurs le tuent, il meurt. Pas de protection scénaristique. Mais fais-le fuir intelligemment — Kreel est un chasseur de primes expérimenté, pas un voyou de cantina.
+| Attaque | Pool MJ | Dégâts | Critique | Effet spécial |
+|---|---|---|---|---|
+| **Membres préhensiles (Engaged)** | 4🟡 vs Vigueur/Athl. PJ | 8 + Succès nets - Enc. PJ | Critique 2 | **Avec 2 Avantages : Grapple** |
+| **Morsure (Engaged, après Grapple)** | 4🟡 vs Vigueur/Athl. PJ | 10 + Succès nets - Enc. PJ | Critique 2 | Sang dans l'eau → +1🟢 au tour suivant |
+| **Traction vers le large** | Manœuvre + 1 action | — | — | Tire la cible Grapplée de 2-3 mètres vers les zones profondes |
 
----
+#### Le terrain : profondeurs de l'eau
 
-**ZIK & TOK (Sbires, groupe de 2)** — Deux Rodiens, éclaireurs des Serres. Nerveux, rapides, pas très courageux.
+La zone inondée a une profondeur **progressive** depuis la motte vers les bords :
 
-| Stat | Valeur |
+| Position | Profondeur | Effet pour un humain | Effet pour Namie (Jawa) |
+|---|---|---|---|
+| **Sur la motte** | Sec | Aucun | Aucun |
+| **Bord proche (1-2m)** | Genoux | Mouvement -1 Manœuvre | Taille — eau à la poitrine |
+| **Zone intermédiaire (3-5m)** | Cuisses/Taille | +⚫ aux mouvements | Épaules — début risque noyade |
+| **Zone profonde (>5m)** | Épaules / Submersion | Risque de noyade | Immersion totale |
+
+**Le Limier tire la victime tour après tour vers la zone profonde.** Plus la victime est traînée loin, plus la noyade devient une menace réelle.
+
+#### Mécaniques d'eau toxique et de noyade
+
+**Eau toxique (constante)** — Pour quiconque est dans l'eau :
+- **1 blessure par round** (acide qui pénètre les vêtements et les muqueuses).
+- Ignore Encaissement.
+- Si la cible a un respirateur autonome de qualité (rare), aucun effet.
+
+**Noyade (selon la profondeur)** :
+
+Le joueur peut choisir entre **Résilience** ou **Survie** pour les jets de noyade, selon ce qui colle le mieux à son personnage. Le choix est fait au premier jet et reste cohérent.
+
+- **Tête hors de l'eau** (genoux/cuisses humain, genoux/taille Namie) : **pas de jet de noyade**, juste l'eau toxique.
+- **Tête sous la surface** (épaules Namie, submersion humain) : **Résilience ou Survie Difficile 🟣🟣🟣** chaque round. Échec = 2 Stress + 1 blessure (suffocation).
+- **Submersion totale** : **Résilience ou Survie Formidable 🟣🟣🟣🟣** chaque round. Échec = 3 Stress + 2 blessures. À 0 Stress sous l'eau : inconscience.
+
+**Note MJ — Choix du joueur :** Résilience = endurance physique brute. Survie = expérience du milieu hostile et maîtrise du souffle. Encourage tes joueurs à justifier narrativement.
+
+**Profils du groupe :**
+- **Tatouf** (Wookiee) : Résilience naturellement haute
+- **Sanji** (Éclaireur Zabrak) : Survie probablement en compétence de carrière
+- **Swipping** (Chasseur Duros) : Survie en compétence de carrière aussi
+- **Namie** (Jawa) : probablement faible des deux — elle souffrira le plus
+- **Michel** (Tech) : jet difficile
+- **Lolita** (B1 droïde) : **immunité noyade** (pas de respiration) — juste les dégâts physiques du Limier
+
+#### Comment se libérer d'un Grapple
+
+Le PJ Grapplé peut tenter chaque tour :
+- **Vigueur Moyenne 🟣🟣** ou **Athlétisme Moyenne 🟣🟣** : succès = libéré (eau peu profonde).
+- Les alliés peuvent aider : attaque réussie sur le Limier avec 2+ Avantages = il lâche prise.
+
+**Tirer sur le Limier depuis la berge** :
+- Pas de pénalité de portée (Engagé ou Courte).
+- Si le PJ Grapplé est entre le Limier et le tireur : **friendly fire** sur menaces (1+ menace = touche l'allié pour la moitié des dégâts).
+
+**Charger en mêlée dans l'eau** (Tatouf avec son bouclier potentiel) :
+- L'eau peu profonde inflige toujours 1 blessure/round (acide).
+- Pas de pénalité de combat.
+- Engager le Limier = le forcer à lâcher la cible.
+
+#### Chorégraphie attendue
+
+**Tour 1 — L'embuscade**
+- Initiative. Si un PJ a réussi Vigilance Difficile, il peut prévenir ou tirer avant.
+- Le Limier attaque le PJ dans l'eau (probablement Namie). **4🟡 vs Vigueur/Athl du PJ**.
+- Si touche + 2 Avantages : **Grapple**. Si touche sans Grapple : 8+ dégâts, recul (Coordination Facile 🟣 pour rester debout).
+
+**Tour 2 — La traction**
+- **Si Grapple** : Manœuvre traîne la cible de 2-3 mètres. Namie passe de "taille" à "épaules". Premier jet de noyade au prochain tour si pas libérée.
+- Attaque de morsure pendant qu'il la traîne.
+- Autres PJ doivent réagir vite.
+
+**Tour 3 — La pression**
+- Si Namie toujours Grapplée à hauteur d'épaules : jet de noyade + 1 blessure acide + attaque Limier.
+- **Moment-clé.** Tatouf charge, Sanji tire (en évitant Namie), Michel jette une grenade ou un outil.
+- Si le Limier est blessé sérieusement (10+ blessures), il **lâche** et plonge.
+
+**Tour 4-5 — Résolution**
+- Soit les PJ libèrent Namie et blessent (15+ blessures) → **le Limier plonge** avec un sifflement furieux. Combat terminé.
+- Soit Namie sauvée mais inconsciente → le Limier la lâche en voyant les autres PJ. Stabilisable (Médecine Moyenne 🟣🟣).
+- Soit combat dérape (Namie en danger de mort) → **NON. Tu la rends inconsciente.** Plein de critiques actifs, gravement blessée, mais pas morte. Le Limier fuit.
+
+**⚠️ Condition de fin GARANTIE :**
+À **15 blessures sur le Limier OU au tour 5** (peu importe lequel arrive en premier), le Limier **fuit** avec un sifflement strident en plongeant. Pas négociable.
+
+### La cabane de Vekk
+
+Si les PJ atteignent la cabane (après ou pendant le combat), ils peuvent fouiller.
+
+> ### 📖 LIRE À VOIX HAUTE
+>
+> *La cabane est une seule pièce, 3 mètres sur 3, sentant le moisi et le métal humide. Pas de meubles — juste des planches au sol qui craquent à chaque pas et une vieille table de fortune en fer rouillé contre un mur. Au fond de la pièce, appuyé contre le mur le plus éloigné de l'entrée, **un grand bouclier circulaire repose au sol**. Il est lourd, large, hors de proportion par rapport au reste du décor miteux. Pas vraiment caché — juste posé là, comme abandonné.*
+
+**Découverte de la planque — Vigilance Facile 🟣** (automatique si un PJ déplace le bouclier) :
+
+> *Sous le bouclier, le plancher de la cabane a été soulevé. Une trappe grossièrement découpée révèle un trou peu profond creusé dans la structure en pilotis. À l'intérieur, une boîte en métal, fermée par un petit cadenas — le genre qu'on force facilement.*
+
+Le bouclier servait de **couverture pour la cachette**. Vekk l'avait probablement récupéré au Marché des Carcasses pour cet usage spécifique — lourd, large, opaque, parfait pour dissimuler une trappe.
+
+**Contenu de la boîte :**
+- **2 000 crédits** en liquide (mélange de devises locales et impériales)
+- Quelques babioles : un datapad vide, une pierre brillante sans valeur, un bracelet en métal coréllien
+
+**Le bouclier lui-même : Activv1 Riot Shield** (Drearian Defense Conglomerate, source : Far Horizons p. 42)
+
+| Caractéristique | Valeur |
 |---|---|
-| Agilité | 3 |
-| Blessure | 5 chacun |
-| Encaissement | 2 |
+| **Compétence** | Mêlée |
+| **Dégâts** | +0 (utilise la Vigueur du porteur) |
+| **Critique** | 6 |
+| **Portée** | Engagé |
+| **Encombrement** | 5 |
+| **Hard Points** | 1 |
+| **Qualités** | Cumbersome 3, Defensive 2, Deflection 2, Disorient 1 |
 
-**Armes :**
-- Pistolet blaster (6, Moyenne, **Crit 3**).
-- Grenades fumigènes (×1 chacun). Utilisées pour couvrir la fuite de Kreel si ça tourne mal.
+**Détail des qualités :**
+- **Cumbersome 3** : nécessite Vigueur 3+ (Tatouf parfait, Wookiee = Vigueur élevée)
+- **Defensive 2** : +2 défense en mêlée
+- **Deflection 2** : +2 défense à distance
+- **Disorient 1** : sur succès + avantage, cible désorientée (+⚫ à toutes ses actions pendant 1 round)
+- Une main libre suffit pour le tenir — peut combiner avec arme à une main, **pas** à deux mains
 
-**Comportement :** Tiennent 1-2 rounds, puis fuient si Kreel fuit. Si les deux sont éliminés, Kreel est seul — et il le sait.
+**Tatouf et le bouclier :** S'il le prend, il doit choisir entre arbalète/vibro-hache wookiee à 2 mains OU bouclier + arme à 1 main. Pas les deux. **Vrai choix tactique récurrent.**
 
----
+### Le retour — La deuxième traversée
 
-### Résolutions
+Une fois la cabane fouillée et le butin récupéré, les PJ doivent **retraverser**. Et c'est là que tout peut basculer — surtout si l'aller s'est passé sans incident.
 
-| Issue | Conséquence |
+#### Trois scénarios selon ce qui s'est passé à l'aller
+
+**Scénario A — Aucun combat à l'aller (joueurs irréprochables)**
+
+Le Limier est encore à **pleine puissance** (25 blessures). Il a observé les PJ pendant qu'ils étaient à la cabane. Il sait qu'ils vont revenir avec quelque chose qui les ralentit (butin, bouclier lourd).
+
+Trois variantes selon le comportement :
+- **S'ils retraversent confiants** ("on est passé sans problème à l'aller") → attaque immédiate dès le premier PJ qui entre dans l'eau ou rate un saut
+- **S'ils restent prudents** → attaque sur le PJ qui porte le bouclier (Encombrement 5 = plus lent et plus exposé)
+- **S'ils sont exemplaires deux fois de suite** → le Limier renonce. Combat évité totalement. **Récompense rare mais méritée.**
+
+**Scénario B — Combat à l'aller, Limier en fuite (15+ blessures)**
+
+Le Limier est blessé et a fui. Il **ne réattaque PAS** à court terme. La retraversée se passe sans encombre, mais reste tendue.
+
+> *Vous retraversez l'eau silencieusement. Personne ne parle. Chacun scrute la surface. Mais rien ne vient. Quelque part en dessous, la créature guérit ses blessures et attend la prochaine proie. Ce ne sera plus vous, en tout cas pas aujourd'hui.*
+
+**Scénario C — Limier vaincu (rare)**
+
+Si les PJ ont massacré le Limier (25 blessures), retraversée triviale. Cadavre qui dérive à la surface.
+
+#### Difficulté ajustée au retour
+
+Au retour, **les sauts gagnent +1 difficulté** par défaut (butin, fatigue, blessures) :
+
+| Action retour | Difficulté |
 |---|---|
-| **Les Serres sont vaincues (Kreel KO ou capturé)** | 200 crédits + fusil blaster de qualité. Kreel est humilié. Il reviendra en S6-8 avec du renfort. Edna sera satisfaite : *"Bien. Moins de concurrence."* |
-| **Kreel fuit** | Les Serres sont affaiblies mais pas éliminées. Elles réapparaîtront en S6-8 avec une approche indirecte (embuscade, piège). |
-| **Négociation réussie** | Pas de combat. Les Serres échangent des infos et disparaissent. Ils reviennent en S8 comme partenaires potentiels — ou comme rivaux si le deal tombe. |
-| **Les joueurs fuient** | Improbable avec ton groupe, mais si ça arrive : les Serres prennent l'avantage sur l'enquête. |
+| Premier saut (motte → débris) | Moyenne 🟣🟣 |
+| Deuxième saut (débris → berge) | Difficile 🟣🟣🟣 |
+| Saut audacieux d'un coup | Formidable 🟣🟣🟣🟣 |
 
-> 💡 **Butin sur les Serres (si fouillés) :**
-> - **Kreel :** Fusil blaster (8, Longue, Précis 1, Crit 3). 150 crédits. Un datapad avec des notes d'enquête — les mêmes pistes que les joueurs, mais avec un nom supplémentaire : *"Reth — Souk Voltaïque — contact local."* (Reth Sabo — les joueurs le rencontreront en S3-4.)
-> - **Zik/Tok :** 2 pistolets blaster. 50 crédits chacun. 1 grenade fumigène restante.
+**Exception :** Si un PJ a réussi son saut audacieux à l'aller (Difficile 🟣🟣🟣) avec un succès net, il peut le refaire au retour à la même difficulté.
+
+#### Si un PJ est inconscient
+
+- **Athlétisme Moyenne 🟣🟣** par PJ qui aide, par tour, pour ne pas glisser
+- L'eau toxique brûle le PJ inconscient — 1 blessure/round jusqu'à hors de l'eau
+- **Pataugeage uniquement** (sauter avec quelqu'un = Coordination Formidable 🟣🟣🟣🟣)
+- Tatouf peut porter Namie sur son épaule sans pénalité
+
+### Retour à la surface
+
+Une fois sur la passerelle, c'est fini. Les PJ remontent vers le niveau 4 et la cité supérieure. Soins en route si besoin (Médecine Moyenne 🟣🟣). Le silence du niveau 3 reprend derrière eux.
 
 ---
 
 ## LA SCÈNE DU CONVOI
 
-**Quand :** Quand les joueurs passent par le Port Gris (probablement pendant la Piste 2 ou 4). Si les joueurs n'y vont pas, déplace la scène à un point de passage de Murkhana City — un convoi traverse les niveaux intermédiaires vers la piste de décollage.
+**Quand :** Quand les joueurs passent par le Port Gris. Si les joueurs n'y vont pas, déplace la scène à un point de passage de Murkhana City.
 
-**⚠️ Note MJ :** C'est le **gut-punch émotionnel** de l'Acte 1. Ne pas couper, ne pas accélérer. Lire lentement. Laisser le silence après. **C'est la première situation où la violence ne résout rien.** Ton groupe agressif doit sentir que frapper n'est pas toujours la réponse.
+**⚠️ Note MJ :** C'est le **gut-punch émotionnel** de l'Acte 1. Ne pas couper, ne pas accélérer. Lire lentement. Laisser le silence après. **C'est la première situation où la violence ne résout rien.**
 
-**⚠️ Note MJ — Thème "miroir" :** C'est le premier moment de **normalisation de l'inacceptable** dans la campagne. Le docker hausse les épaules — *"Programme d'emploi. Tu parles."* — comme quelqu'un qui commente une injustice devenue banale. Le Convoi n'a pas commencé comme ça : c'était "un programme temporaire", puis les quotas, puis les gardes. Personne ne se souvient du moment exact où c'est devenu normal. Kael Saul mettra des mots dessus en S7-8. Pour l'instant, les joueurs voient — et le docker hausse les épaules. C'est tout.
+**⚠️ Note MJ — Thème "miroir" :** C'est le premier moment de **normalisation de l'inacceptable** dans la campagne. Le docker hausse les épaules — *"Programme d'emploi. Tu parles."* — comme quelqu'un qui commente une injustice devenue banale.
 
 > ### 📖 LIRE À VOIX HAUTE — LENTEMENT
 >
@@ -450,54 +682,48 @@ Kreel n'est pas déraisonnable — juste pressé. Il accepterait un vrai partena
 >
 > *Le cargo décolle. La poussière retombe. La file d'attente reprend — il y a un autre cargo demain.*
 
-**Après la scène :** Ne rien ajouter. Ne pas dire "c'est la conscription." Ne pas expliquer. Laisser les joueurs réagir — ou ne pas réagir. Les deux sont valables. Ce qui compte, c'est qu'ils aient vu.
+**Après la scène :** Ne rien ajouter. Ne pas dire "c'est la conscription." Laisser les joueurs réagir — ou ne pas réagir.
 
 ### Si un joueur veut intervenir
 
-> 💡 **Connaissant ton groupe — c'est probable.** Le Wookiee pourrait vouloir arrêter les gardes. La Twi'lek pourrait vouloir parler aux conscrits. La Jawa pourrait vouloir voler quelque chose dans le cargo.
-
-**Laisser faire.** Mais les conséquences sont réelles :
-
-| Action du joueur | Ce qui se passe |
+| Action | Ce qui se passe |
 |---|---|
-| **Attaquer les gardes** | Les gardes en gris sont des **sbires (groupe de 4)**, Blessure 5, Encaissement 2, Pistolet (6, **Crit 3**). Les PJ les éliminent facilement. Mais : les conscrits ne les remercient pas. Ils paniquent. Un ancien regarde le joueur et dit : *"Qu'est-ce que t'as fait ? Tu crois qu'y en aura pas un autre convoi demain ? Et celui d'après ? Tu changes rien, fils. Tu changes rien."* Le syndicat enverra des renforts dans les 10 minutes. Les joueurs doivent fuir. |
-| **Parler aux conscrits** | La plupart détournent le regard. Un vieil homme : *"On a signé. C'est le contrat. 18 mois de travail, paye garantie, logement sur Arrakha."* Un silence. *"Y'a rien ici de toute façon."* Il monte dans le cargo. |
-| **Parler aux gardes** | *"Circulez. C'est un programme d'emploi volontaire. Tout est légal."* Ils ne discutent pas. Intimidation → ils s'écartent temporairement mais le convoi part quand même. |
-| **Ne rien faire** | Le cargo part. Le silence reste. C'est la réponse la plus puissante narrativement. |
+| **Attaquer les gardes** | Voir stats "Gardes du Convoi" en fin de fichier. Les PJ peuvent les éliminer, mais les conscrits paniquent. Un ancien : *"Qu'est-ce que t'as fait ? Tu crois qu'y en aura pas un autre convoi demain ? Tu changes rien, fils."* Le syndicat enverra des renforts. |
+| **Parler aux conscrits** | La plupart détournent le regard. Un vieil homme : *"On a signé. 18 mois de travail, paye garantie, logement."* Un silence. *"Y'a rien ici de toute façon."* |
+| **Parler aux gardes** | *"Circulez. Programme d'emploi volontaire. Tout est légal."* Intimidation → ils s'écartent temporairement mais le convoi part. |
+| **Ne rien faire** | Le cargo part. Le silence reste. La réponse la plus puissante narrativement. |
 
-### Ce que Swipping peut voir après le départ
+### Ce que Swipping peut voir
 
-Si un joueur dit *"j'observe les gens qui restent"* ou *"je regarde la réaction des dockers"* — **Perception ou Vigilance Facile 🟣 :**
+**Perception ou Vigilance Facile 🟣 :**
 
 | Résultat | Ce qui se passe |
 |---|---|
-| **Succès** | *"Les dockers ne regardent pas le cargo décoller. Personne ne regarde. Sauf un groupe d'adolescents sur une passerelle au-dessus — ils sont silencieux, les bras croisés. L'un d'eux porte une plaque de B1 sur la poitrine. Un autre a une Pierre Noire au cou. Ils regardent le cargo jusqu'à ce qu'il disparaisse."* |
-| **Succès + Avantages** | + *"L'un d'eux dessine quelque chose sur le mur de la passerelle. Tu reconnais les symboles — les mêmes graffitis que dans les Fosses. Les premières notes du Chant des Marées."* |
-
-**Note MJ :** Ce moment connecte tout le fil culturel de la Session 1 : les adolescents en armure B1, les graffitis musicaux, les Pierres Noires, et maintenant le Convoi. Pour un joueur qui accumule les indices, c'est le déclic — la résistance culturelle de Murkhana est partout, silencieuse, tenace. Les adultes détournent le regard. Les jeunes regardent et se souviennent.
+| **Succès** | *"Les dockers ne regardent pas le cargo décoller. Personne ne regarde. Sauf un groupe d'adolescents sur une passerelle — ils sont silencieux, les bras croisés. L'un d'eux porte une plaque de B1 sur la poitrine. Un autre a une Pierre Noire au cou. Ils regardent jusqu'à ce que le cargo disparaisse."* |
+| **Succès + Avantages** | + *"L'un d'eux dessine sur le mur. Tu reconnais les symboles — les premières notes du Chant des Marées."* |
 
 ---
 
 ## L'INDICE VEKTOR
 
-**Quand :** Pendant une des pistes d'enquête — en passant, pas en scène dédiée. Un PNJ mentionne naturellement :
+**Quand :** Pendant une des pistes, en passant — pas en scène dédiée.
 
-**Si les joueurs sont au Fond du Trou (Rezz) :**
+**Si les joueurs sont au Fond du Trou (Rezz, méfiant) :**
 > *Rezz essuie un verre et dit, sans lever les yeux : "Au fait — un type pose des questions sur le Consortium. Un certain Vektor. Bureau de Sécurité. Faites gaffe."*
 
-**Si les joueurs sont au Port Gris (un docker) :**
-> *"Y'a un gars en civil qui est venu hier. Froid, poli, souriant. Il demandait des noms. Pas le genre qu'on croise aux Fosses — Bureau de Sécurité, à mon avis. Un docker a entendu le nom Vektor."*
+**Si Port Gris (un docker) :**
+> *"Y'a un gars en civil qui est venu hier. Froid, poli, souriant. Il demandait des noms. Bureau de Sécurité, à mon avis. Un docker a entendu le nom Vektor."*
 
-**Si les joueurs sont dans la Tour Argente (un commerçant) :**
+**Si Tour Argente (un commerçant) :**
 > *"Un humain en costume est monté au 22 la semaine dernière. Il a fouillé le bureau de Kole — mais il n'a rien pris. Il observait. Et il souriait."*
 
-**Note MJ :** Vektor ne doit PAS apparaître en personne. C'est un fantôme pour l'instant — un nom, une impression, une menace diffuse. Les joueurs sauront qui il est en session 5 ou 8.
+**Note MJ :** Vektor ne doit PAS apparaître en personne. C'est un fantôme — un nom, une menace diffuse. Les joueurs sauront qui il est en S5 ou S8.
 
 ---
 
 ## L'AVERTISSEMENT DES KOORIVAR
 
-**Quand :** En fin de session, quand les joueurs quittent un lieu ou traversent Murkhana City. La scène arrive **après** au moins 2 pistes d'enquête et de préférence après le combat des Serres — les joueurs ont posé assez de questions pour être repérés.
+**Quand :** En fin de session, quand les joueurs quittent un lieu. Après au moins 2 pistes — les joueurs ont posé assez de questions pour être repérés.
 
 > ### 📖 LIRE À VOIX HAUTE
 >
@@ -511,44 +737,43 @@ Si un joueur dit *"j'observe les gens qui restent"* ou *"je regarde la réaction
 >
 > *"Ce n'est pas une menace. C'est un conseil d'ami."*
 >
-> *Ils s'écartent pour vous laisser passer. Pas d'hostilité. Pas de combat. Juste deux hommes qui vous ont trouvés sans effort dans une ville de millions d'habitants.*
+> *Ils s'écartent. Pas d'hostilité. Pas de combat. Juste deux hommes qui vous ont trouvés sans effort dans une ville de millions d'habitants.*
 
 ### Réactions des joueurs
 
-> 💡 **Connaissant ton groupe — ils vont probablement attaquer.** Prépare-toi.
+> 💡 **Connaissant ton groupe — ils vont probablement attaquer.**
 
 | Réaction | Ce qui se passe |
 |---|---|
-| **Le Wookiee charge** | Les Koorivar ne veulent PAS se battre. Le premier lève les mains : *"On n'est pas là pour ça."* Si le Wookiee insiste, ils se défendent (stats ci-dessous) et fuient dès que possible via les couloirs qu'ils connaissent mieux que les joueurs. Le rapport à Hashk sera : *"Violents, imprévisibles. Pas des alliés."* Ça fermera certaines portes en S4-6. |
-| **Intimidation (Moyenne 🟣🟣)** | Succès → un Koorivar lâche un détail : *"Le Directeur aide les gens que personne n'aide. Demandez dans les Fosses — tout le monde vous le dira."* Échec → ils partent sans rien ajouter. |
-| **Charme / Négociation (Moyenne 🟣🟣)** | Succès → *"Si vous voulez vraiment comprendre, allez voir ce qui se passe sur Arrakha. Pas dans les bureaux — dans les mines."* C'est la graine pour la Session 4. |
-| **Questions / curiosité** | Les Koorivar répondent peu. *"Le Directeur a des amis. On fait partie de ces amis."* Si les joueurs demandent où est Hashk : *"Pas ici."* Si les joueurs demandent pourquoi il se cache : *"Il ne se cache pas. Il attend."* |
-| **On les laisse partir** | Le meilleur résultat narrativement. Les joueurs sentent le poids du réseau de Hashk — il les a trouvés sans effort. Ça installe le respect. |
+| **Tatouf charge** | Les Koorivar ne veulent PAS se battre. *"On n'est pas là pour ça."* Si Tatouf insiste, ils se défendent (stats en aide-mémoire) et fuient. Rapport à Hashk : *"Violents, imprévisibles. Pas des alliés."* Ferme certaines portes en S4-6. |
+| **Intimidation (Moyenne 🟣🟣)** | Succès → un Koorivar lâche : *"Le Directeur aide les gens que personne n'aide. Demandez dans les Fosses."* Échec → ils partent sans rien ajouter. |
+| **Charme / Négociation (Moyenne 🟣🟣)** | Succès → *"Si vous voulez vraiment comprendre, allez voir ce qui se passe sur Arrakha. Pas dans les bureaux — dans les mines."* Graine pour S4. |
+| **Questions / curiosité** | *"Le Directeur a des amis. On fait partie de ces amis."* Si où est Hashk : *"Pas ici."* Si pourquoi il se cache : *"Il ne se cache pas. Il attend."* |
+| **On les laisse partir** | Le meilleur résultat. Les joueurs sentent le poids du réseau de Hashk. |
 
-**Note MJ :** Les Koorivar rapportent à Hashk comment les joueurs ont réagi. C'est le premier rapport du réseau sur eux. Si les joueurs ont été violents → Hashk est méfiant. Si les joueurs ont été curieux → Hashk est intrigué. Ce rapport influence directement la Session 4 (première rencontre avec Hashk).
+**Note MJ :** Les Koorivar rapportent à Hashk comment les joueurs ont réagi. Premier rapport sur eux. Influence la S4.
 
 ---
 
 ## CLÔTURE (~15min)
 
-De retour au Nid. Edna est là. Elle ne pose pas de questions directes — elle attend que les joueurs parlent.
+De retour au Nid. Edna est là. Elle attend que les joueurs parlent.
 
 > *"Vous avez trouvé quelque chose ?"*
 
-Si les joueurs racontent ce qu'ils ont appris, Edna écoute attentivement. Si ils mentionnent le Convoi :
-
+**Si les joueurs mentionnent le Convoi :**
 > *Elle hoche la tête lentement. "Le Programme d'Emploi. Ça existe depuis des années. Tout le monde le sait. Personne n'en parle."*
 >
 > *Un silence.*
 >
 > *"C'est Murkhana."*
 
-Si les joueurs mentionnent les Serres :
+**Si les joueurs mentionnent la planque de Vekk :**
+> *Elle regarde le bouclier (si Tatouf l'a pris). "Joli morceau. Vekk avait du goût pour les choses lourdes."*
+>
+> *Puis, plus bas : "Drukk vous a parlé. Bien joué."*
 
-> *"Kreel Voss." Elle répète le nom comme si elle le goûtait. "Si vous les avez battus, c'est un problème de moins. Si vous les avez laissés filer, c'est un problème reporté."*
-
-Si les joueurs mentionnent l'avertissement des Koorivar :
-
+**Si les joueurs mentionnent l'avertissement des Koorivar :**
 > *"Il sait que vous le cherchez. Et il ne fuit pas. C'est soit un idiot, soit quelqu'un qui a un plan."*
 >
 > *Elle caresse sa cicatrice.*
@@ -563,9 +788,11 @@ Si les joueurs mentionnent l'avertissement des Koorivar :
 |---|---|
 | **XP rattrapage S1** | +10 XP (annoncé en début de session) |
 | **Crédits (enquête)** | Pas de prime — enquête en cours |
-| **Crédits (Serres vaincues)** | 200 crédits + fusil blaster de Kreel (si fouillé) |
+| **Crédits (planque Vekk, si trouvée)** | 2 000 crédits |
+| **Équipement (planque Vekk, si trouvée)** | Activv1 Riot Shield (Cumbersome 3, Defensive 2, Deflection 2, Disorient 1) |
+| **XP rencontre Limier (si survécu)** | +5 XP de plus (compense la difficulté) |
 | **XP** | 10 XP de base + 5 XP bonus si bon RP ou choix intéressant |
-| **Progrès** | 2-3 pistes explorées sur 4. Les pistes restantes sont disponibles en Session 3. |
+| **Progrès** | 2-3 pistes explorées sur 4. Les pistes restantes en S3. |
 | **Contacts** | Nox Erso et/ou Fenn Sudo ajoutés comme contacts récurrents |
 | **Information** | Les joueurs savent que Hashk voyage vers Arrakha, aide les gens, a un réseau, et sait qu'il est traqué |
 
@@ -575,41 +802,51 @@ Si les joueurs mentionnent l'avertissement des Koorivar :
 
 ### Difficultés utilisées
 
-| Facile 🟣 | Moyenne 🟣🟣 | Difficile 🟣🟣🟣 |
-|---|---|---|
-| Fouille bureau, Intimidation Wookiee, Perception pierre/chant, Vigilance Tour Argente (architecture), Perception Convoi (adolescents), Charme vieux Pierre Noire | Charme locaux, Corruption dockers, Informatique Tour, Intimidation Koorivar/Serres, Larcin Fenn, Connaissance vaisseaux Port Gris, Culture | Informatique Port Gris, Perception suspicion Fenn, Négociation Kreel, Furtivité |
-
----
-
-### Combat — Les Serres
-
-**KREEL VOSS (Rival)** — Agilité 3, Combat distance 3, Encaissement 4, Défense 1/0, Blessure 13
-
-Quand Kreel tire (Fusil blaster, **Crit 3**, Précis 1) :
-
-| Portée | Pool MJ | Dégâts | Critique si... |
+| Facile 🟣 | Moyenne 🟣🟣 | Difficile 🟣🟣🟣 | Formidable 🟣🟣🟣🟣 |
 |---|---|---|---|
-| Longue | **🟡🟡🟡 + 🔵** vs 🟣🟣🟣 | 8 + Succès nets - Enc. PJ | 3+ Avantages |
-| Moyenne | **🟡🟡🟡 + 🔵** vs 🟣🟣 | 8 + Succès nets - Enc. PJ | 3+ Avantages |
-
-Quand Kreel dégaine le pistolet (portée Courte/Moyenne, **Crit 3**) : **🟡🟡🟡** vs portée. Dégâts 6.
-
-Fuit à 8+ blessures. Grenade fumigène → +2⚫ pendant 2 rounds.
-
-**Quand un PJ tire sur Kreel :** Encaissement **4**, Défense **1** (devant) → +⚫ aux tirs frontaux. Seuil 13 blessures.
+| Fouille bureau, Vigilance Drukk, Vigilance Pierre Noire, Vigilance architecture, Perception Convoi, Charme vieux, Saut 1er, Vigilance Limier libération, Athlétisme aide | Charme/Intim Drukk, Charme locaux, Corruption dockers, Informatique Tour, Saut 2e, Négociation Edna libération, Vigilance pataugeage, Libération Grapple, Mécanique grappin | Informatique Port Gris, Perception suspicion Fenn, Vigilance préventive Limier, Saut audacieux, Noyade tête sous l'eau | Saut audacieux retour, Noyade submersion totale |
 
 ---
 
-**ZIK & TOK (Sbires, groupe de 2)** — Agilité 3, Encaissement 2, Blessure 5/sbire
+### Combat — Le Limier des Fosses
 
-Quand le groupe tire (Pistolet blaster, **Crit 3**) :
+**LIMIER DES FOSSES (Nemesis)** — Vigueur 5, Agilité 4, Combat 4, Encaissement 4, Défense 2/0 en eau, Blessure 25
 
-| Rodiens restants | Rang | Pool MJ | Dégâts | Critique si... |
-|---|---|---|---|---|
-| **2** | 1 | **1🟢 2🟡** vs portée | 6 + Succès nets - Enc. PJ | 3+ Avantages |
-| **1** | 0 | **3🟢** vs portée | 6 + Succès nets - Enc. PJ | 3+ Avantages |
+Quand le Limier attaque (Membres préhensiles, **Crit 2**, Engaged) :
 
-**Quand un PJ tire sur le groupe :** Encaissement **2**. Dégâts nets **≥ 5** → un Rodien est éliminé. Surplus perdu.
+| Situation | Pool MJ | Dégâts | Critique si... |
+|---|---|---|---|
+| Première attaque (embuscade) | **4🟡** vs Vigueur/Athl. PJ | 8 + Succès nets - Enc. | 2+ Avantages **OU Grapple si 2 Avantages** |
+| Morsure (cible Grapplée) | **4🟡** vs Vigueur/Athl. PJ | 10 + Succès nets - Enc. | 2+ Avantages |
+
+**Quand un PJ tire sur le Limier :** Encaissement 4, Défense 2/0 en eau → +⚫⚫ aux tirs en eau. Hors eau (s'il sort tête/dos) : Défense 0. Seuil 25 blessures. Friendly fire si tir à travers PJ Grapplé.
+
+**Mécaniques spéciales :**
+
+| Mécanique | Effet |
+|---|---|
+| **Grapple** (sur 2+ Avantages) | Cible saisie. Le Limier peut la traîner au tour suivant. |
+| **Traction vers le large** | Manœuvre. Tire la cible Grapplée de 2-3 mètres vers les zones profondes. |
+| **Libération du Grapple** | Vigueur ou Athlétisme Moyenne 🟣🟣. Alliés peuvent aider. |
+| **Aveugle** | +1⚫ contre cible immobile. |
+| **Vulnérabilité feu/explosifs** | +1🟢 et +🟢 aux attaques de ce type. |
+
+**Conditions de fuite (automatique) :**
+- À 15+ blessures cumulées
+- OU au tour 5 (quelle qu'arrive en premier)
+
+### Mécaniques d'eau toxique et de noyade
+
+| Situation | Effet |
+|---|---|
+| **Eau toxique sur peau exposée** (toute profondeur) | 1 blessure/round, ignore Encaissement |
+| **Profondeur genoux/cuisses (humain debout)** | Pas de noyade, juste l'acide |
+| **Profondeur taille/épaules (PJ Grapplé traîné)** | **Résilience ou Survie Difficile 🟣🟣🟣** chaque round (choix du joueur). Échec : 2 Stress + 1 blessure |
+| **Submersion totale** | **Résilience ou Survie Formidable 🟣🟣🟣🟣** chaque round. Échec : 3 Stress + 2 blessures. À 0 Stress : inconscience. À 0 Stress + 1 tour : critique sévère (91+) |
+
+**Choix Résilience vs Survie :** Le joueur choisit selon son profil au premier jet, reste cohérent ensuite. Résilience = endurance physique brute. Survie = expérience du milieu hostile et maîtrise du souffle.
+
+**Note de taille :** Pour Namie (Jawa, ~1m), l'eau "à hauteur de genoux pour un humain" lui monte à la taille. Pour Tatouf (Wookiee, 2m20), même eau lui monte aux mollets — il peut intervenir sans risque de noyade. **Lolita (B1 droïde) : immunité noyade**, mais l'acide corrode ses circuits (réparation Mécanique nécessaire après).
 
 ---
 
@@ -626,59 +863,139 @@ Encaissement **3**. Dégâts nets **≥ 6** → un Koorivar tombe. Fuient après
 
 ---
 
-### Combat — Gardes du Convoi (si attaqués)
-
-**GARDES EN GRIS (Sbires, groupe de 4)** — Agilité 2, Encaissement 2, Blessure 5/garde
-
-| Gardes restants | Rang | Pool MJ (Pistolet, **Crit 3**) |
-|---|---|---|
-| **4** | 3 | **1🟢 1🟡** vs portée |
-| **3** | 2 | **2🟡** vs portée |
-| **2** | 1 | **1🟢 1🟡** vs portée |
-| **1** | 0 | **2🟢** vs portée |
-
-Encaissement **2**. Dégâts nets **≥ 5** → un garde tombe. Pas de retraite — mais pas de renforts non plus pendant le combat. Les renforts arrivent 10 minutes après.
-
----
-
-### Résumé des tours — Les Serres
-
-| Slot | Qui agit | Pool |
-|---|---|---|
-| PNJ 1 | Kreel Voss | 🟡🟡🟡 + 🔵 (fusil) |
-| PNJ 2 | Zik & Tok (2) | 1🟢 2🟡 (pistolet) |
-| PJ 1-6 | Les 6 joueurs | Selon leurs fiches |
-
----
-
-### Seuils d'élimination — Tous les PNJ
+### Seuils d'élimination — PNJ
 
 | Cible | Encaissement | Seuil | Éliminé quand... |
 |---|---|---|---|
-| Zik/Tok (sbire) | 2 | 5 | Dégâts nets ≥ 5 → 1 Rodien tombe |
-| Kreel Voss (rival) | 4 | 13 | Dégâts cumulés ≥ 13 (fuit à 8+) |
-| Koorivar (sbire, si combat) | 3 | 6 | Dégâts nets ≥ 6 → 1 Koorivar tombe |
-| Gardes convoi (sbire, si combat) | 2 | 5 | Dégâts nets ≥ 5 → 1 garde tombe |
-
----
-
-### Critiques — Rappel
-
-| Arme | Crit | Avantages nécessaires | Utilisée par |
-|---|---|---|---|
-| Fusil blaster (Kreel) | 3 | 3 Avantages | Kreel Voss |
-| Pistolet blaster | 3 | 3 Avantages | Zik/Tok, Koorivar, Gardes |
-| Couteau vibro | 2 | 2 Avantages | Koorivar |
-
-Résoudre : 1d100 + 10 par critique déjà actif. Voir table complète dans SESSION1.
+| Limier (Nemesis) | 4 | 25 (fuit à 15) | Dégâts cumulés ≥ 15 = fuite. ≥ 25 = mort |
+| Koorivar (sbire) | 3 | 6 | Dégâts nets ≥ 6 → 1 Koorivar tombe |
 
 ---
 
 ### Avantages / Menaces — Rappel
 
-**PJ :** 1 Av = récup Stress ou 🔵 allié. 2 Av = cible tombe / perd couverture. = Crit arme → critique. 1 Triomphe = critique auto.
+**PJ :** 1 Av = récup Stress ou 🔵 allié. 2 Av = cible tombe / perd couverture / Grapple (Limier). 3 Av = critique. 1 Triomphe = critique auto.
 
 **PJ :** 1 Men = 1 Stress. 2 Men = perd couverture. 3+ Men = arme enrayée.
+
+---
+
+## STATS DE RÉSERVE — Combats improvisés
+
+Si tu as besoin d'un combat impromptu pendant la S2, voici trois groupes prêts à l'emploi.
+
+### Sbires de syndicat (Vrak Chmod) — Si les PJ menacent un docker ou commerçant
+
+**4-6 GARDES DE SYNDICAT (Sbires)**
+
+| Caractéristique | Valeur |
+|---|---|
+| Vigueur | 2 |
+| Agilité | 2 |
+| Combat (Distance Légère) | 2 |
+| Bagarre | 2 |
+| **Blessure (par sbire)** | 5 |
+| **Encaissement** | 2 |
+
+**Armes :**
+- **Pistolet blaster** (6 dégâts, Critique 3, Moyenne)
+- **Gourdin** (4+Vigueur dégâts, Critique 5, Engaged, Disorient 1, Stun 1)
+
+**Comportement :** Veulent menacer/blesser, pas tuer. Gourdins de préférence (Stun). Fuient à 50% de pertes.
+
+**Pool d'attaque** (groupe de 6) :
+| Restants | Rang | Pool MJ |
+|---|---|---|
+| **6** | 5 | 1🟢 4🟡 vs portée |
+| **5** | 4 | 1🟢 3🟡 vs portée |
+| **4** | 3 | 1🟢 2🟡 vs portée |
+| **3** | 2 | 2🟡 vs portée |
+| **2** | 1 | 1🟢 1🟡 vs portée |
+| **1** | 0 | 2🟢 vs portée |
+
+**Conséquences narratives :** Les PJ deviennent recherchés par Vrak Chmod. Edna pas contente mais gérable.
+
+---
+
+### Gardes du Convoi — Si les PJ attaquent le Convoi
+
+**4 GARDES DU CONVOI (Sbires) — Armure légère grise**
+
+| Caractéristique | Valeur |
+|---|---|
+| Vigueur | 2 |
+| Agilité | 2 |
+| Combat (Distance Légère) | 2 |
+| Discipline | 2 |
+| **Blessure (par sbire)** | 5 |
+| **Encaissement** | 2 |
+
+**Armes :**
+- **Pistolet blaster** (6 dégâts, Critique 3, Moyenne)
+- **Matraque vibro** (5+Vigueur dégâts, Critique 4, Engaged, Stun setting 2)
+
+**Comportement :** Privilégient l'arrestation à la mort (matraque Stun). Tirent au blaster si les PJ utilisent eux-mêmes des blasters. Ne fuient pas, mais battent en retraite vers le cargo à 50% de pertes.
+
+**Pool d'attaque** (groupe de 4) :
+| Restants | Rang | Pool MJ |
+|---|---|---|
+| **4** | 3 | 1🟢 2🟡 vs portée |
+| **3** | 2 | 2🟡 vs portée |
+| **2** | 1 | 1🟢 1🟡 vs portée |
+| **1** | 0 | 2🟢 vs portée |
+
+**Renforts :** Si le combat dure plus de 3 rounds ou si gardes à 50%, **véhicule d'intervention arrive** — speeder avec 2 agents en armure plus lourde (Rivals, Blessure 12, Encaissement 3, fusils à dispersion 8 dégâts Courte). Les PJ doivent **fuir**.
+
+**Conséquences narratives :** Si les PJ libèrent des conscrits — **héros locaux dans les Fosses** (Pierres Noires offertes), mais **officiellement recherchés** par Vrak Chmod. Edna **furieuse**. Vektor reçoit le rapport plus tôt — pression accélérée en S3 au lieu de S5.
+
+---
+
+### Tueurs de gang générique — Si provocation d'un gang
+
+**3-5 MEMBRES DE GANG (Sbires)**
+
+| Caractéristique | Valeur |
+|---|---|
+| Vigueur | 2 |
+| Agilité | 3 |
+| Combat (Distance Légère) | 1 |
+| Bagarre | 2 |
+| **Blessure (par sbire)** | 4 |
+| **Encaissement** | 1 |
+
+**Armes :**
+- **Pistolet blaster bas de gamme** (6 dégâts, Critique 4, Moyenne, Inexact 1)
+- **Couteau vibro** (3+Vigueur dégâts, Critique 2, Engaged)
+
+**Comportement :** Désorganisés, vicieux, lâches. Fuient à 30% de pertes.
+
+**Pool d'attaque** (groupe de 5) :
+| Restants | Rang | Pool MJ |
+|---|---|---|
+| **5** | 4 | 1🟢 3🟡 vs portée |
+| **4** | 3 | 1🟢 2🟡 vs portée |
+| **3** | 2 | 2🟡 vs portée |
+| **2** | 1 | 1🟢 1🟡 vs portée |
+| **1** | 0 | 2🟢 vs portée |
+
+**Conséquences narratives :** Mineures. Un gang de plus dans le bestiaire.
+
+---
+
+### Notes sur les stats de réserve
+
+**Quand utiliser ?**
+- Les joueurs s'ennuient → mini-rixe avec sbires de gang
+- Un PJ menace ou agresse un PNJ civil → garde de syndicat
+- Les joueurs interviennent au Convoi → gardes en gris
+
+**À éviter :**
+- Multiplier les combats si les PJ ne le cherchent pas (la S2 reste enquête)
+- Mettre les PJ dans une situation impossible (tous ces sbires fuient à 50%)
+- Utiliser ces stats pour des PNJ nommés (Kreel Voss, Vektor, etc.)
+
+**Échelle :**
+Sbires Blessure 4-5 / Encaissement 1-2 → tombent en 1-2 tirs propres. Tes joueurs vont les éclater rapidement. C'est OK — l'objectif est le relief de rythme, pas le challenge.
 
 ---
 
@@ -686,11 +1003,11 @@ Résoudre : 1d100 + 10 par critique déjà actif. Voir table complète dans SESS
 
 | PNJ | Lieu | Rôle | Ce qu'il sait | Ce qu'il cache |
 |---|---|---|---|---|
+| **Drukk** | Nid (attaché à la porte) | Sbire Weequay capturé | Coordonnées planque Vekk + "quelque chose dans l'eau" | Trop jeune pour cacher quoi que ce soit |
 | **Nox Erso** | Port Gris / atelier Kesh | Mécanicienne serviable | Voyages de Kole, ambiance Port, mines d'Arrakha | Agent républicain |
 | **Fenn Sudo** | Les Fosses | Courtier en infos | Réseau de Hashk, aide aux pauvres, "quelque chose de gros" | Agent de Gekko |
-| **Kreel Voss** | Mobile | Chef des Serres, chasseur rival | Mêmes pistes que les PJ + "Sept-Trois" | Rien — il est direct |
-| **Zik & Tok** | Avec Kreel | Éclaireurs Rodiens | Suivent Kreel | — |
-| **Rezz** | Le Fond du Trou | Barman | Indice Vektor, ambiance Fosses | — |
+| **Rezz (méfiant)** | Le Fond du Trou | Barman | Indice Vektor | Méfiance après menaces de S1 |
+| **Vieux à la Pierre** | Le Fond du Trou | PNJ d'ambiance | Récifs, Chant, mémoire | — |
 | **Kesh** | Port Gris (atelier) | Patron de Nox | — | Contact républicain |
 | **2 Koorivar** | Mobile | Gardes de Hashk | "Le Directeur attend" | Rapport au réseau |
 
@@ -703,18 +1020,20 @@ Résoudre : 1d100 + 10 par critique déjà actif. Voir table complète dans SESS
 - Il a un réseau organisé et il sait qu'il est traqué
 - Un "Vektor" du Bureau de Sécurité s'intéresse aussi à eux
 - La conscription vers Arrakha est réelle et brutale
-- Les Serres sont une menace (éliminée ou reportée)
-- Nox et Fenn sont des contacts utiles (mais les joueurs ne savent pas encore pour qui ils travaillent vraiment)
+- Nox et Fenn sont des contacts utiles (sans connaître leur vraie affiliation)
+- (Si planque jouée) Il y a des prédateurs aquatiques dans les Fosses profondes
+- (Si planque jouée) +2 000 crédits + Activv1 Riot Shield
 
 ---
 
 ### Ambiance à semer
 
 - **Le Convoi** est la scène centrale émotionnellement — tout le reste est secondaire
-- **Pierres Noires** sur les conscrits, sur les commerçants, sur le bureau de Hashk — elles sont partout
-- **Le Chant** chanté par l'enfant dans le Convoi — et en graffiti sur les murs par les adolescents
+- **Pierres Noires** sur les conscrits, sur les commerçants, sur le bureau de Hashk
+- **Le Chant** chanté par l'enfant dans le Convoi — et en graffiti sur les murs
 - **Les Fosses** sont familières maintenant — les joueurs reconnaissent le chemin
-- **La Tour Argente** est un lieu nouveau — décrire la verticalité, l'odeur de soudure, les niveaux qui racontent l'histoire
-- **Les Serres** sont le miroir du groupe — des chasseurs de primes comme eux, mais sans Edna
-- **Le vieux au Fond du Trou** est la clé culturelle — il connecte Pierre Noire, Chant et récifs en une seule conversation
+- **La Tour Argente** est un lieu nouveau — verticalité, soudure, niveaux qui racontent l'histoire
+- **Le vieux au Fond du Trou** est la clé culturelle — il connecte Pierre Noire, Chant et récifs
 - **Les vaisseaux CIS au Port Gris** — les machines qui ont détruit Murkhana la font maintenant vivre
+- **Drukk attaché à la porte arrachée par Tatouf** — détail comique récurrent, ambiance Consortium
+- **(Si planque)** Le silence du niveau 3, l'eau verte, le sentiment qu'il y a quelque chose qui regarde
