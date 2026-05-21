@@ -17,16 +17,18 @@
 |---|---|---|---|---|---|
 | 0 | Création | Hors-jeu | Fiches de PJ, vaisseau, liens. Pas de jeu narratif. | Préparation | — |
 | 1 | Baptême du Feu | Murkhana City | Intro au Nid + tutoriel : capturer Vekk Draal | Action | — |
-| 2 | La Piste du Muun | Murkhana City | Enquête Hashk. Nox, Fenn Sudo, Convoi. Le réseau observe | Enquête | **Normalisation** (le Convoi) |
+| 2 | La Piste du Muun | Murkhana City | Enquête Hashk. Nox, Fenn Sudo, Convoi. Quête optionnelle planque/Limier. Le réseau observe | Enquête | **Normalisation** (le Convoi) |
 | 3 | Les Ruelles Grises | Murkhana City | Mission entrepôt (pacte syndicats/Hopner). Ambiance Fosses | Action | Normalisation (le pacte) |
 | 4 | Le Monde de Poussière | Arrakha / Torren | Colonie, exploitation, Puits Rouges. Sauvetage mineur | Exploration | **Fatigue** (les mineurs) |
 | 5 | Le Poing de Velours | Forscan Prime | Vitrine du Protectorat + mission concrète. Contraste moral | Exploration + Action | **Faux choix** (Hopner montre "l'ordre") |
 | 6 | Le Directeur | Murkhana / Arrakha | Réseau visible + rencontre Hashk. Plan, dilemme | RP + Tournant | **Faux choix** (Hashk : *"l'ordre, c'est pas la paix"*) |
 | 7 | Le Moria | Station de Gekko | Session sociale : sabacc, Gekko, décadence. Respiration | Social | Complicité (Gekko profite du système) |
-| 8 | L'Ombre du Verdict Gris | Mobile | Serres, Vektor, commanditaire, Edna réagit. Pression | Tension | **Normalisation** (Kael Saul : le glissement) |
+| 8 | L'Ombre du Verdict Gris | Mobile | Vektor, commanditaire, Edna réagit. Pression | Tension | **Normalisation** (Kael Saul : le glissement) |
 | 9 | Le Point de Non-Retour | Murkhana + Arrakha | Climax : raid limité, choix des joueurs | Action + Climax | **Complicité** (Edna : *"poser pas de questions..."*) |
 
 **Note sur le rythme :** L'alternance Action → Enquête → Action → Exploration → Exploration/Action → RP → Social → Tension → Climax est conçue pour éviter les creux. Chaque session a au minimum une scène d'action OU une scène sociale forte. Aucune session n'est purement passive.
+
+**Note sur les Serres :** Les Serres (Kreel Voss et son équipe) ont été retirées de la Session 2 — elles apparaîtront plus tard dans la campagne (timing à décider à table), directement en version dure (Kreel Nemesis + Vol Mandalorien + Zik Trandoshan + IG-RM "Sept"). Pas de version échauffement. Stats à conserver dans un bestiaire dédié.
 
 ### Missions secondaires d'Edna (intercalables)
 
@@ -46,7 +48,7 @@
 
 ### Présentation de l'univers — Le discours d'Edna (~15min)
 
-Le MJ lit (ou paraphrase) le texte suivant aux joueurs. C'est Edna qui parle — elle s'adresse aux joueurs comme si c'étaient de nouvelles recrues du Consortium. Le MJ peut jouer la scène ou simplement lire. L'objectif : accrocher les joueurs, planter le décor, et leur donner assez pour créer un personnage qui a sa place ici.
+Le MJ lit (ou paraphrase) le texte suivant aux joueurs. C'est Edna qui parle — elle s'adresse aux joueurs comme si c'étaient de nouvelles recrues du Consortium. L'objectif : accrocher les joueurs, planter le décor, et leur donner assez pour créer un personnage qui a sa place ici.
 
 > ### 📖 LIRE À VOIX HAUTE (OU PARAPHRASER)
 >
@@ -174,7 +176,7 @@ Basch affiche le dossier : Vekk Draal, Nikto, chef du gang "Les Griffes Rouges",
 
 **Ambiance à semer :** Pierres Noires dans le décor, graffitis du Chant en aurebesh sur les murs des Fosses, un gang qui porte des carcasses de B1 comme armure.
 
-*(Contenu mécanique détaillé dans SESSION1_BAPTEME_DU_FEU.md)*
+*(Contenu mécanique détaillé dans SESSION1.md)*
 
 **XP :** 15 XP
 
@@ -182,35 +184,39 @@ Basch affiche le dossier : Vekk Draal, Nikto, chef du gang "Les Griffes Rouges",
 
 ## SESSION 2 — "LA PISTE DU MUUN"
 
-**Durée estimée :** ~4h  
-**Objectif :** Enquête sur Hashk Ellor. Rencontres Nox Erso et Fenn Sudo. Scène du Convoi. Les agents de Hashk commencent à observer les joueurs.
+**Durée estimée :** ~3h30 (4h30 si la planque est jouée)
+**Objectif :** Enquête sur Hashk Ellor. Rencontres Nox Erso et Fenn Sudo. Scène du Convoi. Quête optionnelle (planque de Vekk + Limier des Fosses). Les agents de Hashk commencent à observer les joueurs.
 
-**⚠️ Note MJ — Pacing :** Il y a 4 pistes d'enquête listées ci-dessous. Les joueurs n'en feront que **2-3 en une session de 4h.** C'est normal. Ne pas essayer de tout caser. Laisser les joueurs choisir leur approche. Les pistes non explorées peuvent revenir en Session 3 ou plus tard.
+**⚠️ Note MJ — Pacing :** 4 pistes d'enquête + 1 quête optionnelle. Les joueurs n'en feront que **2-3 pistes en une session de 3h30** (4h30 avec planque). C'est normal. Les pistes non explorées peuvent revenir en Session 3.
 
 ### La Prime
 
 > **Cible :** Hashk Ellor — **Muun** — **100 000 crédits (vivant uniquement)** — Commanditaire anonyme  
 > **Dernière localisation :** Secteur Tour Argente, Murkhana City
 
-Edna : *"Ce genre de prime, ça attire du monde. Les Serres sont aussi sur le coup. Soyez malins."*
+Edna : *"100 000 crédits, c'est trop d'argent pour un seul homme. Quand c'est trop beau..." Elle caresse sa cicatrice. "Soyez prudents."*
+
+### La graine Drukk
+
+Le sbire Weequay capturé en S1 (Drukk, 17 ans) est attaché à la porte que Tatouf a arrachée. Pendant le briefing, il attire discrètement l'attention des PJ et propose un deal : sa liberté contre les coordonnées d'une planque de Vekk dans les Fosses inondées. Si les PJ acceptent, ils peuvent négocier sa libération avec Edna (Négociation Moyenne, ~100 crédits) ou tenter une libération clandestine (rupture potentielle avec Edna).
 
 ### Pistes d'enquête (les joueurs choisissent)
 
 **Tour Argente :** Bureau secret — datapads chiffrés, documents CIS, Pierre Noire presse-papier. Difficulté Moyenne à Difficile.
 
-**Port Gris :** Alias "Directeur Kole" — 7 voyages vers Arrakha en 3 mois. Charme ou Corruption (Moyenne).
+**Port Gris :** Alias "Directeur Kole" — 7 voyages vers Arrakha en 3 mois. Charme ou Corruption (Moyenne). Le Crochet Rouillé est là, en attente du syndicat.
 
-**Les Fosses :** **Fenn Sudo** (Twi'lek, agent de Gekko, trop serviable) confirme "quelque chose de gros" en lien avec Arrakha.
+**Les Fosses :** **Fenn Sudo** (Twi'lek, agent de Gekko, trop serviable) confirme "quelque chose de gros" en lien avec Arrakha. Rezz est méfiant après les menaces de S1 (Sanji et Tatouf).
 
-**Nox Erso :** Mécanicienne au Port Gris. Tuyau légitime. Ne demande rien. (Les joueurs la rencontrent naturellement s'ils passent par le Port Gris ou les cantinas.)
+**Nox Erso :** Mécanicienne au Port Gris. Tuyau légitime. Ne demande rien.
+
+### Quête optionnelle — La planque de Vekk
+
+Si les PJ ont obtenu les coordonnées de Drukk, ils peuvent descendre au niveau 3 des Fosses. Cabane sur une motte de terre entourée d'eau toxique. Mécanique de **double traversée** (saut vs pataugeage), embuscade possible du **Limier des Fosses** (prédateur aquatique, combat non obligatoire). Butin : 2 000 crédits + Activv1 Riot Shield.
 
 ### Scène du Convoi (~15min, ne pas couper)
 
-Au Port Gris, quand les joueurs passent :
-
-> *Un cargo lourd sur la piste 7. Une file de Murkhanais monte à bord sous la surveillance de gardes en uniforme gris. Peu de bagages. Pierres Noires serrées dans les poings. Une femme s'accroche à un homme trop vieux pour les mines. Un enfant chante les premières notes du Chant des Marées. Sa mère le tire à l'intérieur. Le cargo ferme sa rampe.*
->
-> *Un docker, voyant le regard des joueurs : "Programme d'emploi. Arrakha. Tu parles."*
+Au Port Gris, quand les joueurs passent : conscrits, Pierres Noires, enfant qui chante, gardes en uniforme gris. Docker : *"Programme d'emploi. Arrakha. Tu parles."* **Gut-punch émotionnel.**
 
 ### Indice Vektor
 
@@ -221,9 +227,11 @@ Un contact mentionne en passant : *"Un type du Bureau de Sécurité pose des que
 Deux Koorivar armés (gardes de Hashk) abordent les joueurs :
 > *"Le Directeur Kole sait que vous posez des questions. Ce n'est pas une menace — c'est un conseil d'ami."*
 
-**Ce que les joueurs ne savent pas :** Les Koorivar rapporteront à Hashk comment les joueurs ont réagi — violents, curieux, effrayés, indifférents. C'est le premier rapport que Hashk reçoit sur eux. Rien n'est mis en scène pour les joueurs — c'est juste le protocole standard du réseau.
+**Ce que les joueurs ne savent pas :** Les Koorivar rapporteront à Hashk comment les joueurs ont réagi — violents, curieux, effrayés, indifférents. C'est le premier rapport que Hashk reçoit sur eux.
 
-**XP :** 15 XP
+*(Contenu mécanique détaillé dans SESSION2.md)*
+
+**XP :** 15 XP (+5 XP bonus si le Limier a été affronté)
 
 ---
 
@@ -307,6 +315,8 @@ Ordre intercepté ou mentionné par un stormtrooper : *"L'Amiral a ordonné zér
 
 **Sergent Drenn Rix :** Si les joueurs croisent la garnison (au spatioport, dans Torren, ou près des Puits), ils voient un **Zabrak en armure de stormtrooper** qui dirige une patrouille. C'est le sergent Drenn Rix. Il est professionnel, courtois, et applique l'ordre "incapacitantes uniquement" avec conviction. Mais quand il voit les baraquements des mineurs, il détourne le regard. Les joueurs ne savent pas qui il est — juste un soldat qui a l'air mal à l'aise. Il reviendra.
 
+**Piste Krev (Swipping) :** Un mineur se souvient. *"Krev ? Il posait trop de questions. Un jour il est descendu dans la galerie 12. Il est jamais remonté."* Premier indice solide pour Swipping sur son mentor disparu.
+
 **XP :** 15 XP
 
 ---
@@ -368,7 +378,7 @@ Un homme en civil observe les joueurs dans une cantina. Sourire poli. Part. Ils 
 ## SESSION 6 — "LE DIRECTEUR"
 
 **Durée estimée :** ~4h  
-**Contenu :** Retour + réseau visible (~1h) + rencontre Hashk (~2h) + embuscade des Serres (~1h)
+**Contenu :** Retour + réseau visible (~1h) + rencontre Hashk (~2h) + (Serres possibles si tu décides le timing maintenant, ~1h)
 
 ### Retour sur Murkhana ou Arrakha (~1h)
 
@@ -415,17 +425,16 @@ Un lieutenant de Hashk (Seren Awk ou Kael Saul) contacte les joueurs :
 
 **⚠️ Note MJ — Et si les joueurs essaient de capturer Hashk ?** C'est des chasseurs de primes — la tentation est réelle. Hashk n'est pas stupide : le lieu de rencontre est préparé. Le Terrier est gardé par des B1 et la milice. La Tour Argente (niv. 22) a des issues de secours que Hashk connaît par cœur. Si les joueurs tentent de le capturer, Hashk ne se bat pas — il s'enfuit par une route préparée, et les joueurs se retrouvent face à ses gardes. La prime est toujours là, mais maintenant Hashk sait qu'il ne peut pas leur faire confiance — et la suite de la campagne change de ton (le réseau de Hashk devient hostile au lieu de coopératif). Laisser les joueurs essayer — mais que les conséquences soient claires.
 
-### Embuscade des Serres (~1h)
+### Apparition possible des Serres (~1h, si tu décides le timing maintenant)
 
-En sortant de la rencontre (ou en route vers le rendez-vous), les joueurs sont interceptés par **les Serres** — Kreel Voss et ses éclaireurs. Ils ont suivi les joueurs.
+Les Serres ont été retirées de la S2. Tu peux choisir de les introduire maintenant (S6) ou plus tard (S8, S10, etc.). Quand elles arrivent, c'est **directement en version dure** :
 
-> *"On cherche le même Muun. Livrez-nous sa position, et on partage la prime. Refusez — et on aura un problème."*
+**KREEL VOSS (Nemesis)** — ex-renseignement, Adversary 2, Lethal Blows 2, fusil blaster sniper (10, Longue, Précis 2)
+**VOL (Rival, Mandalorien)** — bouclier déflecteur (Défense 3), Vigueur 4
+**ZIK (Rival, Trandoshan)** — Two-Weapon Combat, régénération (+2 blessures/round si non KO)
+**IG-RM "SEPT" (Rival, droïde lourd)** — mode Locked & Loaded (tourelle, blaster lourd à répétition 11 dégâts Longue)
 
-Combat possible — ou négociation tendue. Les Serres ne veulent pas mourir, mais ils ne reculeront pas facilement.
-
-**PNJ : Les Serres**
-- **Kreel Voss** — Rival. Blessure 15. Combat à distance (lourdes) 3. Fusil blaster longue portée.
-- **Zik & Tok** — Sbires (groupe). Blessure 5. Pistolets blaster, grenades fumigènes.
+Fiche complète à conserver dans un bestiaire dédié pour réutilisation. Quand elles apparaissent pour la première fois, **c'est une vraie menace dès le départ** — pas de version échauffement.
 
 **XP :** 20 XP
 
@@ -488,7 +497,7 @@ Les joueurs croisent un Devaronian charmeur qui les observe depuis une table de 
 ## SESSION 8 — "L'OMBRE DU VERDICT GRIS"
 
 **Durée estimée :** ~4h  
-**Contenu :** Pression montante. Révélation commanditaire. Vektor indirect. Hopner humanisée. Edna réagit.
+**Contenu :** Pression montante. Révélation commanditaire. Vektor indirect. Hopner humanisée. Edna réagit. **Mort de Rezz** (gut-punch émotionnel).
 
 ### La pression monte
 
@@ -498,12 +507,15 @@ De retour sur Murkhana après le Moria, les joueurs sentent l'étau :
 - **Le prochain convoi :** Un nouveau convoi de conscrits part bientôt du Port Gris. Hashk veut agir avant.
 - **Les rues changent :** Le Chant des Marées est chanté plus ouvertement. Des armes circulent. Seren Awk recrute dans les Fosses. Boss Iptab renforce ses gardes.
 
+### Mort de Rezz
+
+Les joueurs apprennent (ou découvrent) que **Rezz, le barman du Fond du Trou, a été exécuté** par les hommes de Vektor — un avertissement pour quiconque parlerait aux chasseurs. Pas une scène de combat. Juste un cadavre dans une ruelle. Gut-punch émotionnel d'autant plus fort que les joueurs ont eu une relation tendue avec lui (méfiance après S1, peut-être réconciliation entre S2 et S8).
+
 ### Révélation du commanditaire
 
 Par l'un des chemins suivants (le MJ choisit le plus naturel) :
 - **Fenn Sudo** : *"Votre cliente est en orbite au-dessus d'Arrakha en ce moment même."*
 - **Basch** (ses propres recherches) : *"J'ai remonté la chaîne. Le commanditaire, c'est le Protectorat d'Auril — l'Amiral Hopner en personne."*
-- **Les Serres** (si encore en jeu) laissent échapper qu'ils travaillent pour "l'Amiral".
 - **Un officier du Protectorat** en uniforme gris du Verdict Gris se présente pour récupérer Hashk (si les joueurs l'ont capturé).
 
 ### Hopner humanisée
@@ -554,6 +566,7 @@ Quel que soit le choix, le Chant des Marées frémit — dans les Fosses ou dans
 - Évacuation chaotique : civils, enfants, blessés, droïdes B1 qui couvrent la fuite
 - Combat contre stormtroopers + transport blindé. Possibilité de rencontre avec des **Vautours Rouges** attirés par le chaos.
 - Hashk blessé mais vivant — ou capturé
+- **Galerie 12 (Swipping) :** Si Swipping pousse l'enquête sur Krev pendant le chaos, il peut atteindre la galerie 12 et trouver des indices solides — peut-être même un témoin qui a vu Krev transféré aux Gorges de Lucas (à explorer en Acte 2-3).
 
 **Sur Murkhana (si les joueurs restent) :**
 - Tension dans les rues. Les cellules s'agitent. Le Chant monte.
@@ -579,6 +592,10 @@ Quel que soit le choix, le Chant des Marées frémit — dans les Fosses ou dans
 **Charognard d'Arrakha ("Vautour Rouge")** — Volant, silhouette 1. En nuée (×5) : Blessure 3, Griffes dégâts 4.
 
 **Tunnelier** — Vermiforme géant, silhouette 4. Blessure 30, Blindage 2, Bagarre 3, Écrasement dégâts 10 (Recul). Tunnelier : disparaît et réapparaît à portée moyenne. Usage : Acte 3 de préférence.
+
+### Créatures des Fosses (Murkhana)
+
+**Limier des Fosses** — Prédateur aquatique, silhouette 1. Nemesis, Blessure 25, Encaissement 4, Défense 2/0 en eau. Aveugle. Membres préhensiles (Grapple sur 2 Avantages), morsure (Crit 2, 10 dégâts). Vulnérable feu/explosifs. Voir SESSION2.md pour la fiche complète.
 
 ### Droïdes de combat — Stats EotE
 
@@ -624,12 +641,13 @@ Quel que soit le choix, le Chant des Marées frémit — dans les Fosses ou dans
 
 | Nom | Espèce | Lieu | Rôle | Réf |
 |---|---|---|---|---|
-| **Rezz** | Bith | Murkhana | Barman / informateur | — |
+| **Rezz** | Bith | Murkhana | Barman / informateur — méfiant après S1, mort en S8 | — |
+| **Drukk** | Weequay | Nid (S2 uniquement) | Sbire capturé en S1, livré au syndicat ou libéré en S2 | — |
 | **Fenn Sudo** | Twi'lek | Murkhana | Agent de Gekko | *sudo* |
 | **Nox Erso** | Humaine | Murkhana | Agent républicain sous couverture | *Erso* |
 | **Jyn Tracert** | Humaine | Arrakha | Informatrice Consortium (+ espion Gekko) | *tracert* |
 | **Torque Venn** | Koorivar | Murkhana (Forge) | Ferrailleur en chef de Hashk | *Torque* |
-| **TX-73 "Sept-Trois"** | Droïde tactique T-series | Murkhana (Forge) | Cerveau stratégique de Hashk, immobile, cynique | *TX* (canon) |
+| **TX-73 "Sept-Trois"** | Droïde tactique T-series | Murkhana (Forge) | Cerveau stratégique de Hashk, immobile, cynique. **PAS mentionné en S2.** | *TX* (canon) |
 | **Seren Awk** | Aqualish | Murkhana (Fosses) | Coordinatrice des cellules de Hashk | *awk* |
 | **Kael Saul** | Gossam | Arrakha (Terrier) | Logisticien de Hashk sur Arrakha | *Saul (Jaguar D. Saul, One Piece)* |
 | **Vrak Chmod** | Gran | Murkhana (Port Gris) | Chef des dockers, récupérable | *chmod* |
@@ -642,13 +660,13 @@ Quel que soit le choix, le Chant des Marées frémit — dans les Fosses ou dans
 | **Mara Crypt** | Gossam | Murkhana | Leader communautaire (arrière-plan en Acte 1) | *crypt* |
 | **Majordome Grep** | Twi'lek | Le Moria | Gestionnaire de la station | *grep* |
 | **Sly Nmap** | Devaronian | Le Moria | Tueur à gages de Gekko | *nmap* |
-| **Kreel Voss** | Humain | Mobile | Chef des Serres | — |
-| **Zik & Tok** | Rodiens | Mobile | Éclaireurs des Serres | — |
-| **Vekk Draal** | Nikto | Murkhana | Cible tutoriel | — |
+| **Kreel Voss** | Humain | Mobile | Chef des Serres — apparition reportée (timing à décider) | — |
+| **Vol, Zik, IG-RM "Sept"** | Mandalorien / Trandoshan / Droïde | Mobile | Les Serres (version dure) — apparition reportée | — |
+| **Vekk Draal** | Nikto | Murkhana | Cible tutoriel S1 | — |
 
-### Les Serres
+### Les Serres — Apparition reportée
 
-*(Stats dans la Session 6)*
+Les Serres ont été retirées de la Session 2. Quand elles apparaîtront (timing à décider — S6, S8, ou plus tard), c'est **directement en version dure** : Kreel Voss (Nemesis ex-renseignement avec Adversary 2 + Lethal Blows 2), Vol (Mandalorien avec bouclier déflecteur), Zik (Trandoshan Two-Weapon Combat + régénération), IG-RM "Sept" (droïde lourd avec mode Locked & Loaded). Stats complètes à conserver dans un bestiaire dédié pour réutilisation.
 
 ---
 
