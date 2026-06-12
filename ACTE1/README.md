@@ -62,7 +62,7 @@ Le MJ lit (ou paraphrase) le texte suivant aux joueurs. C'est Edna qui parle —
 >
 > *"La ville, c'est une tour géante de misère. En bas, les Fosses — inondées, toxiques, dangereuses. Au milieu, là où on vit, c'est supportable. En haut, les chefs de syndicats se la coulent douce dans des bureaux volés. Les syndicats contrôlent tout : le racket, les drogues, les ports. Et au-dessus de tout ça — littéralement, en orbite — il y a l'Amiral."*
 >
-> *"Personne sait son nom complet. Tout le monde l'appelle 'l'Amiral.' Elle a des stormtroopers, un Destroyer, et un deal avec les syndicats : ils font régner l'ordre en bas, elle les laisse tranquilles. Et les gens qui peuvent pas payer ? Ils sont 'recrutés' pour aller travailler dans les mines, sur une lune qui s'appelle Arrakha."*
+> *"Personne sait son nom complet. Tout le monde l'appelle 'l'Amiral.' Elle a des stormtroopers et un Destroyer, et elle ne met jamais les pieds ici. On raconte que les syndicats paient quelqu'un en orbite pour qu'on les laisse travailler. Qui ? Personne sait. Personne demande. Et les gens qui peuvent pas payer ? Ils sont 'recrutés' pour aller travailler dans les mines, sur Arrakha — la deuxième planète du système."*
 >
 > *Elle marque un temps.*
 >
@@ -123,7 +123,7 @@ Silhouette 4, Vitesse 4, Maniabilité +1, Blindage 3, Coque 20, Contrainte 15, B
 **HWK-290 :**
 Silhouette 4, Vitesse 3, Maniabilité 0, Blindage 2, Coque 16, Contrainte 14, Boucliers 1/1. Canon laser léger avant (dégâts 5, Courte, avant). Furtivité intégrée : +1⚫ aux scans ennemis pour détecter le vaisseau.
 
-**Le vaisseau a une dette :** Le vaisseau n'est pas gratuit — il est financé par le Consortium (30% de chaque prime = remboursement). Ça donne au MJ un levier narratif : si les joueurs ne prennent pas de contrats, le vaisseau est en danger de saisie.
+**Le vaisseau appartient au groupe** *(choix acté en Session 0 — voir joueurs.md)* : le YT-1300 est à eux, pas au Consortium. Les 30% prélevés sur chaque prime sont des frais de fonctionnement du Nid, pas un remboursement. Le levier narratif n'est pas la saisie mais l'entretien : carburant, réparations et pièces sont à la charge du groupe — sans contrats, le vaisseau reste cloué au sol.
 
 ### Obligations — Table adaptée + Guide d'exploitation
 
@@ -231,7 +231,7 @@ Deux Koorivar armés (gardes de Hashk) abordent les joueurs :
 
 *(Contenu mécanique détaillé dans SESSION2.md)*
 
-**XP :** 15 XP (+5 XP bonus si le Limier a été affronté)
+**XP :** 10 XP de base + 5 XP bonus (bon RP / choix intéressant) + 5 XP si le Limier a été affronté — plus les 10 XP de rattrapage S1 annoncés en début de session *(voir SESSION2.md)*
 
 ---
 
@@ -250,7 +250,7 @@ Un commerçant des niveaux bas (pas un agent de Hashk — juste un Murkhanais qu
 
 Infiltration ou assaut d'un **entrepôt de syndicat** dans les niveaux intermédiaires. Gardes (sbires syndicat + 1-2 B1 Sentinelles Chromés). Le MJ choisit l'approche selon les joueurs : furtivité, négociation, combat, ou mix.
 
-**Ce que la mission révèle :** La cargaison saisie est du "tribut" — des crédits et du matériel destinés à un cargo du Protectorat qui vient récupérer le paiement tous les mois. Murkhana n'est pas anarchique — elle est **contrôlée à distance** par Hopner via les syndicats.
+**Ce que la mission révèle :** La cargaison saisie est du "tribut" — des crédits et du matériel destinés à un cargo du Protectorat qui vient récupérer le paiement tous les mois. La rumeur que tout le monde répète sans pouvoir la vérifier ("les syndicats paient quelqu'un en orbite") devient une **preuve** sous leurs yeux : Murkhana n'est pas anarchique — elle est **contrôlée à distance** par le Protectorat via les syndicats. C'est la première fois que le système a un visage et une logistique.
 
 ### Approfondir Murkhana (~1h)
 
@@ -271,7 +271,9 @@ Après la mission, le commerçant tient parole — il donne un rendez-vous dans 
 
 ### Arrivée sur Arrakha
 
-> *Rouge à perte de vue. Canyons titanesques. Torren accrochée à la roche comme un parasite. Et au-dessus, le Verdict Gris — une épée suspendue.*
+> *Rouge à perte de vue. Canyons titanesques. Torren accrochée à la roche comme un parasite. Et en orbite, une frégate grise du Protectorat — une sentinelle suspendue au-dessus du désert.*
+
+**Note MJ :** Garder le *Verdict Gris* hors champ pour l'instant — sa première vraie apparition (déploiement des navettes en S9, entrée dans le système en Acte 2) doit rester un moment d'escalade. En S4, la frégate suffit à dire "le Protectorat regarde".
 
 **Premier choc :** Accents murkhanais partout. Pierres Noires au cou. Affiches "Programme d'Emploi Minier".
 
@@ -343,7 +345,7 @@ Affiches de propagande. Lycée du Progrès. FSK qui patrouille les quartiers ric
 
 Dans une place de Kelden, un écran holographique diffuse un discours de l'Amiral. Les joueurs **voient Hopner** pour la première fois — pas une abstraction, une personne.
 
-> *Le visage de l'Amiral Hopner apparaît — une femme d'une soixantaine d'années, cheveux gris tirés en arrière, uniforme impeccable. Elle ne crie pas. Elle ne menace pas. Elle parle calmement, comme une enseignante.*
+> *Le visage de l'Amiral Hopner apparaît — une femme d'une cinquantaine d'années, cheveux gris tirés en arrière, uniforme impeccable. Elle ne crie pas. Elle ne menace pas. Elle parle calmement, comme une enseignante.*
 >
 > *"Citoyens du Protectorat. Cette semaine, nos équipes médicales ont vacciné 12 000 enfants sur Forscan Prime. Notre programme agricole a augmenté les rendements de 8%. Et nos forces de sécurité ont intercepté trois cargaisons d'épice destinées à vos quartiers."*
 >
@@ -579,7 +581,7 @@ Quel que soit le choix, le Chant des Marées frémit — dans les Fosses ou dans
 >
 > *Tout le monde sait que la prochaine fois, ce sera le vrai affrontement.*
 
-**XP :** 20 XP | **Total Acte 1 :** 145 XP
+**XP :** 20 XP | **Total Acte 1 :** ~150 XP (140 XP de base + 10 XP de rattrapage S1, hors bonus situationnels)
 
 ---
 
@@ -650,7 +652,7 @@ Quel que soit le choix, le Chant des Marées frémit — dans les Fosses ou dans
 | **TX-73 "Sept-Trois"** | Droïde tactique T-series | Murkhana (Forge) | Cerveau stratégique de Hashk, immobile, cynique. **PAS mentionné en S2.** | *TX* (canon) |
 | **Seren Awk** | Aqualish | Murkhana (Fosses) | Coordinatrice des cellules de Hashk | *awk* |
 | **Kael Saul** | Gossam | Arrakha (Terrier) | Logisticien de Hashk sur Arrakha | *Saul (Jaguar D. Saul, One Piece)* |
-| **Vrak Chmod** | Gran | Murkhana (Port Gris) | Chef des dockers, récupérable | *chmod* |
+| **Vrak Chmod** | Humain | Murkhana (Port Gris) | Chef des dockers, récupérable — rencontré dans la sidequest "Le Pont" | *chmod* |
 | **Boss Iptab** | Weequay | Murkhana (Hauts) | Chef syndicat des Hauts, antagoniste | *iptables* |
 | **Préfet Daran Null** | Humain | Arrakha | Gouverneur fantoche | */dev/null* |
 | **Ping** | Bith | Arrakha | Tenancier silencieux | *ping* |

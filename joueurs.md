@@ -163,7 +163,7 @@
 **Obligation :** Lié au devoir (5)  
 **Motivations :** Liberté / Découverte
 
-**Background :** Swipping avait un mentor — un vieux chasseur duros nommé **Krev** qui lui a tout appris. Il y a deux ans, Krev a pris un contrat dans le secteur Auril : traquer une créature rare sur une lune minière. Il n'est jamais revenu. Pas de corps, pas de message. Swipping a voyagé jusqu'à Murkhana pour retrouver sa trace — le dernier port où Krev a été vu avant de partir vers Arrakha.
+**Background :** Swipping avait un mentor — un vieux chasseur duros nommé **Krev** qui lui a tout appris. Il y a deux ans, Krev a pris un contrat dans le secteur Auril : traquer une créature rare sur un monde minier. Il n'est jamais revenu. Pas de corps, pas de message. Swipping a voyagé jusqu'à Murkhana pour retrouver sa trace — le dernier port où Krev a été vu avant de partir vers Arrakha.
 
 **Pourquoi Murkhana :** C'est l'escale logique. Un docker du Port Gris se souvient : *"Le Duros avec le gros fusil ? Il a pris un cargo vers Arrakha."* Swipping a rejoint le Consortium en attendant de trouver un moyen d'aller sur Arrakha. Edna l'a recruté parce qu'un chasseur de gros gibier, c'est utile — et parce qu'elle a senti que ce Duros avait besoin d'un endroit où poser ses affaires.
 

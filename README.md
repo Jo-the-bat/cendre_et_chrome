@@ -724,7 +724,7 @@ Torv cherche désespérément des agents locaux — des gens sur le terrain qui 
 **Rôle dans la campagne :** Apparaît dans l'Acte 2 ou 3, offrant aux joueurs une alternative légitime mais frustrante. Il est honnête sur les limites de ce qu'il peut offrir — et si les joueurs le poussent, il finira par leur révéler l'existence de l'Accord d'Ossus. C'est un moment de bascule potentiel pour la campagne.
 
 #### Nox Erso — L'agent fantôme
-*(Fiche complète dans la section Révélations Majeures — Révélation 4)*
+*(Fiche complète dans la section Révélations Majeures — Révélation 5)*
 
 Un agent du Renseignement Militaire de la Nouvelle République opère sous couverture dans le secteur sous le nom de "Nox". Les joueurs la rencontrent dès l'Acte 1 comme une mécanicienne serviable. En réalité, elle alimente secrètement le conflit pour forcer la République à intervenir — un "Luthen Rael" du secteur Auril. Linus Torv ne connaît pas son existence. Quand il l'apprend, c'est un séisme.
 
@@ -763,7 +763,7 @@ Les joueurs pourront, au fil de la campagne, choisir de s'allier à l'un de ces 
 - **Session 3 :** Mission entrepôt — révèle le pacte syndicats/Hopner. Ambiance Fosses.
 - **Session 4 :** Arrakha. Colonie, exploitation, sauvetage mineur. Le réseau rapporte.
 - **Session 5 :** Forscan Prime — vitrine + **mission concrète** (contact disparu ou protection). FSK, Réseau Racine.
-- **Session 6 :** Retour + réseau visible + **rencontre Hashk** + embuscade des Serres. Tournant narratif.
+- **Session 6 :** Retour + réseau visible + **rencontre Hashk**. Tournant narratif. *(Les Serres peuvent apparaître à partir d'ici — timing à décider, voir ACTE1/BESTIAIRE/BESTIAIRE_SERRES.md.)*
 - **Session 7 :** **Le Moria** — session sociale chez Gekko. Sabacc, ambiance, premier contact Hutt. Respiration.
 - **Session 8 :** Pression — Vektor, commanditaire révélé (Hopner), humanisation. Edna réagit.
 - **Session 9 :** Climax — Raid limité Arrakha, 5 choix, le Chant frémit.
@@ -1078,7 +1078,7 @@ Pour les trajets entre Murkhana, Arrakha, Forscan Prime, le Moria, et le Cron Dr
 | **Préfet Daran Null** | Protectorat | Arrakha | Gouverneur fantoche d'Arrakha | Acte 1-3 | */dev/null* (Unix) |
 | **Ping** | Neutre | Arrakha | Tenancier de Chez Ping, silencieux | Acte 1-4 | *ping* (commande réseau) |
 | **Tova Wget** | Civile | Arrakha (Puits Rouges) | Cheffe d'équipe minière, voix civile indépendante | Acte 1-4 | *wget* (téléchargement Unix) |
-| **Enfant de Hopner** | ??? | Arrakha | Révélation 2 — identité secrète | Acte 2-4 | À nommer |
+| **Lyn Vivi** | Protectorat (secret) | Arrakha (Torren) | Fille de Hopner sous fausse identité — Révélation 2 | Acte 1 (S4, anonyme) → Acte 2-4 | *Nefertari Vivi (One Piece)* |
 | **Mara Crypt** | Peuple | Murkhana | Leader communautaire, voix de l'autodétermination | Acte 2-4 | *crypt* (commande Unix) |
 | **Reth Sabo** | NUS | Murkhana (Acte 2+) | "Conseiller diplomatique" — agent de contrôle de la NUS | Acte 2-4 | *Sabo (One Piece)* |
 | **Kreel Voss** | Indépendant | Mobile | Chef des Serres (chasseurs rivaux) | Acte 1-2 | — |
@@ -1159,11 +1159,12 @@ Le MJ peut lire ces paroles à voix haute lors de trois moments clés : la premi
 ### Chefs de syndicats de Murkhana
 
 #### Vrak Chmod — Le récupérable
-- **Espèce :** Gran | **Âge :** ~40 ans
-- **Rôle :** Chef du syndicat des dockers du Port Gris. Contrôle le transit maritime et spatial.
+- **Espèce :** Humain (Murkhanais — Pierre Noire au cou) | **Âge :** ~55 ans
+- **Rôle :** Chef du syndicat des dockers du Port Gris. Contrôle le transit spatial. C'est aussi **"Pont"** — le contact récurrent de Hashk au Port Gris *(non révélé aux joueurs)*.
 - **Référence :** *chmod* — commande Unix de modification des permissions. Celui qui décide qui passe et qui ne passe pas.
-- **Personnalité :** Pragmatique, fatigué du crime, mais coincé. Vrak n'est pas devenu chef de syndicat par ambition — il a hérité du poste de son prédécesseur (assassiné). Il gère le Port Gris avec une efficacité morne. Il paie le tribut à Hopner, organise la conscription, et déteste ce qu'il fait. **Pourquoi il ne s'arrête pas :** Son frère cadet travaille dans les mines d'Arrakha — envoyé là par le prédécesseur de Vrak comme "garantie". Si Vrak cesse de coopérer, son frère descend aux Gorges de Lucas. Hopner ne l'a jamais menacé directement — elle n'a pas besoin de le faire. Le système se suffit à lui-même. Si les joueurs l'approchent, il est ouvert à la négociation — mais il ne bougera que si son frère est en sécurité.
-- **Rôle dans la campagne :** Les joueurs interagissent avec ses dockers dès la Session 2 (piste du Port Gris). Il peut devenir un allié discret (sabotage de convois, informations sur les mouvements impériaux) ou un obstacle si les joueurs le brusquent. Pendant le soulèvement, le contrôle du Port Gris est un objectif stratégique — Vrak peut l'ouvrir de l'intérieur ou le verrouiller.
+- **Apparence :** Massif, mains de docker abîmées, cicatrice ancienne au-dessus de l'œil droit. N'a pas l'air d'un leader — a l'air d'un gars qui bosse. *(Rencontré par les joueurs dans la sidequest "Le Pont" — voir ACTE1/SIDEQUEST1_LE_PONT.md.)*
+- **Personnalité :** Direct, pragmatique, fatigué du crime, mais coincé. Ancien docker, il a pris la tête du syndicat il y a quinze ans, quand son prédécesseur a été assassiné — personne d'autre ne voulait du poste. Il gère le Port Gris avec une efficacité morne. Il paie le tribut, organise la conscription, et déteste ce qu'il fait. **Pourquoi il ne s'arrête pas :** Son frère cadet travaille dans les mines d'Arrakha — envoyé là par le prédécesseur de Vrak comme "garantie". Si Vrak cesse de coopérer, son frère descend aux Gorges de Lucas. Hopner ne l'a jamais menacé directement — elle n'a pas besoin de le faire. Le système se suffit à lui-même. **Pourquoi il est déjà "Pont" :** Renseigner discrètement Hashk, c'est sa façon de résister sans s'exposer. Mais il ne s'engagera ouvertement que si son frère est en sécurité — c'est la clé pour le retourner.
+- **Rôle dans la campagne :** Les joueurs interagissent avec ses dockers dès la Session 2 (piste du Port Gris) et l'ont aidé directement dans la sidequest "Le Pont". Il peut devenir un allié discret (sabotage de convois, informations sur les mouvements impériaux) ou un obstacle si les joueurs le brusquent. Pendant le soulèvement, le contrôle du Port Gris est un objectif stratégique — Vrak peut l'ouvrir de l'intérieur ou le verrouiller. La révélation "Vrak = Pont" (Acte 2) frappera d'autant plus fort que les joueurs l'auront déjà servi.
 
 #### Boss Iptab — L'irrécupérable
 - **Espèce :** Weequay | **Âge :** ~55 ans
@@ -1351,6 +1352,12 @@ L'Accord d'Ossus est le socle géopolitique du statu quo — et sa révélation 
 
 Le fil rouge : **Il n'y a pas de camp innocent.** Même la République a du sang sur les mains — pas par malveillance, mais par calcul. C'est le genre de vérité qui transforme des chasseurs de primes en acteurs politiques.
 
+### 7. Cendres & Chrome — Le titre comme thème
+
+*Inspiration : le préambule du document — "peut-on construire la liberté sur les ruines de la guerre ?"*
+
+C'est le fil visuel et moral qui traverse toute la campagne. Les **cendres** : Murkhana bombardée, les océans morts, un peuple qui survit dans les décombres. Le **chrome** : les machines de guerre qu'on déterre, qu'on répare, qu'on retourne contre leurs anciens usages. La progression par acte est dans le tableau ci-dessus — décor (Acte 1), armée en marche (Acte 2 : les Rouillés), miroir des camps (Acte 3 : Rouillés vs Chromés vs Dark Troopers), choix d'avenir (Acte 4 : l'usine de droïdes — renaissance ou malédiction ?). Ce thème n'a pas de porteur unique : chaque faction y répond à sa manière, et la réponse finale appartient aux joueurs.
+
 ### 8. Le miroir — Les échos du réel
 
 *Inspiration : Le discours de Nemik (Andor), la fenêtre d'Overton, la fatigue démocratique*
@@ -1383,7 +1390,7 @@ Le discours sécuritaire pose un faux dilemme : soit vous acceptez l'autorité (
 
 **Porteur : Hashk Ellor** — Session 6, première vraie rencontre.
 
-> *"L'Amiral vous dira qu'il maintient l'ordre. C'est vrai. Il maintient l'ordre dans lequel les gens meurent dans les mines et les syndicats se partagent les restes. L'ordre, c'est pas la paix — c'est l'absence de résistance. Quand quelqu'un vous dit que le seul choix, c'est entre lui et le chaos, c'est qu'il a peur que vous trouviez une troisième option."*
+> *"L'Amiral vous dira qu'elle maintient l'ordre. C'est vrai. Elle maintient l'ordre dans lequel les gens meurent dans les mines et les syndicats se partagent les restes. L'ordre, c'est pas la paix — c'est l'absence de résistance. Quand quelqu'un vous dit que le seul choix, c'est entre lui et le chaos, c'est qu'il a peur que vous trouviez une troisième option."*
 
 **Progression :** S2-5 les joueurs voient Hopner comme "celle qui maintient l'ordre." S6 Hashk plante le doute. S10-12 les joueurs voient les limites de chaque camp. S18+ ils construisent (ou détruisent) la troisième option.
 
@@ -1452,7 +1459,17 @@ Avec l'Accord d'Ossus (déjà détaillé dans les Thèmes), la campagne compte *
 
 ---
 
-### Révélation 1 : L'enfant de Hopner — Lyn Vivi
+### Révélation 1 : L'Accord d'Ossus — Le pacte silencieux
+
+*(Détails complets dans la section Géographie — "L'Accord d'Ossus" — et dans le Thème 6.)*
+
+**Le secret :** La Nouvelle République tolère Hopner en échange de la sécurité du temple Jedi de Luke Skywalker sur Ossus. Les peuples du secteur n'ont pas été abandonnés par incompétence — ils ont été sacrifiés par choix.
+
+**Timing idéal :** Acte 2 — révélée par Linus Torv (confession), Hashk (propagande) ou Gekko (monnayage).
+
+---
+
+### Révélation 2 : L'enfant de Hopner — Lyn Vivi
 
 **Le secret :** L'Amiral Gracia Hopner a une fille — **Lyn Vivi**, 16 ans — qui vit sur Arrakha sous une fausse identité, parmi les mineurs.
 
@@ -1482,7 +1499,7 @@ Avec l'Accord d'Ossus (déjà détaillé dans les Thèmes), la campagne compte *
 
 ---
 
-### Révélation 2 : Le projet secret de Forge-7 — "Les Dark Troopers"
+### Révélation 3 : Le projet secret de Forge-7 — "Les Dark Troopers"
 
 **Le secret :** Dans les niveaux inférieurs de Forge-7, la base impériale de Forscan Prime, Hopner développe un programme de droïdes de combat de nouvelle génération : les **Dark Troopers**. Ce ne sont pas des stormtroopers améliorés — ce sont des **droïdes autonomes en armure lourde**, des machines de guerre pures, sans pilote, sans conscience, sans hésitation.
 
@@ -1544,7 +1561,7 @@ Hashk construit des B1 rouillés dans une cave avec des pièces recyclées. Hopn
 
 ---
 
-### Révélation 3 : Le Plan B de Hashk — "La Politique de la Terre Brûlée"
+### Révélation 4 : Le Plan B de Hashk — "La Politique de la Terre Brûlée"
 
 **Le secret :** Hashk Ellor a un plan de contingence en cas d'échec du coup d'état. Si les forces de Hopner reprennent Arrakha, il a positionné des charges explosives dans les galeries principales des Puits Rouges et des mines profondes. L'activation de ces charges provoquerait l'effondrement de l'ensemble du réseau minier, détruisant définitivement les réserves de doonium et tuant potentiellement des milliers de mineurs encore dans les galeries.
 
@@ -1570,7 +1587,7 @@ Sa logique : *"Si Arrakha ne peut pas être libre, alors Arrakha ne sera utile �
 
 ---
 
-### Révélation 4 : L'agent républicain fantôme — "Le Luthen du secteur Auril"
+### Révélation 5 : L'agent républicain fantôme — "Le Luthen du secteur Auril"
 
 **Le secret :** Quelqu'un au sein de la Nouvelle République — au-dessus du sénateur Linus Torv, dans les sphères du Renseignement Militaire de la République — fournit secrètement des armes, du financement et des renseignements à la rébellion de Hashk Ellor. Non pas pour aider Arrakha, mais pour **déstabiliser Hopner**.
 
@@ -1650,7 +1667,7 @@ Elle alimente le conflit pour une raison : forcer la main de la République. Si 
 - [x] Boîte à outils MJ (noms murkhanais, 20 rumeurs, 12 événements, 8 complications de voyage)
 
 ### Personnages
-- [ ] **Nommer l'enfant de Hopner** — Avec une référence cohérente (informatique/tech).
+- [x] **Nommer l'enfant de Hopner** — Fait : **Lyn Vivi** *(réf : Nefertari Vivi, One Piece — voir Révélation 2)*.
 
 ### Worldbuilding
 - [ ] **Le Moria développé** — Session dédiée : ambiance casino spatial, arène de gladiateurs, tables de sabacc, marché noir VIP, règles de Gekko ("pas de violence dans ma station"), PNJ résidents.
