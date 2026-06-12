@@ -792,7 +792,7 @@ Le Verdict Gris lance un **raid limité** sur Arrakha — pas un assaut total, m
 - Le sénateur **Linus Torv** prend contact avec les joueurs et offre une alternative républicaine — frustrante mais légitime.
 
 #### Éléments clés
-*(Détail session par session dans ACTE2_README.md)*
+*(Détail session par session dans ACTE2_README.md — à écrire)*
 - **Session 10 :** Conséquences du raid. Factions en alerte. Vektor a un dossier sur les joueurs. Seren Awk recrute ouvertement.
 - **Session 11 :** Gekko invite les joueurs au Moria. Session sociale : sabacc, luxe, deal/chantage. Gekko révèle ce qu'il sait (Jyn Tracert, soupçons sur Nox, intérêts de Hopner sur Arrakha).
 - **Session 12 :** Linus Torv prend contact. Alternative républicaine — légitime mais frustrante. **Révélation de l'Accord d'Ossus** si les joueurs le poussent.
@@ -818,7 +818,7 @@ Le **vrai soulèvement** est lancé. Le Chant des Marées éclate dans les rues 
 **Ton :** Épique, dramatique, conséquences lourdes. Les PNJ que les joueurs aiment peuvent mourir.  
 **Objectif narratif :** Les conséquences du choix de l'Acte 2 se déploient. La situation escalade en conflit ouvert. 5 routes distinctes selon le camp choisi.
 
-*(Détail : 5 routes × 6 sessions dans ACTE3_README.md)*
+*(Détail : 5 routes × 6 sessions dans ACTE3_README.md — à écrire)*
 
 #### Événements mondiaux (toutes routes)
 - **Session 20 :** Dark Troopers Phase I frappent — assassinats ciblés, "soldats noirs" dans la nuit.
@@ -1675,8 +1675,8 @@ Elle alimente le conflit pour une raison : forcer la main de la République. Si 
 - [ ] **Scénarios exploitant la verticalité** — Poursuite du haut vers les Fosses, infiltration des Hauts, exploration des ruines au sommet de la Tour Argente.
 
 ### Structure de jeu
-- [x] **Acte 2 session par session** — Sessions 10-17 dans ACTE2_README.md
-- [x] **Acte 3 session par session** — 5 routes séparées × 6 sessions dans ACTE3_README.md
+- [ ] **Acte 2 session par session** — Sessions 10-17, à écrire dans ACTE2_README.md
+- [ ] **Acte 3 session par session** — 5 routes séparées × 6 sessions, à écrire dans ACTE3_README.md
 - [ ] **Acte 4 session par session + épilogues par camp** — Sessions 24-30+.
 - [ ] **Scénarios tactiques de combat de droïdes** — Scénarios types : défense d'entrepôt (B1 Sentinelles), assaut de position (Droideka), rencontre imprévisible (Bricolé), bataille urbaine (Rouillés vs Chromés).
 

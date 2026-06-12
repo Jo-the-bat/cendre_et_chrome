@@ -732,6 +732,7 @@ Namie et Swipping reviennent en parallèle (rapports de leurs missions à narrer
 - **Vrak n'est jamais mentionné** dans les retours aux absents — c'est volontaire. Quand "Pont" sera révélé, seuls les 4 présents auront déjà la connexion.
 
 **Pour la suite de la campagne :**
+- **Le nom "Krev Drakk" (prononcé à la table)** : quand les 4 présents raconteront la mission, Swipping entendra "Krev" et pensera forcément à son mentor. Ne pas esquiver — utiliser le moment. La fausse alerte retombe vite (*"Drakk. Un Klatooinian de Hutt Space. Pas ton Duros."*), mais elle remet la quête de Krev sur la table et rappelle à tout le monde que personne n'a de nouvelles du vrai Krev. Une déception courte qui relance le fil personnel de Swipping (galerie 12, Gorges de Lucas).
 - **Vrak comme contact** : utilisable pour faire passer des choses/personnes par le port. PNJ utilitaire majeur.
 - **Révélation "Vrak = Pont"** : à placer quand tu le sentiras — probablement Acte 2, quand les PJ recreusent l'enquête Hashk après une révélation majeure. Moment de bascule narrative.
 - **Le syndicat des dockers** : nouvelle faction connue des PJ. Peut devenir alliée du soulèvement de Hashk plus tard.
