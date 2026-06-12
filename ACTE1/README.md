@@ -260,6 +260,8 @@ Après la mission, le commerçant tient parole — il donne un rendez-vous dans 
 - **Un Murkhanais montre un holo :** Murkhana "d'avant" — les océans noirs, les récifs. *"C'était chez nous. Avant que la guerre ne prenne tout."* Puis, plus bas : *"Mon grand-père disait que les récifs chantaient. Quand la marée montait, le corail vibrait — une note basse, profonde. C'est de là que vient le Chant des Marées. On chantait avec l'océan."*
 - **Une Gossam qui ne chante pas :** Dans un coin, une femme Gossam d'une cinquantaine d'années mange en silence pendant que les autres chantent. Si un joueur lui demande pourquoi, elle répond sèchement : *"Chanter, ça nourrit personne. On a besoin de travail, pas de chansons."* C'est **Mara Crypt** — les joueurs ne le savent pas encore, mais ils s'en souviendront quand elle réapparaîtra en Acte 2 comme voix de l'autodétermination.
 
+*(Contenu détaillé dans SESSION3.md)*
+
 **XP :** 15 XP
 
 ---
