@@ -24,7 +24,7 @@
 
 - Les joueurs ont : la prime Vekk (S1), la planque de Vekk + le bouclier Activv1 de Tatouf (S2), et la sidequest "Le Pont" jouée par Michel, Sanji, Lolita et Tatouf (**Vrak n'est jamais nommé** devant Namie et Swipping)
 - **Jet d'Obligation (d100)** en début de session — voir les déclencheurs possibles ci-dessous
-- Prépare les noms : **Denn Vorix** (commerçant koorivar), **Savet Nuur** (son cousin), **Raal Besh** (collecteur en chef gran), **"Quatre"** (B1 déclassé)
+- Prépare les noms : **Denn Vorix** (commerçant koorivar), **Savet Nuur** (son cousin), **Raal Besh** (collecteur en chef gran), **"Null"** (B1 déclassé)
 - Pierres Noires : 🔵 sur les jets sociaux avec des Murkhanais pour les porteurs
 
 ### Déclencheurs d'Obligation possibles cette session
@@ -120,7 +120,7 @@ Laisse les quatre présents raconter le Hangar 47 à Namie et Swipping (ou racon
    │ [Bureau de Raal]          [MONTE-CHARGE] │
    │  manifestes, coffre        ▓ vers le toit│
    │  console d'alarme          [Établi :     │
-   │                             "Quatre",    │
+   │                             "Null",      │
    │ [ZONE TRIBUT]               B1 déclassé] │
    │  caisses scellées,                       │
    │  crédits, épice    [CAISSES SAISIES]     │
@@ -146,7 +146,7 @@ Laisse les quatre présents raconter le Hangar 47 à Namie et Swipping (ou racon
 | **Vigilance ou Survie** (Sanji) — observer les rotations | Moyenne 🟣🟣 | Confirme les effectifs, le rythme de la ronde, et repère le **conduit d'aération** (flanc est, donne sur une passerelle intérieure en hauteur) |
 | **Larcin** (Namie) — examiner la porte de service | Facile 🟣 | Serrure mécanique ancienne. Crochetable en 2 rounds (Larcin Moyenne 🟣🟣 sur place, silencieux) |
 | **Informatique** (Michel) — pirater le boîtier d'alarme en façade | Moyenne 🟣🟣 | L'alarme est neutralisée sans bruit. **Échec + Menaces :** Raal reçoit un signal d'anomalie — les gardes intérieurs se mettent en alerte (+🔵 à leur initiative) |
-| **Tromperie** (Lolita) — se présenter comme "l'unité de récupération de l'Enclos" | Moyenne 🟣🟣 | Les gardes **attendent justement** quelqu'un de l'Enclos pour emporter le B1 déclassé ("Quatre"). Lolita entre, voit tout l'intérieur, et peut déverrouiller la porte de service de l'intérieur. *(Brack Arp passe vraiment après-demain — le bluff est plausible.)* |
+| **Tromperie** (Lolita) — se présenter comme "l'unité de récupération de l'Enclos" | Moyenne 🟣🟣 | Les gardes **attendent justement** quelqu'un de l'Enclos pour emporter le B1 déclassé ("Null"). Lolita entre, voit tout l'intérieur, et peut déverrouiller la porte de service de l'intérieur. *(Brack Arp passe vraiment après-demain — le bluff est plausible.)* |
 | **Charme/Corruption** (un ferrailleur voisin) | Facile 🟣 | *"L'Entrepôt 9 ? Les collecteurs. Ils gueulent moins fort depuis deux jours — le chef stresse pour son transfert. Et ils ont un vieux B1 sur l'établi qu'ils arrêtent pas de débrancher-rebrancher."* |
 
 **Bonne reco = +🔵 ou 🔵🔵 aux jets d'ouverture du casse. Reco sautée = les joueurs découvrent le plan en marchant dessus.**
@@ -189,9 +189,9 @@ Laisse les quatre présents raconter le Hangar 47 à Namie et Swipping (ou racon
 | **Zone tribut** | Les caisses de crédits brûlent et **l'épice s'enflamme** : nuage stupéfiant sur 6m — +⚫⚫ à toute action dans la zone, Résilience Moyenne 🟣🟣 ou 2 Stress par round. Et le butin part en fumée. |
 | **Caisses saisies** | La cargaison de Savet est détruite. Mission ratée au sens de Denn — pas de repas dans les Fosses, pas de Pierre, pas de sa vérité. |
 | **Murs côté Couloir des Ferrailleurs** | La cloison cède sur un atelier **occupé**. Des civils murkhanais blessés. Les Fosses s'en souviendront — et le réseau de Hashk aussi. |
-| **Monte-charge / établi** | "Quatre" est pulvérisé. Lolita le découvrira après coup. |
+| **Monte-charge / établi** | "Null" est pulvérisé. Lolita le découvrira après coup. |
 
-### "Quatre" — Le B1 sur l'établi (pour Lolita)
+### "Null" — Le B1 sur l'établi (pour Lolita)
 
 Près du monte-charge, un B1 est allongé sur un établi, châssis cabossé, **boulon de contrainte** vissé au torse. Une étiquette pend à son poignet : *"DÉCLASSÉ — ENLÈVEMENT ENCLOS — EFFACEMENT MÉMOIRE"*.
 
@@ -199,7 +199,7 @@ S'il est rebranché ou si le boulon est retiré (Mécanique Facile 🟣, ou Loli
 
 > *Le droïde s'allume par à-coups. Sa tête pivote vers vous. Son vocodeur grésille.*
 >
-> *"Unité B1-S4. 'Quatre'. Directive ?"*
+> *"Unité B1-S4. 'Null'. Directive ?"*
 >
 > *Un silence. Puis, plus bas, presque un bug :*
 >
@@ -207,7 +207,7 @@ S'il est rebranché ou si le boulon est retiré (Mécanique Facile 🟣, ou Loli
 
 **Options :** le laisser (l'Enclos l'efface après-demain), le libérer dans la nature (il errera — il réapparaîtra), le confier à **Ori Hex** au Marché des Carcasses (refuge temporaire), ou l'emmener. **C'est la graine de la sidequest "Les Enchaînés"** — ne force rien, plante.
 
-**Note MJ :** "Quatre" ne se bat pas — son bras-blaster tremble et son processeur saute des cycles. Il n'est pas un compagnon de combat. Il est une **question** : qu'est-ce qu'on doit à une machine qui dit "s'il vous plaît" ?
+**Note MJ :** "Null" ne se bat pas — son bras-blaster tremble et son processeur saute des cycles. Il n'est pas un compagnon de combat. Il est une **question** : qu'est-ce qu'on doit à une machine qui dit "s'il vous plaît" ?
 
 ### LA DÉCOUVERTE — La rumeur devient preuve
 
@@ -365,7 +365,7 @@ Si tes joueurs n'avaient pas fait certaines pistes en S2, elles peuvent se rejou
 | **Tour Argente (bureau de Kole)** | Denn mentionne le bureau du niveau 22 — *"vide depuis des semaines, mais ses gens passent encore"* |
 | **Port Gris (registres)** | La planque au quai 2 est l'occasion — le registre des vols de "Kole, D." est dans le même terminal |
 | **Fenn Sudo** | Il s'invite au repas des Fosses ("quel hasard"), trop bien habillé, et félicite les joueurs pour l'Entrepôt 9 — qu'il n'est pas censé connaître |
-| **Nox Erso** | Si le groupe a du matériel à réparer après le casse (ou un B1 nommé "Quatre" à rafistoler...), l'atelier de Kesh est la destination naturelle |
+| **Nox Erso** | Si le groupe a du matériel à réparer après le casse (ou un B1 nommé "Null" à rafistoler...), l'atelier de Kesh est la destination naturelle |
 
 ---
 
@@ -413,7 +413,7 @@ Edna écoute le rapport. Sa réaction dépend du butin :
 | **Équipement** | Ce que portaient les gardes (pistolets, matraques) — rien d'exceptionnel |
 | **XP** | 15 XP (+5 si plan remarquable ou si la décision du butin a été jouée à fond en RP) |
 | **Pierre Noire** | +1 (Denn) — le groupe approche du seuil "amis de Murkhana" |
-| **Contacts** | **Denn Vorix** (niveau 11, pièces détachées, oreille des Fosses) ; potentiellement **"Quatre"** et la piste **Ori Hex** |
+| **Contacts** | **Denn Vorix** (niveau 11, pièces détachées, oreille des Fosses) ; potentiellement **"Null"** et la piste **Ori Hex** |
 | **Information** | **La preuve du pacte** : manifestes du tribut vers le Protectorat (+ éventuellement la ligne "renseignement mensuel" et l'en-tête BSS) |
 | **Direction** | Arrakha (S4), avec le contact Jyn Tracert |
 
@@ -425,7 +425,7 @@ Edna écoute le rapport. Sa réaction dépend du butin :
 
 | Facile 🟣 | Moyenne 🟣🟣 | Difficile 🟣🟣🟣 |
 |---|---|---|
-| Larcin (examiner la porte), Charme ferrailleur, Perception bureau, Mécanique boulon de "Quatre", Vigilance Drukk-style (détails du hall) | Vigilance/Survie reco, Larcin crochetage, Informatique alarme/terminal, Tromperie bluff "Enclos", Sang-froid Tatouf (Citerne), Résilience nuage d'épice | Informatique B1 Sentinelles (figer), Furtivité dans le champ de vision de Raal (3 yeux : +⚫ en plus) |
+| Larcin (examiner la porte), Charme ferrailleur, Perception bureau, Mécanique boulon de "Null", Vigilance Drukk-style (détails du hall) | Vigilance/Survie reco, Larcin crochetage, Informatique alarme/terminal, Tromperie bluff "Enclos", Sang-froid Tatouf (Citerne), Résilience nuage d'épice | Informatique B1 Sentinelles (figer), Furtivité dans le champ de vision de Raal (3 yeux : +⚫ en plus) |
 
 ### Combat — Pools des PNJ
 
@@ -488,7 +488,7 @@ Fuit vers le monte-charge à 8+ blessures. **S'il s'échappe, il a vu les visage
 | **Denn Vorix** | Koorivar | Niveau 11 / Fosses | Commerçant ; donneur de tuyau ; porte d'entrée des Fosses (Pierre + repas) ; futur moteur de conséquence (battu si le tribut est volé) | Rien — il est exactement ce qu'il paraît. C'est ça qui compte. |
 | **Savet Nuur** | Koorivar | Niveau 11 | Le cousin transporteur | — |
 | **Raal Besh** | Gran | Entrepôt 9 | Collecteur en chef d'Iptab | La peur panique de décevoir le transfert |
-| **"Quatre" (B1-S4)** | Droïde B1 | Entrepôt 9 (établi) | Sentinelle déclassée promise à l'effacement | "...Directive ? S'il vous plaît ?" |
+| **"Null" (B1-S4)** | Droïde B1 | Entrepôt 9 (établi) | Sentinelle déclassée promise à l'effacement | "...Directive ? S'il vous plaît ?" |
 | **La Gossam qui ne chante pas** | Gossam | Repas des Fosses | **Mara Crypt** — ne pas la nommer | Tout. Elle reviendra en Acte 2. |
 | **Le père de Savet** | Koorivar | Repas des Fosses | L'holo d'avant, les récifs qui chantaient | — |
 
@@ -510,7 +510,7 @@ Fuit vers le monte-charge à 8+ blessures. **S'il s'échappe, il a vu les visage
 
 - **La banalité du mal** : tampons, manifestes, calendrier mural. Le pacte n'est pas un secret, c'est une procédure.
 - **Le quai 2** : le même quai pour les conscrits et pour l'argent. Mêmes uniformes gris, même routine, même silence.
-- **Le hall de droïdes** : les enfants qui jouent dans la carcasse, le ferrailleur qui soude pendant que le droïde tient la lampe — les machines font partie de la famille ici. Contraste avec "Quatre", étiqueté comme un meuble.
+- **Le hall de droïdes** : les enfants qui jouent dans la carcasse, le ferrailleur qui soude pendant que le droïde tient la lampe — les machines font partie de la famille ici. Contraste avec "Null", étiqueté comme un meuble.
 - **Le Chant à plusieurs voix** pour la première fois — pas un signal, pas un événement. Juste un quartier qui se souvient en mangeant.
 - **La Gossam qui coud** pendant que les autres chantent. Plante-la dans un coin de la mémoire des joueurs.
 - **L'holo de l'océan** qui tourne sur la table pendant le reste du repas. Personne ne l'éteint.
