@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1344 864" font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+  <defs>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#d9cfbb" stroke-width="1"/></pattern>
+    <pattern id="rubble" width="16" height="16" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="16" height="16" fill="#9a8f7a"/><path d="M0 0H16M0 8H16" stroke="#7c7160" stroke-width="1.3"/></pattern>
+    <style>
+      .ttl{font-size:26px;font-weight:700;fill:#241f17}
+      .scl{font-size:14px;fill:#241f17}
+      .lbl{font-size:14px;fill:#241f17;paint-order:stroke;stroke:#f4efe3;stroke-width:3}
+      .sub{font-size:12px;fill:#4a4234;paint-order:stroke;stroke:#f4efe3;stroke-width:2.5}
+      .gl{font-size:13px;font-weight:700;fill:#a11515;paint-order:stroke;stroke:#fff;stroke-width:2.5}
+    </style>
+  </defs>
+
+  <rect width="1344" height="864" fill="#f4efe3"/>
+  <rect width="1344" height="864" fill="url(#grid)"/>
+
+  <rect x="0" y="0" width="1344" height="72" fill="#e7dec9"/>
+  <line x1="0" y1="72" x2="1344" y2="72" stroke="#cdbf9f" stroke-width="2"/>
+  <text x="24" y="46" class="ttl">② LA GALERIE EFFONDRÉE — palier 2</text>
+  <g transform="translate(980,30)"><line x1="0" y1="0" x2="48" y2="0" stroke="#241f17" stroke-width="3"/><line x1="0" y1="-5" x2="0" y2="5" stroke="#241f17" stroke-width="3"/><line x1="48" y1="-5" x2="48" y2="5" stroke="#241f17" stroke-width="3"/><text x="58" y="5" class="scl">1 carreau ≈ 1,5 m</text></g>
+
+  <!-- entry from embranchement -->
+  <rect x="528" y="72" width="120" height="72" fill="#efe7d6" stroke="#2b2620" stroke-width="6"/>
+  <text x="656" y="116" class="lbl">↑ depuis l'EMBRANCHEMENT</text>
+
+  <!-- gallery floor -->
+  <rect x="96" y="144" width="1152" height="600" rx="10" fill="#efe7d6" stroke="#2b2620" stroke-width="7"/>
+
+  <!-- collapsed ceiling beams (obstacles / cover) -->
+  <g stroke="#5b5240" stroke-width="16" stroke-linecap="round">
+    <line x1="240" y1="240" x2="540" y2="456"/>
+    <line x1="600" y1="216" x2="828" y2="468"/>
+    <line x1="912" y1="456" x2="1140" y2="252"/>
+  </g>
+  <text x="250" y="232" class="sub">poutres Baktoid écroulées (couverture lourde)</text>
+
+  <!-- frozen conveyor -->
+  <rect x="300" y="540" width="600" height="30" rx="15" fill="#cdbf9f" stroke="#5b5240" stroke-width="2"/>
+  <g stroke="#5b5240" stroke-width="2"><line x1="348" y1="540" x2="348" y2="570"/><line x1="420" y1="540" x2="420" y2="570"/><line x1="492" y1="540" x2="492" y2="570"/><line x1="564" y1="540" x2="564" y2="570"/><line x1="636" y1="540" x2="636" y2="570"/><line x1="708" y1="540" x2="708" y2="570"/><line x1="780" y1="540" x2="780" y2="570"/><line x1="852" y1="540" x2="852" y2="570"/></g>
+  <text x="312" y="534" class="sub">convoyeur figé</text>
+
+  <!-- rubble piles (force the serpentine path) -->
+  <path d="M150 360 q40 -34 80 0 q34 30 0 48 q-44 28 -80 0 q-26 -26 0 -48Z" fill="url(#rubble)" stroke="#2b2620" stroke-width="3"/>
+  <path d="M1060 600 q44 -36 88 0 q36 32 0 52 q-46 30 -88 0 q-28 -28 0 -52Z" fill="url(#rubble)" stroke="#2b2620" stroke-width="3"/>
+  <text x="150" y="346" class="sub">gravats</text>
+
+  <!-- FOREUSE burrow (right wall) -->
+  <circle cx="1248" cy="360" r="30" fill="#2b2620" opacity="0.88"/>
+  <path d="M1218 360 q-90 30 -150 150" fill="none" stroke="#2b2620" stroke-width="4" stroke-dasharray="8 7"/>
+  <text x="1108" y="336" class="lbl" style="font-weight:700">FOREUSE</text>
+  <text x="1066" y="500" class="sub">creuse / rouvre / effondre</text>
+  <text x="1078" y="518" class="sub">(le terrain change en jeu)</text>
+
+  <!-- GOULOT 2 exit (bottom) -->
+  <rect x="576" y="744" width="120" height="48" fill="#efe7d6" stroke="#a11515" stroke-width="6"/>
+  <text x="708" y="776" class="gl">⛓ GOULOT ② — ↓ vers la SALLE DES DORMANTS</text>
+
+  <text x="24" y="824" class="sub">≈ 24 × 13 carreaux · Sanji lit le terrain instable (anticipe les chutes) · Tatouf cale une voûte / arrache une poutre · Michel provoque un effondrement contrôlé pour enterrer la Foreuse.</text>
+</svg>

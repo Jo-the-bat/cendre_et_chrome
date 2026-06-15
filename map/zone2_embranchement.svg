@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1248 1056" font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+  <defs>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#d9cfbb" stroke-width="1"/></pattern>
+    <pattern id="water" width="24" height="16" patternUnits="userSpaceOnUse"><rect width="24" height="16" fill="#6fa6c2"/><path d="M0 8 q6 -5 12 0 t12 0" fill="none" stroke="#9ccadf" stroke-width="1.4"/></pattern>
+    <pattern id="rust" width="14" height="14" patternUnits="userSpaceOnUse"><rect width="14" height="14" fill="#b5651d"/><circle cx="3" cy="4" r="1.4" fill="#8a4a12"/><circle cx="10" cy="9" r="1.2" fill="#d98a3a"/><circle cx="7" cy="2" r="1" fill="#d98a3a"/></pattern>
+    <style>
+      .ttl{font-size:26px;font-weight:700;fill:#241f17}
+      .scl{font-size:14px;fill:#241f17}
+      .lbl{font-size:14px;fill:#241f17;paint-order:stroke;stroke:#f4efe3;stroke-width:3}
+      .sub{font-size:12px;fill:#4a4234;paint-order:stroke;stroke:#f4efe3;stroke-width:2.5}
+      .gl{font-size:13px;font-weight:700;fill:#a11515;paint-order:stroke;stroke:#fff;stroke-width:2.5}
+    </style>
+  </defs>
+
+  <rect width="1248" height="1056" fill="#f4efe3"/>
+  <rect width="1248" height="1056" fill="url(#grid)"/>
+
+  <rect x="0" y="0" width="1248" height="72" fill="#e7dec9"/>
+  <line x1="0" y1="72" x2="1248" y2="72" stroke="#cdbf9f" stroke-width="2"/>
+  <text x="24" y="46" class="ttl">L'EMBRANCHEMENT NOYÉ — le puzzle</text>
+  <g transform="translate(880,30)"><line x1="0" y1="0" x2="48" y2="0" stroke="#241f17" stroke-width="3"/><line x1="0" y1="-5" x2="0" y2="5" stroke="#241f17" stroke-width="3"/><line x1="48" y1="-5" x2="48" y2="5" stroke="#241f17" stroke-width="3"/><text x="58" y="5" class="scl">1 carreau ≈ 1,5 m</text></g>
+
+  <!-- entry from collector (top) -->
+  <rect x="540" y="72" width="120" height="120" fill="#efe7d6" stroke="#2b2620" stroke-width="6"/>
+  <text x="668" y="120" class="lbl">↑ depuis le COLLECTEUR (goulot ①)</text>
+
+  <!-- central hub (hexagon) -->
+  <path d="M456 480 L552 336 L744 336 L840 480 L744 624 L552 624 Z" fill="#efe7d6" stroke="#2b2620" stroke-width="7"/>
+  <rect x="552" y="180" width="96" height="156" fill="#efe7d6" stroke="#2b2620" stroke-width="6"/>
+  <text x="648" y="468" text-anchor="middle" class="lbl" style="font-weight:700">NŒUD DE</text>
+  <text x="648" y="490" text-anchor="middle" class="lbl" style="font-weight:700">DISTRIBUTION</text>
+  <text x="648" y="520" text-anchor="middle" class="sub">« suis le chœur, pas le fantôme »</text>
+
+  <!-- route FANTÔME (left, trap) -->
+  <rect x="384" y="456" width="72" height="48" fill="#efe7d6" stroke="#2b2620" stroke-width="6"/>
+  <rect x="120" y="384" width="264" height="192" rx="10" fill="url(#rust)" opacity="0.92" stroke="#2b2620" stroke-width="7"/>
+  <text x="252" y="456" text-anchor="middle" class="lbl" style="fill:#3a1d06;font-weight:700;stroke-width:0">☠ FANTÔME</text>
+  <text x="252" y="480" text-anchor="middle" class="sub" style="fill:#3a1d06;stroke-width:0">beacon mort qui boucle</text>
+  <text x="252" y="500" text-anchor="middle" class="sub" style="fill:#3a1d06;stroke-width:0">= nid de Rouille (embuscade)</text>
+  <text x="252" y="610" text-anchor="middle" class="gl">PIÈGE — cul-de-sac</text>
+
+  <!-- route TRAPPE (right, shortcut) -->
+  <rect x="840" y="408" width="72" height="48" fill="#efe7d6" stroke="#2b2620" stroke-width="6"/>
+  <rect x="912" y="372" width="120" height="120" rx="6" fill="#efe7d6" stroke="#2b2620" stroke-width="5" stroke-dasharray="8 5"/>
+  <text x="972" y="424" text-anchor="middle" class="lbl">TRAPPE</text>
+  <text x="972" y="446" text-anchor="middle" class="sub">raccourci · Namie</text>
+  <path d="M972 492 V900" stroke="#2b2620" stroke-width="4" stroke-dasharray="9 7"/>
+  <text x="986" y="700" class="sub">court-circuite l'embranchement → galerie</text>
+
+  <!-- route CONDUIT NOYÉ (bottom, true way) -->
+  <rect x="552" y="624" width="144" height="288" fill="url(#water)" stroke="#2b2620" stroke-width="7"/>
+  <text x="430" y="690" class="lbl" style="fill:#0d3a52">conduit noyé ↓</text>
+  <text x="360" y="712" class="sub" style="fill:#0d3a52;stroke-width:2">VRAIE voie (immergée — Lolita NON)</text>
+  <text x="360" y="732" class="sub" style="fill:#0d3a52;stroke-width:2">Michel draine (pompe/valve) = au sec</text>
+  <text x="624" y="940" text-anchor="middle" class="gl" style="fill:#0d3a52">↓ vers la GALERIE</text>
+
+  <!-- route PASSERELLE (bottom-right, gap over void) -->
+  <rect x="744" y="624" width="240" height="288" fill="#2b2620" opacity="0.82"/>
+  <rect x="744" y="624" width="240" height="60" fill="#cdbf9f" stroke="#5b5240" stroke-width="3"/>
+  <rect x="744" y="852" width="240" height="60" fill="#cdbf9f" stroke="#5b5240" stroke-width="3"/>
+  <text x="864" y="660" text-anchor="middle" class="sub">passerelle</text>
+  <text x="864" y="744" text-anchor="middle" class="gl" style="fill:#7a5a12">↯ LE VIDE</text>
+  <text x="864" y="770" text-anchor="middle" class="lbl" style="fill:#7a5a12">saut (Coord.) / grappin</text>
+  <text x="864" y="888" text-anchor="middle" class="sub">→ galerie</text>
+
+  <text x="24" y="1030" class="sub">≈ 24 × 20 carreaux · le seul vrai choix de chemin. Lolita = boussole (chœur ≠ fantôme) · Sanji = flux (air/pente) · Michel = plan Baktoid / drainage · Namie = trappe. Mauvaise voie = temps perdu = dormants mangés en bas.</text>
+</svg>

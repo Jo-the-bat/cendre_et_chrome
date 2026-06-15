@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1344 960" font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+  <defs>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#d9cfbb" stroke-width="1"/></pattern>
+    <pattern id="rust" width="14" height="14" patternUnits="userSpaceOnUse"><rect width="14" height="14" fill="#b5651d"/><circle cx="3" cy="4" r="1.4" fill="#8a4a12"/><circle cx="10" cy="9" r="1.2" fill="#d98a3a"/><circle cx="7" cy="2" r="1" fill="#d98a3a"/></pattern>
+    <linearGradient id="rustfade" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#b5651d" stop-opacity="0.85"/><stop offset="1" stop-color="#b5651d" stop-opacity="0"/></linearGradient>
+    <style>
+      .ttl{font-size:26px;font-weight:700;fill:#241f17}
+      .scl{font-size:14px;fill:#241f17}
+      .lbl{font-size:14px;fill:#241f17;paint-order:stroke;stroke:#f4efe3;stroke-width:3}
+      .sub{font-size:12px;fill:#4a4234;paint-order:stroke;stroke:#f4efe3;stroke-width:2.5}
+      .gl{font-size:13px;font-weight:700;fill:#a11515;paint-order:stroke;stroke:#fff;stroke-width:2.5}
+      .cx{font-size:12px;font-weight:700;fill:#13502a;paint-order:stroke;stroke:#f4efe3;stroke-width:2.5}
+    </style>
+  </defs>
+
+  <rect width="1344" height="960" fill="#f4efe3"/>
+  <rect width="1344" height="960" fill="url(#grid)"/>
+
+  <rect x="0" y="0" width="1344" height="72" fill="#e7dec9"/>
+  <line x1="0" y1="72" x2="1344" y2="72" stroke="#cdbf9f" stroke-width="2"/>
+  <text x="24" y="46" class="ttl">③ LA SALLE DES DORMANTS — palier 3</text>
+  <g transform="translate(980,30)"><line x1="0" y1="0" x2="48" y2="0" stroke="#241f17" stroke-width="3"/><line x1="0" y1="-5" x2="0" y2="5" stroke="#241f17" stroke-width="3"/><line x1="48" y1="-5" x2="48" y2="5" stroke="#241f17" stroke-width="3"/><text x="58" y="5" class="scl">1 carreau ≈ 1,5 m</text></g>
+
+  <!-- entry -->
+  <rect x="576" y="72" width="120" height="72" fill="#efe7d6" stroke="#2b2620" stroke-width="6"/>
+  <text x="708" y="116" class="lbl">↑ depuis la GALERIE (goulot ②)</text>
+
+  <!-- room floor -->
+  <rect x="96" y="144" width="1152" height="672" rx="10" fill="#efe7d6" stroke="#2b2620" stroke-width="7"/>
+
+  <!-- Rouille creeping from the left -->
+  <rect x="103" y="151" width="240" height="658" fill="url(#rust)" opacity="0.65"/>
+  <rect x="343" y="151" width="180" height="658" fill="url(#rustfade)"/>
+  <text x="120" y="500" class="lbl" style="fill:#3a1d06;stroke-width:0;font-weight:700">la Rouille</text>
+  <text x="120" y="522" class="lbl" style="fill:#3a1d06;stroke-width:0;font-weight:700">les mange →</text>
+  <text x="120" y="544" class="sub" style="fill:#3a1d06;stroke-width:0">(timer : on en sauve</text>
+  <text x="120" y="562" class="sub" style="fill:#3a1d06;stroke-width:0">d'autant moins qu'on traîne)</text>
+
+  <!-- cradles : top row -->
+  <g fill="#d9cdb0" stroke="#5b5240" stroke-width="2">
+    <rect x="560" y="216" width="44" height="28"/><rect x="616" y="216" width="44" height="28"/><rect x="672" y="216" width="44" height="28"/>
+    <rect x="800" y="216" width="44" height="28"/><rect x="856" y="216" width="44" height="28"/><rect x="912" y="216" width="44" height="28"/><rect x="968" y="216" width="44" height="28"/><rect x="1024" y="216" width="44" height="28"/><rect x="1080" y="216" width="44" height="28"/><rect x="1136" y="216" width="44" height="28"/>
+  </g>
+  <!-- cradles : bottom row -->
+  <g fill="#d9cdb0" stroke="#5b5240" stroke-width="2">
+    <rect x="560" y="716" width="44" height="28"/><rect x="616" y="716" width="44" height="28"/>
+    <rect x="800" y="716" width="44" height="28"/><rect x="856" y="716" width="44" height="28"/><rect x="912" y="716" width="44" height="28"/><rect x="1024" y="716" width="44" height="28"/><rect x="1080" y="716" width="44" height="28"/><rect x="1136" y="716" width="44" height="28"/>
+  </g>
+  <text x="560" y="208" class="sub">berceaux de chargement (coques mortes ⚫ / conscients sauvables)</text>
+
+  <!-- the three "complexes" (center) -->
+  <rect x="664" y="420" width="320" height="156" rx="8" fill="none" stroke="#1f6f3a" stroke-width="2" stroke-dasharray="6 5"/>
+  <g stroke="#1f6f3a" stroke-width="3" fill="#bfe3c8">
+    <rect x="690" y="452" width="52" height="34"/>
+    <rect x="800" y="452" width="52" height="34"/>
+    <rect x="746" y="512" width="52" height="34"/>
+  </g>
+  <text x="716" y="444" text-anchor="middle" class="cx">INIT</text>
+  <text x="826" y="444" text-anchor="middle" class="cx">ECHO</text>
+  <text x="772" y="566" text-anchor="middle" class="cx">[sans nom]</text>
+  <text x="900" y="498" class="cx">← les 3 « complexes »</text>
+  <text x="900" y="516" class="sub">(contremaître · mémoire · enfant)</text>
+
+  <!-- blast door to chamber -->
+  <rect x="576" y="816" width="120" height="40" fill="#cdbf9f" stroke="#2b2620" stroke-width="7"/>
+  <text x="708" y="844" class="gl" style="fill:#7a5a12">▣ PORTE BLINDÉE — ↓ CHAMBRE BAKTOID (Larcin/Méca Difficile)</text>
+
+  <text x="24" y="916" class="sub">≈ 24 × 14 carreaux · cœur émotionnel · Lolita parle aux dormants (les réveille/calme) · Michel décroche les berceaux · « combien on en sort ? » Echo est le plus rongé (sauver son cœur-mémoire).</text>
+</svg>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 1056" font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+  <defs>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#d9cfbb" stroke-width="1"/></pattern>
+    <pattern id="rust" width="14" height="14" patternUnits="userSpaceOnUse"><rect width="14" height="14" fill="#b5651d"/><circle cx="3" cy="4" r="1.4" fill="#8a4a12"/><circle cx="10" cy="9" r="1.2" fill="#d98a3a"/><circle cx="7" cy="2" r="1" fill="#d98a3a"/></pattern>
+    <style>
+      .ttl{font-size:26px;font-weight:700;fill:#241f17}
+      .scl{font-size:14px;fill:#241f17}
+      .lbl{font-size:14px;fill:#241f17;paint-order:stroke;stroke:#f4efe3;stroke-width:3}
+      .sub{font-size:12px;fill:#4a4234;paint-order:stroke;stroke:#f4efe3;stroke-width:2.5}
+      .gl{font-size:13px;font-weight:700;fill:#a11515;paint-order:stroke;stroke:#fff;stroke-width:2.5}
+      .cx{font-size:12px;font-weight:700;fill:#13502a;paint-order:stroke;stroke:#f4efe3;stroke-width:2.5}
+    </style>
+  </defs>
+
+  <rect width="1440" height="1056" fill="#f4efe3"/>
+  <rect width="1440" height="1056" fill="url(#grid)"/>
+
+  <rect x="0" y="0" width="1440" height="72" fill="#e7dec9"/>
+  <line x1="0" y1="72" x2="1440" y2="72" stroke="#cdbf9f" stroke-width="2"/>
+  <text x="24" y="46" class="ttl">④ LA CHAMBRE BAKTOID — le climax</text>
+  <g transform="translate(1080,30)"><line x1="0" y1="0" x2="48" y2="0" stroke="#241f17" stroke-width="3"/><line x1="0" y1="-5" x2="0" y2="5" stroke="#241f17" stroke-width="3"/><line x1="48" y1="-5" x2="48" y2="5" stroke="#241f17" stroke-width="3"/><text x="58" y="5" class="scl">1 carreau ≈ 1,5 m</text></g>
+
+  <!-- entry from dormants -->
+  <rect x="672" y="72" width="120" height="72" fill="#cdbf9f" stroke="#2b2620" stroke-width="6"/>
+  <text x="804" y="112" class="lbl">↑ depuis la SALLE DES DORMANTS (porte blindée)</text>
+  <text x="804" y="134" class="gl">↑ = aussi la SORTIE — effondrement 3 rounds après avoir brûlé le nid</text>
+
+  <!-- chamber floor -->
+  <rect x="96" y="144" width="1248" height="816" rx="10" fill="#efe7d6" stroke="#2b2620" stroke-width="7"/>
+
+  <!-- assembly line (top) -->
+  <rect x="240" y="240" width="816" height="44" rx="6" fill="#cdbf9f" stroke="#5b5240" stroke-width="2"/>
+  <g stroke="#5b5240" stroke-width="7" stroke-linecap="round"><line x1="300" y1="240" x2="300" y2="204"/><line x1="408" y1="240" x2="408" y2="204"/><line x1="516" y1="240" x2="516" y2="204"/><line x1="624" y1="240" x2="624" y2="204"/><line x1="732" y1="240" x2="732" y2="204"/><line x1="840" y1="240" x2="840" y2="204"/><line x1="948" y1="240" x2="948" y2="204"/></g>
+  <text x="252" y="312" class="sub">chaîne d'assemblage Baktoid (bras articulés, figée)</text>
+
+  <!-- schema consoles (left) -->
+  <rect x="168" y="456" width="132" height="48" rx="4" fill="#c7d8df" stroke="#2b2620" stroke-width="3"/>
+  <rect x="168" y="528" width="132" height="48" rx="4" fill="#c7d8df" stroke="#2b2620" stroke-width="3"/>
+  <text x="168" y="448" class="sub">consoles de schémas</text>
+
+  <!-- data-core vault (treasure) -->
+  <rect x="168" y="708" width="168" height="96" rx="5" fill="#efe7d6" stroke="#1f6f3a" stroke-width="5"/>
+  <rect x="180" y="720" width="144" height="72" rx="3" fill="none" stroke="#1f6f3a" stroke-width="2"/>
+  <text x="252" y="752" text-anchor="middle" class="cx" style="font-size:15px">★ COFFRE</text>
+  <text x="252" y="772" text-anchor="middle" class="cx">data-cœur</text>
+  <text x="168" y="828" class="cx">plans Baktoid — le trésor de Michel (Namie crochète)</text>
+
+  <!-- component bins (right) -->
+  <g fill="#d9cdb0" stroke="#5b5240" stroke-width="2"><rect x="1176" y="456" width="52" height="40"/><rect x="1236" y="456" width="52" height="40"/><rect x="1176" y="504" width="52" height="40"/><rect x="1236" y="504" width="52" height="40"/><rect x="1176" y="552" width="52" height="40"/><rect x="1236" y="552" width="52" height="40"/></g>
+  <text x="1130" y="448" class="sub">bacs de composants rares</text>
+
+  <!-- LA MÈRE (center, fused to fabricator) -->
+  <g transform="translate(744,592)">
+    <path d="M0 -118 C80 -106 132 -56 118 8 C150 38 132 104 70 116 C42 150 -46 148 -74 110 C-142 102 -150 30 -118 -2 C-138 -62 -78 -112 0 -118 Z" fill="url(#rust)" stroke="#3a1d06" stroke-width="6"/>
+    <path d="M0 -118 C80 -106 132 -56 118 8 C150 38 132 104 70 116 C42 150 -46 148 -74 110 C-142 102 -150 30 -118 -2 C-138 -62 -78 -112 0 -118 Z" fill="#1f6f3a" opacity="0.18"/>
+    <g stroke="#3a1d06" stroke-width="5" fill="none" opacity="0.8"><path d="M-84 -84 q-56 -40 -120 -38"/><path d="M96 -70 q56 -34 130 -22"/><path d="M-96 96 q-56 40 -128 34"/><path d="M88 104 q60 34 132 54"/></g>
+    <text x="0" y="-6" text-anchor="middle" class="lbl" style="fill:#fff;stroke:#3a1d06;stroke-width:4;font-size:22px;font-weight:700">LA MÈRE</text>
+    <text x="0" y="18" text-anchor="middle" class="sub" style="fill:#fff;stroke:#3a1d06;stroke-width:2.5">boss · enracinée au fabricateur</text>
+    <text x="0" y="38" text-anchor="middle" class="sub" style="fill:#fff;stroke:#3a1d06;stroke-width:2.5">engendre la Nuée (+1 section/round)</text>
+  </g>
+
+  <!-- (sortie = remonter par l'entrée en haut ; annotée là-haut) -->
+
+  <text x="24" y="1010" class="sub">≈ 26 × 17 carreaux · EXTRACTION sous pression, pas un duel : saisir le coffre + le micro-fabricateur (Tatouf porte) + les derniers dormants, brûler le nid (Michel), puis remonter en 3 rounds. La Mère immobilise plus qu'elle ne tue.</text>
+</svg>
