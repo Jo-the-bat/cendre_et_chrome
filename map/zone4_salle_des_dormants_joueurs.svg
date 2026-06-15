@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1344 880" font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+  <defs>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#d9cfbb" stroke-width="1"/></pattern>
+    <g id="droid"><circle r="17" fill="#d7cdb6" stroke="#4a4234" stroke-width="2.5"/><line x1="0" y1="-17" x2="0" y2="-26" stroke="#4a4234" stroke-width="2.5"/><circle cx="0" cy="-27" r="2.8" fill="#4a4234"/><circle cx="-6" cy="-3" r="3.2" fill="#2b2620"/><circle cx="6" cy="-3" r="3.2" fill="#2b2620"/><rect x="-8.5" y="5" width="17" height="4" rx="2" fill="#2b2620"/></g>
+  </defs>
+  <rect width="1344" height="880" fill="#f4efe3"/><rect width="1344" height="880" fill="url(#grid)"/>
+
+  <!-- entrée (ouverture) -->
+  <rect x="588" y="68" width="96" height="76" fill="#efe7d6" stroke="#2b2620" stroke-width="6"/>
+  <!-- sol -->
+  <rect x="96" y="144" width="1152" height="672" rx="10" fill="#efe7d6" stroke="#2b2620" stroke-width="8"/>
+
+  <!-- berceaux + droïdes (tous identiques) -->
+  <g fill="#d9cdb0" stroke="#5b5240" stroke-width="2">
+    <rect x="288" y="236" width="40" height="28"/><rect x="350" y="236" width="40" height="28"/><rect x="412" y="236" width="40" height="28"/>
+    <rect x="600" y="236" width="40" height="28"/><rect x="662" y="236" width="40" height="28"/><rect x="790" y="236" width="40" height="28"/><rect x="852" y="236" width="40" height="28"/><rect x="980" y="236" width="40" height="28"/><rect x="1042" y="236" width="40" height="28"/><rect x="1140" y="236" width="40" height="28"/>
+    <rect x="638" y="686" width="40" height="28"/><rect x="908" y="686" width="40" height="28"/><rect x="972" y="686" width="40" height="28"/><rect x="1076" y="686" width="40" height="28"/><rect x="1140" y="686" width="40" height="28"/>
+  </g>
+  <g>
+    <use href="#droid" transform="translate(308,224)"/><use href="#droid" transform="translate(370,224)"/><use href="#droid" transform="translate(432,224)"/>
+    <use href="#droid" transform="translate(620,224)"/><use href="#droid" transform="translate(682,224)"/><use href="#droid" transform="translate(810,224)"/><use href="#droid" transform="translate(872,224)"/><use href="#droid" transform="translate(1000,224)"/><use href="#droid" transform="translate(1062,224)"/><use href="#droid" transform="translate(1160,224)"/>
+    <use href="#droid" transform="translate(658,674)"/><use href="#droid" transform="translate(928,674)"/><use href="#droid" transform="translate(992,674)"/><use href="#droid" transform="translate(1096,674)"/><use href="#droid" transform="translate(1160,674)"/>
+    <!-- les 3 du centre, génériques -->
+    <use href="#droid" transform="translate(690,490)"/><use href="#droid" transform="translate(812,490)"/><use href="#droid" transform="translate(750,562)"/>
+  </g>
+
+  <!-- porte (sortie, neutre) -->
+  <rect x="588" y="816" width="120" height="38" fill="#9a8f7a" stroke="#2b2620" stroke-width="7"/>
+  <line x1="648" y1="816" x2="648" y2="854" stroke="#2b2620" stroke-width="4"/>
+</svg>

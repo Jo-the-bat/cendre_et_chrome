@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1344 752" font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+  <defs>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#d9cfbb" stroke-width="1"/></pattern>
+    <g id="rocks"><path d="M-28 16 L-19 -7 L-4 -16 L13 -9 L26 7 L22 18 L-24 18 Z" fill="#9a8f7a" stroke="#2b2620" stroke-width="2.5"/><path d="M-19 -7 L-4 -16 L2 1 Z" fill="#b3a98f"/><path d="M-4 -16 L13 -9 L6 3 Z" fill="#857b66"/><path d="M13 -9 L26 7 L11 9 Z" fill="#b3a98f"/></g>
+  </defs>
+  <rect width="1344" height="752" fill="#f4efe3"/><rect width="1344" height="752" fill="url(#grid)"/>
+
+  <!-- entrée (ouverture) -->
+  <rect x="552" y="72" width="96" height="76" fill="#efe7d6" stroke="#2b2620" stroke-width="6"/>
+  <!-- sol -->
+  <rect x="96" y="148" width="1152" height="556" rx="10" fill="#efe7d6" stroke="#2b2620" stroke-width="8"/>
+  <!-- poutres écroulées -->
+  <g stroke="#4a3f2c" stroke-width="20" stroke-linecap="round"><line x1="230" y1="230" x2="520" y2="430"/><line x1="600" y1="210" x2="828" y2="450"/><line x1="930" y1="440" x2="1150" y2="240"/></g>
+  <g stroke="#6b5d42" stroke-width="6" stroke-linecap="round"><line x1="230" y1="226" x2="520" y2="426"/><line x1="600" y1="206" x2="828" y2="446"/><line x1="930" y1="436" x2="1150" y2="236"/></g>
+  <!-- convoyeur -->
+  <rect x="300" y="520" width="560" height="30" rx="6" fill="#cdbf9f" stroke="#5b5240" stroke-width="2"/>
+  <g fill="none" stroke="#5b5240" stroke-width="2"><circle cx="330" cy="535" r="9"/><circle cx="390" cy="535" r="9"/><circle cx="450" cy="535" r="9"/><circle cx="510" cy="535" r="9"/><circle cx="570" cy="535" r="9"/><circle cx="630" cy="535" r="9"/><circle cx="690" cy="535" r="9"/><circle cx="750" cy="535" r="9"/><circle cx="810" cy="535" r="9"/></g>
+  <!-- gravats -->
+  <use href="#rocks" transform="translate(190,360) scale(1.2)"/>
+  <use href="#rocks" transform="translate(1090,610) scale(1.2)"/>
+  <!-- passage (goulot, neutre) -->
+  <rect x="552" y="704" width="120" height="44" fill="#efe7d6" stroke="#2b2620" stroke-width="6"/>
+</svg>

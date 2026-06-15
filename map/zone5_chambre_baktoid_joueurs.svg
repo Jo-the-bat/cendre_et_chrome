@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 896" font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+  <defs>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#d9cfbb" stroke-width="1"/></pattern>
+    <g id="arm"><rect x="-7" y="0" width="14" height="14" fill="#8a8170" stroke="#2b2620" stroke-width="2"/><line x1="0" y1="2" x2="0" y2="-22" stroke="#5b5240" stroke-width="6"/><line x1="0" y1="-22" x2="17" y2="-34" stroke="#5b5240" stroke-width="5"/><circle cx="0" cy="-22" r="3.5" fill="#2b2620"/><path d="M17 -34 l9 -3 m-9 3 l6 7" stroke="#2b2620" stroke-width="3" fill="none"/></g>
+    <g id="chest"><path d="M-32 -8 a32 20 0 0 1 64 0 Z" fill="#c08a3e" stroke="#3a2a10" stroke-width="3"/><rect x="-32" y="-8" width="64" height="36" rx="3" fill="#a9742e" stroke="#3a2a10" stroke-width="3"/><rect x="-32" y="-12" width="64" height="7" fill="#7a531f"/><line x1="-15" y1="-26" x2="-15" y2="28" stroke="#7a531f" stroke-width="3"/><line x1="15" y1="-26" x2="15" y2="28" stroke="#7a531f" stroke-width="3"/><rect x="-8" y="2" width="16" height="15" rx="2" fill="#e8c84a" stroke="#3a2a10" stroke-width="2"/></g>
+  </defs>
+  <rect width="1440" height="896" fill="#f4efe3"/><rect width="1440" height="896" fill="url(#grid)"/>
+
+  <!-- entrée (ouverture) -->
+  <rect x="672" y="72" width="96" height="76" fill="#efe7d6" stroke="#2b2620" stroke-width="6"/>
+  <!-- sol -->
+  <rect x="96" y="160" width="1248" height="720" rx="10" fill="#efe7d6" stroke="#2b2620" stroke-width="8"/>
+
+  <!-- chaîne d'assemblage + bras -->
+  <rect x="240" y="246" width="816" height="40" rx="6" fill="#cdbf9f" stroke="#5b5240" stroke-width="2"/>
+  <use href="#arm" transform="translate(300,246)"/><use href="#arm" transform="translate(420,246)"/><use href="#arm" transform="translate(540,246)"/><use href="#arm" transform="translate(660,246)"/><use href="#arm" transform="translate(780,246)"/><use href="#arm" transform="translate(900,246)"/>
+
+  <!-- consoles -->
+  <rect x="150" y="420" width="130" height="46" rx="4" fill="#c7d8df" stroke="#2b2620" stroke-width="3"/><rect x="150" y="486" width="130" height="46" rx="4" fill="#c7d8df" stroke="#2b2620" stroke-width="3"/>
+  <!-- coffre (générique) -->
+  <use href="#chest" transform="translate(238,700)"/>
+  <!-- bacs -->
+  <g fill="#d9cdb0" stroke="#5b5240" stroke-width="2"><rect x="1184" y="430" width="52" height="40"/><rect x="1244" y="430" width="52" height="40"/><rect x="1184" y="478" width="52" height="40"/><rect x="1244" y="478" width="52" height="40"/><rect x="1184" y="526" width="52" height="40"/><rect x="1244" y="526" width="52" height="40"/></g>
+
+  <!-- fabricateur central (machine, neutre — pas de créature) -->
+  <circle cx="744" cy="584" r="92" fill="#b8b0a0" stroke="#2b2620" stroke-width="5"/>
+  <circle cx="744" cy="584" r="58" fill="#cfc7b6" stroke="#5b5240" stroke-width="3"/>
+  <circle cx="744" cy="584" r="22" fill="#9a917e" stroke="#2b2620" stroke-width="3"/>
+  <g stroke="#5b5240" stroke-width="8" stroke-linecap="round"><line x1="744" y1="492" x2="744" y2="464"/><line x1="836" y1="584" x2="864" y2="584"/><line x1="744" y1="676" x2="744" y2="704"/><line x1="652" y1="584" x2="624" y2="584"/></g>
+</svg>

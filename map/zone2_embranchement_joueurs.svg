@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1344 960" font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+  <defs>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#d9cfbb" stroke-width="1"/></pattern>
+    <pattern id="water" width="26" height="18" patternUnits="userSpaceOnUse"><rect width="26" height="18" fill="#5f9fc0"/><path d="M0 9 q6.5 -6 13 0 t13 0" fill="none" stroke="#9ccadf" stroke-width="2"/><path d="M0 17 q6.5 -6 13 0 t13 0" fill="none" stroke="#9ccadf" stroke-width="1.4" opacity="0.6"/></pattern>
+  </defs>
+  <rect width="1344" height="960" fill="#f4efe3"/><rect width="1344" height="960" fill="url(#grid)"/>
+
+  <!-- entrée (ouverture) -->
+  <rect x="592" y="72" width="96" height="96" fill="#efe7d6" stroke="#2b2620" stroke-width="6"/>
+  <rect x="592" y="168" width="96" height="162" fill="#efe7d6" stroke="#2b2620" stroke-width="6"/>
+  <!-- hub -->
+  <path d="M480 470 L576 330 L768 330 L880 470 L768 600 L576 600 Z" fill="#efe7d6" stroke="#2b2620" stroke-width="8"/>
+  <!-- passage gauche + alcôve sèche (fantôme, neutre) -->
+  <rect x="408" y="446" width="72" height="48" fill="#efe7d6" stroke="#2b2620" stroke-width="6"/>
+  <rect x="120" y="396" width="288" height="196" rx="10" fill="#efe7d6" stroke="#2b2620" stroke-width="8"/>
+  <!-- passage droite + trappe fermée (neutre) -->
+  <rect x="880" y="446" width="70" height="48" fill="#efe7d6" stroke="#2b2620" stroke-width="6"/>
+  <rect x="980" y="440" width="60" height="60" rx="5" fill="#cdbf9f" stroke="#2b2620" stroke-width="4"/>
+  <circle cx="1010" cy="440" r="8" fill="none" stroke="#2b2620" stroke-width="4"/>
+  <!-- conduit noyé (eau) -->
+  <rect x="560" y="600" width="150" height="320" fill="url(#water)" stroke="#2b2620" stroke-width="8"/>
+  <!-- passerelle (vide + ledges) -->
+  <rect x="760" y="630" width="250" height="290" fill="#2b2620"/>
+  <rect x="760" y="630" width="250" height="58" fill="#cdbf9f" stroke="#5b5240" stroke-width="3"/>
+  <rect x="760" y="862" width="250" height="58" fill="#cdbf9f" stroke="#5b5240" stroke-width="3"/>
+</svg>
