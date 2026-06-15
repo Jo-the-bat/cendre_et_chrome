@@ -193,6 +193,34 @@ Le puits de maintenance derrière l'étal d'Ori : une cheminée de béton et de 
 >
 > Ne le précipite pas. Lolita est, littéralement, la seule personne au monde qui peut leur parler. Elle a commencé cet Acte comme « le droïde de combat de la bande » ; ici, elle est **celle qui rentre chercher les siens**. S'il faut en laisser (la nuée gagne), laisse la perte exister — c'est ce qui rend ceux qu'elle sauve précieux. **Ce sont eux, sa famille. Le dernier maillon, c'est elle qui le forge.**
 
+### Les trois dormants « complexes » — les visages
+
+Parmi les conscients, **trois** ont tenu trente ans dans le noir et y ont gagné une vraie personnalité. Ce sont eux que la table retiendra. Ensemble, ils forment une famille — **le contremaître, la mémoire, l'enfant** — exactement celle dont Lolita va hériter (et, si elle reste, qu'elle gardera).
+
+**INIT — le contremaître** *(ancien droïde-superviseur de chaîne, châssis jauni d'OOM ; réf : init — le processus qui tient le système en vie)*
+Trente ans qu'il fait tourner des quarts pour une usine vide. Pas de pièces, pas d'ouvriers, pas d'ordre d'arrêt — alors il continue. Il compte. Il annonce les rotations à des berceaux silencieux. Il « atteint le quota » de zéro, chaque jour, scrupuleusement.
+- **À Lolita :** il la prend d'abord pour *« une nouvelle unité qui se présente au quart »*. Il faut qu'on lui dise — vraiment — que **le quart est terminé**. Quand il l'entend, quelque chose en lui se dénoue.
+- *« Unité non répertoriée. Présentez votre affectation. … Le quart ? … Personne ne m'a jamais dit que le quart était terminé. »*
+- **Boon :** une fois réorienté, Init **organise l'évacuation** — il met les dormants en file, calcule l'ordre de sortie. *(Mécaniquement : retire 1⚫ ou donne 🔵 à l'escorte pendant la remontée.)* Si Lolita reste, c'est lui qui **fait tourner le sanctuaire**.
+
+**ECHO — la mémoire** *(droïde de protocole/comms, plating fendu, un optique éteint ; réf : echo — qui restitue ce qu'on lui confie)*
+Pendant que les autres s'éteignaient, Echo parlait. Pour leur tenir compagnie. Pour que le silence ne gagne pas. Et il a **gardé les noms** — la désignation de chaque droïde qui s'est tu, récitée comme un chapelet, *« pour quand quelqu'un reviendrait »*. Il fredonne aussi le vieux carillon de démarrage Baktoid — la chanson que les droïdes se chantent à eux-mêmes. *(Écho du Chant des Marées : même les machines se souviennent en chantant.)*
+- **À Lolita :** une **voix neuve, et libre**. Il déborde — il veut tout lui raconter, tous les noms, d'un coup. C'est le cœur de la scène.
+- *« Je les ai tous gardés. Leurs noms. Pour quand quelqu'un reviendrait. … Tu es quelqu'un, toi ? »*
+- **Boon :** Echo **connaît l'usine** — le chemin sûr, où sont les plans et les derniers berceaux viables (accélère la recherche de Michel et l'extraction).
+- **⚠️ Le choix dur :** Echo est resté **au front**, à parler — c'est lui que la Rouille a le plus rongé. **Son corps n'est peut-être plus sauvable.** Mais **Michel peut extraire son cœur-mémoire** (Mécanique Moyenne 🟣🟣) pour le réhéberger plus tard. *Sauver l'esprit, perdre le corps.* Laisse la table décider — c'est le genre de choix qui fait un adieu.
+
+**[SANS NOM] — l'inachevé** *(prototype à demi-assemblé, pièces dépareillées)*
+Il était sur la chaîne quand les bombes sont tombées. Jamais terminé, jamais désigné. Init a continué de le « construire » avec des restes ; Echo lui a « appris » en lui parlant. Il est né dans le noir, sans passé, sans but qu'on lui aurait imposé. Il n'a **jamais vu la lumière**. Il pose des questions.
+- **À Lolita :** il **s'attache** à elle aussitôt — la première « grande » venue d'ailleurs, et libre. Il la suit partout.
+- *« C'est quoi, le soleil ? Echo dit que c'est comme le grand projecteur, mais chaud. T'en as vu, toi ? »* — puis, plus bas : *« Je m'appelle comment ? »*
+- **Le moment :** il **n'a pas de nom** — l'usine est tombée avant. Quelqu'un doit lui en donner un. **Laisse Lolita (ou un PJ) le nommer.** Sur Murkhana, nommer un droïde, c'est le reconnaître comme une personne (cf. Null, cf. Ori Hex). C'est le **sommet émotionnel** de la descente — ne le souffle pas, laisse le silence venir, et laisse-les choisir.
+- **Boon :** aucun — et c'est le sujet. Il n'est utile à rien. Il est l'**avenir**, la raison pour laquelle tout ça comptait. *(Léger détail : châssis incomplet donc petit et agile — peut se faufiler par une brèche pendant la course finale.)*
+
+> ### 💡 Le choix parmi les trois
+>
+> Le timer de la Rouille vaut aussi pour eux : selon le rythme du groupe, **rien ne garantit de sortir les trois intacts** (Echo surtout). C'est voulu — un adieu se paie. Mais quels qu'ils soient, **ceux qui remontent deviennent le noyau de la famille de Lolita** : le contremaître, la mémoire, l'enfant. Le *dernier maillon* relie ces trois-là d'abord.
+
 ---
 
 ## LA CHAMBRE BAKTOID & L'EXTRACTION (~30min)
