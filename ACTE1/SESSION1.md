@@ -394,7 +394,7 @@ Fumigène : +2⚫⚫ distance pendant 2 rounds. Poursuite : Athlétisme Facile �
 >
 > *Le Port Gris s'ouvre devant vous — un spatioport immense et chaotique, construit dans les restes d'un ancien chantier naval. Des cargos rouillés s'entassent sur des plateformes. L'air vibre du rugissement des moteurs.*
 >
-> *Devant la piste 12, le **Crochet Rouillé** — un cargo sale dont les moteurs chauffent déjà. Quatre droïdes de sécurité portuaire montent la garde au pied de la rampe — des modèles civils reconvertis, gris terne, avec des bandes jaunes de signalisation sur les épaules. L'un d'eux tourne sa tête vers vous avec un cliquetis mécanique. Vekk Draal fonce vers eux en criant :*
+> *Devant le quai 12, le **Crochet Rouillé** — un cargo sale dont les moteurs chauffent déjà. Quatre droïdes de sécurité portuaire montent la garde au pied de la rampe — des modèles civils reconvertis, gris terne, avec des bandes jaunes de signalisation sur les épaules. L'un d'eux tourne sa tête vers vous avec un cliquetis mécanique. Vekk Draal fonce vers eux en criant :*
 >
 > *"On décolle ! Maintenant !"*
 >
@@ -412,13 +412,13 @@ Fumigène : +2⚫⚫ distance pendant 2 rounds. Poursuite : Athlétisme Facile �
 
 ### Le terrain
 
-> *La piste 12 est un rectangle de duracier entouré de caisses de fret et de barils de carburant. Le Crochet Rouillé est posé au centre — rampe ouverte, moteurs qui grondent. Un escalier métallique monte vers une passerelle de contrôle au-dessus.*
+> *Le quai 12 est un rectangle de duracier entouré de caisses de fret et de barils de carburant. Le Crochet Rouillé est posé au centre — rampe ouverte, moteurs qui grondent. Un escalier métallique monte vers une passerelle de contrôle au-dessus.*
 
 **Éléments de décor exploitables :**
 - **Caisses de fret :** Couverture (+1⚫). Peuvent être renversées (Athlétisme Facile 🟣) pour bloquer un passage.
 - **Barils de carburant :** Si un tir touche un baril (Perception Facile 🟣 pour le repérer, puis tir ciblé Difficile 🟣🟣🟣), explosion — dégâts 8, Souffle 4, portée Courte autour du baril. Dangereux pour tout le monde.
 - **Passerelle de contrôle :** Un joueur qui monte (Athlétisme Facile 🟣, 1 Manœuvre) a une vue plongeante → retire 1⚫ sur ses tirs à distance.
-- **Le panneau de contrôle de la piste :** Un joueur Tech peut **verrouiller les clamps d'amarrage** (Mécanique Moyenne 🟣🟣) pour empêcher le Crochet de décoller. Succès = Vekk est coincé. C'est la solution idéale pour Michel.
+- **Le panneau de contrôle du quai :** Un joueur Tech peut **verrouiller les clamps d'amarrage** (Mécanique Moyenne 🟣🟣) pour empêcher le Crochet de décoller. Succès = Vekk est coincé. C'est la solution idéale pour Michel.
 - **La rampe du Crochet :** Vekk doit monter la rampe et la fermer. 1 Manœuvre pour monter. 1 Action (Mécanique Facile 🟣) pour fermer. Si un joueur est sur la rampe quand elle ferme, il est dans le vaisseau avec Vekk.
 
 ### Distances de départ

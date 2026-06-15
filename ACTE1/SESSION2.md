@@ -222,7 +222,7 @@ Un terminal d'accès au niveau 20.
 >
 > *À l'entrée, un panneau holographique affiche les départs du jour. Parmi eux : "ARRAKHA — Programme d'Emploi Minier — Départ 14h00."*
 
-> 💡 **Le Crochet Rouillé :** Le cargo de Vekk capturé en S1 est amarré à la piste 12. Le syndicat de Vrak Chmod doit venir le récupérer cet après-midi (deal négocié par Edna). Les PJ peuvent le visiter une dernière fois s'ils veulent. La fouille de S1 a déjà rendu ses secrets — sauf si Namie cherche des compartiments cachés (Larcin Difficile 🟣🟣🟣 = trouve 200 crédits supplémentaires planqués dans la cloison du cockpit).
+> 💡 **Le Crochet Rouillé :** Le cargo de Vekk capturé en S1 est amarré au quai 12. Le syndicat de Vrak Chmod doit venir le récupérer cet après-midi (deal négocié par Edna). Les PJ peuvent le visiter une dernière fois s'ils veulent. La fouille de S1 a déjà rendu ses secrets — sauf si Namie cherche des compartiments cachés (Larcin Difficile 🟣🟣🟣 = trouve 200 crédits supplémentaires planqués dans la cloison du cockpit).
 
 ### Ce que Swipping peut lire dans les vaisseaux
 
