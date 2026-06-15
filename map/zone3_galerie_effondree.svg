@@ -1,60 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1344 864" font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1344 1000" font-family="'Segoe UI',Helvetica,Arial,sans-serif">
   <defs>
     <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#d9cfbb" stroke-width="1"/></pattern>
-    <pattern id="rubble" width="16" height="16" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="16" height="16" fill="#9a8f7a"/><path d="M0 0H16M0 8H16" stroke="#7c7160" stroke-width="1.3"/></pattern>
+    <g id="rocks"><path d="M-28 16 L-19 -7 L-4 -16 L13 -9 L26 7 L22 18 L-24 18 Z" fill="#9a8f7a" stroke="#2b2620" stroke-width="2.5"/><path d="M-19 -7 L-4 -16 L2 1 Z" fill="#b3a98f"/><path d="M-4 -16 L13 -9 L6 3 Z" fill="#857b66"/><path d="M13 -9 L26 7 L11 9 Z" fill="#b3a98f"/></g>
+    <g id="foreuse"><circle r="32" fill="#2b2620"/><ellipse cx="6" cy="0" rx="26" ry="20" fill="#7a6440" stroke="#2b2620" stroke-width="3"/><path d="M-8 -18 V18 M-18 -13 V13" stroke="#2b2620" stroke-width="2.5"/><circle cx="10" cy="-6" r="3.4" fill="#e23b3b"/><circle cx="10" cy="6" r="3.4" fill="#e23b3b"/><path d="M30 -12 q16 -2 24 -10 M30 12 q16 2 24 10" fill="none" stroke="#2b2620" stroke-width="4"/></g>
     <style>
-      .ttl{font-size:26px;font-weight:700;fill:#241f17}
-      .scl{font-size:14px;fill:#241f17}
-      .lbl{font-size:14px;fill:#241f17;paint-order:stroke;stroke:#f4efe3;stroke-width:3}
-      .sub{font-size:12px;fill:#4a4234;paint-order:stroke;stroke:#f4efe3;stroke-width:2.5}
-      .gl{font-size:13px;font-weight:700;fill:#a11515;paint-order:stroke;stroke:#fff;stroke-width:2.5}
+      .ttl{font-size:31px;font-weight:700;fill:#241f17}.scl{font-size:15px;fill:#241f17}
+      .rm{font-size:19px;font-weight:700;fill:#241f17;paint-order:stroke;stroke:#f4efe3;stroke-width:3.5}
+      .lbl{font-size:16px;fill:#241f17;paint-order:stroke;stroke:#f4efe3;stroke-width:3.5}
+      .sub{font-size:13px;fill:#4a4234;paint-order:stroke;stroke:#f4efe3;stroke-width:3}
+      .gl{font-size:15px;font-weight:700;fill:#a11515;paint-order:stroke;stroke:#fff;stroke-width:3}
+      .ok{font-size:15px;font-weight:700;fill:#1f6f3a;paint-order:stroke;stroke:#fff;stroke-width:3}
+      .leg{font-size:15px;fill:#241f17}
     </style>
   </defs>
+  <rect width="1344" height="1000" fill="#f4efe3"/><rect width="1344" height="1000" fill="url(#grid)"/>
+  <text x="28" y="44" class="ttl">② LA GALERIE EFFONDRÉE — palier 2</text>
+  <g transform="translate(1000,28)"><line x1="0" y1="0" x2="48" y2="0" stroke="#241f17" stroke-width="3"/><line x1="0" y1="-6" x2="0" y2="6" stroke="#241f17" stroke-width="3"/><line x1="48" y1="-6" x2="48" y2="6" stroke="#241f17" stroke-width="3"/><text x="58" y="5" class="scl">1 carreau ≈ 1,5 m</text></g>
 
-  <rect width="1344" height="864" fill="#f4efe3"/>
-  <rect width="1344" height="864" fill="url(#grid)"/>
+  <!-- entry -->
+  <rect x="552" y="72" width="96" height="76" fill="#cdbf9f" stroke="#2b2620" stroke-width="6"/>
+  <path d="M600 88 V124 M588 110 L600 126 L612 110" fill="none" stroke="#1f6f3a" stroke-width="5"/>
+  <text x="664" y="116" class="ok">ENTRÉE ↑ depuis l'embranchement</text>
 
-  <rect x="0" y="0" width="1344" height="72" fill="#e7dec9"/>
-  <line x1="0" y1="72" x2="1344" y2="72" stroke="#cdbf9f" stroke-width="2"/>
-  <text x="24" y="46" class="ttl">② LA GALERIE EFFONDRÉE — palier 2</text>
-  <g transform="translate(980,30)"><line x1="0" y1="0" x2="48" y2="0" stroke="#241f17" stroke-width="3"/><line x1="0" y1="-5" x2="0" y2="5" stroke="#241f17" stroke-width="3"/><line x1="48" y1="-5" x2="48" y2="5" stroke="#241f17" stroke-width="3"/><text x="58" y="5" class="scl">1 carreau ≈ 1,5 m</text></g>
+  <!-- floor -->
+  <rect x="96" y="148" width="1152" height="556" rx="10" fill="#efe7d6" stroke="#2b2620" stroke-width="8"/>
 
-  <!-- entry from embranchement -->
-  <rect x="528" y="72" width="120" height="72" fill="#efe7d6" stroke="#2b2620" stroke-width="6"/>
-  <text x="656" y="116" class="lbl">↑ depuis l'EMBRANCHEMENT</text>
+  <!-- collapsed beams (girders) -->
+  <g stroke="#4a3f2c" stroke-width="20" stroke-linecap="round"><line x1="230" y1="230" x2="520" y2="430"/><line x1="600" y1="210" x2="828" y2="450"/><line x1="930" y1="440" x2="1150" y2="240"/></g>
+  <g stroke="#6b5d42" stroke-width="6" stroke-linecap="round"><line x1="230" y1="226" x2="520" y2="426"/><line x1="600" y1="206" x2="828" y2="446"/><line x1="930" y1="436" x2="1150" y2="236"/></g>
+  <text x="232" y="216" class="sub">poutres Baktoid écroulées (couverture lourde)</text>
 
-  <!-- gallery floor -->
-  <rect x="96" y="144" width="1152" height="600" rx="10" fill="#efe7d6" stroke="#2b2620" stroke-width="7"/>
+  <!-- conveyor with rollers -->
+  <rect x="300" y="520" width="560" height="30" rx="6" fill="#cdbf9f" stroke="#5b5240" stroke-width="2"/>
+  <g fill="none" stroke="#5b5240" stroke-width="2"><circle cx="330" cy="535" r="9"/><circle cx="390" cy="535" r="9"/><circle cx="450" cy="535" r="9"/><circle cx="510" cy="535" r="9"/><circle cx="570" cy="535" r="9"/><circle cx="630" cy="535" r="9"/><circle cx="690" cy="535" r="9"/><circle cx="750" cy="535" r="9"/><circle cx="810" cy="535" r="9"/></g>
+  <text x="312" y="512" class="sub">convoyeur figé</text>
 
-  <!-- collapsed ceiling beams (obstacles / cover) -->
-  <g stroke="#5b5240" stroke-width="16" stroke-linecap="round">
-    <line x1="240" y1="240" x2="540" y2="456"/>
-    <line x1="600" y1="216" x2="828" y2="468"/>
-    <line x1="912" y1="456" x2="1140" y2="252"/>
+  <!-- rubble piles -->
+  <use href="#rocks" transform="translate(190,360) scale(1.2)"/>
+  <use href="#rocks" transform="translate(1090,610) scale(1.2)"/>
+  <text x="150" y="398" class="sub">gravats</text>
+
+  <!-- FOREUSE -->
+  <use href="#foreuse" transform="translate(1216,360)"/>
+  <path d="M1196 372 q-80 36 -130 150" fill="none" stroke="#2b2620" stroke-width="4" stroke-dasharray="9 7"/>
+  <text x="1088" y="318" class="gl">FOREUSE</text>
+  <text x="1050" y="540" class="sub">creuse / rouvre / effondre (terrain mouvant)</text>
+
+  <!-- goulot 2 -->
+  <rect x="552" y="704" width="120" height="44" fill="#efe7d6" stroke="#a11515" stroke-width="7"/>
+  <text x="690" y="734" class="gl">⛓ GOULOT ② → ↓ SALLE DES DORMANTS</text>
+
+  <!-- LÉGENDE -->
+  <rect x="96" y="748" width="1152" height="152" rx="10" fill="#efe7d6" stroke="#2b2620" stroke-width="3"/>
+  <text x="116" y="780" class="rm" style="font-size:18px">LÉGENDE</text>
+  <g transform="translate(124,810)">
+    <line x1="0" y1="8" x2="40" y2="8" stroke="#4a3f2c" stroke-width="14" stroke-linecap="round"/><text x="52" y="13" class="leg">poutre écroulée (couverture)</text>
+    <use href="#rocks" transform="translate(376,6) scale(0.7)"/><text x="412" y="13" class="leg">gravats (bloquent le passage)</text>
+    <g transform="translate(752,6)"><use href="#foreuse" transform="scale(0.5)"/></g><text x="788" y="13" class="leg">la Foreuse (creuse / déplace le terrain)</text>
   </g>
-  <text x="250" y="232" class="sub">poutres Baktoid écroulées (couverture lourde)</text>
-
-  <!-- frozen conveyor -->
-  <rect x="300" y="540" width="600" height="30" rx="15" fill="#cdbf9f" stroke="#5b5240" stroke-width="2"/>
-  <g stroke="#5b5240" stroke-width="2"><line x1="348" y1="540" x2="348" y2="570"/><line x1="420" y1="540" x2="420" y2="570"/><line x1="492" y1="540" x2="492" y2="570"/><line x1="564" y1="540" x2="564" y2="570"/><line x1="636" y1="540" x2="636" y2="570"/><line x1="708" y1="540" x2="708" y2="570"/><line x1="780" y1="540" x2="780" y2="570"/><line x1="852" y1="540" x2="852" y2="570"/></g>
-  <text x="312" y="534" class="sub">convoyeur figé</text>
-
-  <!-- rubble piles (force the serpentine path) -->
-  <path d="M150 360 q40 -34 80 0 q34 30 0 48 q-44 28 -80 0 q-26 -26 0 -48Z" fill="url(#rubble)" stroke="#2b2620" stroke-width="3"/>
-  <path d="M1060 600 q44 -36 88 0 q36 32 0 52 q-46 30 -88 0 q-28 -28 0 -52Z" fill="url(#rubble)" stroke="#2b2620" stroke-width="3"/>
-  <text x="150" y="346" class="sub">gravats</text>
-
-  <!-- FOREUSE burrow (right wall) -->
-  <circle cx="1248" cy="360" r="30" fill="#2b2620" opacity="0.88"/>
-  <path d="M1218 360 q-90 30 -150 150" fill="none" stroke="#2b2620" stroke-width="4" stroke-dasharray="8 7"/>
-  <text x="1108" y="336" class="lbl" style="font-weight:700">FOREUSE</text>
-  <text x="1066" y="500" class="sub">creuse / rouvre / effondre</text>
-  <text x="1078" y="518" class="sub">(le terrain change en jeu)</text>
-
-  <!-- GOULOT 2 exit (bottom) -->
-  <rect x="576" y="744" width="120" height="48" fill="#efe7d6" stroke="#a11515" stroke-width="6"/>
-  <text x="708" y="776" class="gl">⛓ GOULOT ② — ↓ vers la SALLE DES DORMANTS</text>
-
-  <text x="24" y="824" class="sub">≈ 24 × 13 carreaux · Sanji lit le terrain instable (anticipe les chutes) · Tatouf cale une voûte / arrache une poutre · Michel provoque un effondrement contrôlé pour enterrer la Foreuse.</text>
+  <g transform="translate(124,862)">
+    <rect x="0" y="-6" width="40" height="24" fill="#cdbf9f" stroke="#5b5240" stroke-width="2"/><circle cx="20" cy="6" r="7" fill="none" stroke="#5b5240" stroke-width="2"/><text x="52" y="12" class="leg">convoyeur figé</text>
+    <rect x="376" y="-6" width="40" height="24" fill="#efe7d6" stroke="#a11515" stroke-width="4"/><text x="428" y="12" class="leg">⛓ goulot d'étranglement</text>
+    <path d="M764 -4 V14 M752 2 L764 16 L776 2" fill="none" stroke="#1f6f3a" stroke-width="5"/><text x="804" y="12" class="leg">flèche verte = entrée</text>
+  </g>
+  <text x="28" y="956" class="sub">≈ 24 × 11 carreaux · Sanji lit le terrain instable · Tatouf cale une voûte / arrache une poutre · Michel provoque un effondrement contrôlé pour enterrer la Foreuse.</text>
 </svg>

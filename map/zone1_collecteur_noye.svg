@@ -1,57 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1392 720" font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1392 864" font-family="'Segoe UI',Helvetica,Arial,sans-serif">
   <defs>
     <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#d9cfbb" stroke-width="1"/></pattern>
-    <pattern id="water" width="24" height="16" patternUnits="userSpaceOnUse"><rect width="24" height="16" fill="#6fa6c2"/><path d="M0 8 q6 -5 12 0 t12 0" fill="none" stroke="#9ccadf" stroke-width="1.4"/></pattern>
-    <pattern id="rust" width="14" height="14" patternUnits="userSpaceOnUse"><rect width="14" height="14" fill="#b5651d"/><circle cx="3" cy="4" r="1.4" fill="#8a4a12"/><circle cx="10" cy="9" r="1.2" fill="#d98a3a"/><circle cx="7" cy="2" r="1" fill="#d98a3a"/></pattern>
+    <pattern id="water" width="26" height="18" patternUnits="userSpaceOnUse"><rect width="26" height="18" fill="#5f9fc0"/><path d="M0 9 q6.5 -6 13 0 t13 0" fill="none" stroke="#9ccadf" stroke-width="2"/><path d="M0 17 q6.5 -6 13 0 t13 0" fill="none" stroke="#9ccadf" stroke-width="1.4" opacity="0.6"/></pattern>
+    <pattern id="rust" width="16" height="16" patternUnits="userSpaceOnUse"><rect width="16" height="16" fill="#b5651d"/><circle cx="4" cy="5" r="1.8" fill="#8a4a12"/><circle cx="11" cy="11" r="1.6" fill="#d98a3a"/><circle cx="9" cy="3" r="1.3" fill="#d98a3a"/></pattern>
+    <g id="nuee"><path d="M0 -16 q18 -4 21 12 q13 3 7 18 q4 13 -14 11 q-9 10 -21 0 q-17 2 -15 -14 q-9 -10 3 -20 q4 -13 19 -7 Z" fill="url(#rust)" stroke="#3a1d06" stroke-width="2.5"/><circle cx="-23" cy="-7" r="2.6" fill="#8a4a12"/><circle cx="25" cy="-13" r="2.2" fill="#8a4a12"/><circle cx="21" cy="21" r="2.6" fill="#8a4a12"/><circle cx="-21" cy="19" r="2.2" fill="#8a4a12"/></g>
+    <g id="ladder"><rect width="56" height="76" fill="#cdbf9f" stroke="#2b2620" stroke-width="5"/><line x1="14" y1="0" x2="14" y2="76" stroke="#5b5240" stroke-width="3"/><line x1="42" y1="0" x2="42" y2="76" stroke="#5b5240" stroke-width="3"/><line x1="14" y1="16" x2="42" y2="16" stroke="#5b5240" stroke-width="3"/><line x1="14" y1="34" x2="42" y2="34" stroke="#5b5240" stroke-width="3"/><line x1="14" y1="52" x2="42" y2="52" stroke="#5b5240" stroke-width="3"/></g>
     <style>
-      .ttl{font-size:26px;font-weight:700;fill:#241f17}
-      .scl{font-size:14px;fill:#241f17}
-      .lbl{font-size:14px;fill:#241f17;paint-order:stroke;stroke:#f4efe3;stroke-width:3}
-      .sub{font-size:12px;fill:#4a4234;paint-order:stroke;stroke:#f4efe3;stroke-width:2.5}
-      .gl{font-size:13px;font-weight:700;fill:#a11515;paint-order:stroke;stroke:#fff;stroke-width:2.5}
+      .ttl{font-size:31px;font-weight:700;fill:#241f17}.scl{font-size:15px;fill:#241f17}
+      .rm{font-size:19px;font-weight:700;fill:#241f17;paint-order:stroke;stroke:#f4efe3;stroke-width:3.5}
+      .lbl{font-size:16px;fill:#241f17;paint-order:stroke;stroke:#f4efe3;stroke-width:3.5}
+      .sub{font-size:13px;fill:#4a4234;paint-order:stroke;stroke:#f4efe3;stroke-width:3}
+      .gl{font-size:15px;font-weight:700;fill:#a11515;paint-order:stroke;stroke:#fff;stroke-width:3}
+      .ok{font-size:15px;font-weight:700;fill:#1f6f3a;paint-order:stroke;stroke:#fff;stroke-width:3}
+      .wt{font-size:15px;fill:#0d3a52;paint-order:stroke;stroke:#eaf4f8;stroke-width:3}
+      .leg{font-size:15px;fill:#241f17}
     </style>
   </defs>
+  <rect width="1392" height="864" fill="#f4efe3"/><rect width="1392" height="864" fill="url(#grid)"/>
+  <text x="28" y="44" class="ttl">① LE COLLECTEUR NOYÉ — palier 1</text>
+  <g transform="translate(1048,28)"><line x1="0" y1="0" x2="48" y2="0" stroke="#241f17" stroke-width="3"/><line x1="0" y1="-6" x2="0" y2="6" stroke="#241f17" stroke-width="3"/><line x1="48" y1="-6" x2="48" y2="6" stroke="#241f17" stroke-width="3"/><text x="58" y="5" class="scl">1 carreau ≈ 1,5 m</text></g>
 
-  <rect width="1392" height="720" fill="#f4efe3"/>
-  <rect width="1392" height="720" fill="url(#grid)"/>
+  <!-- tunnel -->
+  <rect x="96" y="144" width="1200" height="408" rx="70" fill="#efe7d6" stroke="#2b2620" stroke-width="8"/>
+  <rect x="150" y="252" width="1092" height="252" rx="50" fill="url(#water)"/>
+  <text x="170" y="300" class="wt">eau noire profonde — la Rouille y nage</text>
+  <text x="170" y="232" class="lbl">↑ banquette sèche (passer Lolita à sec)</text>
 
-  <!-- title band -->
-  <rect x="0" y="0" width="1392" height="72" fill="#e7dec9"/>
-  <line x1="0" y1="72" x2="1392" y2="72" stroke="#cdbf9f" stroke-width="2"/>
-  <text x="24" y="46" class="ttl">① LE COLLECTEUR NOYÉ — palier 1</text>
-  <g transform="translate(980,30)"><line x1="0" y1="0" x2="48" y2="0" stroke="#241f17" stroke-width="3"/><line x1="0" y1="-5" x2="0" y2="5" stroke="#241f17" stroke-width="3"/><line x1="48" y1="-5" x2="48" y2="5" stroke="#241f17" stroke-width="3"/><text x="58" y="5" class="scl">1 carreau ≈ 1,5 m</text></g>
+  <!-- rust on walls -->
+  <path d="M340 150 q34 16 0 36 q-34 -16 0 -36Z" fill="url(#rust)"/><path d="M720 150 q40 18 0 40 q-40 -18 0 -40Z" fill="url(#rust)"/>
 
-  <!-- tunnel floor (vaulted) -->
-  <rect x="96" y="144" width="1200" height="480" rx="80" fill="#efe7d6" stroke="#2b2620" stroke-width="7"/>
-  <!-- water (leaves a dry walkway along the top) -->
-  <rect x="140" y="264" width="1112" height="312" rx="60" fill="url(#water)" opacity="0.95"/>
-  <text x="150" y="320" class="lbl" style="fill:#0d3a52">eau noire (profonde) — la Rouille y nage</text>
-  <!-- dry walkway -->
-  <text x="150" y="232" class="lbl">↑ banquette sèche (faire passer Lolita à sec)</text>
+  <!-- puits entry -->
+  <use href="#ladder" transform="translate(160,68)"/>
+  <path d="M188 132 V96 M176 110 L188 124 L200 110" fill="none" stroke="#1f6f3a" stroke-width="5"/>
+  <text x="232" y="112" class="ok">ENTRÉE — PUITS (depuis l'étal d'Ori)</text>
 
-  <!-- rust patches on walls -->
-  <path d="M300 150 q40 18 0 40 q-40 -18 0 -40Z" fill="url(#rust)" opacity="0.8"/>
-  <path d="M760 150 q46 20 0 42 q-46 -20 0 -42Z" fill="url(#rust)" opacity="0.8"/>
-  <path d="M520 600 q42 -18 0 -40 q-42 18 0 40Z" fill="url(#rust)" opacity="0.8"/>
+  <!-- goulot 1 + Nuée -->
+  <path d="M1190 264 h106 v144 h-106 Z" fill="#efe7d6" stroke="#a11515" stroke-width="7"/>
+  <use href="#nuee" transform="translate(1228,312) scale(0.9)"/><use href="#nuee" transform="translate(1248,372) scale(0.85)"/>
+  <text x="1110" y="250" class="gl">⛓ GOULOT ①</text>
+  <text x="1180" y="470" class="gl" style="fill:#a11515" transform="rotate(90 1180 470)">→ EMBRANCHEMENT</text>
 
-  <!-- PUITS entry (top-left) -->
-  <rect x="156" y="72" width="84" height="72" fill="#efe7d6" stroke="#2b2620" stroke-width="6"/>
-  <line x1="156" y1="96" x2="240" y2="96" stroke="#7c7160" stroke-width="3"/><line x1="156" y1="120" x2="240" y2="120" stroke="#7c7160" stroke-width="3"/>
-  <text x="252" y="110" class="lbl">↓ PUITS (entrée, depuis l'étal d'Ori)</text>
+  <!-- grille bypass -->
+  <rect x="1040" y="504" width="104" height="48" fill="#efe7d6" stroke="#2b2620" stroke-width="4" stroke-dasharray="7 5"/>
+  <line x1="1058" y1="504" x2="1058" y2="552" stroke="#7c7160" stroke-width="2"/><line x1="1076" y1="504" x2="1076" y2="552" stroke="#7c7160" stroke-width="2"/><line x1="1094" y1="504" x2="1094" y2="552" stroke="#7c7160" stroke-width="2"/><line x1="1112" y1="504" x2="1112" y2="552" stroke="#7c7160" stroke-width="2"/><line x1="1130" y1="504" x2="1130" y2="552" stroke="#7c7160" stroke-width="2"/>
+  <text x="900" y="588" class="sub">grille de trop-plein — contourne le goulot (Namie · Larcin Facile)</text>
 
-  <!-- GOULOT 1 (right end, narrows toward embranchement) -->
-  <path d="M1240 312 h120 v144 h-120 Z" fill="#efe7d6" stroke="#a11515" stroke-width="6"/>
-  <path d="M1248 320 h104 v128 h-104Z" fill="url(#rust)" opacity="0.55"/>
-  <text x="1170" y="300" class="gl">⛓ GOULOT ①</text>
-  <text x="1180" y="470" class="gl">la Nuée colmate</text>
-  <text x="1300" y="392" class="gl" style="fill:#a11515" transform="rotate(90 1300 392)">→ vers l'EMBRANCHEMENT</text>
-
-  <!-- grille de trop-plein (bypass, bottom-right) -->
-  <rect x="1060" y="576" width="96" height="48" fill="#efe7d6" stroke="#2b2620" stroke-width="4" stroke-dasharray="7 5"/>
-  <line x1="1076" y1="576" x2="1076" y2="624" stroke="#7c7160" stroke-width="2"/><line x1="1092" y1="576" x2="1092" y2="624" stroke="#7c7160" stroke-width="2"/><line x1="1108" y1="576" x2="1108" y2="624" stroke="#7c7160" stroke-width="2"/><line x1="1124" y1="576" x2="1124" y2="624" stroke="#7c7160" stroke-width="2"/><line x1="1140" y1="576" x2="1140" y2="624" stroke="#7c7160" stroke-width="2"/>
-  <text x="960" y="664" class="sub">grille de trop-plein — contourne le goulot (Namie · Larcin Facile)</text>
-
-  <!-- note -->
-  <text x="24" y="700" class="sub">≈ 25 × 10 carreaux · tunnel voûté à demi noyé · combat défensif au goulot ; Tatouf ancre, Michel repousse à la lampe-fréquence ou enflamme le gaz d'égout.</text>
+  <!-- LÉGENDE -->
+  <rect x="96" y="612" width="1200" height="156" rx="10" fill="#efe7d6" stroke="#2b2620" stroke-width="3"/>
+  <text x="116" y="644" class="rm" style="font-size:18px">LÉGENDE</text>
+  <g transform="translate(124,672)">
+    <rect x="0" y="-6" width="40" height="26" fill="url(#water)"/><text x="52" y="13" class="leg">eau (Lolita ne patauge pas)</text>
+    <g transform="translate(360,8)"><use href="#nuee" transform="scale(0.55)"/></g><text x="396" y="13" class="leg">Nuée de Rouille (colmate le goulot)</text>
+    <rect x="740" y="-6" width="40" height="26" fill="#efe7d6" stroke="#a11515" stroke-width="4"/><text x="792" y="13" class="leg">⛓ goulot d'étranglement</text>
+  </g>
+  <g transform="translate(124,728)">
+    <use href="#ladder" transform="scale(0.34)"/><text x="52" y="13" class="leg">puits / échelle (entrée)</text>
+    <rect x="360" y="-6" width="40" height="26" fill="url(#rust)"/><text x="412" y="13" class="leg">Rouille (sur les parois)</text>
+    <path d="M752 -4 V14 M740 2 L752 16 L764 2" transform="translate(-12,0)" fill="none" stroke="#1f6f3a" stroke-width="5"/><text x="792" y="13" class="leg">flèche verte = entrée</text>
+  </g>
+  <text x="28" y="812" class="sub">≈ 25 × 8 carreaux · combat défensif au goulot · Tatouf ancre · Michel repousse à la lampe-fréquence ou enflamme le gaz d'égout · garder Lolita au sec.</text>
 </svg>

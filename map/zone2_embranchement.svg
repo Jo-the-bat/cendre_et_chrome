@@ -1,68 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1248 1056" font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1344 1188" font-family="'Segoe UI',Helvetica,Arial,sans-serif">
   <defs>
     <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#d9cfbb" stroke-width="1"/></pattern>
-    <pattern id="water" width="24" height="16" patternUnits="userSpaceOnUse"><rect width="24" height="16" fill="#6fa6c2"/><path d="M0 8 q6 -5 12 0 t12 0" fill="none" stroke="#9ccadf" stroke-width="1.4"/></pattern>
-    <pattern id="rust" width="14" height="14" patternUnits="userSpaceOnUse"><rect width="14" height="14" fill="#b5651d"/><circle cx="3" cy="4" r="1.4" fill="#8a4a12"/><circle cx="10" cy="9" r="1.2" fill="#d98a3a"/><circle cx="7" cy="2" r="1" fill="#d98a3a"/></pattern>
+    <pattern id="water" width="26" height="18" patternUnits="userSpaceOnUse"><rect width="26" height="18" fill="#5f9fc0"/><path d="M0 9 q6.5 -6 13 0 t13 0" fill="none" stroke="#9ccadf" stroke-width="2"/><path d="M0 17 q6.5 -6 13 0 t13 0" fill="none" stroke="#9ccadf" stroke-width="1.4" opacity="0.6"/></pattern>
+    <pattern id="rust" width="16" height="16" patternUnits="userSpaceOnUse"><rect width="16" height="16" fill="#b5651d"/><circle cx="4" cy="5" r="1.8" fill="#8a4a12"/><circle cx="11" cy="11" r="1.6" fill="#d98a3a"/><circle cx="9" cy="3" r="1.3" fill="#d98a3a"/></pattern>
+    <g id="nuee"><path d="M0 -16 q18 -4 21 12 q13 3 7 18 q4 13 -14 11 q-9 10 -21 0 q-17 2 -15 -14 q-9 -10 3 -20 q4 -13 19 -7 Z" fill="url(#rust)" stroke="#3a1d06" stroke-width="2.5"/><circle cx="-23" cy="-7" r="2.6" fill="#8a4a12"/><circle cx="25" cy="-13" r="2.2" fill="#8a4a12"/><circle cx="21" cy="21" r="2.6" fill="#8a4a12"/></g>
+    <g id="skull"><path d="M0 -18 C14 -18 20 -8 20 2 C20 10 15 14 15 14 L15 20 L8 20 L8 15 L-8 15 L-8 20 L-15 20 L-15 14 C-15 14 -20 10 -20 2 C-20 -8 -14 -18 0 -18 Z" fill="#e8e2d2" stroke="#2b2620" stroke-width="2.5"/><circle cx="-7" cy="0" r="4.5" fill="#2b2620"/><circle cx="7" cy="0" r="4.5" fill="#2b2620"/><path d="M-2 7 L0 12 L2 7 Z" fill="#2b2620"/></g>
+    <g id="hatch"><rect x="-30" y="-30" width="60" height="60" rx="5" fill="#cdbf9f" stroke="#2b2620" stroke-width="4" stroke-dasharray="8 5"/><circle cx="0" cy="-30" r="8" fill="none" stroke="#2b2620" stroke-width="4"/></g>
     <style>
-      .ttl{font-size:26px;font-weight:700;fill:#241f17}
-      .scl{font-size:14px;fill:#241f17}
-      .lbl{font-size:14px;fill:#241f17;paint-order:stroke;stroke:#f4efe3;stroke-width:3}
-      .sub{font-size:12px;fill:#4a4234;paint-order:stroke;stroke:#f4efe3;stroke-width:2.5}
-      .gl{font-size:13px;font-weight:700;fill:#a11515;paint-order:stroke;stroke:#fff;stroke-width:2.5}
+      .ttl{font-size:31px;font-weight:700;fill:#241f17}.scl{font-size:15px;fill:#241f17}
+      .rm{font-size:19px;font-weight:700;fill:#241f17;paint-order:stroke;stroke:#f4efe3;stroke-width:3.5}
+      .lbl{font-size:16px;fill:#241f17;paint-order:stroke;stroke:#f4efe3;stroke-width:3.5}
+      .sub{font-size:13px;fill:#4a4234;paint-order:stroke;stroke:#f4efe3;stroke-width:3}
+      .gl{font-size:15px;font-weight:700;fill:#a11515;paint-order:stroke;stroke:#fff;stroke-width:3}
+      .ok{font-size:15px;font-weight:700;fill:#1f6f3a;paint-order:stroke;stroke:#fff;stroke-width:3}
+      .wt{font-size:15px;fill:#0d3a52;paint-order:stroke;stroke:#eaf4f8;stroke-width:3}
+      .leg{font-size:15px;fill:#241f17}
     </style>
   </defs>
+  <rect width="1344" height="1188" fill="#f4efe3"/><rect width="1344" height="1188" fill="url(#grid)"/>
+  <text x="28" y="44" class="ttl">L'EMBRANCHEMENT NOYÉ — le puzzle</text>
+  <g transform="translate(1000,28)"><line x1="0" y1="0" x2="48" y2="0" stroke="#241f17" stroke-width="3"/><line x1="0" y1="-6" x2="0" y2="6" stroke="#241f17" stroke-width="3"/><line x1="48" y1="-6" x2="48" y2="6" stroke="#241f17" stroke-width="3"/><text x="58" y="5" class="scl">1 carreau ≈ 1,5 m</text></g>
 
-  <rect width="1248" height="1056" fill="#f4efe3"/>
-  <rect width="1248" height="1056" fill="url(#grid)"/>
+  <!-- entry -->
+  <rect x="592" y="72" width="96" height="96" fill="#cdbf9f" stroke="#2b2620" stroke-width="6"/>
+  <path d="M640 88 V128 M628 114 L640 130 L652 114" fill="none" stroke="#1f6f3a" stroke-width="5"/>
+  <text x="704" y="124" class="ok">ENTRÉE ↑ depuis le collecteur</text>
 
-  <rect x="0" y="0" width="1248" height="72" fill="#e7dec9"/>
-  <line x1="0" y1="72" x2="1248" y2="72" stroke="#cdbf9f" stroke-width="2"/>
-  <text x="24" y="46" class="ttl">L'EMBRANCHEMENT NOYÉ — le puzzle</text>
-  <g transform="translate(880,30)"><line x1="0" y1="0" x2="48" y2="0" stroke="#241f17" stroke-width="3"/><line x1="0" y1="-5" x2="0" y2="5" stroke="#241f17" stroke-width="3"/><line x1="48" y1="-5" x2="48" y2="5" stroke="#241f17" stroke-width="3"/><text x="58" y="5" class="scl">1 carreau ≈ 1,5 m</text></g>
+  <!-- hub -->
+  <path d="M480 470 L576 330 L768 330 L880 470 L768 600 L576 600 Z" fill="#efe7d6" stroke="#2b2620" stroke-width="8"/>
+  <rect x="592" y="168" width="96" height="162" fill="#efe7d6" stroke="#2b2620" stroke-width="6"/>
+  <text x="640" y="468" text-anchor="middle" class="rm">NŒUD</text>
+  <text x="640" y="500" text-anchor="middle" class="sub">« suis le chœur, pas le fantôme »</text>
 
-  <!-- entry from collector (top) -->
-  <rect x="540" y="72" width="120" height="120" fill="#efe7d6" stroke="#2b2620" stroke-width="6"/>
-  <text x="668" y="120" class="lbl">↑ depuis le COLLECTEUR (goulot ①)</text>
+  <!-- FANTÔME (left, trap) -->
+  <rect x="408" y="446" width="72" height="48" fill="#efe7d6" stroke="#2b2620" stroke-width="6"/>
+  <rect x="120" y="396" width="288" height="196" rx="10" fill="url(#rust)" stroke="#2b2620" stroke-width="8"/>
+  <use href="#skull" transform="translate(204,470) scale(1.1)"/>
+  <use href="#nuee" transform="translate(310,520) scale(0.85)"/>
+  <text x="264" y="430" text-anchor="middle" class="gl">☠ FANTÔME — PIÈGE</text>
+  <text x="204" y="556" text-anchor="middle" class="sub" style="fill:#3a1d06;stroke:#f4d9bd">beacon mort + nid de Rouille</text>
 
-  <!-- central hub (hexagon) -->
-  <path d="M456 480 L552 336 L744 336 L840 480 L744 624 L552 624 Z" fill="#efe7d6" stroke="#2b2620" stroke-width="7"/>
-  <rect x="552" y="180" width="96" height="156" fill="#efe7d6" stroke="#2b2620" stroke-width="6"/>
-  <text x="648" y="468" text-anchor="middle" class="lbl" style="font-weight:700">NŒUD DE</text>
-  <text x="648" y="490" text-anchor="middle" class="lbl" style="font-weight:700">DISTRIBUTION</text>
-  <text x="648" y="520" text-anchor="middle" class="sub">« suis le chœur, pas le fantôme »</text>
+  <!-- TRAPPE (right, shortcut) -->
+  <rect x="880" y="446" width="70" height="48" fill="#efe7d6" stroke="#2b2620" stroke-width="6"/>
+  <use href="#hatch" transform="translate(1010,470)"/>
+  <text x="1010" y="420" text-anchor="middle" class="lbl">TRAPPE</text>
+  <text x="1010" y="520" text-anchor="middle" class="sub">raccourci · Namie</text>
+  <path d="M1010 530 V940" stroke="#2b2620" stroke-width="4" stroke-dasharray="9 7"/>
+  <text x="1024" y="760" class="sub">court-circuite l'embranchement → galerie</text>
 
-  <!-- route FANTÔME (left, trap) -->
-  <rect x="384" y="456" width="72" height="48" fill="#efe7d6" stroke="#2b2620" stroke-width="6"/>
-  <rect x="120" y="384" width="264" height="192" rx="10" fill="url(#rust)" opacity="0.92" stroke="#2b2620" stroke-width="7"/>
-  <text x="252" y="456" text-anchor="middle" class="lbl" style="fill:#3a1d06;font-weight:700;stroke-width:0">☠ FANTÔME</text>
-  <text x="252" y="480" text-anchor="middle" class="sub" style="fill:#3a1d06;stroke-width:0">beacon mort qui boucle</text>
-  <text x="252" y="500" text-anchor="middle" class="sub" style="fill:#3a1d06;stroke-width:0">= nid de Rouille (embuscade)</text>
-  <text x="252" y="610" text-anchor="middle" class="gl">PIÈGE — cul-de-sac</text>
+  <!-- CONDUIT NOYÉ (down, true way) -->
+  <rect x="560" y="600" width="150" height="320" fill="url(#water)" stroke="#2b2620" stroke-width="8"/>
+  <text x="430" y="668" class="wt">💧 conduit noyé ↓</text>
+  <text x="356" y="690" class="sub" style="fill:#0d3a52;stroke:#eaf4f8">VRAIE voie (immergée — Lolita NON)</text>
+  <text x="356" y="710" class="sub" style="fill:#0d3a52;stroke:#eaf4f8">Michel draine (pompe/valve) = au sec</text>
+  <text x="635" y="958" text-anchor="middle" class="ok" style="fill:#0d3a52">↓ vers la GALERIE</text>
 
-  <!-- route TRAPPE (right, shortcut) -->
-  <rect x="840" y="408" width="72" height="48" fill="#efe7d6" stroke="#2b2620" stroke-width="6"/>
-  <rect x="912" y="372" width="120" height="120" rx="6" fill="#efe7d6" stroke="#2b2620" stroke-width="5" stroke-dasharray="8 5"/>
-  <text x="972" y="424" text-anchor="middle" class="lbl">TRAPPE</text>
-  <text x="972" y="446" text-anchor="middle" class="sub">raccourci · Namie</text>
-  <path d="M972 492 V900" stroke="#2b2620" stroke-width="4" stroke-dasharray="9 7"/>
-  <text x="986" y="700" class="sub">court-circuite l'embranchement → galerie</text>
+  <!-- PASSERELLE (down-right, gap) -->
+  <rect x="760" y="630" width="250" height="290" fill="#2b2620"/>
+  <rect x="760" y="630" width="250" height="58" fill="#cdbf9f" stroke="#5b5240" stroke-width="3"/>
+  <rect x="760" y="862" width="250" height="58" fill="#cdbf9f" stroke="#5b5240" stroke-width="3"/>
+  <path d="M820 700 Q885 640 950 700" fill="none" stroke="#f0d98a" stroke-width="4" stroke-dasharray="10 7"/>
+  <path d="M950 700 l-12 -4 l4 12" fill="none" stroke="#f0d98a" stroke-width="4"/>
+  <text x="885" y="666" text-anchor="middle" class="sub">passerelle</text>
+  <text x="885" y="800" text-anchor="middle" class="gl" style="fill:#f0d98a;stroke:#3a2a06">↯ LE VIDE</text>
+  <text x="885" y="824" text-anchor="middle" class="lbl" style="fill:#f0d98a;stroke:#3a2a06">saut (Coord.) / grappin</text>
+  <text x="885" y="906" text-anchor="middle" class="sub">→ galerie</text>
 
-  <!-- route CONDUIT NOYÉ (bottom, true way) -->
-  <rect x="552" y="624" width="144" height="288" fill="url(#water)" stroke="#2b2620" stroke-width="7"/>
-  <text x="430" y="690" class="lbl" style="fill:#0d3a52">conduit noyé ↓</text>
-  <text x="360" y="712" class="sub" style="fill:#0d3a52;stroke-width:2">VRAIE voie (immergée — Lolita NON)</text>
-  <text x="360" y="732" class="sub" style="fill:#0d3a52;stroke-width:2">Michel draine (pompe/valve) = au sec</text>
-  <text x="624" y="940" text-anchor="middle" class="gl" style="fill:#0d3a52">↓ vers la GALERIE</text>
-
-  <!-- route PASSERELLE (bottom-right, gap over void) -->
-  <rect x="744" y="624" width="240" height="288" fill="#2b2620" opacity="0.82"/>
-  <rect x="744" y="624" width="240" height="60" fill="#cdbf9f" stroke="#5b5240" stroke-width="3"/>
-  <rect x="744" y="852" width="240" height="60" fill="#cdbf9f" stroke="#5b5240" stroke-width="3"/>
-  <text x="864" y="660" text-anchor="middle" class="sub">passerelle</text>
-  <text x="864" y="744" text-anchor="middle" class="gl" style="fill:#7a5a12">↯ LE VIDE</text>
-  <text x="864" y="770" text-anchor="middle" class="lbl" style="fill:#7a5a12">saut (Coord.) / grappin</text>
-  <text x="864" y="888" text-anchor="middle" class="sub">→ galerie</text>
-
-  <text x="24" y="1030" class="sub">≈ 24 × 20 carreaux · le seul vrai choix de chemin. Lolita = boussole (chœur ≠ fantôme) · Sanji = flux (air/pente) · Michel = plan Baktoid / drainage · Namie = trappe. Mauvaise voie = temps perdu = dormants mangés en bas.</text>
+  <!-- LÉGENDE -->
+  <rect x="96" y="1000" width="1152" height="156" rx="10" fill="#efe7d6" stroke="#2b2620" stroke-width="3"/>
+  <text x="116" y="1032" class="rm" style="font-size:18px">LÉGENDE</text>
+  <g transform="translate(124,1062)">
+    <use href="#skull" transform="translate(16,8) scale(0.7)"/><text x="44" y="13" class="leg">☠ fantôme (piège, cul-de-sac)</text>
+    <rect x="360" y="-6" width="40" height="26" fill="url(#water)"/><text x="412" y="13" class="leg">💧 conduit noyé (vraie voie)</text>
+    <rect x="730" y="-6" width="40" height="26" fill="#2b2620"/><text x="782" y="13" class="leg">↯ le vide (saut / grappin)</text>
+  </g>
+  <g transform="translate(124,1116)">
+    <use href="#hatch" transform="translate(16,8) scale(0.4)"/><text x="44" y="13" class="leg">▢ trappe (raccourci)</text>
+    <g transform="translate(360,8)"><use href="#nuee" transform="scale(0.5)"/></g><text x="396" y="13" class="leg">Nuée de Rouille</text>
+    <path d="M742 -4 V14 M730 2 L742 16 L754 2" fill="none" stroke="#1f6f3a" stroke-width="5"/><text x="782" y="13" class="leg">flèche verte = entrée</text>
+  </g>
+  <text x="28" y="1186" class="sub">≈ 24 × 18 carreaux · le seul vrai choix de chemin · Lolita boussole (chœur ≠ fantôme) · Sanji flux · Michel plan/drainage · Namie trappe · mauvaise voie = dormants perdus.</text>
 </svg>

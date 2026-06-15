@@ -1,66 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 1056" font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 1180" font-family="'Segoe UI',Helvetica,Arial,sans-serif">
   <defs>
     <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#d9cfbb" stroke-width="1"/></pattern>
-    <pattern id="rust" width="14" height="14" patternUnits="userSpaceOnUse"><rect width="14" height="14" fill="#b5651d"/><circle cx="3" cy="4" r="1.4" fill="#8a4a12"/><circle cx="10" cy="9" r="1.2" fill="#d98a3a"/><circle cx="7" cy="2" r="1" fill="#d98a3a"/></pattern>
+    <pattern id="rust" width="16" height="16" patternUnits="userSpaceOnUse"><rect width="16" height="16" fill="#b5651d"/><circle cx="4" cy="5" r="1.8" fill="#8a4a12"/><circle cx="11" cy="11" r="1.6" fill="#d98a3a"/><circle cx="9" cy="3" r="1.3" fill="#d98a3a"/></pattern>
+    <g id="arm"><rect x="-7" y="0" width="14" height="14" fill="#8a8170" stroke="#2b2620" stroke-width="2"/><line x1="0" y1="2" x2="0" y2="-22" stroke="#5b5240" stroke-width="6"/><line x1="0" y1="-22" x2="17" y2="-34" stroke="#5b5240" stroke-width="5"/><circle cx="0" cy="-22" r="3.5" fill="#2b2620"/><path d="M17 -34 l9 -3 m-9 3 l6 7" stroke="#2b2620" stroke-width="3" fill="none"/></g>
+    <g id="chest"><path d="M-32 -8 a32 20 0 0 1 64 0 Z" fill="#c08a3e" stroke="#3a2a10" stroke-width="3"/><rect x="-32" y="-8" width="64" height="36" rx="3" fill="#a9742e" stroke="#3a2a10" stroke-width="3"/><rect x="-32" y="-12" width="64" height="7" fill="#7a531f"/><line x1="-15" y1="-26" x2="-15" y2="28" stroke="#7a531f" stroke-width="3"/><line x1="15" y1="-26" x2="15" y2="28" stroke="#7a531f" stroke-width="3"/><rect x="-8" y="2" width="16" height="15" rx="2" fill="#e8c84a" stroke="#3a2a10" stroke-width="2"/><circle cx="0" cy="9" r="2.6" fill="#3a2a10"/></g>
+    <g id="mere">
+      <circle r="152" fill="none" stroke="#a11515" stroke-width="3" stroke-dasharray="13 10" opacity="0.7"/>
+      <g stroke="#3a1d06" stroke-width="7" fill="none" opacity="0.85"><path d="M-92 -60 q-52 -42 -124 -38"/><path d="M98 -52 q58 -36 134 -22"/><path d="M-98 82 q-58 42 -134 36"/><path d="M90 92 q62 36 136 56"/><path d="M2 112 q-8 64 -42 104"/></g>
+      <path d="M0 -112 C80 -102 130 -54 114 8 C148 36 130 102 68 114 C40 150 -46 148 -74 110 C-142 102 -150 30 -116 0 C-138 -60 -78 -108 0 -112 Z" fill="url(#rust)" stroke="#3a1d06" stroke-width="6"/>
+      <path d="M0 -112 C80 -102 130 -54 114 8 C148 36 130 102 68 114 C40 150 -46 148 -74 110 C-142 102 -150 30 -116 0 C-138 -60 -78 -108 0 -112 Z" fill="#1f6f3a" opacity="0.18"/>
+      <circle cx="0" cy="-8" r="36" fill="#f0e6c8" stroke="#3a1d06" stroke-width="4"/><circle cx="0" cy="-8" r="17" fill="#a11515"/><circle cx="0" cy="-8" r="7.5" fill="#2b0606"/><circle cx="-6" cy="-15" r="3.5" fill="#fff" opacity="0.85"/>
+    </g>
     <style>
-      .ttl{font-size:26px;font-weight:700;fill:#241f17}
-      .scl{font-size:14px;fill:#241f17}
-      .lbl{font-size:14px;fill:#241f17;paint-order:stroke;stroke:#f4efe3;stroke-width:3}
-      .sub{font-size:12px;fill:#4a4234;paint-order:stroke;stroke:#f4efe3;stroke-width:2.5}
-      .gl{font-size:13px;font-weight:700;fill:#a11515;paint-order:stroke;stroke:#fff;stroke-width:2.5}
-      .cx{font-size:12px;font-weight:700;fill:#13502a;paint-order:stroke;stroke:#f4efe3;stroke-width:2.5}
+      .ttl{font-size:31px;font-weight:700;fill:#241f17}.scl{font-size:15px;fill:#241f17}
+      .rm{font-size:19px;font-weight:700;fill:#241f17;paint-order:stroke;stroke:#f4efe3;stroke-width:3.5}
+      .lbl{font-size:16px;fill:#241f17;paint-order:stroke;stroke:#f4efe3;stroke-width:3.5}
+      .sub{font-size:13px;fill:#4a4234;paint-order:stroke;stroke:#f4efe3;stroke-width:3}
+      .gl{font-size:15px;font-weight:700;fill:#a11515;paint-order:stroke;stroke:#fff;stroke-width:3}
+      .ok{font-size:15px;font-weight:700;fill:#1f6f3a;paint-order:stroke;stroke:#fff;stroke-width:3}
+      .leg{font-size:15px;fill:#241f17}
     </style>
   </defs>
+  <rect width="1440" height="1180" fill="#f4efe3"/><rect width="1440" height="1180" fill="url(#grid)"/>
+  <text x="28" y="44" class="ttl">④ LA CHAMBRE BAKTOID — le climax</text>
+  <g transform="translate(1096,28)"><line x1="0" y1="0" x2="48" y2="0" stroke="#241f17" stroke-width="3"/><line x1="0" y1="-6" x2="0" y2="6" stroke="#241f17" stroke-width="3"/><line x1="48" y1="-6" x2="48" y2="6" stroke="#241f17" stroke-width="3"/><text x="58" y="5" class="scl">1 carreau ≈ 1,5 m</text></g>
 
-  <rect width="1440" height="1056" fill="#f4efe3"/>
-  <rect width="1440" height="1056" fill="url(#grid)"/>
+  <!-- entry + exit note -->
+  <rect x="672" y="72" width="96" height="76" fill="#cdbf9f" stroke="#2b2620" stroke-width="6"/>
+  <path d="M720 88 V124 M708 110 L720 126 L732 110" fill="none" stroke="#1f6f3a" stroke-width="5"/>
+  <text x="784" y="104" class="ok">ENTRÉE ↑ depuis la salle des dormants (porte blindée)</text>
+  <text x="784" y="128" class="gl">↑ = aussi la SORTIE — effondrement 3 rounds après avoir brûlé le nid</text>
 
-  <rect x="0" y="0" width="1440" height="72" fill="#e7dec9"/>
-  <line x1="0" y1="72" x2="1440" y2="72" stroke="#cdbf9f" stroke-width="2"/>
-  <text x="24" y="46" class="ttl">④ LA CHAMBRE BAKTOID — le climax</text>
-  <g transform="translate(1080,30)"><line x1="0" y1="0" x2="48" y2="0" stroke="#241f17" stroke-width="3"/><line x1="0" y1="-5" x2="0" y2="5" stroke="#241f17" stroke-width="3"/><line x1="48" y1="-5" x2="48" y2="5" stroke="#241f17" stroke-width="3"/><text x="58" y="5" class="scl">1 carreau ≈ 1,5 m</text></g>
+  <!-- floor -->
+  <rect x="96" y="160" width="1248" height="720" rx="10" fill="#efe7d6" stroke="#2b2620" stroke-width="8"/>
 
-  <!-- entry from dormants -->
-  <rect x="672" y="72" width="120" height="72" fill="#cdbf9f" stroke="#2b2620" stroke-width="6"/>
-  <text x="804" y="112" class="lbl">↑ depuis la SALLE DES DORMANTS (porte blindée)</text>
-  <text x="804" y="134" class="gl">↑ = aussi la SORTIE — effondrement 3 rounds après avoir brûlé le nid</text>
+  <!-- assembly line + arms -->
+  <rect x="240" y="246" width="816" height="40" rx="6" fill="#cdbf9f" stroke="#5b5240" stroke-width="2"/>
+  <use href="#arm" transform="translate(300,246)"/><use href="#arm" transform="translate(420,246)"/><use href="#arm" transform="translate(540,246)"/><use href="#arm" transform="translate(660,246)"/><use href="#arm" transform="translate(780,246)"/><use href="#arm" transform="translate(900,246)"/>
+  <text x="252" y="316" class="sub">chaîne d'assemblage Baktoid (bras robotisés, figée)</text>
 
-  <!-- chamber floor -->
-  <rect x="96" y="144" width="1248" height="816" rx="10" fill="#efe7d6" stroke="#2b2620" stroke-width="7"/>
+  <!-- consoles -->
+  <rect x="150" y="420" width="130" height="46" rx="4" fill="#c7d8df" stroke="#2b2620" stroke-width="3"/><rect x="150" y="486" width="130" height="46" rx="4" fill="#c7d8df" stroke="#2b2620" stroke-width="3"/>
+  <text x="150" y="412" class="sub">consoles de schémas</text>
 
-  <!-- assembly line (top) -->
-  <rect x="240" y="240" width="816" height="44" rx="6" fill="#cdbf9f" stroke="#5b5240" stroke-width="2"/>
-  <g stroke="#5b5240" stroke-width="7" stroke-linecap="round"><line x1="300" y1="240" x2="300" y2="204"/><line x1="408" y1="240" x2="408" y2="204"/><line x1="516" y1="240" x2="516" y2="204"/><line x1="624" y1="240" x2="624" y2="204"/><line x1="732" y1="240" x2="732" y2="204"/><line x1="840" y1="240" x2="840" y2="204"/><line x1="948" y1="240" x2="948" y2="204"/></g>
-  <text x="252" y="312" class="sub">chaîne d'assemblage Baktoid (bras articulés, figée)</text>
+  <!-- vault / chest -->
+  <use href="#chest" transform="translate(238,700)"/>
+  <circle cx="238" cy="700" r="60" fill="none" stroke="#1f6f3a" stroke-width="3.5" stroke-dasharray="9 6"/>
+  <text x="238" y="624" text-anchor="middle" class="ok">★ COFFRE data-cœur</text>
+  <text x="150" y="784" class="sub">plans Baktoid = trésor de Michel (Namie crochète)</text>
 
-  <!-- schema consoles (left) -->
-  <rect x="168" y="456" width="132" height="48" rx="4" fill="#c7d8df" stroke="#2b2620" stroke-width="3"/>
-  <rect x="168" y="528" width="132" height="48" rx="4" fill="#c7d8df" stroke="#2b2620" stroke-width="3"/>
-  <text x="168" y="448" class="sub">consoles de schémas</text>
+  <!-- bins -->
+  <g fill="#d9cdb0" stroke="#5b5240" stroke-width="2"><rect x="1184" y="430" width="52" height="40"/><rect x="1244" y="430" width="52" height="40"/><rect x="1184" y="478" width="52" height="40"/><rect x="1244" y="478" width="52" height="40"/><rect x="1184" y="526" width="52" height="40"/><rect x="1244" y="526" width="52" height="40"/></g>
+  <text x="1140" y="422" class="sub">bacs de composants rares</text>
 
-  <!-- data-core vault (treasure) -->
-  <rect x="168" y="708" width="168" height="96" rx="5" fill="#efe7d6" stroke="#1f6f3a" stroke-width="5"/>
-  <rect x="180" y="720" width="144" height="72" rx="3" fill="none" stroke="#1f6f3a" stroke-width="2"/>
-  <text x="252" y="752" text-anchor="middle" class="cx" style="font-size:15px">★ COFFRE</text>
-  <text x="252" y="772" text-anchor="middle" class="cx">data-cœur</text>
-  <text x="168" y="828" class="cx">plans Baktoid — le trésor de Michel (Namie crochète)</text>
+  <!-- LA MÈRE -->
+  <use href="#mere" transform="translate(744,584)"/>
+  <text x="744" y="600" text-anchor="middle" class="rm" style="fill:#fff;stroke:#3a1d06;stroke-width:4;font-size:22px">LA MÈRE</text>
+  <text x="744" y="624" text-anchor="middle" class="sub" style="fill:#fff;stroke:#3a1d06;stroke-width:2.5">boss · enracinée · engendre la Nuée (+1/round)</text>
 
-  <!-- component bins (right) -->
-  <g fill="#d9cdb0" stroke="#5b5240" stroke-width="2"><rect x="1176" y="456" width="52" height="40"/><rect x="1236" y="456" width="52" height="40"/><rect x="1176" y="504" width="52" height="40"/><rect x="1236" y="504" width="52" height="40"/><rect x="1176" y="552" width="52" height="40"/><rect x="1236" y="552" width="52" height="40"/></g>
-  <text x="1130" y="448" class="sub">bacs de composants rares</text>
-
-  <!-- LA MÈRE (center, fused to fabricator) -->
-  <g transform="translate(744,592)">
-    <path d="M0 -118 C80 -106 132 -56 118 8 C150 38 132 104 70 116 C42 150 -46 148 -74 110 C-142 102 -150 30 -118 -2 C-138 -62 -78 -112 0 -118 Z" fill="url(#rust)" stroke="#3a1d06" stroke-width="6"/>
-    <path d="M0 -118 C80 -106 132 -56 118 8 C150 38 132 104 70 116 C42 150 -46 148 -74 110 C-142 102 -150 30 -118 -2 C-138 -62 -78 -112 0 -118 Z" fill="#1f6f3a" opacity="0.18"/>
-    <g stroke="#3a1d06" stroke-width="5" fill="none" opacity="0.8"><path d="M-84 -84 q-56 -40 -120 -38"/><path d="M96 -70 q56 -34 130 -22"/><path d="M-96 96 q-56 40 -128 34"/><path d="M88 104 q60 34 132 54"/></g>
-    <text x="0" y="-6" text-anchor="middle" class="lbl" style="fill:#fff;stroke:#3a1d06;stroke-width:4;font-size:22px;font-weight:700">LA MÈRE</text>
-    <text x="0" y="18" text-anchor="middle" class="sub" style="fill:#fff;stroke:#3a1d06;stroke-width:2.5">boss · enracinée au fabricateur</text>
-    <text x="0" y="38" text-anchor="middle" class="sub" style="fill:#fff;stroke:#3a1d06;stroke-width:2.5">engendre la Nuée (+1 section/round)</text>
+  <!-- LÉGENDE -->
+  <rect x="96" y="908" width="1248" height="172" rx="10" fill="#efe7d6" stroke="#2b2620" stroke-width="3"/>
+  <text x="116" y="940" class="rm" style="font-size:18px">LÉGENDE</text>
+  <g transform="translate(132,978)">
+    <use href="#mere" transform="scale(0.13)"/><text x="44" y="6" class="leg">LA MÈRE (boss, à ne pas forcément tuer)</text>
+    <g transform="translate(470,-8)"><use href="#chest" transform="scale(0.5)"/><circle cx="0" cy="6" r="30" fill="none" stroke="#1f6f3a" stroke-width="2.5" stroke-dasharray="6 4"/></g><text x="510" y="6" class="leg">★ coffre / objectif d'extraction</text>
+    <use href="#arm" transform="translate(900,14) scale(0.7)"/><text x="936" y="6" class="leg">bras robotisé (chaîne d'assemblage)</text>
   </g>
-
-  <!-- (sortie = remonter par l'entrée en haut ; annotée là-haut) -->
-
-  <text x="24" y="1010" class="sub">≈ 26 × 17 carreaux · EXTRACTION sous pression, pas un duel : saisir le coffre + le micro-fabricateur (Tatouf porte) + les derniers dormants, brûler le nid (Michel), puis remonter en 3 rounds. La Mère immobilise plus qu'elle ne tue.</text>
+  <g transform="translate(132,1040)">
+    <rect x="0" y="-8" width="36" height="24" fill="#c7d8df" stroke="#2b2620" stroke-width="3"/><text x="48" y="10" class="leg">console</text>
+    <g fill="#d9cdb0" stroke="#5b5240" stroke-width="2"><rect x="300" y="-8" width="36" height="24"/></g><text x="348" y="10" class="leg">bac de composants</text>
+    <path d="M612 -6 V12 M600 0 L612 14 L624 0" fill="none" stroke="#1f6f3a" stroke-width="5"/><text x="648" y="10" class="leg">entrée (vert)</text>
+    <rect x="852" y="-8" width="36" height="24" fill="#cdbf9f" stroke="#a11515" stroke-width="3"/><text x="900" y="10" class="leg">↑ = sortie / effondrement</text>
+  </g>
+  <text x="28" y="1118" class="sub">≈ 26 × 15 carreaux · EXTRACTION sous pression, pas un duel : saisir le coffre + le micro-fabricateur (Tatouf porte) + les derniers dormants, brûler le nid (Michel), remonter en 3 rounds. La Mère immobilise plus qu'elle ne tue.</text>
 </svg>
