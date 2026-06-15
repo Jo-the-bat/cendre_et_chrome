@@ -2,15 +2,15 @@
 
 **Durée estimée :** ~4h
 **Joueurs :** 6
-**Contenu :** Ouverture au Nid (~20min) + le contact Denn Vorix (~20min) + reconnaissance de l'Entrepôt 9 (~30min) + le casse (~1h45) + le repas des Fosses (~45min, ne pas couper) + informations promises & clôture (~20min)
+**Contenu :** Ouverture au Nid (~20min) + le contact Denn Vorix (~20min) + reconnaissance de l'Entrepôt 9 (~30min) + le casse (~1h45) + le repas des Fosses (~45min, ne pas couper) + la dette de Denn — sa vérité perso (~15min) + clôture (~20min)
 **Mécaniques introduites :** Infiltration multi-approches (3 portes d'entrée valides), gestion d'alarme et de renforts, combat contre droïdes blindés (B1 Sentinelles Chromés), conséquences à tiroirs selon le butin choisi
-**Résumé :** Un commerçant murkhanais engage les joueurs pour récupérer la cargaison de son cousin, saisie par les collecteurs de Boss Iptab "en compensation de tribut". Dans l'entrepôt, les joueurs découvrent ce que tout le monde murmure sans pouvoir le prouver : le tribut part chaque mois vers le Protectorat. La rumeur devient preuve. En échange, le commerçant leur ouvre les portes de son quartier — un repas communautaire dans les Fosses, le Chant, les récifs qui chantaient, et ce qu'il sait sur le Muun.
+**Résumé :** Un commerçant murkhanais demande aux joueurs de récupérer la cargaison de son cousin, saisie par les collecteurs de Boss Iptab "en compensation de tribut". Il ne les engage pas — il file un tuyau et ne peut pas y aller lui-même. Dans l'entrepôt, les joueurs découvrent ce que tout le monde murmure sans pouvoir le prouver : le tribut part chaque mois vers le Protectorat. La rumeur devient preuve. En échange, le commerçant leur ouvre les portes de son quartier — un repas communautaire dans les Fosses, le Chant, les récifs qui chantaient, et sa vérité sur le Muun (ce que « Kole » a fait pour lui — pas un secret de réseau).
 
 ---
 
 ## NOTES MJ
 
-**⚠️ Profil du groupe :** Tes joueurs sont agressifs et tactiques (Gruuk s'en souvient). L'assaut frontal est une approche **valide** — l'entrepôt est calibré pour encaisser le lance-grenade de Michel et le bouclier de Tatouf. Mais le vrai enjeu de la session n'est pas de gagner le combat : c'est **ce qu'ils choisissent de prendre** dans l'entrepôt, et ce que ça déclenche. Le combat est l'amuse-bouche ; la décision est le plat.
+**⚠️ Profil du groupe :** Tes joueurs sont agressifs et tactiques — Gruuk en témoignerait, s'il lui restait un crâne pour ça (Tatouf le lui a éclaté sur le bar en S1). L'assaut frontal est une approche **valide** — l'entrepôt est calibré pour encaisser le lance-grenade de Michel et le bouclier de Tatouf. Mais le vrai enjeu de la session n'est pas de gagner le combat : c'est **ce qu'ils choisissent de prendre** dans l'entrepôt, et ce que ça déclenche. Le combat est l'amuse-bouche ; la décision est le plat.
 
 **⚠️ Thème "miroir" — Normalisation :** La preuve du pacte syndicats/Protectorat doit être **banale**. Pas de chambre secrète, pas de complot chuchoté — des tampons administratifs, des manifestes mensuels, une routine. L'horreur, c'est que personne ne se cache. Le garde qui hausse les épaules : *"Le tribut ? Bah ouais. C'est comme ça tous les mois."* C'est le docker du Convoi, en écho.
 
@@ -75,7 +75,7 @@ Laisse les quatre présents raconter le Hangar 47 à Namie et Swipping (ou racon
 >
 > *L'homme qui attend devant le sas est un Koorivar d'une cinquantaine d'années — la corne crânienne en spirale ébréchée, des mains de manutentionnaire, un manteau réparé proprement. Une Pierre Noire pend à son cou sur un lacet de cuir. Il la touche quand vous approchez — un geste réflexe, comme on vérifie une poche.*
 >
-> *"Vous êtes les chasseurs d'Edna. Ceux qui posent des questions partout." Ce n'est pas une accusation. "Je m'appelle Denn Vorix. Je vends des pièces détachées au niveau 11. J'ai besoin de gens qui n'ont pas peur des syndicats — et j'ai quelque chose à échanger."*
+> *"Vous êtes les chasseurs d'Edna. Ceux qui posent des questions partout." Ce n'est pas une accusation. "Je m'appelle Denn Vorix. Je vends des pièces détachées au niveau 11. Je viens pas vous engager — j'aurais pas de quoi. Je viens parce que le syndicat d'Iptab garde quelque chose qui m'appartient, et que je peux pas aller le reprendre moi-même. Vous, peut-être."*
 
 ### Le pitch
 
@@ -85,7 +85,11 @@ Laisse les quatre présents raconter le Hangar 47 à Namie et Swipping (ou racon
 >
 > *"La cargaison est dans un entrepôt du syndicat au niveau 18 — l'Entrepôt 9, en lisière du Couloir des Ferrailleurs. Et dans deux jours, à l'aube, tout part au Port Gris pour le 'transfert mensuel'. Après ça, plus rien à récupérer."*
 >
-> *"Je peux payer 500 crédits — c'est tout ce que j'ai. Mais je peux vous donner mieux : ce que je sais sur le Muun que vous cherchez. Et croyez-moi — je sais des choses que personne d'autre ne vous dira."*
+> *"Je peux payer 500 crédits — c'est tout ce que j'ai, et je sais que c'est rien pour ce que je demande."*
+>
+> *Il marque un temps.*
+>
+> *"Alors je vous offre le reste autrement. Faites ça, et mon quartier vous ouvre sa porte — son repas, ses gens, ce qu'on ne montre pas aux étrangers. Et la seule chose que je sais vraiment sur ce Muun que vous traquez, je vous la dirai là-bas : pas un secret de syndicat — ce qu'il a fait pour moi. Ici, ça vaut plus cher que des crédits. Vous verrez."*
 
 ### Questions des joueurs
 
@@ -93,7 +97,7 @@ Laisse les quatre présents raconter le Hangar 47 à Namie et Swipping (ou racon
 |---|---|
 | *"C'est quoi le 'transfert mensuel' ?"* | Il baisse la voix. *"Tous les mois, les syndicats rassemblent le tribut. Crédits, marchandises, épice. Et tout part au Port Gris, quai 2. Pour qui ? Tout le monde a sa théorie. Personne a de preuve. Ceux qui posent trop de questions déménagent — vers Arrakha."* |
 | *"Pourquoi nous ?"* | *"Parce que vous êtes pas d'ici. Le syndicat connaît tous les visages des Fosses. Pas les vôtres. Et on dit que vous avez nettoyé le Hangar 47 en une nuit."* (Les nouvelles vont vite au Port Gris.) |
-| *"Tu sais quoi sur le Muun ?"* | *"Après. Quand mon cousin aura récupéré son gagne-pain. C'est ma seule monnaie — je la dépense pas avant."* |
+| *"Tu sais quoi sur le Muun ?"* | *"Pas grand-chose, honnêtement — je suis un marchand de pièces, pas un de ses hommes. Mais ce qu'il a fait pour moi, ça je peux vous le raconter. Chez nous, autour du repas, quand la caisse de Savet sera rentrée. C'est ma façon de payer. Pas avant."* |
 | *"Et si on prend tout l'entrepôt ?"* | Il se fige. *"Je vous demande la caisse de Savet. Le reste…"* Il regarde ailleurs. *"Le reste appartient à des gens qui se vengent sur ceux qui peuvent pas se défendre. Réfléchissez à qui paiera."* |
 | *"Pourquoi pas la milice du quartier ?"* | *"Quelle milice ? On a des balais et des vieux. Le syndicat a des blasters et des droïdes."* |
 
@@ -183,7 +187,7 @@ Laisse les quatre présents raconter le Hangar 47 à Namie et Swipping (ou racon
 | Zone touchée par une explosion | Conséquence |
 |---|---|
 | **Zone tribut** | Les caisses de crédits brûlent et **l'épice s'enflamme** : nuage stupéfiant sur 6m — +⚫⚫ à toute action dans la zone, Résilience Moyenne 🟣🟣 ou 2 Stress par round. Et le butin part en fumée. |
-| **Caisses saisies** | La cargaison de Savet est détruite. Mission ratée au sens de Denn — pas d'infos sur le Muun. |
+| **Caisses saisies** | La cargaison de Savet est détruite. Mission ratée au sens de Denn — pas de repas dans les Fosses, pas de Pierre, pas de sa vérité. |
 | **Murs côté Couloir des Ferrailleurs** | La cloison cède sur un atelier **occupé**. Des civils murkhanais blessés. Les Fosses s'en souviendront — et le réseau de Hashk aussi. |
 | **Monte-charge / établi** | "Quatre" est pulvérisé. Lolita le découvrira après coup. |
 
@@ -263,7 +267,7 @@ Si les joueurs n'ont pris que la caisse de Savet, ils peuvent planquer au Port G
 
 ## LE REPAS DES FOSSES (~45min — NE PAS COUPER)
 
-**Le lendemain soir.** La caisse de Savet est rentrée au niveau 11. Denn fait passer le mot : *"Venez ce soir, niveau 5. Mon quartier fait un repas commun. Vous verrez pourquoi je me bats. Et je paierai ma dette — tout ce que je sais sur votre Muun."*
+**Le lendemain soir.** La caisse de Savet est rentrée au niveau 11. Denn fait passer le mot : *"Venez ce soir, niveau 5. Mon quartier fait un repas commun. Vous verrez pourquoi je me bats. Et je paierai ma dette — à ma façon."*
 
 > ### 📖 LIRE À VOIX HAUTE
 >
@@ -319,18 +323,38 @@ Elle ne se présente pas. Si on insiste, elle jauge le joueur une seconde et ret
 
 ---
 
-## LES INFORMATIONS PROMISES (~15min)
+## LA DETTE DE DENN (~15min)
 
-Après le repas, Denn s'assoit en face des joueurs. Il paie sa dette.
+Après le repas, Denn s'assoit en face des joueurs. Il a dit qu'il paierait sa dette. Voici comment : pas avec des secrets — il n'en a pas. Avec la vérité.
 
-**Ce que Denn sait sur "le Muun" :**
+> *"Vous attendez que je vous dise où le trouver, ce Muun. Un nom, une adresse, un plan." Il secoue la tête. "Je suis un marchand de pièces détachées. Je sais pas où il est. Je sais pas qui sont ses gens. Si quelqu'un organise quelque chose dans ce quartier, on me l'a pas dit — et c'est mieux comme ça."*
+>
+> *Il touche la place vide à son cou, là où pendait la Pierre.*
+>
+> *"Mais je vais vous dire la seule chose que je sais de lui. La vraie."*
 
-- *"Il y a deux ans, ma dette envers le syndicat a disparu. Rachetée. Un intermédiaire m'a apporté un reçu et un mot : 'Continuez.' C'est tout. Je sais une dizaine de familles dans ce quartier à qui c'est arrivé. On dit tous le même nom à voix basse : le Directeur Kole."*
-- *"La Clinique de Sel, au niveau 4 — Doc Frag soigne gratis, sans questions. Vous croyez que ça se finance avec quoi ? Personne demande. Tout le monde sait."*
-- *"Il part souvent pour Arrakha. Ses gens aussi — des ferrailleurs, des dockers, des gens normaux. Si vous voulez comprendre ce qu'il fait, c'est pas dans les bureaux qu'il faut chercher. C'est dans les mines."*
-- Et enfin, il se penche : *"Un conseil. Arrêtez de le chasser comme une proie. Il vous regarde déjà — il regarde tous ceux qui le cherchent. La question c'est pas où il est. La question c'est ce qu'il verra quand il vous regardera."*
+**Sa vérité — pourquoi il se bat :**
 
-**Note MJ :** Tout est vrai, rien n'est secret pour les Fosses. Denn vient de donner aux joueurs la **direction de la S4** (Arrakha) et la clé du protocole de Hashk (être vus en train d'agir, pas de fouiller). Si les joueurs ont sauvé la caisse de Savet ET respecté le quartier, le réseau de Hashk reçoit son meilleur rapport sur eux depuis la S2.
+> *"Il y a deux ans, je devais trois mille crédits au syndicat. Des intérêts qui montaient plus vite que je pouvais rembourser. Le genre de dette qui finit par un convoi pour Arrakha — la mienne, ou celle de ma fille à ma place."*
+>
+> *Un temps.*
+>
+> *"Et puis un matin, un type que j'avais jamais vu m'a tendu un reçu. Dette soldée. Un seul mot écrit dessus : 'Continuez.' Pas de nom, pas de conditions, rien à rembourser. Ma fille a mangé ce mois-là. Elle est encore là."*
+>
+> *Il regarde la salle — les tables, les gamins, le ferrailleur et son droïde.*
+>
+> *"On est une dizaine de familles ici à qui c'est arrivé. On dit tous le même nom, tout bas, sans savoir si c'est le vrai : Kole. Je sais pas ce qu'il prépare. Je sais pas s'il est bon. Je sais juste que ma fille respire encore, et que ces gens-là" — il désigne le quartier — "c'est tout ce qui me reste à défendre. Voilà pourquoi je me bats. Pas pour un Directeur. Pour eux."*
+>
+> *Il vous regarde.*
+>
+> *"Vous, vous cherchez un homme. Moi je vous montre des gens. Faites-en ce que vous voulez."*
+
+**Note MJ — ce que cette scène donne (et ne donne PAS) :**
+
+- **Denn n'est pas une source.** Il ne lâche aucun nom de réseau, aucun coordinateur, aucune piste opérationnelle — *il ne les connaît pas.* C'est un reconnaissant, pas un agent (cf. la note d'ouverture). Tout ce qu'il offre, c'est sa vérité et l'embrassade de son quartier. Ne le transforme pas en informateur : son histoire personnelle EST le paiement.
+- **La direction de la S4 (Arrakha) ne sort PAS de sa bouche.** Elle vient d'Edna en clôture (le contact Jyn Tracert) et de l'avertissement koorivar de la S2 (*"pas dans les bureaux — dans les mines"*). Faire répéter ça à Denn tomberait à plat : c'est déjà acquis. Sa seule couleur « Arrakha » est intime — la dette qui « finit par un convoi », rien de plus.
+- **Le vrai gain de la S3 est invisible ce soir : la réputation des joueurs.** Comment ils ont géré le tribut, gardes tués ou assommés, quartier respecté ou amoché — tout remonte au réseau de Hashk, qui *observe sans se montrer* (S2-S5). Ça ne se monnaie pas maintenant. Ça revient en **S6**, quand le réseau cesse d'observer et **vient à eux** (premier contact d'un lieutenant — voir la bible). Le repas partagé, la Pierre au cou, les ados qui taguent le Chant sur les murs : autant de fils que la S6 viendra tirer.
+- **Si les joueurs ont sauvé la caisse de Savet ET respecté le quartier**, le réseau reçoit son meilleur rapport sur eux depuis la S2.
 
 ### Pistes S2 à recycler (si non explorées)
 
@@ -348,6 +372,12 @@ Si tes joueurs n'avaient pas fait certaines pistes en S2, elles peuvent se rejou
 ## CLÔTURE — LE NID (~15min)
 
 Edna écoute le rapport. Sa réaction dépend du butin :
+
+> **Si les joueurs lui mettent les manifestes sous le nez** (la preuve : tribut → **Protectorat d'Auril**) **:** elle les lit en silence. Elle ne prononce pas le mot « Protectorat », ne théorise pas le destinataire, ne propose aucun plan. Elle repose le datapad, caresse sa cicatrice, et **renvoie la balle :**
+>
+> *"Donc c'est vrai. Tout le monde s'en doutait — maintenant vous l'avez sur un datapad."* Un temps. *"Qu'est-ce que vous voulez en faire ?"*
+>
+> Elle ne répondra pas à sa propre question. Le nom est trop gros ; le flou est sa survie (voir sa fiche dans la bible). C'est aux joueurs de décider quoi faire de ce qu'ils ont trouvé — pas à elle.
 
 **Si les joueurs n'ont pris que la caisse de Savet :**
 > *"Propre. Pas de prime, pas de gloire — mais le niveau 11 se souviendra de vous. Sur Murkhana, ça vaut plus qu'un compte en banque."*
@@ -455,7 +485,7 @@ Fuit vers le monte-charge à 8+ blessures. **S'il s'échappe, il a vu les visage
 
 | PNJ | Espèce | Lieu | Rôle | Ce qu'il cache |
 |---|---|---|---|---|
-| **Denn Vorix** | Koorivar | Niveau 11 / Fosses | Commerçant, employeur, donneur de Pierre Noire | Rien — il est exactement ce qu'il paraît. C'est ça qui compte. |
+| **Denn Vorix** | Koorivar | Niveau 11 / Fosses | Commerçant ; donneur de tuyau ; porte d'entrée des Fosses (Pierre + repas) ; futur moteur de conséquence (battu si le tribut est volé) | Rien — il est exactement ce qu'il paraît. C'est ça qui compte. |
 | **Savet Nuur** | Koorivar | Niveau 11 | Le cousin transporteur | — |
 | **Raal Besh** | Gran | Entrepôt 9 | Collecteur en chef d'Iptab | La peur panique de décevoir le transfert |
 | **"Quatre" (B1-S4)** | Droïde B1 | Entrepôt 9 (établi) | Sentinelle déclassée promise à l'effacement | "...Directive ? S'il vous plaît ?" |
@@ -468,7 +498,8 @@ Fuit vers le monte-charge à 8+ blessures. **S'il s'échappe, il a vu les visage
 
 - **La preuve** : le tribut des syndicats part chaque mois vers le **Protectorat d'Auril** — manifestes, tampons, routine. La rumeur de S0-S2 est devenue un fait.
 - (Si Triomphe au terminal) Les syndicats livrent aussi du **renseignement** — et l'accusé de réception porte l'en-tête du **BSS**, le bureau de ce "Vektor".
-- Le Muun rachète des dettes, finance la Clinique de Sel, et ses gens partent pour **Arrakha** — c'est là qu'il faut aller (S4), avec le contact **Jyn Tracert** à Torren.
+- Le Muun (« Kole ») rachète des dettes dans les Fosses — Denn en a bénéficié et le raconte comme une vérité personnelle, pas comme un renseignement (il ne connaît ni ses plans ni ses gens).
+- La **direction d'Arrakha** vient d'Edna en clôture (contact **Jyn Tracert** à Torren) et de l'avertissement koorivar de la S2 — pas de Denn. C'est là qu'il faut aller (S4).
 - Chasser Kole comme une proie ne marche pas : **il regarde déjà**. Ce qu'on fait compte plus que ce qu'on cherche.
 - Le quartier du niveau 11 leur doit quelque chose — et une Pierre Noire de plus pend à un cou du groupe.
 - (Selon le butin) Iptab cherche des responsables. Et quelqu'un d'autre, plus haut, a remarqué.

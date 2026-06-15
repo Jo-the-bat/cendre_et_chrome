@@ -339,7 +339,7 @@ Les joueurs poseront des questions directes à Edna dès les premières sessions
 
 | Question | Ce qu'Edna sait | Ce qu'elle ne sait pas |
 |---|---|---|
-| Les syndicats | Ils paient un tribut à quelqu'un de puissant | Que c'est spécifiquement Hopner / le Protectorat |
+| Les syndicats | Ils paient un tribut qui remonte loin — « en orbite, quelqu'un de gros ». Elle le soupçonne fort. | Que c'est spécifiquement Hopner / le Protectorat — **et surtout elle refuse de le nommer ou de creuser**, même confrontée à une preuve (voir clôture S3) |
 | Le "Directeur Kole" | Quelqu'un organise quelque chose dans les niveaux bas, rachète des dettes | Que c'est un soulèvement armé avec des droïdes |
 | La conscription | Tout le monde sur Murkhana le sait — les convois partent régulièrement | L'ampleur exacte du système ni le lien avec le doonium |
 | Le commanditaire de la prime | Que c'est quelqu'un de très puissant — la prime est trop grosse pour un simple criminel | Que c'est le Protectorat (jusqu'à la session 8) |
@@ -347,6 +347,8 @@ Les joueurs poseront des questions directes à Edna dès les premières sessions
 | Le Consortium et Hopner | Elle soupçonne que certains contrats viennent de sources impériales | L'ampleur de la manipulation — elle ne creuse pas |
 
 **Pourquoi elle ne creuse pas :** Edna a survécu vingt ans sur Murkhana en ne posant pas de questions. Creuser signifie choisir un camp — et choisir un camp met ses "enfants" en danger. Elle préfère le flou. C'est de la survie, pas de la lâcheté.
+
+**Quand on lui met une preuve sous le nez (manifestes de l'Entrepôt 9, clôture S3) :** elle ne mord pas. Elle lit, elle se tait, elle encaisse — et elle **renvoie la balle** : *"Qu'est-ce que vous voulez faire ?"* Elle ne prononce pas « Protectorat », ne théorise pas le destinataire, ne propose pas de plan. Le nom est trop gros pour elle ; le flou est sa survie. C'est aux joueurs de décider quoi faire de ce qu'ils ont trouvé — pas à Edna.
 
 ---
 
@@ -925,7 +927,7 @@ Les joueurs commencent comme des chasseurs de primes. Ils veulent faire le contr
 Les joueurs ne sont pas forcés de réagir. Mais ils voient des choses qui s'accumulent :
 
 - **Le Convoi (session 2) :** Des familles séparées au Port Gris. Un enfant qui chante. Un docker indifférent. Les joueurs ne sont pas obligés d'intervenir — mais ils l'ont vu.
-- **La mission de la session 3 :** Les joueurs découvrent que Murkhana est contrôlée par un pacte entre les syndicats et Hopner. Le commerçant qui les a engagés dit simplement : *"Maintenant vous savez."* Ils savent.
+- **La mission de la session 3 :** Les joueurs découvrent que Murkhana est contrôlée par un pacte entre les syndicats et Hopner. Le commerçant qui leur a filé le tuyau dit simplement : *"Maintenant vous savez."* Ils savent.
 - **Arrakha (session 4) :** Les quotas, les dettes, les Gorges. Un vieux mineur qui montre sa Pierre Noire. Le Chant dans les galeries. Encore une fois, personne ne leur demande d'agir. Mais le monde s'imprime en eux.
 - **Forscan Prime (session 5) :** La vitrine propre. Le stormtrooper courtois. Le commerçant qui sourit en mentant. Le contraste avec ce qu'ils ont vu sur Arrakha et Murkhana est insupportable — et c'est le point. Les joueurs comprennent le système dans son ensemble.
 - **Les PNJ s'attachent (sessions 1-6) :** Les joueurs ne s'attachent peut-être pas aux PNJ — mais les PNJ s'attachent à eux. Rezz le barman leur garde une table. Ping leur sert sans qu'ils commandent. Un enfant d'Arrakha les suit partout. Jyn Tracert leur fait confiance. Nox les aide sans rien demander. Le Consortium est leur foyer. Quand ces gens seront en danger, les joueurs ressentiront quelque chose — même s'ils prétendent que non.
@@ -1599,7 +1601,7 @@ Sa logique : *"Si Arrakha ne peut pas être libre, alors Arrakha ne sera utile �
 - **Rôle :** Officier du Renseignement Militaire de la Nouvelle République, en mission clandestine dans le secteur Auril
 - **Référence :** *Erso* — clin d'œil au nom de famille de Jyn Erso (Rogue One), mais aucun lien de parenté. Un rappel que la rébellion a toujours exigé des sacrifices de gens ordinaires.
 
-**Couverture :** Les joueurs rencontrent Nox comme **mécanicienne itinérante** travaillant pour un petit atelier de réparation de vaisseaux au Port Gris — l'atelier de "Kesh", un vieux Sullustain qui existe vraiment (c'est un contact républicain, mais les joueurs ne le savent pas). Nox a un salaire visible, un logement dans les niveaux intermédiaires, un casier judiciaire mineur (contrebande — fabriqué par ses supérieurs pour crédibiliser le personnage). Elle traîne dans les cantinas parce que "les pilotes parlent quand on répare leurs moteurs". Ça explique ses contacts, ses informations, et ses revenus.
+**Couverture :** Les joueurs rencontrent Nox comme **mécanicienne itinérante** travaillant pour un petit atelier de réparation de vaisseaux au Port Gris — l'atelier de "Kesh", un vieux Sullustan qui existe vraiment (c'est un contact républicain, mais les joueurs ne le savent pas). Nox a un salaire visible, un logement dans les niveaux intermédiaires, un casier judiciaire mineur (contrebande — fabriqué par ses supérieurs pour crédibiliser le personnage). Elle traîne dans les cantinas parce que "les pilotes parlent quand on répare leurs moteurs". Ça explique ses contacts, ses informations, et ses revenus.
 
 **Réponses préparées pour le MJ quand les joueurs enquêtent :**
 - "D'où vient-elle ?" → Corellia, arrivée sur Murkhana il y a 3 ans pour fuir une dette (faux, mais vérifiable — ses faux papiers sont bien faits).

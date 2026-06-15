@@ -7,7 +7,7 @@
 
 **La stratégie de Hashk :** Hashk sait que Hopner envoie des chasseurs de primes — ce n'est pas la première fois. Il a un **protocole standard** : ses agents dans la ville et dans les mines signalent quiconque pose des questions sur "le Directeur Kole". Le réseau observe, rapporte, et Hashk évalue à distance. Il ne conçoit pas de "tests" pour les joueurs — il observe comment ils réagissent face aux réalités qu'ils rencontrent naturellement (la conscription, les syndicats, les mines). Si les rapports sont positifs — ces chasseurs ont l'air d'avoir une conscience — Hashk décide de se montrer. Si les rapports sont négatifs, il disparaît et les laisse chercher dans le vide. Les joueurs ne sont pas spéciaux à ses yeux. Pas encore.
 
-**Le rôle d'Edna :** Edna soutient les joueurs, fournit des missions secondaires quand la table n'est pas au complet, et les suit dans leurs démarches. Elle ne force jamais un choix.
+**Le rôle d'Edna :** Edna soutient les joueurs, fournit des missions secondaires quand la table n'est pas au complet, et les suit dans leurs démarches. **Deux registres à tenir partout, sans les confondre :** elle est **directive sur les objectifs** — *« voilà le prochain boulot »*, et elle ne s'en excuse pas (ce groupe aime être dirigé) — mais **en retrait sur les vrais choix** : quel camp prendre, quoi faire du tribut, livrer Hashk ou pas. Sur ces choix-là, elle ne force jamais. Elle pose le cap, jamais la conscience.
 
 ---
 
@@ -239,12 +239,14 @@ Deux Koorivar armés (gardes de Hashk) abordent les joueurs :
 
 **Durée estimée :** ~4h  
 **Contenu :** 1 mission d'infiltration/action (~2h30) + ambiance Fosses (~1h)  
-**Objectif :** Une mission qui révèle le pacte syndicats/Hopner. Les joueurs découvrent que Murkhana est contrôlée à distance. Le commerçant qui les embauche est un Murkhanais ordinaire — mais il fait partie du réseau de Hashk sans le savoir (Hashk rachète les dettes, les gens lui sont reconnaissants et parlent de lui).
+**Objectif :** Une mission qui révèle le pacte syndicats/Hopner. Les joueurs découvrent que Murkhana est contrôlée à distance. Le commerçant qui leur file le tuyau est un Murkhanais ordinaire — il ne les embauche pas, il ne peut juste pas y aller lui-même. Il fait partie du « réseau » de Hashk sans le savoir et sans rien en connaître (Hashk rachète les dettes, les gens lui sont reconnaissants et parlent de lui à voix basse).
 
 ### Le contact
 
 Un commerçant des niveaux bas (pas un agent de Hashk — juste un Murkhanais qui a entendu dire que des chasseurs de primes posaient des questions) :
-> *"Un syndicat a saisi la cargaison de mon cousin pour la livrer au tribut du Protectorat. Aidez-moi à la récupérer — je vous donnerai des infos sur votre Muun."*
+> *"Un syndicat a saisi la cargaison de mon cousin 'en compensation de tribut'. Dans deux jours tout part au Port Gris pour le 'transfert mensuel' — après, plus rien. Aidez-moi : je peux pas y aller moi-même. Je vous paie ce que j'ai, et mon quartier vous ouvre sa porte."*
+
+*(Denn ne sait pas — et ne dit pas — pour qui part le tribut. C'est l'entrepôt qui livre la preuve « → Protectorat », pas lui. Et il n'a aucun renseignement sur le Muun à vendre : sa monnaie, c'est sa communauté et sa propre histoire. Voir SESSION3.md.)*
 
 ### La mission (~2h30)
 
@@ -254,7 +256,7 @@ Infiltration ou assaut d'un **entrepôt de syndicat** dans les niveaux interméd
 
 ### Approfondir Murkhana (~1h)
 
-Après la mission, le commerçant tient parole — il donne un rendez-vous dans les Fosses pour les informations promises. Mais avant :
+Après la mission, le commerçant tient parole — il donne un rendez-vous dans les Fosses pour payer sa dette à sa façon : un repas, sa Pierre Noire, et sa vérité (pourquoi il se bat) — pas un renseignement. Mais avant :
 
 - **Repas communautaire :** Familles murkhanaies, ragoût dans un ancien hall de droïdes. Quelqu'un chante le Chant des Marées. C'est simple et triste.
 - **Un Murkhanais montre un holo :** Murkhana "d'avant" — les océans noirs, les récifs. *"C'était chez nous. Avant que la guerre ne prenne tout."* Puis, plus bas : *"Mon grand-père disait que les récifs chantaient. Quand la marée montait, le corail vibrait — une note basse, profonde. C'est de là que vient le Chant des Marées. On chantait avec l'océan."*

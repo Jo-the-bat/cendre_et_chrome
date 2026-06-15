@@ -644,7 +644,8 @@ Quand les PJ partent, juste avant qu'ils sortent :
 
 **Edna écoute le rapport :**
 - **Pas de paiement supplémentaire** (Edna a arrangé le contact, Vrak paye directement — la commission est dans le tarif Vrak)
-- *"Bon boulot. Reposez-vous. Demain on parle d'Arrakha avec les autres."*
+- *"Bon boulot. Reposez-vous. Arrakha, c'est le cap — on y vient. Mais pas avant d'avoir réglé deux-trois trucs ici. Demain on se retrouve tous au Nid ; y'a déjà du monde qui demande après vous."*
+  *(Amorce S3 : « le cap reste Arrakha », mais l'œil tourné vers Murkhana — et le « monde qui demande après vous » prépare l'arrivée de Denn Vorix à l'ouverture de la S3, sans le nommer.)*
 
 Si les PJ ramènent le datapad de Krev Drakk à Edna au lieu de Vrak, elle hoche la tête : *"Utile. Je creuse ça."* Pas de paiement direct, mais influence positive auprès d'Edna pour future intel.
 

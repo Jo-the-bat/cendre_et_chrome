@@ -25,7 +25,7 @@ Ce document est une **référence libre** pour le MJ. Murkhana City est un lieu 
 |---|---|---|---|---|
 | **Le Nid d'Edna** | 14 | QG Consortium | Edna, Basch | Le foyer des joueurs. |
 | **Le Port Gris** | 12-15 | Spatioport | Vrak Chmod (dockers), Nox/Kesh (atelier) | Contrôlé par le syndicat des dockers. Départs vers Arrakha. |
-| **L'atelier de Kesh** | 12 | Atelier réparation | Kesh (Sullustain), Nox Erso | Couverture de Nox. Réparations honnêtes. |
+| **L'atelier de Kesh** | 12 | Atelier réparation | Kesh (Sullustan), Nox Erso | Couverture de Nox. Réparations honnêtes. |
 | **Le Souk Voltaïque** | 16-17 | Marché d'équipement | Lux Cache (Togruta) | **LE magasin** de Murkhana. Voir section dédiée. *(Réf : cache — mémoire cache. Lux stocke tout, accède à tout.)* |
 | **La Passerelle** | 20 | Cantina / lieu social | Mira Io (humaine) | Cantina suspendue entre deux tours, ouverte sur le vide. Vue sur les Fosses en contrebas. Point de rendez-vous neutre pour les factions. *(Réf : I/O — entrées/sorties. Tout le monde passe par La Passerelle.)* |
 | **La Tour Argente (bureau Hashk)** | 22 | Bureau abandonné | — | Bureau secret de Hashk sous l'alias "Kole". Fouillé en Session 2. |

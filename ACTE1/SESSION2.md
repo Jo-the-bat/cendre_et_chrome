@@ -23,7 +23,7 @@
 - Ils ont touché leur première prime (Vekk Draal)
 - **Donne 10 XP bonus** en début de session : *"Edna a réfléchi. Votre travail sur Vekk valait plus que prévu. Considérez ça comme un bonus de bienvenue."*
 - Prépare les noms des PNJ de cette session : **Nox Erso**, **Fenn Sudo**, **Rezz** (méfiant), **Drukk** (le sbire Weequay capturé)
-- 2 joueurs ont une **Pierre Noire** → 🔵 sur les jets sociaux avec des Murkhanais
+- Si des joueurs ont déjà une **Pierre Noire** (don ou achat off-screen — le premier don *scénarisé* est en S3, avec Denn) → 🔵 sur les jets sociaux avec des Murkhanais. *(Tiens le compte : le seuil « amis de Murkhana » se franchit à 2-3 Pierres — voir la clôture de S3.)*
 
 ---
 
@@ -222,7 +222,7 @@ Un terminal d'accès au niveau 20.
 >
 > *À l'entrée, un panneau holographique affiche les départs du jour. Parmi eux : "ARRAKHA — Programme d'Emploi Minier — Départ 14h00."*
 
-> 💡 **Le Crochet Rouillé :** Le cargo de Vekk capturé en S1 est amarré à la piste 7. Le syndicat de Vrak Chmod doit venir le récupérer cet après-midi (deal négocié par Edna). Les PJ peuvent le visiter une dernière fois s'ils veulent. La fouille de S1 a déjà rendu ses secrets — sauf si Namie cherche des compartiments cachés (Larcin Difficile 🟣🟣🟣 = trouve 200 crédits supplémentaires planqués dans la cloison du cockpit).
+> 💡 **Le Crochet Rouillé :** Le cargo de Vekk capturé en S1 est amarré à la piste 12. Le syndicat de Vrak Chmod doit venir le récupérer cet après-midi (deal négocié par Edna). Les PJ peuvent le visiter une dernière fois s'ils veulent. La fouille de S1 a déjà rendu ses secrets — sauf si Namie cherche des compartiments cachés (Larcin Difficile 🟣🟣🟣 = trouve 200 crédits supplémentaires planqués dans la cloison du cockpit).
 
 ### Ce que Swipping peut lire dans les vaisseaux
 
@@ -333,7 +333,7 @@ Le vieux Murkhanais de la Session 1 est toujours là. **Charme Facile 🟣** (�
 
 > ### 📖 LIRE À VOIX HAUTE
 >
-> *L'atelier de Kesh est un trou dans le mur au niveau 12 du Port Gris — un vieux Sullustain qui répare des moteurs en marmonnant. Derrière l'établi, une femme humaine d'une quarantaine d'années travaille sur un compresseur. Les mains couvertes de cambouis, les cheveux attachés, un regard vif.*
+> *L'atelier de Kesh est un trou dans le mur au niveau 12 du Port Gris — un vieux Sullustan qui répare des moteurs en marmonnant. Derrière l'établi, une femme humaine d'une quarantaine d'années travaille sur un compresseur. Les mains couvertes de cambouis, les cheveux attachés, un regard vif.*
 >
 > *Elle lève les yeux quand vous entrez.*
 >
@@ -666,7 +666,7 @@ Une fois sur la passerelle, c'est fini. Les PJ remontent vers le niveau 4 et la 
 
 > ### 📖 LIRE À VOIX HAUTE — LENTEMENT
 >
-> *Piste 7 du Port Gris. Un cargo lourd est posé là — un transport de passagers reconverti, la coque couverte de marques de rouille. Une file de Murkhanais monte à bord sous la surveillance de gardes en uniforme gris — pas des stormtroopers, pas des syndicats. Des contractuels. Anonymes.*
+> *Quai 2 du Port Gris. Un cargo lourd est posé là — un transport de passagers reconverti, la coque couverte de marques de rouille. Une file de Murkhanais monte à bord sous la surveillance de gardes en uniforme gris — pas des stormtroopers, pas des syndicats. Des contractuels. Anonymes.*
 >
 > *Peu de bagages. Des sacs, des ballots de vêtements. Pierres Noires serrées dans les poings. Un homme porte sa Pierre autour du cou et la touche comme un chapelet.*
 >
@@ -674,7 +674,7 @@ Une fois sur la passerelle, c'est fini. Les PJ remontent vers le niveau 4 et la 
 >
 > *Un enfant — huit ans, peut-être neuf — chante les premières notes du Chant des Marées d'une voix claire. Sa mère le tire à l'intérieur du cargo. Le chant s'arrête.*
 >
-> *Le cargo ferme sa rampe. Les moteurs grondent. La piste vibre.*
+> *Le cargo ferme sa rampe. Les moteurs grondent. Le quai vibre.*
 >
 > *Un docker, voyant le regard des joueurs, hausse les épaules.*
 >

@@ -210,7 +210,7 @@ Rien — sauf Edna. Chacun est arrivé seul à Murkhana, pour ses propres raison
 |---|---|---|---|---|---|---|
 | S1 | Tutoriel | Tutoriel | Tutoriel | Tutoriel | Tutoriel | Tutoriel |
 | S2 | Atelier Kesh | — | Port Gris (son terrain) | — | — | Port Gris (piste Krev) |
-| S3 | Entrepôt (tech) | Fosses | Obligation possible | — | Rouillés (décor) | — |
+| S3 | Entrepôt (tech) | Fosses | Obligation possible | Citerne (Obligation Jeu) | « Quatre » (graine *Les Enchaînés*) | faux-Krev (ouverture) |
 | S4 | — | Canyons d'Arrakha | — | — | — | **Piste Krev** + créatures |
 | S5 | — | **Drenn Rix** (Zabrak) | — | — | — | Faune de Forscan |
 | S7 | Marché Noir VIP | — | Tentation de vol | **MORIA** (addiction) | Citerne (combat) | — |
@@ -223,7 +223,7 @@ Rien — sauf Edna. Chacun est arrivé seul à Murkhana, pour ses propres raison
 ## VAISSEAU DU GROUPE
 
 **Type :** YT-1300 (vaisseau propre — pas celui d'Edna)  
-**Nom :** *(à définir par les joueurs)*
+**Nom :** *Non baptisé — les joueurs ne lui ont pas donné de nom en Session 0. On l'appelle « le YT-1300 » par défaut, jusqu'à ce qu'un nom vienne à la table en cours de jeu.*
 
 | Stat | Valeur |
 |---|---|
