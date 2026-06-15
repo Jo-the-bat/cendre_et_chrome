@@ -28,6 +28,8 @@
 
 **⚠️ Ce n'est PAS la Forge de Hashk.** L'aile Baktoid de cette quête est un **autre** vestige — plus ancien, effondré aux bombardements de la Guerre des Clones, scellé et oublié. Ne révèle rien de la Forge (réservée à l'Acte 2 : TX-73, Torque Venn). Si un joueur fait le rapprochement *« il y a donc des trucs Baktoid là-dessous »*, tant mieux — c'est vrai, mais cette aile-ci est morte.
 
+**⚠️ Pourquoi ils sont encore là (cohérence Star Wars).** À la fin de la Guerre des Clones, le signal de Mustafar a éteint **toutes** les armées de droïdes CIS de la galaxie, d'un coup. Mais ces unités-ci étaient déjà **scellées sous l'effondrement** quand l'ordre d'extinction est passé — coupées du réseau, elles ne l'ont **jamais reçu**. Restées en **veille profonde** (cellules à très bas régime, balise de détresse increvable — du Baktoid), elles attendent depuis trente ans des ordres qui ne viendront pas. C'est ce qui les rend uniques : partout ailleurs dans la galaxie, les droïdes CIS sont inertes ; ici, une poignée respire encore. *(Et un droïde non effacé qui vieillit développe une personnalité — cf. L3-37, Chopper, C-3PO : c'est canonique, et c'est tout le sujet de l'arc de Lolita.)*
+
 **⚠️ Swipping absent.** Les tunnels et les bestioles sont *son* terrain (chasseur de gros gibier) — **garde-le générique**, ne fais pas de cette descente « son » histoire. Sanji couvre la navigation. (Voir Notes de fin.)
 
 ---
@@ -114,6 +116,8 @@ Le puits de maintenance derrière l'étal d'Ori : une cheminée de béton et de 
 ## LA ROUILLE VIVE — Le bestiaire
 
 **Non-lootable, par nature.** La Rouille Vive est un organisme de corrosion — une colonie de micro-charognards du métal qui a niché dans les ruines et **dévore le chrome**. On ne fouille pas de la rouille. **Pas de crédits, pas de matos sur ces créatures.** Le seul butin de cette quête est tout au fond.
+
+> *Ancrage SW :* les bas-fonds industriels de la galaxie grouillent de ce genre de charognards — les **limaces de duracrete** rongent la pierre des sous-niveaux, les **mynocks** sucent l'énergie des câbles et des coques. La Rouille Vive est leur cousine spécialisée dans le **métal raffiné** : un fléau d'usine qui prolifère là où le chrome dort, sans personne pour le défendre. Rien d'exotique — juste la faune des profondeurs, affamée.
 
 **⚠️ Inversion qui vise Lolita.** La Rouille préfère le **métal**. Contre les organiques (Tatouf, Sanji, Namie), elle est désagréable mais lente. **Contre un droïde — donc contre Lolita — elle est mortelle :** elle corrode, elle grippe, elle ronge. *Les bestioles veulent ce que Lolita est.* Joue cette tension : la seule qui « parle » aux droïdes est aussi la seule que la Rouille dévore en priorité. (Et c'est pour ça que les dormants, en bas, sont en train de disparaître.)
 
