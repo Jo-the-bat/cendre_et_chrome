@@ -76,9 +76,15 @@
 
 ### Edna donne le feu vert
 
-> *"Un trou sous le marché, des droïdes morts et une bestiole qui bouffe le métal ? C'est pas un contrat, et personne paye." Un temps. Elle regarde Lolita, puis Michel. "Mais vous deux, je vois bien que vous descendrez avec ou sans ma bénédiction. Alors prenez du monde, prenez des torches, et remontez. C'est le seul ordre : vous remontez."*
+> *Edna écoute. Elle regarde Lolita — qui n'est plus tout à fait là, l'oreille tournée vers le sol. Puis Michel.*
+>
+> *"Un niveau jamais cartographié sous le marché, des droïdes qui appellent depuis trente ans, et des fondations où les gens redescendent pas. C'est pas un contrat, et personne paye."*
+>
+> *Un temps.*
+>
+> *"Mais toi" — à Lolita — "t'es déjà à moitié partie. Je le vois. Je vais pas gaspiller ma salive à dire non. Alors prenez du monde, prenez des torches. Et le seul ordre que je donne, c'est celui-là : vous remontez. Tous."*
 
-*(Edna directive sur l'objectif — « vous remontez » — en retrait sur le reste. §5.)*
+*(Edna directive sur l'objectif — « vous remontez » — en retrait sur le reste. Et elle ne perd pas son temps à interdire ce que Lolita fera de toute façon : elle réagit à l'emprise du signal, elle ne la combat pas. §5.)*
 
 ### Jet d'Obligation possible (d100)
 
