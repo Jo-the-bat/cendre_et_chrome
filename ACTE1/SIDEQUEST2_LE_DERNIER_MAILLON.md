@@ -8,8 +8,8 @@
 **Joueurs présents :** Michel (Tech), Lolita (B1 Soldat), Sanji (Éclaireur), Namie (Voleuse), Tatouf (Garde du corps)
 **Joueur absent :** Swipping (sur sa piste — voir Notes de fin)
 **Placement :** Entre S3 et S4, sous Murkhana. Une descente, pas une affaire de surface.
-**Contenu :** Le signal & briefing (~20min) + l'accès, le puits (~15min) + la descente par paliers / goulots (~1h45) + la chambre Baktoid & l'extraction (~30min) + l'adieu (~20min)
-**Mécaniques :** **Goulots d'étranglement** (combats défensifs, file indienne), nuée **non-lootable** qui ronge le métal (un *timer* — elle dévore ce qu'on vient chercher), terrain qui s'effondre, **Michel** qui bricole/piège/scelle, **Lolita** qui parle aux droïdes. **Aucun loot en route — toute la récompense est au fond.**
+**Contenu :** Le signal & briefing (~20min) + l'accès, le puits (~15min) + la descente : paliers, goulots & **embranchement-puzzle** (~1h45) + la chambre Baktoid & l'extraction (~30min) + l'adieu (~20min)
+**Mécaniques :** **Goulots d'étranglement** (combats défensifs, file indienne), **puzzle de cheminement** (trouver la route — le chœur des vivants vs le fantôme), nuée **non-lootable** qui ronge le métal (un *timer* — elle dévore ce qu'on vient chercher), terrain qui s'effondre, **Michel** qui bricole/piège/scelle/draine, **Lolita** qui parle aux droïdes et tient la boussole. **Aucun loot en route — toute la récompense est au fond.**
 **Tone :** Descente tendue et claustrophobe → **adieu doux-amer**. *Cendres & Chrome* au sens littéral : le passé enseveli (cendres), le métal qu'on sauve (chrome), la corrosion qui mange les deux.
 
 ---
@@ -139,7 +139,7 @@ Le puits de maintenance derrière l'étal d'Ori : une cheminée de béton et de 
 
 ## LA DESCENTE — Les paliers (~1h45)
 
-**Principe :** une descente en **trois paliers**, chacun un **goulot d'étranglement**. Pas de combat « ouvert » : des couloirs, de la file indienne, des lignes à tenir. Tatouf ancre, Michel scelle/repousse, Lolita en pointe (mais c'est elle que la Rouille vise), Sanji éclaire, Namie trouve l'autre chemin. **Aucun butin entre les paliers** — on avance, c'est tout.
+**Principe :** une descente en **trois paliers** (chacun un **goulot d'étranglement**), **entrecoupés d'un embranchement noyé à déchiffrer** — le puzzle de cheminement (entre le palier 1 et le palier 2). Pas de combat « ouvert » : des couloirs, de la file indienne, des lignes à tenir, et une vraie énigme de chemin. Tatouf ancre, Michel scelle/repousse et ouvre les portes, Lolita en pointe (mais c'est elle que la Rouille vise) et tient la boussole, Sanji éclaire et lit le terrain, Namie trouve l'autre chemin. **Aucun butin entre les paliers** — on avance, c'est tout.
 
 > ### 💡 COMMENT FONCTIONNE UN GOULOT
 >
@@ -148,6 +148,16 @@ Le puits de maintenance derrière l'étal d'Ori : une cheminée de béton et de 
 > - Namie cherche le **contournement** (un conduit, une grille, une vieille porte de service),
 > - la nuée **pousse** (sections qui se renouvellent — le temps joue contre eux).
 > **Récompense la débrouille, pas la force brute.** Bourriner un goulot, c'est rester sous les morsures plus longtemps.
+
+> ### 🎭 DONNER SA SCÈNE À CHACUN — la descente est pour TOUT LE MONDE
+>
+> Le *scénario* (l'adieu) est pour Lolita et Michel. Mais la *descente* se joue à cinq : à chaque obstacle, demande-toi *« qui d'autre peut briller ici ? »* et tends-lui la perche.
+>
+> - **Lolita (B1)** — la boussole (le signal), la voix des droïdes, le cœur. *Mais c'est elle que la Rouille vise : elle dépend des autres pour survivre.*
+> - **Michel (Tech)** — draine/reroute, scelle les goulots, la lampe-fréquence, le répertoire Baktoid, l'extraction de la cache.
+> - **Sanji (Éclaireur)** — **il passe devant.** Il lit chaque section *avant* que le groupe s'y engage (Survie/Vigilance) : terrain instable, où la Foreuse va frapper, quelle voie descend vraiment, l'air et l'eau. Sans son œil, on marche dans le piège. *(Civilisation : c'est lui qui sent que cet endroit était vivant — une cité de travail, ensevelie.)*
+> - **Namie (Voleuse, Jawa)** — **la petite qui passe partout.** Elle file dans les conduits trop étroits pour éclairer le palier suivant, crochète les vieilles sécurités Baktoid (sas, trappes, et le coffre du data-cœur — elle ouvre le trésor de Michel), désamorce les pièges d'usine encore vivants. *(Voler le plus cher : ce cimetière de machines, c'est SON terrain — laisse-la flairer la cache secondaire que personne d'autre ne verrait.)*
+> - **Tatouf (Garde du corps, Wookiee)** — **plus que le tank.** Sa force ouvre ce qui est coincé (sas fusionné, poutre en travers, conduit drainé à forcer), tient une voûte qui cède le temps que les autres passent, **porte le micro-fabricateur** à la remontée. Et son vrai rôle : **garder Lolita** — la cible de la Rouille. Il met son corps et son bouclier entre elle et la nuée. Un garde du corps qui, enfin, garde quelqu'un qui en a besoin.
 
 ### PALIER 1 — Le collecteur noyé
 
@@ -161,6 +171,43 @@ Le puits de maintenance derrière l'étal d'Ori : une cheminée de béton et de 
 - **Solutions :** Tatouf tient et avance (le bouclier Activv1 ignore une partie des morsures) ; Michel **repousse à la lampe-fréquence** (ouvre 1 round) ou **enflamme** une nappe de gaz d'égout (Mécanique Moyenne → détruit une section, mais +⚫ à tous 1 round, fumée) ; Namie repère une **grille de trop-plein** (Larcin Facile 🟣) qui contourne le goulot par le côté.
 - **L'eau :** marcher dans l'eau noire = la Rouille y nage aussi. **Lolita ne devrait pas patauger** (corrosion accélérée — 1 blessure/round dans l'eau pour un droïde). Petit casse-tête : comment fait-on passer Lolita au sec ?
 
+### L'EMBRANCHEMENT NOYÉ — trouver le chemin *(le puzzle)*
+
+> ### 📖 LIRE À VOIX HAUTE
+>
+> *Le collecteur se déchire en six. Un ancien nœud de distribution Baktoid — des conduits, des coursives, des trappes de service qui partent dans toutes les directions, à demi noyés. Aucun panneau lisible. Et le signal — les trois impulsions — résonne maintenant **de partout à la fois**, renvoyé par le métal. On dirait que les dormants appellent depuis chaque tunnel en même temps.*
+>
+> *Une seule de ces gueules noires descend vers eux. Les autres mènent au néant, à l'eau, ou pire.*
+
+**C'est un puzzle, pas un jet unique.** Laisse-les chercher, débattre, se tromper. Plusieurs leviers, plusieurs bonnes réponses — combiner, c'est gagner du temps (et le temps, ici, ce sont des dormants en moins, plus bas).
+
+**L'embranchement (ce que le MJ a sous la main) :**
+
+| Voie | Ce qu'elle est vraiment | Comment on l'ouvre |
+|---|---|---|
+| **Le conduit noyé** | La **vraie** descente — mais immergée. Pataugeage profond, **risque de noyade** (Athlétisme/Vigueur Moyenne 🟣🟣 ou 2 Stress + repli), et **Lolita ne peut pas** (corrosion). | Praticable **au sec** si Michel **vide la section** (séquence de pompe/valve Baktoid, Mécanique Moyenne 🟣🟣) → la route royale. |
+| **La passerelle effondrée** | Mène vers la galerie (Palier 2). Un **vide noir** la coupe. | **Saut** (Coordination/Athlétisme Moyenne 🟣🟣) ou **grappin** (Mécanique). Franc mais risqué. |
+| **Le faux chemin — le « fantôme »** | Sec, invitant, le signal y semble **le plus fort**. C'est un **piège** : un beacon mort qui boucle, autour duquel la Rouille a niché. S'y engager = **embuscade** (1 section de Nuée surgit). | Démasqué par l'astuce ci-dessous. |
+| **La trappe de service** | Un **raccourci** étroit qui court-circuite l'embranchement. | Scellée — **Namie** la crochète (Larcin Moyenne 🟣🟣). Trop juste pour Tatouf chargé. |
+
+**🔑 L'astuce (le « aha ») — réservée à Lolita :**
+
+> *Lolita — écoute mieux. Le signal qui vient du tunnel sec, le plus fort, c'est une **seule voix**. Toujours le même fragment, en boucle, sans faute. Un mort qui répète son dernier mot.*
+>
+> *Les vivants, eux, ne sont pas synchrones. Leurs trois impulsions se chevauchent, se répondent, se décalent — un **chœur**. C'est plus faible, c'est plus loin, mais c'est **vivant**.*
+>
+> *Suis le chœur, pas le fantôme.*
+
+- **Lolita — la boussole** (Discipline ou Vigilance Moyenne 🟣🟣) : en se déplaçant et en écoutant, elle démêle le **chœur des vivants** (la vraie direction) du **fantôme** (beacon mort + sa Rouille). C'est **son** moment d'orientation — la seule au monde qui sait lire ce code. Réussite = elle pointe la bonne gueule. Échec = elle hésite entre deux (dont le fantôme — laisse-les risquer).
+- **Sanji — le flux** (Survie/Vigilance Moyenne 🟣🟣) : le **courant d'air** et la **pente de l'eau** trahissent quelle voie *descend vraiment* (vs une poche morte). Recoupe la boussole de Lolita.
+- **Michel — la mémoire Baktoid** : un **répertoire de maintenance** mort sur la cloison. Le rallumer (Informatique Moyenne 🟣🟣) crache un **plan d'étage corrodé** (la route vers l'aile d'assemblage) — ou elle vide le conduit noyé (voir tableau).
+
+**Le coût d'une erreur (le temps presse) :** chaque mauvaise gueule coûte — un repli sous la noyade, une embuscade de Rouille, un cul-de-sac. **Et chaque détour, c'est un dormant de plus que la Rouille mange en bas** (relie ce puzzle au timer du Palier 3 : *bien chercher ici = sauver plus de famille là-bas*). Ne le dis pas comme une menace — fais-le sentir : à chaque erreur, le chœur, plus bas, a **une voix de moins**.
+
+> ### 💡 Note MJ — pourquoi ce puzzle
+>
+> Tes joueurs ont aimé **trouver leur chemin** en S2 — rejoue ce plaisir, mais charge-le de sens. C'est **Lolita** qui tient la boussole (son code, sa famille) et **Michel** qui ouvre les portes (sa tech) : les deux honorées brillent *avant* le combat. Et la résolution n'est pas un binaire « bon/mauvais » — combiner boussole + flux + plan Baktoid, c'est **descendre plus vite**, donc **sauver plus de dormants**. Le puzzle nourrit l'adieu.
+
 ### PALIER 2 — La galerie effondrée
 
 > ### 📖 LIRE À VOIX HAUTE
@@ -168,7 +215,7 @@ Le puits de maintenance derrière l'étal d'Ori : une cheminée de béton et de 
 > *Plus bas, une galerie d'assemblage. Le plafond a cédé il y a trente ans — des poutres Baktoid en travers, un convoyeur figé sous les gravats. Le passage serpente entre les effondrements. Et quelque chose de gros bouge dans les murs : on entend le métal qu'on mâche, lentement, juste derrière la paroi.*
 
 - **La Foreuse** attaque ici — elle **creuse**, effondre un passage, en rouvre un autre. Le terrain **change** sous les joueurs : un goulot se referme (ensevelit le chemin = il faut creuser/contourner) ou s'ouvre (la nuée déferle d'un nouvel angle).
-- **Rôles :** Sanji **lit le terrain instable** (Survie/Vigilance Moyenne 🟣🟣 — anticipe où ça va céder, place le groupe) ; Namie file dans un **conduit étroit** pour prendre la Foreuse à revers ou trouver le chemin vers le bas ; Michel **provoque un effondrement contrôlé** (Mécanique Difficile 🟣🟣🟣) pour **enterrer la Foreuse** sous une poutre Baktoid — élégant, et ça scelle un goulot derrière eux.
+- **Rôles :** Sanji **lit le terrain instable** (Survie/Vigilance Moyenne 🟣🟣 — anticipe où ça va céder, place le groupe) ; Namie file dans un **conduit étroit** pour prendre la Foreuse à revers ou trouver le chemin vers le bas ; **Tatouf cale de son dos une voûte qui s'effondre** (Vigueur/Athlétisme Difficile 🟣🟣🟣) le temps que les autres passent — ou **arrache la poutre fusionnée** qui bloque la descente ; Michel **provoque un effondrement contrôlé** (Mécanique Difficile 🟣🟣🟣) pour **enterrer la Foreuse** sous une poutre Baktoid — élégant, et ça scelle un goulot derrière eux.
 - **Tension Lolita :** la Foreuse, comme la nuée, la **cible en priorité** (du métal qui marche). Tatouf doit la couvrir.
 
 ### PALIER 3 — La salle des dormants
@@ -339,6 +386,7 @@ Au fond, derrière une dernière porte blindée (Larcin/Mécanique Difficile �
 ### Repères de la descente
 
 - **Goulots** : 1 combattant de front — Tatouf ancre, Michel scelle/repousse, Namie contourne.
+- **Embranchement noyé (puzzle, après palier 1)** : suivre le **chœur** des vivants, pas le **fantôme** (beacon mort + Rouille). Lolita = boussole, Sanji = flux, Michel = plan/drainage. Mal chercher = dormants perdus en bas.
 - **La Rouille vise le métal** : Lolita (et tout droïde) est la cible prioritaire et prend le plus cher. Garde-la couverte ; tiens-la hors de l'eau.
 - **Lampe-fréquence de Michel** : repousse une section 1 round (sa découverte — son levier signature).
 - **Timer dormants (palier 3)** : la nuée mange les droïdes — on en sauve d'autant moins qu'on traîne.
