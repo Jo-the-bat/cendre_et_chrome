@@ -89,6 +89,7 @@ Le groupe passe voir **Ori Hex**, le ferrailleur ithorien du Marché des Carcass
 |---|---|
 | **Lolita (Adrénaline, 5)** | L'appel la rend fébrile — elle veut descendre **maintenant**, sans reco, sans plan. **Sang-froid Moyenne 🟣🟣** pour ne pas brûler les étapes (et exposer le groupe au premier goulot). |
 | **Michel (Chantage, 5)** | En préparant son matériel, un message anonyme : une image de son passé. *« On sait où tu vas. »* Quelqu'un la surveille même ici. +1 Stress. *(Graine : si c'est son départ, ce fil peut être ce qui la pousse à disparaître — voir l'Adieu.)* |
+| **Sanji (Chantage, 5)** | Le même genre de message anonyme sur son passé. La paranoïa le gagne : il scrute le groupe, dort mal. +1 Stress. |
 | **Namie (Prime, 5)** | Au marché, un mercenaire la dévisage. *« La Jawa de Druba ? »* Il n'agit pas. Mais il note où elle va. |
 | **Tatouf (Jeu, 10)** | Il traite la descente comme une mise : *« On va chercher le jackpot, hein ? »* — tenté de tout risquer pour le score. **Sang-froid Moyenne 🟣🟣** pour ne pas pousser le groupe trop loin, trop vite. |
 
@@ -101,8 +102,8 @@ Le puits de maintenance derrière l'étal d'Ori : une cheminée de béton et de 
 | Test | Difficulté | Effet |
 |---|---|---|
 | **Athlétisme / Coordination** (descente du puits) | Facile 🟣 | Descente sans incident. Échec + Menaces : un barreau cède, 2 Stress ou une chute amortie (1 blessure). |
-| **Vigilance** (Sanji) — lire le puits | Moyenne 🟣🟣 | Repère les **marques de corrosion** sur les barreaux bas (la Rouille est montée jusqu'ici, puis redescendue) et les **trois niveaux** en dessous (collecteur → galerie → la chambre). Donne au groupe la carte mentale de la descente. |
-| **Mécanique** (Michel) — préparer le matériel | — | Michel peut préparer **2 « charges »** de son choix avant de descendre (voir Atouts de Michel) : une lampe-fréquence anti-Rouille, des scellés de cloison, un détecteur de structure. |
+| **Vigilance** (Sanji) — lire le puits | Moyenne 🟣🟣 | Repère les **marques de corrosion** sur les barreaux bas (la Rouille est montée jusqu'ici, puis redescendue) et donne au groupe la **carte mentale de la descente** : collecteur → galerie → salle des dormants, puis la **chambre Baktoid** tout au fond (l'embranchement noyé sépare le collecteur de la galerie). On sait où on met les pieds. |
+| **Mécanique** (Michel) — monter son kit | — | Michel équipe le groupe pour la descente (voir Atouts de Michel) : la **lampe-fréquence** anti-Rouille (réutilisable, sa signature), des **scellés de cloison** (consommables, ~2-3 usages) et un **détecteur de structure**. |
 
 > ### 🔦 ATOUTS DE MICHEL (donne-lui ses leviers)
 >
@@ -189,7 +190,7 @@ Le puits de maintenance derrière l'étal d'Ori : une cheminée de béton et de 
 
 | Voie | Ce qu'elle est vraiment | Comment on l'ouvre |
 |---|---|---|
-| **Le conduit noyé** | La **vraie** descente — mais immergée. Pataugeage profond, **risque de noyade** (Athlétisme/Vigueur Moyenne 🟣🟣 ou 2 Stress + repli), et **Lolita ne peut pas** (corrosion). | Praticable **au sec** si Michel **vide la section** (séquence de pompe/valve Baktoid, Mécanique Moyenne 🟣🟣) → la route royale. |
+| **Le conduit noyé** | La **vraie** descente — mais immergée. Pataugeage profond, **risque de noyade** (Athlétisme/Vigueur Moyenne 🟣🟣 ou 2 Stress + repli), et **Lolita ne peut pas** (submersion = corrosion fatale — bien pire que patauger au collecteur). | Praticable **au sec** si Michel **vide la section** (séquence de pompe/valve Baktoid, Mécanique Moyenne 🟣🟣) → la route royale. |
 | **La passerelle effondrée** | Mène vers la galerie (Palier 2). Un **vide noir** la coupe. | **Saut** (Coordination/Athlétisme Moyenne 🟣🟣) ou **grappin** (Mécanique). Franc mais risqué. |
 | **Le faux chemin — le « fantôme »** | Sec, invitant, le signal y semble **le plus fort**. C'est un **piège** : un beacon mort qui boucle, autour duquel la Rouille a niché. S'y engager = **embuscade** (1 section de Nuée surgit). | Démasqué par l'astuce ci-dessous. |
 | **La trappe de service** | Un **raccourci** étroit qui court-circuite l'embranchement. | Scellée — **Namie** la crochète (Larcin Moyenne 🟣🟣). Trop juste pour Tatouf chargé. |
@@ -364,7 +365,7 @@ Au fond, derrière une dernière porte blindée (Larcin/Mécanique Difficile �
 
 | Action | Pool MJ | Dégâts |
 |---|---|---|
-| **Fouet de corrosion (Court)** | **🟡🟡🟡** vs 🟣🟣 | 10 + Perforant 1 (vs droïde : Étourdissement 3, immobilise) |
+| **Fouet de corrosion (Court/Engagé)** | **🟡🟡🟡** vs 🟣🟣 | 10 + Perforant 1 (vs droïde : Étourdissement 3, immobilise) |
 | **Engendre (fin de round)** | — | +1 section de Nuée (timer de pression) |
 
 **Blessure 24, Enc 6.** Quasi immobile. **La brûler** (gaz + feu / lampe poussée) effondre le nid → compte à rebours d'évacuation (3 rounds).
@@ -403,7 +404,7 @@ Au fond, derrière une dernière porte blindée (Larcin/Mécanique Difficile �
 
 **Pour le joueur absent (Swipping) :**
 - Justification : *"J'étais sur ma piste"* (Krev — voir sa fiche). Les tunnels/bestioles sont son terrain : **ne lui vole pas son créneau**, garde la descente comme l'histoire de Lolita et Michel.
-- Salvage partagé entre les présents.
+- Le **salvage** se partage entre les présents — pas Swipping (il était ailleurs). *(Les gros lots — cache Baktoid, droïdes — partent avec Michel et Lolita ; voir Récompenses.)*
 
 **Si Lolita et/ou Michel partent (impact campagne) :**
 - **Composition tactique :** le groupe perd sa **seule Tech** (Michel) et un combattant droïde (Lolita). Avant la S4 (Arrakha), pense à : un PNJ tech de secours (Nox Erso ? Ori Hex pour le bricolage droïde ?), ou l'arrivée d'un nouveau PJ. *(Voir `joueurs.md` — composition.)*
