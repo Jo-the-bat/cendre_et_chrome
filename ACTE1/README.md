@@ -44,9 +44,11 @@
 | Sidequest | Placement | Présents (absents) | Fichier |
 |---|---|---|---|
 | **Le Pont** | Entre S2 et S3 | Michel, Sanji, Lolita, Tatouf *(Namie, Swipping absents)* | [`SIDEQUEST1_LE_PONT.md`](SIDEQUEST1_LE_PONT.md) |
-| **Les Enchaînés — Premier maillon** | Entre S3 et S4 | Michel, Sanji, Namie, Tatouf, Lolita *(Swipping absent)* | [`SIDEQUEST2_LES_ENCHAINES.md`](SIDEQUEST2_LES_ENCHAINES.md) |
+| **Le Dernier Maillon** ⭐ | Entre S3 et S4 | Michel, Sanji, Namie, Tatouf, Lolita *(Swipping absent)* | [`SIDEQUEST2_LE_DERNIER_MAILLON.md`](SIDEQUEST2_LE_DERNIER_MAILLON.md) |
 
-*« Le Pont » accroche Vrak Chmod (le futur « Pont ») et le syndicat des dockers. « Les Enchaînés » ouvre l'arc personnel de Lolita (libération de droïdes) et ramasse la graine « Null » plantée en S3.*
+*« Le Pont » accroche Vrak Chmod (le futur « Pont ») et le syndicat des dockers. **« Le Dernier Maillon »** est une sidequest d'**adieu dédiée à Lolita et Michel** (peut-être leur dernière partie) : une descente dans les tunnels Baktoid noyés sous les Fosses — goulots d'étranglement, créatures non-lootables (la Rouille Vive), et au fond le trésor de Michel (plans Baktoid) et la famille de droïdes de Lolita.*
+
+> 📦 La version précédente de la sidequest 2 (**Les Enchaînés — Premier maillon**, libération de droïdes à l'Enclos) est **mise de côté** dans [`archive/SIDEQUEST_LES_ENCHAINES_ENCLOS.md`](archive/SIDEQUEST_LES_ENCHAINES_ENCLOS.md) — réutilisable comme sidequest de rechange.
 
 ---
 

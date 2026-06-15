@@ -1,5 +1,11 @@
 # SIDE QUEST — "LES ENCHAÎNÉS — PREMIER MAILLON"
 
+> ## ⚠️ SCÉNARIO MIS DE CÔTÉ (archive)
+>
+> Cette version (libération de droïdes à **l'Enclos de Brack Arp**) a été remplacée comme sidequest active par **« Le Dernier Maillon »** (`../SIDEQUEST2_LE_DERNIER_MAILLON.md`) — un envoi dans les tunnels dédié à **Lolita et Michel**.
+>
+> On la garde ici comme **alternative réutilisable** : l'Enclos, Brack Arp, le Récupérateur et Ori Hex restent du canon valide (utilisables en Acte 2, ou comme sidequest de rechange). Rien n'est perdu.
+
 **Durée estimée :** ~3h à 3h30
 **Joueurs présents :** Michel (Tech), Sanji (Éclaireur), Namie (Voleuse), Tatouf (Garde du corps), Lolita (B1 Soldat)
 **Joueur absent :** Swipping (sur une piste à lui — voir Notes de fin)
