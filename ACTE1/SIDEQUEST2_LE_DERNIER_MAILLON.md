@@ -48,16 +48,6 @@
 >
 > *Et il y en a plusieurs. Pas un. Des voix. En dessous.*
 
-> ### 🧲 L'EMPRISE DU SIGNAL — Lolita ne peut pas l'ignorer
->
-> Ce n'est pas une mission qu'on prend ou qu'on refuse. C'est **du code B1 qui appelle du code B1** — pour Lolita, c'est viscéral, au-delà de la curiosité, presque une compulsion. Si la table hésite, temporise, ou décide de laisser tomber, **Lolita, elle, ne peut pas.**
->
-> - **Si les joueurs veulent ignorer ou repousser l'appel :** Lolita doit réussir un test de **Discipline (ou Sang-froid) Formidable 🟣🟣🟣🟣** — *ultra difficile, et c'est exprès* — pour se contenir. Même les coéquipiers qui la raisonnent ne font pas vraiment baisser la difficulté : l'appel est dans son code, pas dans sa tête.
-> - **Réussite :** elle tient… à grand-peine. **+2 Stress**, et le signal revient la ronger à la première accalmie (on rejoue le test plus tard, la difficulté ne baisse pas). Elle ne lâchera pas l'affaire.
-> - **Échec :** elle **perd le contrôle**. Elle n'attend la permission de personne — elle file vers le puits et commence à descendre **seule**. Le groupe suit (on n'abandonne pas une des siens dans un trou plein de Rouille) ou la laisse partir (impensable). **Dans tous les cas, la descente commence.**
->
-> **Pourquoi cette règle :** garantir que la quête démarre sans dépendre d'un PNJ ni de la bonne volonté de la table. Le moteur, c'est Lolita — et elle est inarrêtable. Joue-le comme un **déchirement**, pas comme un caprice : elle *sait* que c'est dangereux, et elle y va quand même, parce que ce sont les siens.
-
 **Puis le groupe.** Lolita en parle (ou pas — mais elle ne tiendra pas). **Michel** est celle qui peut localiser :
 
 > ### 📖 LIRE À VOIX HAUTE (à Michel)
@@ -73,6 +63,16 @@
 **Pas besoin d'aller demander à qui que ce soit.** La triangulation de Michel ne donne pas seulement la source : elle donne **l'accès**. Un vieux **puits de maintenance**, dans le tier le plus bas du Marché des Carcasses, là où les étals de ferraille cèdent la place aux fondations noyées. Le signal de Lolita + le datapad de Michel les mènent **droit au trou** — c'est leur quête, ils n'ont besoin de personne pour la lancer.
 
 *(Ils y croiseront un allié — Ori Hex — mais sur place, par hasard, pas parce qu'ils sont allés le chercher. Voir L'Accès.)*
+
+> ### 🧲 L'EMPRISE DU SIGNAL — Lolita ne peut pas l'ignorer
+>
+> Maintenant qu'elle sait *où*, Lolita ne tient plus en place. Ce n'est pas une mission qu'on prend ou qu'on refuse : c'est **du code B1 qui appelle du code B1** — viscéral, au-delà de la curiosité, presque une compulsion. Si la table hésite, temporise, ou décide de laisser tomber, **Lolita, elle, ne peut pas.**
+>
+> - **Si les joueurs veulent ignorer ou repousser l'appel :** Lolita doit réussir un test de **Discipline (ou Sang-froid) Formidable 🟣🟣🟣🟣** — *ultra difficile, et c'est exprès* — pour se contenir. Même les coéquipiers qui la raisonnent ne font pas vraiment baisser la difficulté : l'appel est dans son code, pas dans sa tête.
+> - **Réussite :** elle tient… à grand-peine. **+2 Stress**, et le signal revient la ronger à la première accalmie (on rejoue le test plus tard, la difficulté ne baisse pas). Elle ne lâchera pas l'affaire.
+> - **Échec :** elle **perd le contrôle**. Elle n'attend la permission de personne — elle file vers le puits et commence à descendre **seule**. Le groupe suit (on n'abandonne pas une des siens dans ce trou) ou la laisse partir (impensable). **Dans tous les cas, la descente commence.**
+>
+> **Pourquoi cette règle :** garantir que la quête démarre sans dépendre d'un PNJ ni de la bonne volonté de la table. Le moteur, c'est Lolita — et elle est inarrêtable. Joue-le comme un **déchirement**, pas comme un caprice : elle *sait* que c'est dangereux, et elle y va quand même, parce que ce sont les siens.
 
 ### Edna donne le feu vert
 
