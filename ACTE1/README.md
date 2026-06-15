@@ -39,6 +39,15 @@
 | **Enquête sur un vol** | Murkhana City | Le vol a été commis par une cellule de Hashk — dilemme moral |
 | **Sauvetage d'un mineur** | Gorges de Lucas, Arrakha | Mines profondes, ambiance Narkina 5, Tunnelier possible |
 
+**Sidequests détaillées (table incomplète) :** Deux missions secondaires sont écrites *en entier* dans des fichiers dédiés — à jouer quand un ou deux PJ manquent, sans bloquer l'intrigue principale :
+
+| Sidequest | Placement | Présents (absents) | Fichier |
+|---|---|---|---|
+| **Le Pont** | Entre S2 et S3 | Michel, Sanji, Lolita, Tatouf *(Namie, Swipping absents)* | [`SIDEQUEST1_LE_PONT.md`](SIDEQUEST1_LE_PONT.md) |
+| **Les Enchaînés — Premier maillon** | Entre S3 et S4 | Michel, Sanji, Namie, Tatouf, Lolita *(Swipping absent)* | [`SIDEQUEST2_LES_ENCHAINES.md`](SIDEQUEST2_LES_ENCHAINES.md) |
+
+*« Le Pont » accroche Vrak Chmod (le futur « Pont ») et le syndicat des dockers. « Les Enchaînés » ouvre l'arc personnel de Lolita (libération de droïdes) et ramasse la graine « Null » plantée en S3.*
+
 ---
 
 ## SESSION 0 — CRÉATION DE PERSONNAGES
